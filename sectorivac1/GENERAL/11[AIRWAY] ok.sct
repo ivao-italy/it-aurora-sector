@@ -1,0 +1,1440 @@
+IVAO ITALY
+ATC OPERATIONS DEPARTMENT
+AIRAC 1903 EFFECTIVE FROM 25/04/2019
+[INFO]
+ITALY 1903 V1.0
+LIII_CTR
+ZZZZ
+N041.48.01.000
+E012.14.20.000
+60
+44
++2.0
+1
+
+
+
+[LOW AIRWAY]
+A48                       CRAYE                         VURKE
+                          VURKE                         TROTA
+                          TROTA                         OKIMO
+                          OKIMO                         KAPPO
+
+A482                      VIE                           BANAV
+                          BANAV                         LUMAR
+                          LUMAR                         CRAYE
+
+J19                       TEREZ                         POZZO
+
+L5                        ALG                           MINKA
+                          MINKA                         POZZO
+                          POZZO                         ROMPO
+                          ROMPO                         RUXOP
+                          RUXOP                         BATOX
+                          BATOX                         TINTO
+                          TINTO                         VALMA
+                          VALMA                         LUNAK
+                          LUNAK                         OST
+                          OST                           OKUNO
+                          OKUNO                         TINIX
+                          TINIX                         ATRUP
+                          ATRUP                         IDLOL
+                          IDLOL                         NAVAG
+                          NAVAG                         SUTOB
+                          SUTOB                         VAPUP
+
+L12                       UNIMI                         NAXAV
+                          NAXAV                         ALESE
+                          ALESE                         VIC
+                          VIC                           KOPER
+                          KOPER                         LUMAV
+                          LUMAV                         ADBAL
+                          ADBAL                         LUTOR
+                          LUTOR                         TIPNI
+                          TIPNI                         DOBOG
+                          DOBOG                         LOMED
+                          LOMED                         OSMOX
+                          OSMOX                         GINAR
+                          GINAR                         AKUTO
+                          AKUTO                         MAREL
+                          MAREL                         ELB
+                          ELB                           VELAD
+                          VELAD                         TINTO
+                          TINTO                         POKAV
+                          POKAV                         BETOT
+                          BETOT                         RUVIP
+                          RUVIP                         RONAB
+                          RONAB                         GIANO
+                          GIANO                         PAL
+                          PAL                           ALOKU
+                          ALOKU                         MARON
+
+L42                       POULP                         IVORY
+                          IVORY                         ALG
+
+L44                       OST                           KONUT
+                          KONUT                         TURMO
+                          TURMO                         BETOT
+                          BETOT                         VELEX
+                          VELEX                         GISIG
+                          GISIG                         ADAMI
+                          ADAMI                         BULAR
+                          BULAR                         ABDAB
+
+L50                       KUKEV                         ADISO
+                          ADISO                         TUPUP
+                          TUPUP                         TOP
+                          TOP                           NEDED
+                          NEDED                         LAGEN
+                          LAGEN                         ANAKI
+                          ANAKI                         IXITO
+                          IXITO                         UNITA
+                          UNITA                         TIDKA
+                          TIDKA                         KONER
+                          KONER                         BAKRO
+                          BAKRO                         ELB
+                          ELB                           ROTIR
+                          ROTIR                         GISPA
+                          GISPA                         KONUT
+                          KONUT                         PEPIX
+
+                          PEPIX                         UNIXO
+                          UNIXO                         ENSOT
+                          ENSOT                         TAGEL
+                          TAGEL                         DIRED
+                          DIRED                         MASOT
+
+L53                       OLGAT                         OKIMO
+                          OKIMO                         ENOXA
+                          ENOXA                         GARGA
+
+L81                       LUPOS                         OKTAV
+                          OKTAV                         DOBOG
+                          DOBOG                         NUKNI
+                          NUKNI                         TUFTE
+                          TUFTE                         LANNO
+                          LANNO                         EKMIL
+                          EKMIL                         EKMOT
+                          EKMOT                         VEBOX
+                          VEBOX                         DOGUS
+                          DOGUS                         MATED
+                          MATED                         SIRGI
+                          SIRGI                         ALIXI
+                          ALIXI                         GEMVI
+                          GEMVI                         TOMGI
+                          TOMGI                         LORNO
+
+L127                      MIRSA                         ELB
+                          ELB                           UPADU
+
+L137                      CDC                           GIMEL
+                          GIMEL                         RCA
+                          RCA                           DIVAR
+                          DIVAR                         NOTRI
+                          NOTRI                         ROMSU
+                          ROMSU                         NELDA
+
+L146                      MOULE                         XOPTA
+                          XOPTA                         ELB
+                          ELB                           ELKAP
+                          ELKAP                         ROSKI
+
+L153                      PUNSA                         ARLES
+                          ARLES                         IXORA
+                          IXORA                         SRN
+                          SRN                           ROBAS
+                          ROBAS                         OSBUL
+                          OSBUL                         BEROK
+                          BEROK                         OLKIS
+                          OLKIS                         PIS
+                          PIS                           MAREL
+                          MAREL                         XIBIL
+                          XIBIL                         ROSKI
+
+L611                      SUXAN                         ROTAR
+
+L612                      BIBAN                         GARLO
+                          GARLO                         INVOP
+                          INVOP                         SRN
+                          SRN                           ADOSA
+                          ADOSA                         ALBET
+                          ALBET                         CHI
+                          CHI                           ARDAM
+                          ARDAM                         BELOV
+                          BELOV                         AMLON
+                          AMLON                         LANLI
+                          LANLI                         ANC
+                          ANC                           MASEG
+                          MASEG                         LAPVO
+                          LAPVO                         NUTRO
+                          NUTRO                         ARSOB
+                          ARSOB                         ERPOG
+                          ERPOG                         RUPAX
+                          RUPAX                         VIE
+                          VIE                           PISIP
+                          PISIP                         UVOKA
+                          UVOKA                         PIKEL
+                          PIKEL                         DOLON
+                          DOLON                         KAPPO
+                          KAPPO                         NOSTO
+
+L613                      SUXAN                         DIBAX
+                          DIBAX                         BORMI
+                          BORMI                         VIC
+                          VIC                           LAPAB
+                          LAPAB                         AKADO
+                          AKADO                         AGOMO
+                          AGOMO                         BUSER
+                          BUSER                         GISNU
+                          GISNU                         RIVAM
+                          RIVAM                         GARGA
+                          GARGA                         LUMAR
+                          LUMAR                         GONOT
+                          GONOT                         PAPIZ
+
+L614                      OSTEG                         KOPER
+                          KOPER                         CHI
+                          CHI                           AGOMO
+                          AGOMO                         LABIN
+
+L615                      BANKO                         AOSTA
+                          AOSTA                         TERSI
+                          TERSI                         OMETO
+                          OMETO                         BAVMI
+                          BAVMI                         SRN
+                          SRN                           DESIP
+                          DESIP                         PEXUG
+                          PEXUG                         LEGLO
+                          LEGLO                         ORI
+                          ORI                           OSKOR
+                          OSKOR                         NEVNI
+                          NEVNI                         NOBMI
+                          NOBMI                         ELTAR
+                          ELTAR                         IDREK
+                          IDREK                         ADOSA
+                          ADOSA                         IBUGO
+                          IBUGO                         VADIK
+                          VADIK                         VIC
+                          VIC                           LAPAB
+                          LAPAB                         AKADO
+                          AKADO                         TULIK
+                          TULIK                         ROTAR
+
+L862                      AIOSA                         ENOXA
+                          ENOXA                         KAPPO
+                          KAPPO                         LUPAL
+
+L865                      NIKOL                         BUSER
+                          BUSER                         ANC
+                          ANC                           ERLIT
+                          ERLIT                         ERDON
+                          ERDON                         GOTMO
+                          GOTMO                         KATAR
+                          KATAR                         GITOD
+                          GITOD                         RITEB
+                          RITEB                         GIKIN
+                          GIKIN                         TAQ
+                          TAQ                           VALMA
+                          VALMA                         BETOT
+
+L869                      TUPAL                         MEGAN
+                          MEGAN                         LOPKO
+                          LOPKO                         TRP
+                          TRP                           PAL
+                          PAL                           PELEN
+                          PELEN                         BUDIN
+                          BUDIN                         PIGER
+                          PIGER                         PEROS
+                          PEROS                         CDC
+                          CDC                           KOGEB
+                          KOGEB                         CRN
+                          CRN                           GEMVI
+                          GEMVI                         LATAN
+
+L978                      ALG                           GOPAT
+
+L995                      CANNE                         PEPAG
+                          PEPAG                         TZO
+                          TZO                           BEKAN
+                          BEKAN                         MISPO
+                          MISPO                         OSBUL
+                          OSBUL                         IVLOX
+                          IVLOX                         RIPDU
+                          RIPDU                         LUPOS
+                          LUPOS                         IPLUB
+                          IPLUB                         LOMED
+                          LOMED                         KUGIX
+                          KUGIX                         AMTEL
+                          AMTEL                         SOVAN
+                          SOVAN                         GIKIN
+                          GIKIN                         TIBER
+                          TIBER                         PEMAR
+                          PEMAR                         OKDEB
+                          OKDEB                         INSOX
+                          INSOX                         ALAXI
+                          ALAXI                         TEA
+
+M126                      OST                           TORLI
+                          TORLI                         ESINO
+                          ESINO                         ROXAN
+                          ROXAN                         QUENN
+                          QUENN                         ALEDI
+                          ALEDI                         LEDRO
+                          LEDRO                         CAR
+                          CAR                           DOPEL
+
+M135                      LURAG                         VEROB
+                          VEROB                         TOP
+                          TOP                           ASTIG
+                          ASTIG                         DIXER
+
+M167                      ROTAR                         LILEE
+                          LILEE                         BASOG
+                          BASOG                         CHI
+                          CHI                           GOREP
+                          GOREP                         SUKOM
+                          SUKOM                         OTNUN
+                          OTNUN                         LOMED
+
+M169                      ATRUP                         PES
+                          PES                           ESODU
+                          ESODU                         ERPOG
+                          ERPOG                         RIVAM
+                          RIVAM                         KATTI
+
+M196                      RIFEN                         BADOP
+                          BADOP                         AKADO
+                          AKADO                         KOPER
+                          KOPER                         IBTOK
+                          IBTOK                         OSBUL
+                          OSBUL                         LAGEN
+
+M198                      TONDA                         ANAKI
+                          ANAKI                         TORTU
+
+M600                      LORED                         ERNAM
+                          ERNAM                         ABAKO
+                          ABAKO                         PESAR
+                          PESAR                         SODMO
+                          SODMO                         AMREX
+                          AMREX                         DINOB
+
+M601                      GINOX                         EPIKU
+                          EPIKU                         MALAV
+                          MALAV                         ORVEX
+                          ORVEX                         QUENN
+                          QUENN                         VELEX
+                          VELEX                         RONAB
+                          RONAB                         DORAS
+                          DORAS                         AMANO
+                          AMANO                         NERAR
+                          NERAR                         SOMAS
+                          SOMAS                         LAMEB
+                          LAMEB                         CRN
+                          CRN                           ADREN
+                          ADREN                         TOMGI
+                          TOMGI                         RUTOM
+
+M603                      ELSAG                         ALG
+                          ALG                           ARSIK
+                          ARSIK                         MOROB
+                          MOROB                         ORVEX
+                          ORVEX                         KOLUS
+                          KOLUS                         IDEPA
+                          IDEPA                         SUKUN
+                          SUKUN                         ATNET
+                          ATNET                         ROXAN
+                          ROXAN                         POKAV
+                          POKAV                         TURMO
+                          TURMO                         ROTUN
+                          ROTUN                         PNZ
+                          PNZ                           ISKIA
+                          ISKIA                         SOR
+                          SOR                           VEGAN
+                          VEGAN                         MATED
+                          MATED                         MOKTO
+                          MOKTO                         KAPPO
+                          KAPPO                         XAPAT
+                          XAPAT                         NUCRE
+                          NUCRE                         GOKEL
+
+M616                      DOBIM                         ELB
+                          ELB                           MARON
+
+M620                      POKAV                         UNIXO
+                          UNIXO                         VEXUV
+                          VEXUV                         SOR
+                          SOR                           POLIT
+                          POLIT                         EVINO
+                          EVINO                         ARBUM
+                          ARBUM                         SOMAS
+                          SOMAS                         CDC
+                          CDC                           RAPIS
+                          RAPIS                         MASOT
+                          MASOT                         PESAR
+                          PESAR                         TISAL
+
+M621                      AOSTA                         BETEN
+                          BETEN                         UPDIN
+                          UPDIN                         GILIO
+                          GILIO                         AMANO
+                          AMANO                         TADIX
+                          TADIX                         ABUKI
+                          ABUKI                         VUSME
+                          VUSME                         ERNAM
+                          ERNAM                         ASKOT
+
+M622                      MADKA                         RUGOX
+                          RUGOX                         OKIDO
+                          OKIDO                         SUKUN
+                          SUKUN                         QUENN
+                          QUENN                         ABKON
+                          ABKON                         GERMO
+                          GERMO                         ADUKA
+                          ADUKA                         KAPIL
+                          KAPIL                         TRP
+                          TRP                           ADEXI
+
+M725                      XOLTA                         RUPAX
+                          RUPAX                         MOLUX
+                          MOLUX                         SOR
+                          SOR                           PEVIR
+                          PEVIR                         GIANO
+                          GIANO                         PININ
+                          PININ                         SUSIP
+
+M726                      BRENO                         EKPIS
+                          EKPIS                         NAXAV
+                          NAXAV                         SUMIR
+                          SUMIR                         DIKEM
+                          DIKEM                         VADIK
+                          VADIK                         ALBET
+                          ALBET                         LUMAV
+                          LUMAV                         SUKOM
+                          SUKOM                         PELEG
+                          PELEG                         BAGNO
+                          BAGNO                         GAVRA
+                          GAVRA                         NIKMA
+                          NIKMA                         IPGOR
+                          IPGOR                         GITOD
+                          GITOD                         PEMAR
+                          PEMAR                         LAT
+                          LAT                           NEKPI
+                          NEKPI                         PNZ
+                          PNZ                           ENSOT
+                          ENSOT                         BEROL
+                          BEROL                         DORAS
+                          DORAS                         LURON
+                          LURON                         PAL
+                          PAL                           PIVOP
+                          PIVOP                         LONDI
+
+M727                      ODINA                         SRN
+                          SRN                           EKPAL
+                          EKPAL                         RUXOL
+                          RUXOL                         OSMOX
+                          OSMOX                         AMTEL
+                          AMTEL                         TAQ
+                          TAQ                           TORLI
+                          TORLI                         PEPIX
+                          PEPIX                         GIANO
+                          GIANO                         TRP
+                          TRP                           SENTI
+
+M728                      DOKAR                         KISTO
+                          KISTO                         VELAD
+                          VELAD                         MAMAR
+                          MAMAR                         ROTUN
+                          ROTUN                         NERAR
+                          NERAR                         MASOT
+                          MASOT                         SODMO
+                          SODMO                         BELIX
+
+M729                      AOSTA                         PIMOT
+                          PIMOT                         TONDA
+                          TONDA                         DEVOX
+                          DEVOX                         GEN
+                          GEN                           LUKIM
+                          LUKIM                         IDONA
+                          IDONA                         SPEZI
+                          SPEZI                         BETEN
+                          BETEN                         NORNI
+                          NORNI                         ELB
+                          ELB                           GILIO
+                          GILIO                         MEDAL
+                          MEDAL                         RAVAL
+                          RAVAL                         LUNAK
+                          LUNAK                         ELVIN
+                          ELVIN                         RIFFI
+                          RIFFI                         PNZ
+                          PNZ                           VEXUV
+                          VEXUV                         MALOG
+                          MALOG                         EDOPA
+                          EDOPA                         PEVIR
+                          PEVIR                         DELER
+                          DELER                         AGNIS
+                          AGNIS                         GIROV
+                          GIROV                         APVAR
+                          APVAR                         CDC
+                          CDC                           DELIK
+                          DELIK                         AMREX
+                          AMREX                         LORNO
+
+M730                      ATMAD                         NITAM
+                          NITAM                         KUMIN
+                          KUMIN                         KODOK
+                          KODOK                         TOP
+                          TOP                           TESTO
+                          TESTO                         GEN
+                          GEN                           KALMO
+                          KALMO                         MIVKI
+                          MIVKI                         BEROK
+                          BEROK                         RUXOL
+                          RUXOL                         BALUK
+                          BALUK                         LOMED
+                          LOMED                         VABMO
+                          VABMO                         BAGNO
+                          BAGNO                         PIDEP
+                          PIDEP                         LIKNO
+                          LIKNO                         ASDOR
+                          ASDOR                         SORUG
+                          SORUG                         BIDMA
+                          BIDMA                         ANC
+                          ANC                           KEGED
+                          KEGED                         LISKO
+                          LISKO                         TORPO
+
+M731                      PELOS                         MALAV
+                          MALAV                         ARSIK
+                          ARSIK                         TEKSA
+                          TEKSA                         LUNAM
+                          LUNAM                         LUNAM
+                          LUNAM                         OSMAR
+
+M732                      GINOX                         ALG
+                          ALG                           USEPI
+                          USEPI                         SODIO
+                          SODIO                         TEKSA
+                          TEKSA                         RAMEN
+                          RAMEN                         KOVAS
+                          KOVAS                         CAR
+                          CAR                           LUKAD
+                          LUKAD                         TIVUK
+                          TIVUK                         BULAR
+                          BULAR                         PININ
+                          PININ                         OSDET
+                          OSDET                         MEGAN
+                          MEGAN                         SENTI
+
+M733                      CORSI                         MINKA
+                          MINKA                         BOLOT
+                          BOLOT                         DEXUL
+                          DEXUL                         CAR
+                          CAR                           PIRIX
+                          PIRIX                         OSMAR
+
+M734                      NIBEL                         BETOT
+
+M735                      PNZ                           GIANO
+                          GIANO                         MEGAN
+                          MEGAN                         BABLO
+
+M736                      OLPIX                         EKPEB
+                          EKPEB                         NAXAV
+                          NAXAV                         OZE
+                          OZE                           BORMI
+                          BORMI                         LEDKO
+                          LEDKO                         ADOSA
+                          ADOSA                         KOPER
+                          KOPER                         ANC
+                          ANC                           GERBU
+                          GERBU                         UTENO
+                          UTENO                         OTRET
+                          OTRET                         NAVAG
+                          NAVAG                         PES
+                          PES                           UTAPO
+                          UTAPO                         EKMIL
+                          EKMIL                         SUXUB
+                          SUXUB                         ERIKA
+                          ERIKA                         TEA
+                          TEA                           SOR
+                          SOR                           MAREP
+                          MAREP                         ULKEN
+                          ULKEN                         DIPOK
+                          DIPOK                         CRN
+
+M738                      NATAG                         LORLO
+                          LORLO                         UNTAD
+                          UNTAD                         NEGIK
+                          NEGIK                         ADOSA
+                          ADOSA                         OSTEG
+                          OSTEG                         BENUS
+                          BENUS                         KREVA
+                          KREVA                         BOA
+                          BOA                           OMAKU
+                          OMAKU                         AMTEL
+                          AMTEL                         TAQ
+                          TAQ                           ESINO
+                          ESINO                         TURMO
+                          TURMO                         RONAB
+                          RONAB                         ERPEM
+                          ERPEM                         PININ
+                          PININ                         TUNEX
+
+M739                      TABOT                         DOPEL
+
+M740                      RONAB                         ADUKA
+                          ADUKA                         MEGAN
+                          MEGAN                         ROBET
+                          ROBET                         PAN
+
+M742                      PAPIZ                         FASAN
+                          FASAN                         LUXIL
+                          LUXIL                         BUMOK
+                          BUMOK                         LUNAR
+                          LUNAR                         GALTI
+                          GALTI                         SOR
+                          SOR                           DELER
+                          DELER                         AMANO
+                          AMANO                         ROSAS
+                          ROSAS                         PAL
+                          PAL                           ADEXI
+
+M858                      CANNE                         SRN
+                          SRN                           VOG
+                          VOG                           GEN
+                          GEN                           OTMUV
+                          OTMUV                         UNITA
+                          UNITA                         OLETI
+                          OLETI                         LIGUR
+                          LIGUR                         TORTU
+
+M858                      CANNE                         SRN
+                          SRN                           VOG
+                          VOG                           ULCOR
+                          ULCOR                         GEN
+                          GEN                           OTMUV
+                          OTMUV                         UNITA
+                          UNITA                         OLETI
+                          OLETI                         LIGUR
+                          LIGUR                         TORTU
+                          TORTU                         CORSI
+                          CORSI                         MINKA
+                          MINKA                         BOLOT
+                          BOLOT                         RAMEN
+                          RAMEN                         LUNAM
+                          LUNAM                         DEC
+                          DEC                           DOPEL
+
+M859                      TUTIV                         DAXNU
+                          DAXNU                         BARPI
+                          BARPI                         UMBEK
+                          UMBEK                         MONFA
+                          MONFA                         ROSKA
+                          ROSKA                         TULIK
+                          TULIK                         CHI
+                          CHI                           ROVIG
+                          ROVIG                         LUMAV
+                          LUMAV                         BOA
+                          BOA                           TODNO
+                          TODNO                         LURUT
+                          LURUT                         UVOKI
+                          UVOKI                         LUPOS
+                          LUPOS                         EVKIV
+                          EVKIV                         EKPAL
+                          EKPAL                         KALIK
+                          KALIK                         GOLAS
+                          GOLAS                         GEN
+                          GEN                           LAGEN
+                          LAGEN                         VAMTU
+
+M871                      XATOS                         CAR
+                          CAR                           NEVOT
+                          NEVOT                         ADAMI
+                          ADAMI                         KAPIL
+                          KAPIL                         PAL
+                          PAL                           BEKIV
+                          BEKIV                         ENEPA
+                          ENEPA                         LIBRO
+                          LIBRO                         NOTRI
+                          NOTRI                         ALUDU
+                          ALUDU                         ERNAM
+                          ERNAM                         SUBOK
+
+M872                      CERVI                         GARLO
+                          GARLO                         OMETO
+                          OMETO                         BOTAL
+                          BOTAL                         EKDIR
+                          EKDIR                         LOMED
+                          LOMED                         VABMO
+                          VABMO                         BAGNO
+                          BAGNO                         PIDEP
+                          PIDEP                         LIKNO
+                          LIKNO                         GUDPO
+                          GUDPO                         AMGOK
+                          AMGOK                         PES
+                          PES                           URIPI
+                          URIPI                         DIVKU
+                          DIVKU                         LUXIL
+                          LUXIL                         MOKTO
+                          MOKTO                         GRT
+                          GRT                           LUPAL
+                          LUPAL                         LATAN
+
+M984                      DETSA                         BAKOR
+                          BAKOR                         NAXAV
+                          NAXAV                         RENTA
+                          RENTA                         ATPED
+                          ATPED                         LUSIL
+                          LUSIL                         RODRU
+                          RODRU                         EVANO
+                          EVANO                         NEDED
+                          NEDED                         VAMTU
+
+M985                      MALUG                         VESAL
+                          VESAL                         ALESE
+                          ALESE                         SUMIR
+                          SUMIR                         DIBAX
+                          DIBAX                         TAGIP
+                          TAGIP                         NESTI
+                          NESTI                         OSKOR
+                          OSKOR                         GIBLO
+                          GIBLO                         ROBAS
+                          ROBAS                         MONEB
+                          MONEB                         GEN
+                          GEN                           DORAV
+                          DORAV                         ABN
+                          ABN                           NOSTA
+
+M986                      IBENI                         ANC
+                          ANC                           GAVRA
+
+N7                        AMSOR                         NOSTO
+
+N163                      CORSI                         OSDET
+                          OSDET                         PAN
+
+N157                      DEDOM                         QUENN
+                          QUENN                         ABDAB
+
+N503                      LIKDA                         BAKOR
+                          BAKOR                         VESAL
+                          VESAL                         LAMPO
+                          LAMPO                         ROKIB
+                          ROKIB                         VIC
+                          VIC                           INBUT
+                          INBUT                         LAREN
+                          LAREN                         CHI
+                          CHI                           LOBSI
+                          LOBSI                         GIPUK
+                          GIPUK                         PELEG
+                          PELEG                         BIKTU
+
+N573                      AMREX                         NELDA
+
+N604                      DOKAR                         INGAB
+                          INGAB                         RUTOM
+
+N606                      GIRIS                         TISAX
+                          TISAX                         NAXAV
+                          NAXAV                         NIVAS
+                          NIVAS                         BADOP
+                          BADOP                         BABAG
+
+N736                      EVANO                         BORDI
+
+N737                      BAXON                         LANLI
+                          LANLI                         AMSED
+                          AMSED                         UNUMU
+                          UNUMU                         IPGOR
+                          IPGOR                         ETPOK
+                          ETPOK                         GIKIN
+
+N748                      XAMIT                         SUTOB
+                          SUTOB                         ESODU
+                          ESODU                         EKMIL
+
+N850                      ODINA                         EVANO
+                          EVANO                         KEMMI
+                          KEMMI                         DORAV
+                          DORAV                         IXITO
+                          IXITO                         TALEP
+
+N851                      ABESI                         PEPAG
+                          PEPAG                         DESIP
+                          DESIP                         MONEB
+                          MONEB                         LUKIM
+                          LUKIM                         TORTU
+
+N982                      GENGI                         TINIX
+                          TINIX                         DESUK
+                          DESUK                         INSOX
+                          INSOX                         MALOG
+                          MALOG                         AMANO
+                          AMANO                         VAKOR
+                          VAKOR                         LIBRO
+                          LIBRO                         OBAXU
+                          OBAXU                         NELDA
+
+P3                        NERAR                         RCA
+                          RCA                           DODEL
+                          DODEL                         ABAKO
+                          ABAKO                         VENIM
+
+P28                       BARPI                         KEBBU
+                          KEBBU                         RCH
+
+P66                       BADOP                         MOBDO
+                          MOBDO                         EKPEB
+                          EKPEB                         ATRIG
+                          ATRIG                         SOTOV
+
+P92                       DIVKU                         BAR
+                          BAR                           FASAN
+                          FASAN                         KAPPO
+                          KAPPO                         ABADI
+                          ABADI                         PAPIZ
+
+P125                      ARNOS                         URAVA
+                          URAVA                         TIBRO
+                          TIBRO                         LUPIN
+                          LUPIN                         RON
+                          RON                           OSLOP
+                          OSLOP                         BADOP
+                          BADOP                         ROSKA
+                          ROSKA                         TULIK
+                          TULIK                         ARVOD
+                          ARVOD                         EKLAP
+                          EKLAP                         BAMEK
+
+P126                      PNZ                           ROSAS
+                          ROSAS                         DILIN
+                          DILIN                         SUSOM
+
+P131                      RESIA                         ATPED
+                          ATPED                         TAGIP
+                          TAGIP                         MOVOR
+                          MOVOR                         ADOSA
+                          ADOSA                         VABOK
+                          VABOK                         LUMAV
+                          LUMAV                         LIKNO
+
+P161                      CAR                           NOLSI
+
+P167                      GINOX                         ARSIK
+                          ARSIK                         LABOM
+                          LABOM                         LULIX
+                          LULIX                         ABKON
+                          ABKON                         LURON
+                          LURON                         ORTAP
+
+P735                      VIC                           RCH
+                          RCH                           RIFEN
+
+P748                      TUNEX                         MEGAN
+                          MEGAN                         AMANO
+                          AMANO                         NAXES
+                          NAXES                         VARAL
+                          VARAL                         POLIT
+                          POLIT                         KUTID
+                          KUTID                         VEGAN
+                          VEGAN                         BUMOK
+                          BUMOK                         TOPNO
+                          TOPNO                         OSDAX
+                          OSDAX                         BANAV
+                          BANAV                         AIOSA
+
+P860                      ANAKI                         DEVOX
+                          DEVOX                         TOP
+                          TOP                           IXUSA
+                          IXUSA                         RONOP
+
+P872                      OKIVA                         MINKA
+
+P980                      POZZO                         OKIVA
+
+Q25                       LOMED                         PRT
+                          VERUN                         LAKOX
+
+Q81                       EKTOL                         PAPIZ
+
+
+Q19                       ROSKA                         PELEG
+
+Q49                       LORLO                         MOVOR
+
+Q58                       LUMAV                         GOXIN
+                          GOXIN                         OGAPU
+                          OGAPU                         BIKTU
+                          BIKTU                         NUKNI
+                          NUKNI                         AMTEL
+                          AMTEL                         GIKIN
+                          GIKIN                         LAT
+                          LAT                           SOR
+                          SOR                           VARAL
+                          VARAL                         AGNIS
+                          AGNIS                         SOBRI
+                          SOBRI                         VULKA
+                          VULKA                         REGSO
+                          REGSO                         PIGER
+                          PIGER                         RCA
+                          RCA                           PIMOR
+                          PIMOR                         ERNAM
+
+Q64                       OSBUL                         BIBNO
+                          BIBNO                         BALUK
+
+Q72                       SODMO                         DODEL
+                          DODEL                         PIMOR
+                          PIMOR                         ABUKI
+                          ABUKI                         BERMI
+                          BERMI                         INDAX
+                          INDAX                         CTF
+                          CTF                           NOTRI
+
+Q81                       EKTOL                         PAPIZ
+
+Q85                       AMTEL                         LAKOX
+
+Q95                       TZO                           BAPLU
+                          BAPLU                         IBTOK
+                          IBTOK                         ABMOG
+                          ABMOG                         BOA
+                          BOA                           LUTOR
+                          LUTOR                         PELEG
+                          PIGAK                         PETAS
+                          PETAS                         PELEG
+                          PELEG                         LIKNO
+
+Q123                      USEPI                         VEKET
+                          VEKET                         LULIX
+                          LULIX                         QUENN
+
+Q125                      SUKOM                         OMAKU
+                          OMAKU                         OKMAP
+                          OKMAP                         ELB
+                          ELB                           NEMIT
+                          NEMIT                         IBROS
+                          IBROS                         OLBEK
+                          OLBEK                         ROMPO
+                          ROMPO                         ADRUX
+                          ADRUX                         IDEPA
+                          IDEPA                         VAVAX
+                          VAVAX                         LABOM
+                          LABOM                         DEXUL
+                          DEXUL                         KOVAS
+                          KOVAS                         DEC
+
+Q152                      CAR                           GISIG
+                          GISIG                         ERPEM
+                          ERPEM                         GIANO
+                          GIANO                         LURON
+                          LURON                         ROSAS
+                          ROSAS                         VAKOR
+                          VAKOR                         TADIX
+                          TADIX                         VULKA
+                          VULKA                         CDC
+
+
+
+Q160                      OST                           MEDAL
+                          MEDAL                         ROTIR
+                          ROTIR                         PODOX
+                          PODOX                         KISTO
+                          KISTO                         NEMIT
+
+Q182                      MALAV                         MINKA
+                          MINKA                         KOLUS
+                          KOLUS                         RUVIP
+                          RUVIP                         NERAR
+                          NERAR                         SOBRI
+                          SOBRI                         BAGIX
+                          BAGIX                         CDC
+                          CDC                           BELIX
+
+Q195                      BAKRO                         GILIO
+                          GILIO                         GIKIN
+
+Q213                      CORSI                         OSMAR
+
+Q217                      RESIA                         IXOGU
+                          IXOGU                         KUBUD
+
+Q223                      LURAG                         OBUXA
+                          OBUXA                         ASTIG
+                          ASTIG                         KALMO
+                          KALMO                         EROVI
+                          EROVI                         TINKU
+
+Q333                      RESIA                         UNTAD
+                          UNTAD                         DIKEM
+                          DIKEM                         ROKIB
+                          ROKIB                         BABAG
+
+Q411                      AMTEL                         UPONO
+                          UPONO                         RITEB
+
+Q549                      KATAR                         INTUD
+                          INTUD                         TIBER
+
+Q561                      MONFA                         AKADO
+                          AKADO                         LAREN
+                          LAREN                         VABOK
+
+Q702                      VAKON                         OTKEK
+                          OTKEK                         CHI
+
+Q703                      KALMO                         IRBAK
+                          IRBAK                         KARDU
+
+Q704                      KALMO                         GIPIX
+                          GIPIX                         EMBOS
+                          EMBOS                         KARDU
+                          KARDU                         GILIO
+
+Q705                      EKPAL                         BEROK
+                          BEROK                         OGLAK
+                          OGLAK                         TINKU
+                          TINKU                         XIBIL
+                          XIBIL                         ROSKI
+
+Q707                      TIBRO                         GIKUS
+                          GIKUS                         GOTEK
+                          GOTEK                         RISOM
+
+Q710                      TINTO                         PIDUL
+                          PIDUL                         GITRI
+                          GITRI                         GINOX
+
+Q712                      VOG                           KEMMI
+                          KEMMI                         DEVOX
+                          DEVOX                         TESTO
+                          TESTO                         LAGEN
+                          LAGEN                         ENOBA
+
+Q713                      AMOXI                         GEN
+                          GEN                           IXITO
+
+Q714                      ROMPO                         GINOX
+
+Q772                      GISNU                         XAPAT
+                          XAPAT                         TIGRA
+
+Q789                      GIKIN                         PNZ
+                          PNZ                           TAGEL
+                          TAGEL                         AMANO
+                          AMANO                         VAKOR
+                          VAKOR                         PELEN
+                          PELEN                         UXUTA
+                          UXUTA                         COBBA
+                          COBBA                         NOTRI
+                          NOTRI                         ORTAP
+
+Q865                      TOPNO                         MATED
+                          MATED                         UPLAD
+                          UPLAD                         CDC
+
+Q920                      KALIK                         RUXOL
+                          RUXOL                         TUFTE
+                          TUFTE                         PES
+                          PES                           VIE
+                          VIE                           BIRSU
+                          BIRSU                         PERAV
+                          PERAV                         ENOXA
+                          ENOXA                         ABADI
+                          ABADI                         GOKEL
+
+Q984                      DETSA                         ASVUT
+                          ASVUT                         IXOGU
+                          IXOGU                         LEVSI
+                          LEVSI                         VOG
+                          VOG                           VAMTU
+
+Q985                      MALUG                         NOBMI
+                          NOBMI                         ABN
+
+T1                        APSUX                         UREXE
+                          UREXE                         ORVEX
+
+T75                       AMSOR                         TIGRA
+
+T92                       SOR                           NAXES
+                          NAXES                         DIRED
+                          DIRED                         PELEN
+                          PELEN                         LIBRO
+
+T101                      SOTOV                         BEXOR
+                          BEXOR                         NAXAV
+                          NAXAV                         GIKEB
+                          GIKEB                         LAMPO
+                          LAMPO                         AKADO
+
+T102                      IVKAL                         TISAX
+                          TISAX                         NESTI
+                          NESTI                         KOXUD
+                          KOXUD                         ABN
+
+T111                      DELER                         DIRED
+                          DIRED                         BUDIN
+                          BUDIN                         SOPOM
+                          SOPOM                         PEKOD
+
+T118                      SODIO                         LUNAM
+
+T128                      RASUG                         ROSKA
+                          ROSKA                         AGOMO
+                          AGOMO                         BELOV
+                          BELOV                         MOGPU
+                          MOGPU                         NIKMA
+                          NIKMA                         GIKIN
+
+T132                      UPIRO                         ROSKA
+                          ROSKA                         ROTAR
+
+T134                      DIBAX                         TNT
+                          TNT                           IBUGO
+                          IBUGO                         ALBET
+                          ALBET                         KOPER
+
+T147                      SOVOX                         ELTAR
+
+T214                      VIE                           PAPIZ
+
+T237                      DOGUS                         VEGAN
+
+T246                      MIRSA                         PODOX
+
+T292                      GISNU                         KAPPO
+
+T293                      LURAG                         LOGDI
+                          LOGDI                         LURUT
+
+T307                      DIRAB                         BABAG
+
+T313                      ASVOL                         ELB
+                          ELB                           NEMBO
+
+T345                      ABULO                         LURAG
+
+T369                      ROSUV                         NIKMA
+                          NIKMA                         ETPOK
+                          ETPOK                         RITEB
+
+T378                      DOBIM                         PODOX
+
+T415                      RESIA                         LISKO
+                          LISKO                         GISNU
+                          GISNU                         VIE
+                          VIE                           EKMUR
+                          EKMUR                         OSDAX
+                          OSDAX                         BAR
+                          BAR                           MOKTO
+
+T416                      MATED                         CRN
+                          CRN                           BELIX
+
+T445                      TONDA                         LAGEN
+
+T484                      VAKON                         IBUPU
+                          IBUPU                         NISIL
+                          NISIL                         NEVMO
+                          NEVMO                         LISKO
+
+T492                      ALBET                         BAMEK
+                          BAMEK                         KREVA
+
+T527                      BANAV                         BAR
+                          BAR                           TOPNO
+
+T543                      TINTO                         QUENN
+                          QUENN                         NOLSI
+
+T558                      LUMAV                         OMAKU
+
+T648                      MEBUR                         GOLAS
+                          GOLAS                         MIVKI
+
+T678                      PIKOT                         IBNAN
+                          IBNAN                         IPDAB
+                          IPDAB                         NEVMO
+
+T772                      LUSIL                         EKLIB
+
+T836                      DIXER                         AMOXI
+                          AMOXI                         IDONA
+
+T876                      TAGIP                         GUNGO
+                          GUNGO                         EKPIS
+
+T897                      OZE                           IXOGU
+                          IXOGU                         DIBAX
+                          DIBAX                         MOVOR
+                          MOVOR                         IDREK
+
+W36                       CRAYE                         ENOXA
+                          ENOXA                         BAR
+
+W323                      LUSIL                         EVRIP
+
+Y2                        ENOXA                         PAPIZ
+
+Y9                        SUXAN                         NAXAV
+                          NAXAV                         MOBDO
+                          MOBDO                         TIBRO
+
+Y11                       LAPRI                         KUMIN
+                          KUMIN                         KODOK
+                          KODOK                         TOP
+                          TOP                           LURUT
+                          LURUT                         PETAS
+                          PETAS                         LISKO
+
+Y15                       USANO                         TIVNO
+                          TIVNO                         BASIP
+                          BASIP                         ABN
+                          ABN                           ANAKI
+                          ANAKI                         GEN
+                          GEN                           MEBUR
+
+Y19                       PELOS                         OSDET
+
+Y66                       ARNOS                         URAVA
+                          URAVA                         TIBRO
+
+Y69                       MEBUR                         IDONA
+
+Y93                       RCA                           NATOV
+                          NATOV                         PEKOD
+                          PEKOD                         BERMI
+
+Y99                       BAMVU                         GILIO
+
+Y106                      DETSA                         NIVAS
+                          NIVAS                         CHI
+                          CHI                           DITUM
+                          DITUM                         PIDEP
+                          PIDEP                         DIPVO
+                          DIPVO                         NIKMA
+                          NIKMA                         IPGOR
+                          IPGOR                         GITOD
+                          GITOD                         TIBER
+
+Y107                      TOBSO                         BAKOR
+                          BAKOR                         ALESE
+
+Y108                      GOGEM                         EKPEB
+                          EKPEB                         ALESE
+                          ALESE                         DIKEM
+
+Y138                      ROBAS                         MISPO
+
+Y138                      LUPOS                         BEROK
+                          BEROK                         GAPMI
+                          GAPMI                         OSMOX
+
+Y140                      UTENO                         TIMPU
+                          TIMPU                         NUCRE
+                          NUCRE                         OLGAT
+
+
+Y159                      SIRGI                         NILTO
+                          NILTO                         SOR
+                          SOR                           EDOPA
+                          EDOPA                         TAGEL
+                          TAGEL                         BEROL
+                          BEROL                         RONAB
+                          RONAB                         BELOK
+                          BELOK                         TUTIP
+                          TUTIP                         CAR
+
+Y170                      LEGLO                         DILEB
+                          DILEB                         ABREG
+
+Y239                      NIGSO                         ONLUK
+                          ONLUK                         KALMO
+
+Y246                      GUNGO                         TISAX
+
+Y265                      INBUT                         AKADO
+
+Y345                      GAVRA                         RITEB
+
+Y504                      OSBUL                         BETMU
+                          BETMU                         BOA
+                          BOA                           ADBAL
+                          ADBAL                         NIMUM
+
+Y510                      AMTEL                         OKBIS
+                          OKBIS                         GITOD
+
+Y526                      RIFEN                         RON
+
+Y567                      POKAV                         USEPI
+
+Y579                      NUTRO                         INKIM
+                          INKIM                         PES
+
+Y647                      GONOT                         GOKEL
+
+Y663                      LOGDI                         EKDIR
+
+Y664                      CHI                           EKTUK
+                          EKTUK                         GAVRA
+                          GAVRA                         IBRID
+
+Y740                      NATAG                         LORLO
+                          LORLO                         ATPED
+
+Y751                      AGNIS                         MASOT
+                          MASOT                         LEVDI
+
+Y765                      OSBUL                         TODNO
+                          TODNO                         PETAS
+                          PETAS                         AMSED
+                          AMSED                         ANC
+
+Y941                      BASOG                         ARDAM
+
+Y974                      ROBAS                         MISPO
+
+Z43                       NIMUM                         GOXIN
+
+Z71                       BASOG                         OTGIG
+                          OTGIG                         SOVUB
+                          SOVUB                         NIMUM
+                          NIMUM                         SUKOM
+
+Z83                       ULGOD                         ROSGO
+                          ROSGO                         GUGSA
+
+Z122                      LAREN                         BASOG
+                          BASOG                         LABIN
+
+Z154                      GISPA                         IBROS
+                          IBROS                         ASKAG
+
+Z185                      ENOBA                         BORDI
+
+Z242                      SOVAN                         TIMOV
+                          TIMOV                         TAQ
+
+Z254                      GOVGO                         ELB
+                          ELB                           DEDOM
+                          DEDOM                         BATOX
+                          BATOX                         OKIDO
+
+Z347                      POKAV                         OKIDO
+                          OKIDO                         MINKA
+
+Z388                      CHI                           BETMU
+                          BETMU                         EKPAL
+                          EKPAL                         KALMO
+                          KALMO                         OTMUV
+                          OTMUV                         IXITO
+                          IXITO                         ABN
+
+Z424                      BASGO                         AKASU
+                          AKASU                         RIXUV
+
+Z427                      EKPEB                         TIBRO
+
+Z495                      ETAKO                         OTFOX
+                          OTFOX                         BARPI
+
+Z456                      LOBSI                         ARDAM
+
+Z468                      ROKIB                         GIKEB
+                          GIKEB                         EKPEB
+                          EKPEB                         BRENO
+
+Z613                      SAFFA                         NAXAV
+
+Z651                      DESIP                         CANNE
+
+Z803                      ROM                           LAT
+                          LAT                           SIPRO
+                          SIPRO                         TEA
+
+Z806                      GAVRA                         VERUN
+                          VERUN                         GIKIN
+                          GIKIN                         TIMOV
+                          TIMOV                         MEDAL
+
+Z810                      KATAR                         PEMAR
+
+Z854                      AGNIS                         BAGIX
+
+Z905                      GIRIS                         DIKEM
+                          DIKEM                         VIC
+                          VIC                           LOBSI
+                          LOBSI                         AMSED
+                          AMSED                         IVMEP
+                          IVMEP                         GUDPO
+                          GUDPO                         EKMIL
+                          EKMIL                         GOSEB
+                          GOSEB                         IPKAM
+
+Z906                      NAXAV                         ROKIB
+                          ROKIB                         LAPAB
+                          LAPAB                         CHI
+                          CHI                           LISKO
+
+Z909                      RESIA                         IDREK
+                          IDREK                         KREVA
+                          KREVA                         LUTOR
+                          LUTOR                         BIKTU
+
+Z910                      LOMED                         VERUN
+                          VERUN                         NIKMA
+                          NIKMA                         GENGI
+                          GENGI                         EVULI
+                          EVULI                         ERIKA
+                          ERIKA                         NEBAS
+                          NEBAS                         IPKAM
+                          IPKAM                         KUTID
+                          KUTID                         MAREP
+                          MAREP                         CDC
+                          CDC                           PIMOR
+
+Z911                      OLETI                         MEGER
+
+Z923                      RONAB                         LURON
+
+Z924                      VELUG                         ARSOB
+                          ARSOB                         ETRIN
+                          ETRIN                         ESODU
+                          ESODU                         UTAPO
+                          UTAPO                         TIXIR
+                          TIXIR                         ASPIR
+                          ASPIR                         MOPUV
+                          MOPUV                         DESUK
+                          DESUK                         ESINO
+                          ESINO                         ABIDU
+                          ABIDU                         GITRI
+                          GITRI                         OKIDO
+                          OKIDO                         ADRUX
+                          ADRUX                         KOLUS
+                          KOLUS                         SUTAD
+                          SUTAD                         USEPI
+                          USEPI                         GOKMI
+                          GOKMI                         SUPUX
+
+Z925                      AMANO                         ENEPA
+
+Z929                      ABN                           TIDKA
+
+Z963                      ABTIM                         RIPDU
+                          RIPDU                         ELBUK
+                          ELBUK                         TESTO
+
+Z982                      SRN                           TZO
+                          TZO                           RIDVA
+                          RIDVA                         OSMEB
+                          OSMEB                         NEVMO
+                          NEVMO                         LUMAV
+                          LUMAV                         GIPUK
+                          GIPUK                         DITUM
+                          DITUM                         BAKEP
+                          BAKEP                         ANC
+
+Y265                      INBUT                         AKADO

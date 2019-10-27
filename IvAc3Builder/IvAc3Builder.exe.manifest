@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="IvAcBuilder" processorArchitecture="X86" type="win32" version="6.10.0.0" />
+  <description>IvAcBuilder</description>
+  <file name="richtx32.ocx">
+    <typelib tlbid="{3B7C8863-D78F-101B-B9B5-04021C009402}" version="1.2" flags="control" helpdir="" />
+    <comClass clsid="{3B7C8860-D78F-101B-B9B5-04021C009402}" tlbid="{3B7C8863-D78F-101B-B9B5-04021C009402}" threadingModel="Apartment" progid="RICHTEXT.RichtextCtrl.1" description="Microsoft Rich Textbox Control 6.0 (SP6)" />
+  </file>
+</assembly>
