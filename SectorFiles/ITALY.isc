@@ -44,6 +44,7 @@ F;itndb.ndb
 
 [FIXES]
 F;itfix.fix
+F;itfixterm.fix
 
 [LOW AIRWAY]
 F;itawlow.awl
@@ -64,6 +65,13 @@ F;lirr.acchigh
 
 [ARTCC LOW]
 F;limm.lartcc
+F;lime.lartcc
+F;limc.lartcc
+F;limf.lartcc
+F;limj.lartcc
+F;limp.lartcc
+F;lims.lartcc
+F;lsza.lartcc
 
 
 [FILLCOLOR]
