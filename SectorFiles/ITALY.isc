@@ -53,25 +53,22 @@ F;itawlow.awl
 F;itawhigh.awh
 
 [ARTCC]
-F;limm.acc
-F;lirr.acc
-F;libb.acc
+
 
 [ARTCC HIGH]
-F;limmacchigh.acchigh
-F;lirr.acchigh
+F;limm.hartcc
+F;lime.hartcc
+F;limc.hartcc
+F;limf.hartcc
+F;limj.hartcc
+F;limp.hartcc
+F;lims.hartcc
+F;lsza.hartcc
 
 
 
 [ARTCC LOW]
-F;limm.lartcc
-F;lime.lartcc
-F;limc.lartcc
-F;limf.lartcc
-F;limj.lartcc
-F;limp.lartcc
-F;lims.lartcc
-F;lsza.lartcc
+
 
 
 [FILLCOLOR]
