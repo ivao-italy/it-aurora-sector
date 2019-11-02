@@ -1,6 +1,19 @@
 IvAc3 Builder Revision history
 ==============================
 
+Version 0.98 (1-November-2019) 
+------------------------------
+Fix: Discard LineStrings and LineRings without any coordinates in Google Earth export
+Added: Google Earth single point extraction (ONLY AVAILABLE if OTHER export section destination is selected)
+Added: Placemark name optionally used as prefix (Other export section destination)
+Changed: Runway marks builder module: addition of FCL export as polygons with custom RGB fill/background/border colors and some other minor changes  
+Changed: Shapes builder module: addition of FCL export as polygons with custom RGB fill/background/border colors 
+Changed: some code cleaning
+
+Version 0.97 (31-October-2019)
+------------------------------
+Fix: Errors in GSHHG.dat file extraction for some files 
+
 Version 0.96 (27-October-2019)
 ------------------------------
 Fix: AIRAC airway extraction when same airway goes out then in again in a selected area (requires a track label change)

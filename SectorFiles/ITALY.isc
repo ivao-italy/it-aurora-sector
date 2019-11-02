@@ -3,7 +3,7 @@ N041.48.01.000
 E012.14.20.000
 60
 45
-3.0
++2.0
 IT
 
 [Airport]
@@ -32,7 +32,12 @@ F;lsza.geo
 F;lidr.geo
 F;lidt.geo
 F;lipa.geo
-
+F;lipb.geo
+F;lipc.geo
+F;lipe.geo
+F;lipf.geo
+F;lipg.geo
+F;liph.geo
 [Runway]
 F;itrw.rw
 
@@ -53,9 +58,10 @@ F;itawlow.awl
 F;itawhigh.awh
 
 [ARTCC]
-
+F;limm.artcc
 
 [ARTCC HIGH]
+F;lsza.hartcc
 F;limm.hartcc
 F;lime.hartcc
 F;limc.hartcc
@@ -63,7 +69,8 @@ F;limf.hartcc
 F;limj.hartcc
 F;limp.hartcc
 F;lims.hartcc
-F;lsza.hartcc
+F;lipe.hartcc
+
 
 
 
