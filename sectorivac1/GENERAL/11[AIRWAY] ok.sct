@@ -13,7 +13,6 @@ E012.14.20.000
 1
 
 
-
 [LOW AIRWAY]
 A48                       CRAYE                         VURKE
                           VURKE                         TROTA
@@ -428,6 +427,10 @@ M726                      BRENO                         EKPIS
                           LURON                         PAL
                           PAL                           PIVOP
                           PIVOP                         LONDI
+                          LONDI                         MABOX
+                          MABOX                         RATOK
+                          RATOK                         MADIR
+
 
 M727                      ODINA                         SRN
                           SRN                           EKPAL
@@ -599,6 +602,10 @@ M742                      PAPIZ                         FASAN
                           AMANO                         ROSAS
                           ROSAS                         PAL
                           PAL                           ADEXI
+                          ADEXI                         ROBIM
+                          ROBIM                         NIBLO
+
+
 
 M858                      CANNE                         SRN
                           SRN                           VOG
