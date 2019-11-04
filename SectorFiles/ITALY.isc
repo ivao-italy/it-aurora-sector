@@ -44,6 +44,19 @@ F;lipk.geo
 F;lipm.geo
 F;lipn.geo
 F;lipo.geo
+F;lipr.geo
+F;lipu.geo
+F;lipx.geo
+F;lipy.geo
+
+
+
+
+
+
+
+
+
 
 [Runway]
 F;itrw.rw
@@ -79,6 +92,7 @@ F;lims.hartcc
 F;lipe.hartcc
 F;liph.hartcc
 F;liml.hartcc
+F;lipx.hartcc
 
 
 
@@ -89,6 +103,8 @@ F;liml.hartcc
 
 
 [FILLCOLOR]
+F;limm.flc
+
 
 [ATCPOS]
 F;LIMF_APP;129.275;

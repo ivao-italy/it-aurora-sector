@@ -1,6 +1,13 @@
 IvAc3 Builder Revision history
 ==============================
 
+Version 0.99 (3-November-2019)
+------------------------------
+Added: Runway thresholds coordinates in searchable database (Note search has to be performed by airport ICAO Id, then RWY thresholds will be displayed)
+Added: Procedure turn calculation matching a defined end point
+Changed: Procedure turn module display and options
+[NOTE: Next version will be 1.00]
+
 Version 0.98 (1-November-2019) 
 ------------------------------
 Fix: Discard LineStrings and LineRings without any coordinates in Google Earth export
@@ -8,7 +15,6 @@ Added: Google Earth single point extraction (ONLY AVAILABLE if OTHER export sect
 Added: Placemark name optionally used as prefix (Other export section destination)
 Changed: Runway marks builder module: addition of FCL export as polygons with custom RGB fill/background/border colors and some other minor changes  
 Changed: Shapes builder module: addition of FCL export as polygons with custom RGB fill/background/border colors 
-Changed: some code cleaning
 
 Version 0.97 (31-October-2019)
 ------------------------------
