@@ -80,6 +80,9 @@ F;itawhigh.awh
 
 [ARTCC]
 F;limm.artcc
+F;lipp.artcc
+F;libb.artcc
+F;lirr.artcc
 
 [ARTCC HIGH]
 F;lsza.hartcc
@@ -95,6 +98,7 @@ F;liph.hartcc
 F;liml.hartcc
 F;lipx.hartcc
 F;lipy.hartcc
+F;lipz.hartcc
 
 
 
@@ -105,7 +109,8 @@ F;lipy.hartcc
 
 
 [FILLCOLOR]
-F;limm.flc
+F;limm_ws2_ctr.tfl
+
 
 
 [ATCPOS]
