@@ -49,6 +49,11 @@ F;lipu.geo
 F;lipx.geo
 F;lipy.geo
 F;lipz.geo
+F;liba.geo
+F;libc.geo
+F;libd.geo
+F;libf.geo
+F;libg.geo
 
 
 
@@ -99,6 +104,8 @@ F;liml.hartcc
 F;lipx.hartcc
 F;lipy.hartcc
 F;lipz.hartcc
+F;libd.hartcc
+F;libg.hartcc
 
 
 
