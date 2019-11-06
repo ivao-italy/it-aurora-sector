@@ -54,7 +54,10 @@ F;libc.geo
 F;libd.geo
 F;libf.geo
 F;libg.geo
-
+F;libn.geo
+F;libp.geo
+F;libr.geo
+F;linl.geo
 
 
 
@@ -106,6 +109,8 @@ F;lipy.hartcc
 F;lipz.hartcc
 F;libd.hartcc
 F;libg.hartcc
+F;libn.hartcc
+F;libp.hartcc
 
 
 
