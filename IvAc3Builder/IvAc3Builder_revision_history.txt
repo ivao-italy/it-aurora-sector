@@ -1,6 +1,18 @@
 IvAc3 Builder Revision history
 ==============================
 
+Version 1.01 (6-November-2019)
+------------------------------
+Added: Make a list of referenced fixes (for information and as comment) when extracting airways using Ids
+[Note: after removing the // header direct inclusion in the FIX definition file can be performed]
+Changed: Procedure turn radius calculation
+Fix: Coordinates entry in procedure turn calculation
+Changed: Manage discontinuities in IvAc1 extraction of SID and STAR sections
+
+Version 1.00
+------------
+Interim beta version (unpublished)
+
 Version 0.99 (3-November-2019)
 ------------------------------
 Added: Runway thresholds coordinates in searchable database (Note search has to be performed by airport ICAO Id, then RWY thresholds will be displayed)
