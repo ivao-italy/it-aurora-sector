@@ -1,0 +1,9 @@
+ COSE DA RIVEDERE SU IVAC3
+
+- LIPA RIVEDERE DATI
+- da inserire pier a Crotone LIBC
+- rivedere CTR di MXP
+- aggiungere taxi LICB
+- rifare hartcc di liea
+- RIFARE HARTCC DI LICJ
+- rivedere militari in cartella
