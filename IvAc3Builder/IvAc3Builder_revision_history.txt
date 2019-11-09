@@ -1,6 +1,11 @@
 IvAc3 Builder Revision history
 ==============================
 
+Version 1.02 (8-November-2019)
+------------------------------
+Added/Changed: Optionally build hold drawing as single lat/long
+Changed: Hold drawing module reorganization
+
 Version 1.01 (6-November-2019)
 ------------------------------
 Added: Make a list of referenced fixes (for information and as comment) when extracting airways using Ids

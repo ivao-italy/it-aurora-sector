@@ -1,0 +1,1272 @@
+﻿<points xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--+++++++++++ NON CANCELLARE+++++++++++++++++++++++-->
+<point id="MEDAM" lat="N0451552" lon="E0065624"/>
+<point id="BARSO" lat="N0440837" lon="E0065325"/>
+<point id="ROBEX" lat="N0450654" lon="E0063538"/>
+<point id="BASGO" lat="N0461623" lon="E0082820"/>
+<point id="GAPDO" lat="N0441252" lon="E0070904"/>
+<point id="ILU"   lat="N0460013" lon="E0085437"/>
+<!--++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++-->
+<!--+++++++++++++++AWY FIX++++++++++++++++++++++++++-->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+    <point id="ABADI" lat="N0404519000" lon="E0183830000" />
+    <point id="ABAKO" lat="N0371102000" lon="E0163958000" />
+    <point id="ABDAB" lat="N0375321000" lon="E0103743000" />
+    <point id="ABESI" lat="N0460935000" lon="E0090234000" />
+    <point id="ABIDU" lat="N0405919000" lon="E0102214000" />
+    <point id="ABKON" lat="N0395220000" lon="E0104824000" />
+    <point id="ABMOG" lat="N0444252000" lon="E0105814000" />
+    <point id="ABREG" lat="N0461825000" lon="E0093305000" />
+    <point id="ABROX" lat="N0450142000" lon="E0114357000" />
+    <point id="ABTIM" lat="N0443730000" lon="E0103656000" />
+    <point id="ABUKI" lat="N0373201000" lon="E0153333000" />
+    <point id="ABULO" lat="N0453427000" lon="E0065942000" />
+    <point id="ADAMI" lat="N0384217000" lon="E0105656000" />
+    <point id="ADBAL" lat="N0443608000" lon="E0112659000" />
+    <point id="ADEXI" lat="N0372044000" lon="E0130131000" />
+    <point id="ADISO" lat="N0453333000" lon="E0071736000" />
+    <point id="ADOSA" lat="N0453840000" lon="E0110135000" />
+    <point id="ADREN" lat="N0385018000" lon="E0174409000" />
+    <point id="ADRUX" lat="N0404552000" lon="E0093556000" />
+    <point id="ADUKA" lat="N0383344000" lon="E0115703000" />
+    <point id="AGNIS" lat="N0394827000" lon="E0144503000" />
+    <point id="AGOMO" lat="N0450101000" lon="E0124807000" />
+    <point id="AIOSA" lat="N0415542000" lon="E0171454000" />
+    <point id="AKADO" lat="N0452000000" lon="E0123000000" />
+    <point id="AKASU" lat="N0460635000" lon="E0082944000" />
+    <point id="AKUTO" lat="N0432750000" lon="E0104409000" />
+    <point id="ALAXI" lat="N0414405000" lon="E0132052000" />
+    <point id="ALBET" lat="N0452536000" lon="E0113033000" />
+    <point id="ALEDI" lat="N0393637000" lon="E0095938000" />
+    <point id="ALESE" lat="N0461630000" lon="E0112414000" />
+    <point id="ALIXI" lat="N0392708000" lon="E0172634000" />
+    <point id="ALOKU" lat="N0371741000" lon="E0133354000" />
+    <point id="ALUDU" lat="N0370911000" lon="E0153447000" />
+    <point id="AMANO" lat="N0392518000" lon="E0134748000" />
+    <point id="AMGOK" lat="N0423918000" lon="E0135346000" />
+    <point id="AMLON" lat="N0442021000" lon="E0125235000" />
+    <point id="AMOXI" lat="N0443551000" lon="E0092201000" />
+    <point id="AMREX" lat="N0375816000" lon="E0175502000" />
+    <point id="AMSED" lat="N0434616000" lon="E0130107000" />
+    <point id="AMSOR" lat="N0410926000" lon="E0145209000" />
+    <point id="AMTEL" lat="N0431313000" lon="E0113631000" />
+    <point id="ANAKI" lat="N0441204000" lon="E0084332000" />
+    <point id="AOSTA" lat="N0454747000" lon="E0072045000" />
+    <point id="APSUX" lat="N0411110000" lon="E0103455000" />
+    <point id="APVAR" lat="N0390209000" lon="E0155646000" />
+    <point id="ARBUM" lat="N0391643000" lon="E0154809000" />
+    <point id="ARDAM" lat="N0444752000" lon="E0123021000" />
+    <point id="ARLES" lat="N0455546000" lon="E0082230000" />
+    <point id="ARNOS" lat="N0463229000" lon="E0133410000" />
+    <point id="ARSIK" lat="N0403844000" lon="E0082741000" />
+    <point id="ARSOB" lat="N0424045000" lon="E0145346000" />
+    <point id="ARVOD" lat="N0450928000" lon="E0121123000" />
+    <point id="ASBOP" lat="N0440727000" lon="E0075712000" />
+    <point id="ASDOR" lat="N0434705000" lon="E0122359000" />
+    <point id="ASKAG" lat="N0414725000" lon="E0094500000" />
+    <point id="ASKOT" lat="N0363000000" lon="E0162705000" />
+    <point id="ASPIR" lat="N0421120000" lon="E0134415000" />
+    <point id="ASTIG" lat="N0445630000" lon="E0081725000" />
+    <point id="ASVOL" lat="N0431044000" lon="E0102736000" />
+    <point id="ASVUT" lat="N0463254000" lon="E0114009000" />
+    <point id="ATMAD" lat="N0451309000" lon="E0070009000" />
+    <point id="ATNET" lat="N0404555000" lon="E0100808000" />
+    <point id="ATPED" lat="N0460915000" lon="E0102549000" />
+    <point id="ATRIG" lat="N0465307000" lon="E0111556000" />
+    <point id="ATRUP" lat="N0422056000" lon="E0133544000" />
+    <point id="BABAG" lat="N0452313000" lon="E0130737000" />
+    <point id="BABLO" lat="N0365023000" lon="E0113000000" />
+    <point id="BADBA" lat="N0435924000" lon="E0073948000" />
+    <point id="BADOP" lat="N0452744000" lon="E0130015000" />
+    <point id="BAGIX" lat="N0385925000" lon="E0152928000" />
+    <point id="BAGNO" lat="N0435326000" lon="E0114808000" />
+    <point id="BAKEP" lat="N0441037000" lon="E0123541000" />
+    <point id="BAKOR" lat="N0463632000" lon="E0114343000" />
+    <point id="BAKRO" lat="N0431117000" lon="E0095315000" />
+    <point id="BALUK" lat="N0440555000" lon="E0104011000" />
+    <point id="BAMEK" lat="N0445419000" lon="E0111722000" />
+    <point id="BAMVU" lat="N0423111000" lon="E0105905000" />
+    <point id="BANAV" lat="N0414343000" lon="E0170040000" />
+    <point id="BANKO" lat="N0454912000" lon="E0070317000" />
+    <point id="BAPLU" lat="N0450918000" lon="E0101341000" />
+    <point id="BARPI" lat="N0453509000" lon="E0133122000" />
+    <point id="BASIP" lat="N0435332000" lon="E0075742000" />
+    <point id="BASOG" lat="N0450757000" lon="E0122936000" />
+    <point id="BATOX" lat="N0411246000" lon="E0100923000" />
+    <point id="BAVMI" lat="N0454213000" lon="E0082428000" />
+    <point id="BAXON" lat="N0442459000" lon="E0132747000" />
+    <point id="BEDPI" lat="N0411500000" lon="E0144610000" />
+    <point id="BEKAN" lat="N0451930000" lon="E0094540000" />
+    <point id="BEKIV" lat="N0375239000" lon="E0134005000" />
+    <point id="BELIX" lat="N0365800000" lon="E0190000000" />
+    <point id="BELOK" lat="N0392323000" lon="E0102139000" />
+    <point id="BELOV" lat="N0443233000" lon="E0124248000" />
+    <point id="BENUS" lat="N0445425000" lon="E0111213000" />
+    <point id="BEPMA" lat="N0442944000" lon="E0110437000" />
+    <point id="BERMI" lat="N0373019000" lon="E0152119000" />
+    <point id="BEROK" lat="N0440956000" lon="E0102106000" />
+    <point id="BEROL" lat="N0401217000" lon="E0130047000" />
+    <point id="BETEN" lat="N0433311000" lon="E0094606000" />
+    <point id="BETMU" lat="N0444022000" lon="E0104920000" />
+    <point id="BETOT" lat="N0402309000" lon="E0113754000" />
+    <point id="BEXOR" lat="N0465249000" lon="E0111331000" />
+    <point id="BIBAN" lat="N0455532000" lon="E0072703000" />
+    <point id="BIBNO" lat="N0441015000" lon="E0103758000" />
+    <point id="BIDMA" lat="N0433943000" lon="E0130417000" />
+    <point id="BIKTU" lat="N0440008000" lon="E0113221000" />
+    <point id="BIRSU" lat="N0413434000" lon="E0164934000" />
+    <point id="BLONA" lat="N0450031000" lon="E0064638000" />
+    <point id="BOLOT" lat="N0402124000" lon="E0085338000" />
+    <point id="BORDI" lat="N0440123000" lon="E0074507000" />
+    <point id="BORMI" lat="N0460210000" lon="E0111000000" />
+    <point id="BOTAL" lat="N0450801000" lon="E0090722000" />
+    <point id="BRENO" lat="N0465848000" lon="E0112236000" />
+    <point id="BUDIN" lat="N0382835000" lon="E0150448000" />
+    <point id="BULAR" lat="N0381851000" lon="E0104734000" />
+    <point id="BUMOK" lat="N0404251000" lon="E0154011000" />
+    <point id="BUSER" lat="N0440624000" lon="E0133856000" />
+    <point id="CANNE" lat="N0461000000" lon="E0085252000" />
+    <point id="CERVI" lat="N0455812000" lon="E0073243000" />
+    <point id="COBBA" lat="N0374844000" lon="E0144543000" />
+    <point id="CORSI" lat="N0412000000" lon="E0084844000" />
+    <point id="CRAYE" lat="N0413010000" lon="E0180745000" />
+    <point id="DAMIC" lat="N0402738000" lon="E0181634000" />
+	<point id="DAXNU" lat="N0453730000" lon="E0133709000" />
+    <point id="DEDOM" lat="N0420700000" lon="E0102600000" />
+    <point id="DEGUM" lat="N0462757000" lon="E0134157000" />
+    <point id="DELER" lat="N0401106000" lon="E0140857000" />
+    <point id="DELIK" lat="N0383718000" lon="E0163824000" />
+    <point id="DESIP" lat="N0453845000" lon="E0090733000" />
+    <point id="DESUK" lat="N0415941000" lon="E0130809000" />
+    <point id="DETSA" lat="N0464809000" lon="E0121652000" />
+    <point id="DEVOX" lat="N0444146000" lon="E0084449000" />
+    <point id="DEXUL" lat="N0395132000" lon="E0090832000" />
+    <point id="DIBAX" lat="N0460659000" lon="E0110351000" />
+    <point id="DIKEM" lat="N0460223000" lon="E0112358000" />
+    <point id="DILEB" lat="N0455830000" lon="E0093944000" />
+    <point id="DILIN" lat="N0370032000" lon="E0135852000" />
+    <point id="DINOB" lat="N0384327000" lon="E0190000000" />
+    <point id="DINUX" lat="N0363000000" lon="E0114920000" />
+    <point id="DIPOK" lat="N0391253000" lon="E0164305000" />
+    <point id="DIPVO" lat="N0433735000" lon="E0121229000" />
+    <point id="DIRAB" lat="N0464849000" lon="E0110344000" />
+    <point id="DIRED" lat="N0393351000" lon="E0143057000" />
+    <point id="DIRKA" lat="N0363000000" lon="E0141836000" />
+    <point id="DITUM" lat="N0442421000" lon="E0121450000" />
+    <point id="DIVAR" lat="N0374618000" lon="E0151844000" />
+    <point id="DIVIP" lat="N0450501000" lon="E0091403000" />
+    <point id="DIVKU" lat="N0413000000" lon="E0155016000" />
+    <point id="DIXER" lat="N0450442000" lon="E0091900000" />
+    <point id="DOBIM" lat="N0425714000" lon="E0094500000" />
+    <point id="DOBIX" lat="N0363000000" lon="E0120737000" />
+    <point id="DOBOG" lat="N0440840000" lon="E0110537000" />
+    <point id="DODEL" lat="N0373606000" lon="E0161132000" />
+    <point id="DOGUS" lat="N0410112000" lon="E0154212000" />
+    <point id="DOKAR" lat="N0423003000" lon="E0094500000" />
+    <point id="DOLON" lat="N0405321000" lon="E0173540000" />
+    <point id="DOPEL" lat="N0383139000" lon="E0085301000" />
+    <point id="DORAS" lat="N0393556000" lon="E0130336000" />
+    <point id="DORAV" lat="N0441935000" lon="E0085108000" />
+    <point id="EDOPA" lat="N0402521000" lon="E0134555000" />
+    <point id="EKDIR" lat="N0441217000" lon="E0104236000" />
+    <point id="EKLAP" lat="N0450007000" lon="E0113749000" />
+    <point id="EKLIB" lat="N0455342000" lon="E0095716000" />
+    <point id="EKMIL" lat="N0421005000" lon="E0140801000" />
+    <point id="EKMOT" lat="N0414059000" lon="E0144826000" />
+    <point id="EKMUR" lat="N0412452000" lon="E0163124000" />
+    <point id="EKOLA" lat="N0363000000" lon="E0135820000" />
+    <point id="EKPAL" lat="N0442903000" lon="E0100945000" />
+    <point id="EKPAR" lat="N0382829000" lon="E0165557000" />
+    <point id="EKPEB" lat="N0464125000" lon="E0112819000" />
+    <point id="EKPIS" lat="N0464714000" lon="E0112120000" />
+    <point id="EKPOD" lat="N0402634000" lon="E0091129000" />
+    <point id="EKSID" lat="N0434525000" lon="E0073758000" />
+    <point id="EKTOL" lat="N0410628000" lon="E0151017000" />
+    <point id="EKTUK" lat="N0440203000" lon="E0115451000" />
+    <point id="ELBUK" lat="N0443720000" lon="E0095048000" />
+    <point id="ELKAP" lat="N0424316000" lon="E0103839000" />
+    <point id="ELSAG" lat="N0403629000" lon="E0080000000" />
+    <point id="ELTAR" lat="N0453851000" lon="E0103740000" />
+    <point id="ELVIN" lat="N0412938000" lon="E0120941000" />
+    <point id="EMBOS" lat="N0435007000" lon="E0101700000" />
+    <point id="ENEPA" lat="N0374624000" lon="E0135958000" />
+    <point id="ENOBA" lat="N0441759000" lon="E0081823000" />
+    <point id="ENOXA" lat="N0411205000" lon="E0174008000" />
+    <point id="ENSOT" lat="N0403200000" lon="E0125915000" />
+    <point id="EPIKU" lat="N0405126000" lon="E0080635000" />
+    <point id="ERDON" lat="N0431742000" lon="E0130212000" />
+    <point id="ERIKA" lat="N0413722000" lon="E0140152000" />
+    <point id="ERITU" lat="N0432621000" lon="E0140734000" />
+    <point id="ERLIT" lat="N0432301000" lon="E0131002000" />
+    <point id="ERNAM" lat="N0365130000" lon="E0160945000" />
+    <point id="EROVI" lat="N0435314000" lon="E0102000000" />
+    <point id="ERPEM" lat="N0385632000" lon="E0113900000" />
+    <point id="ERPOG" lat="N0422842000" lon="E0151209000" />
+    <point id="ESINO" lat="N0412305000" lon="E0114741000" />
+    <point id="ESODU" lat="N0422634000" lon="E0141953000" />
+    <point id="ETAKO" lat="N0453908000" lon="E0135243000" />
+    <point id="ETPOK" lat="N0424541000" lon="E0121000000" />
+    <point id="ETRIN" lat="N0423621000" lon="E0144312000" />
+    <point id="EVANO" lat="N0452015000" lon="E0084539000" />
+    <point id="EVINO" lat="N0394247000" lon="E0151917000" />
+    <point id="EVKIV" lat="N0442930000" lon="E0101851000" />
+    <point id="EVRIP" lat="N0455110000" lon="E0093317000" />
+    <point id="EVROG" lat="N0431516000" lon="E0094847000" />
+    <point id="EVULI" lat="N0421008000" lon="E0132044000" />
+    <point id="FASAN" lat="N0405150000" lon="E0172537000" />
+    <point id="GALTI" lat="N0403824000" lon="E0145357000" />
+    <point id="GAPDO" lat="N0441252000" lon="E0070904000" />
+    <point id="GAPMI" lat="N0440343000" lon="E0103148000" />
+    <point id="GARGA" lat="N0421600000" lon="E0160700000" />
+    <point id="GARLO" lat="N0455228000" lon="E0074501000" />
+    <point id="GAVRA" lat="N0434634000" lon="E0114929000" />
+    <point id="GEMVI" lat="N0390646000" lon="E0174819000" />
+    <point id="GENGI" lat="N0422345000" lon="E0130321000" />
+    <point id="GERBU" lat="N0432039000" lon="E0133726000" />
+    <point id="GERMO" lat="N0391459000" lon="E0112125000" />
+    <point id="GIANO" lat="N0385209000" lon="E0122651000" />
+    <point id="GIBLO" lat="N0452130000" lon="E0095200000" />
+    <point id="GIGGI" lat="N0401529000" lon="E0090947000" />
+    <point id="GIKEB" lat="N0461057000" lon="E0113715000" />
+    <point id="GIKIN" lat="N0423706000" lon="E0120255000" />
+    <point id="GIKUS" lat="N0461024000" lon="E0131816000" />
+    <point id="GILIO" lat="N0422200000" lon="E0105534000" />
+    <point id="GIMEL" lat="N0382742000" lon="E0160314000" />
+    <point id="GINAR" lat="N0433757000" lon="E0104858000" />
+    <point id="GINOX" lat="N0405144000" lon="E0080000000" />
+    <point id="GIPIX" lat="N0440343000" lon="E0100742000" />
+    <point id="GIPUK" lat="N0443519000" lon="E0115800000" />
+    <point id="GIRIS" lat="N0464618000" lon="E0105303000" />
+    <point id="GIROV" lat="N0391248000" lon="E0154030000" />
+    <point id="GISIG" lat="N0385932000" lon="E0110349000" />
+    <point id="GISNU" lat="N0432902000" lon="E0141358000" />
+    <point id="GISPA" lat="N0414819000" lon="E0112032000" />
+    <point id="GITOD" lat="N0424801000" lon="E0121839000" />
+    <point id="GITRI" lat="N0405539000" lon="E0100929000" />
+    <point id="GOGEM" lat="N0470106000" lon="E0113135000" />
+    <point id="GOKEL" lat="N0403554000" lon="E0190000000" />
+    <point id="GOKMI" lat="N0402616000" lon="E0081422000" />
+    <point id="GOLAS" lat="N0442718000" lon="E0093703000" />
+    <point id="GONOT" lat="N0411400000" lon="E0182330000" />
+    <point id="GOPAT" lat="N0412000000" lon="E0082638000" />
+    <point id="GOREP" lat="N0445506000" lon="E0120559000" />
+    <point id="GOSEB" lat="N0413051000" lon="E0142900000" />
+    <point id="GOTEK" lat="N0460817000" lon="E0131120000" />
+    <point id="GOTMO" lat="N0431226000" lon="E0125423000" />
+    <point id="GOVGO" lat="N0431039000" lon="E0102041000" />
+    <point id="GOXIN" lat="N0441611000" lon="E0113352000" />
+    <point id="GUDPO" lat="N0424829000" lon="E0134134000" />
+    <point id="GUNGO" lat="N0462505000" lon="E0110353000" />
+    <point id="IBENI" lat="N0440051000" lon="E0135518000" />
+    <point id="IBNAN" lat="N0450726000" lon="E0100500000" />
+    <point id="IBRID" lat="N0432840000" lon="E0112503000" />
+    <point id="IBROS" lat="N0414741000" lon="E0100253000" />
+    <point id="IBTOK" lat="N0445443000" lon="E0103859000" />
+    <point id="IBUGO" lat="N0453828000" lon="E0112236000" />
+    <point id="IBUPU" lat="N0451029000" lon="E0104436000" />
+    <point id="IDEPA" lat="N0404342000" lon="E0093449000" />
+    <point id="IDLOL" lat="N0423010000" lon="E0135541000" />
+    <point id="IDONA" lat="N0435906000" lon="E0092551000" />
+    <point id="IDREK" lat="N0453846000" lon="E0104910000" />
+    <point id="INBUT" lat="N0452448000" lon="E0115503000" />
+    <point id="INDAX" lat="N0372947000" lon="E0151721000" />
+    <point id="INDUM" lat="N0405847000" lon="E0085105000" />
+    <point id="INGAB" lat="N0400058000" lon="E0154827000" />
+    <point id="INKIM" lat="N0425009000" lon="E0140955000" />
+    <point id="INSOX" lat="N0414918000" lon="E0131320000" />
+    <point id="INTUD" lat="N0422817000" lon="E0123714000" />
+    <point id="INVOP" lat="N0454810000" lon="E0080923000" />
+    <point id="IPDAB" lat="N0445741000" lon="E0105057000" />
+    <point id="IPGOR" lat="N0425308000" lon="E0121609000" />
+    <point id="IPKAM" lat="N0411127000" lon="E0143912000" />
+    <point id="IPLUB" lat="N0441454000" lon="E0104832000" />
+    <point id="IRBAK" lat="N0433714000" lon="E0100444000" />
+    <point id="ISKIA" lat="N0404127000" lon="E0135327000" />
+    <point id="IVKAL" lat="N0464739000" lon="E0110215000" />
+    <point id="IVLAM" lat="N0434722000" lon="E0073145000" />
+    <point id="IVLOX" lat="N0444310000" lon="E0102313000" />
+    <point id="IVMEP" lat="N0431622000" lon="E0132205000" />
+    <point id="IVORY" lat="N0410849000" lon="E0082859000" />
+    <point id="IXITO" lat="N0440805000" lon="E0084813000" />
+    <point id="IXOGU" lat="N0462220000" lon="E0111514000" />
+    <point id="IXORA" lat="N0455012000" lon="E0083520000" />
+    <point id="IXUSA" lat="N0450927000" lon="E0071413000" />
+    <point id="KALIK" lat="N0442806000" lon="E0095053000" />
+    <point id="KALMO" lat="N0441918000" lon="E0093539000" />
+    <point id="KANIN" lat="N0462626000" lon="E0133743000" />
+    <point id="KAPIL" lat="N0382122000" lon="E0120733000" />
+    <point id="KAPPO" lat="N0403639000" lon="E0180010000" />
+    <point id="KARDU" lat="N0425847000" lon="E0103039000" />
+    <point id="KATAR" lat="N0430306000" lon="E0124040000" />
+    <point id="KATTI" lat="N0423028000" lon="E0160256000" />
+	<point id="KEBBU" lat="N0453756000" lon="E0133053000" />
+    <point id="KEGED" lat="N0433444000" lon="E0135016000" />
+	<point id="KEMMI" lat="N0444630000" lon="E0084844000" />
+    <point id="KISTO" lat="N0421950000" lon="E0102259000" />
+    <point id="KODOK" lat="N0445633000" lon="E0074011000" />
+    <point id="KOGEB" lat="N0385041000" lon="E0163751000" />
+    <point id="KOLEX" lat="N0363000000" lon="E0123458000" />
+    <point id="KOLUS" lat="N0404305000" lon="E0092628000" />
+    <point id="KONER" lat="N0433017000" lon="E0093148000" />
+    <point id="KONUT" lat="N0411734000" lon="E0120100000" />
+    <point id="KOPER" lat="N0450914000" lon="E0113829000" />
+    <point id="KOVAS" lat="N0393844000" lon="E0090414000" />
+    <point id="KOXUD" lat="N0451046000" lon="E0093701000" />
+    <point id="KREVA" lat="N0444628000" lon="E0111406000" />
+    <point id="KUBUD" lat="N0460333000" lon="E0133611000" />
+    <point id="KUGIX" lat="N0433308000" lon="E0112144000" />
+    <point id="KUKEV" lat="N0453910000" lon="E0071229000" />
+    <point id="KUMIN" lat="N0445758000" lon="E0072055000" />
+    <point id="KUTID" lat="N0402513000" lon="E0151242000" />
+    <point id="LABIN" lat="N0445909000" lon="E0130529000" />
+    <point id="LABOM" lat="N0402256000" lon="E0092416000" />
+    <point id="LAGEN" lat="N0442339000" lon="E0082953000" />
+    <point id="LAKOX" lat="N0430920000" lon="E0120632000" />
+    <point id="LAMEB" lat="N0390430000" lon="E0162509000" />
+    <point id="LAMPO" lat="N0460621000" lon="E0114205000" />
+    <point id="LANLI" lat="N0435726000" lon="E0131050000" />
+    <point id="LANNO" lat="N0422031000" lon="E0135318000" />
+    <point id="LAPAB" lat="N0453146000" lon="E0115818000" />
+    <point id="LAPRI" lat="N0445849000" lon="E0070936000" />
+    <point id="LAPVO" lat="N0432000000" lon="E0135233000" />
+    <point id="LAREN" lat="N0451641000" lon="E0120342000" />
+    <point id="LATAN" lat="N0391736000" lon="E0190000000" />
+    <point id="LEBNU" lat="N0380109000" lon="E0134430000" />
+    <point id="LEDKO" lat="N0454908000" lon="E0110519000" />
+    <point id="LEDRO" lat="N0391703000" lon="E0094033000" />
+    <point id="LEGLO" lat="N0453901000" lon="E0094610000" />
+    <point id="LEVDI" lat="N0363000000" lon="E0184932000" />
+    <point id="LEVSI" lat="N0455616000" lon="E0101513000" />
+    <point id="LIBRO" lat="N0373717000" lon="E0142753000" />
+    <point id="LIGUR" lat="N0433237000" lon="E0085839000" />
+    <point id="LIKDA" lat="N0470101000" lon="E0114503000" />
+    <point id="LIKNO" lat="N0434738000" lon="E0122054000" />
+    <point id="LILEE" lat="N0451430000" lon="E0125506000" />
+    <point id="LISKO" lat="N0433417000" lon="E0140756000" />
+    <point id="LOBSI" lat="N0445418000" lon="E0121021000" />
+    <point id="LODPA" lat="N0390944000" lon="E0161934000" />
+    <point id="LOGDI" lat="N0444247000" lon="E0101146000" />
+    <point id="LOMED" lat="N0440138000" lon="E0110012000" />
+    <point id="LONDI" lat="N0372044000" lon="E0131127000" />
+    <point id="LOPKO" lat="N0373958000" lon="E0121049000" />
+    <point id="LORED" lat="N0363000000" lon="E0153700000" />
+    <point id="LORLO" lat="N0464327000" lon="E0104044000" />
+    <point id="LORNO" lat="N0372400000" lon="E0190000000" />
+    <point id="LUKAD" lat="N0385840000" lon="E0094337000" />
+    <point id="LUKIM" lat="N0440824000" lon="E0091831000" />
+    <point id="LULIX" lat="N0401521000" lon="E0095307000" />
+    <point id="LUMAR" lat="N0413707000" lon="E0173350000" />
+    <point id="LUMAV" lat="N0444852000" lon="E0113659000" />
+    <point id="LUNAK" lat="N0414212000" lon="E0115214000" />
+    <point id="LUNAM" lat="N0393724000" lon="E0085713000" />
+    <point id="LUNAR" lat="N0404126000" lon="E0152502000" />
+    <point id="LUPAL" lat="N0392811000" lon="E0184610000" />
+    <point id="LUPIN" lat="N0460022000" lon="E0132443000" />
+    <point id="LUPOS" lat="N0443017000" lon="E0103453000" />
+    <point id="LURAG" lat="N0453140000" lon="E0070520000" />
+    <point id="LURON" lat="N0385132000" lon="E0130657000" />
+    <point id="LURUT" lat="N0443125000" lon="E0105900000" />
+    <point id="LUSIL" lat="N0460235000" lon="E0100700000" />
+    <point id="LUTOR" lat="N0442917000" lon="E0112139000" />
+    <point id="LUXIL" lat="N0404909000" lon="E0165215000" />
+    <point id="MABOX" lat="N0370942000" lon="E0131139000" />
+    <point id="MADIR" lat="N0363000000" lon="E0131225000" />
+    <point id="MADKA" lat="N0412000000" lon="E0091606000" />
+    <point id="MALAV" lat="N0405045000" lon="E0082044000" />
+    <point id="MALOG" lat="N0403159000" lon="E0133506000" />
+    <point id="MALUG" lat="N0464222000" lon="E0123551000" />
+    <point id="MAMAR" lat="N0414814000" lon="E0110551000" />
+    <point id="MAREL" lat="N0431655000" lon="E0103905000" />
+    <point id="MAREP" lat="N0395202000" lon="E0153614000" />
+    <point id="MARON" lat="N0370725000" lon="E0133911000" />
+    <point id="MASEG" lat="N0432446000" lon="E0134458000" />
+    <point id="MASOT" lat="N0380608000" lon="E0164712000" />
+    <point id="MATED" lat="N0403638000" lon="E0161006000" />
+    <point id="MEBUR" lat="N0444535000" lon="E0091018000" />
+    <point id="MEDAL" lat="N0420310000" lon="E0112235000" />
+    <point id="MEGAN" lat="N0373217000" lon="E0115946000" />
+    <point id="MEGER" lat="N0431954000" lon="E0091033000" />
+    <point id="MINKA" lat="N0404909000" lon="E0085120000" />
+    <point id="MIRSA" lat="N0424922000" lon="E0094500000" />
+    <point id="MISPO" lat="N0450126000" lon="E0100450000" />
+    <point id="MIVKI" lat="N0441327000" lon="E0100414000" />
+    <point id="MOBDO" lat="N0462528000" lon="E0114842000" />
+    <point id="MOGPU" lat="N0433401000" lon="E0122129000" />
+    <point id="MOKTO" lat="N0403652000" lon="E0171027000" />
+    <point id="MOLUX" lat="N0411824000" lon="E0144825000" />
+    <point id="MONEB" lat="N0443735000" lon="E0091502000" />
+    <point id="MONFA" lat="N0452914000" lon="E0131645000" />
+    <point id="MOPUV" lat="N0420335000" lon="E0131655000" />
+    <point id="MOROB" lat="N0403957000" lon="E0084323000" />
+    <point id="MOULE" lat="N0423717000" lon="E0094500000" />
+    <point id="MOVOR" lat="N0454908000" lon="E0104926000" />
+    <point id="NATAG" lat="N0465129000" lon="E0103708000" />
+    <point id="NATOV" lat="N0375038000" lon="E0153137000" />
+    <point id="NAVAG" lat="N0423449000" lon="E0140548000" />
+    <point id="NAXAV" lat="N0462750000" lon="E0111920000" />
+    <point id="NAXES" lat="N0395316000" lon="E0142732000" />
+    <point id="NEBAS" lat="N0411815000" lon="E0142929000" />
+    <point id="NEDED" lat="N0444138000" lon="E0080826000" />
+    <point id="NEGIK" lat="N0454908000" lon="E0105816000" />
+    <point id="NEKPI" lat="N0412000000" lon="E0130500000" />
+    <point id="NELDA" lat="N0365146000" lon="E0142334000" />
+    <point id="NEMBO" lat="N0421727000" lon="E0104638000" />
+    <point id="NEMIT" lat="N0422150000" lon="E0101529000" />
+    <point id="NERAR" lat="N0391815000" lon="E0141601000" />
+    <point id="NESTI" lat="N0454814000" lon="E0102537000" />
+    <point id="NEVMO" lat="N0445350000" lon="E0112323000" />
+    <point id="NEVNI" lat="N0453854000" lon="E0102521000" />
+    <point id="NEVOT" lat="N0390222000" lon="E0094613000" />
+    <point id="NIBEL" lat="N0374434000" lon="E0105733000" />
+    <point id="NIBLO" lat="N0363000000" lon="E0125032000" />
+    <point id="NIGSO" lat="N0442335000" lon="E0104240000" />
+    <point id="NIKMA" lat="N0430359000" lon="E0121049000" />
+    <point id="NIKOL" lat="N0441319000" lon="E0134110000" />
+    <point id="NILTO" lat="N0402040000" lon="E0153707000" />
+    <point id="NIMUM" lat="N0444642000" lon="E0115300000" />
+    <point id="NISIL" lat="N0445904000" lon="E0111201000" />
+    <point id="NISUV" lat="N0380250000" lon="E0171635000" />
+    <point id="NITAM" lat="N0450622000" lon="E0070928000" />
+    <point id="NIVAS" lat="N0455400000" lon="E0121653000" />
+    <point id="NOBMI" lat="N0453853000" lon="E0103022000" />
+    <point id="NOLSI" lat="N0380220000" lon="E0101711000" />
+    <point id="NORNI" lat="N0431644000" lon="E0095847000" />
+    <point id="NOSTA" lat="N0434910000" lon="E0074519000" />
+    <point id="NOSTO" lat="N0394900000" lon="E0190000000" />
+    <point id="NOTRI" lat="N0372722000" lon="E0145810000" />
+	<point id="NUCRE" lat="N0403625000" lon="E0182423000" />
+    <point id="NUKNI" lat="N0434813000" lon="E0113325000" />
+    <point id="NUPMA" lat="N0363000000" lon="E0120312000" />
+    <point id="NUTRO" lat="N0430936000" lon="E0140857000" />
+    <point id="OBAXU" lat="N0371239000" lon="E0142532000" />
+    <point id="OBUXA" lat="N0452416000" lon="E0072214000" />
+    <point id="ODINA" lat="N0460616000" lon="E0083954000" />
+    <point id="OGAPU" lat="N0440930000" lon="E0113314000" />
+    <point id="OGLAK" lat="N0435900000" lon="E0102616000" />
+    <point id="OGPUD" lat="N0443659000" lon="E0110106000" />
+    <point id="OKBIS" lat="N0430008000" lon="E0115832000" />
+    <point id="OKDEB" lat="N0415434000" lon="E0130541000" />
+    <point id="OKIDO" lat="N0404950000" lon="E0094926000" />
+    <point id="OKIMO" lat="N0405602000" lon="E0180251000" />
+    <point id="OKIVA" lat="N0412000000" lon="E0090623000" />
+    <point id="OKMAP" lat="N0440253000" lon="E0111856000" />
+    <point id="OKTAV" lat="N0441708000" lon="E0105338000" />
+    <point id="OKUNO" lat="N0420626000" lon="E0125821000" />
+    <point id="OLBEK" lat="N0411532000" lon="E0095114000" />
+    <point id="OLETI" lat="N0434836000" lon="E0090031000" />
+    <point id="OLGAT" lat="N0401441000" lon="E0190000000" />
+    <point id="OLKIS" lat="N0435533000" lon="E0102213000" />
+    <point id="OLNUK" lat="N0442300000" lon="E0103256000" />
+    <point id="OLPIX" lat="N0470102000" lon="E0114125000" />
+    <point id="OMAKU" lat="N0440848000" lon="E0112311000" />
+    <point id="OMETO" lat="N0454412000" lon="E0080234000" />
+    <point id="ORSOM" lat="N0402157000" lon="E0182648000" />
+    <point id="ORTAP" lat="N0363000000" lon="E0182000000" />
+    <point id="ORVEX" lat="N0404037000" lon="E0085202000" />
+    <point id="OSBUL" lat="N0444920000" lon="E0101736000" />
+    <point id="OSDAX" lat="N0412129000" lon="E0163435000" />
+    <point id="OSDET" lat="N0374553000" lon="E0113858000" />
+    <point id="OSKOR" lat="N0453857000" lon="E0100700000" />
+    <point id="OSLOP" lat="N0453825000" lon="E0131037000" />
+    <point id="OSMAR" lat="N0381517000" lon="E0094714000" />
+    <point id="OSMEB" lat="N0450713000" lon="E0104614000" />
+    <point id="OSMOX" lat="N0435014000" lon="E0105447000" />
+    <point id="OSTEG" lat="N0451043000" lon="E0110820000" />
+    <point id="OTGIG" lat="N0445959000" lon="E0120705000" />
+	<point id="OTFOX" lat="N0453709000" lon="E0134201000" />
+    <point id="OTKEK" lat="N0452204000" lon="E0103850000" />
+    <point id="OTMUV" lat="N0441141000" lon="E0090317000" />
+    <point id="OTNUN" lat="N0441449000" lon="E0111648000" />
+    <point id="OTRET" lat="N0424140000" lon="E0140136000" />
+    <point id="PAPIZ" lat="N0405330000" lon="E0185706000" />
+    <point id="PEGIT" lat="N0363000000" lon="E0113341000" />
+    <point id="PEKOD" lat="N0374304000" lon="E0152746000" />
+    <point id="PELEG" lat="N0441340000" lon="E0114407000" />
+    <point id="PELEN" lat="N0382005000" lon="E0142714000" />
+    <point id="PELOS" lat="N0410943000" lon="E0080941000" />
+    <point id="PEMAR" lat="N0420147000" lon="E0125510000" />
+    <point id="PEPAG" lat="N0455902000" lon="E0090417000" />
+    <point id="PEPIX" lat="N0410936000" lon="E0121119000" />
+    <point id="PERAV" lat="N0413142000" lon="E0165606000" />
+    <point id="PEROS" lat="N0383815000" lon="E0154913000" />
+    <point id="PESAR" lat="N0373000000" lon="E0170947000" />
+    <point id="PETAS" lat="N0442053000" lon="E0113347000" />
+    <point id="PEVIR" lat="N0401654000" lon="E0135939000" />
+    <point id="PEXET" lat="N0451858000" lon="E0100000000" />
+    <point id="PEXUG" lat="N0453912000" lon="E0093746000" />
+    <point id="PIDEP" lat="N0434904000" lon="E0121303000" />
+    <point id="PIDUL" lat="N0410254000" lon="E0102120000" />
+    <point id="PIGAK" lat="N0442311000" lon="E0113029000" />
+    <point id="PIGER" lat="N0383255000" lon="E0152422000" />
+    <point id="PIKEL" lat="N0411103000" lon="E0170930000" />
+    <point id="PIKOT" lat="N0451113000" lon="E0094414000" />
+    <point id="PIMOR" lat="N0373427000" lon="E0155138000" />
+    <point id="PIMOT" lat="N0453015000" lon="E0074312000" />
+    <point id="PININ" lat="N0375547000" lon="E0112340000" />
+    <point id="PIRIX" lat="N0385405000" lon="E0093442000" />
+    <point id="PISIP" lat="N0413149000" lon="E0163811000" />
+    <point id="PIVOP" lat="N0372923000" lon="E0131117000" />
+    <point id="PODOX" lat="N0421638000" lon="E0103437000" />
+    <point id="POKAV" lat="N0405023000" lon="E0112359000" />
+    <point id="POLIT" lat="N0400848000" lon="E0145000000" />
+    <point id="POULP" lat="N0412000000" lon="E0083412000" />
+    <point id="POZZO" lat="N0405645000" lon="E0091559000" />
+    <point id="PUNSA" lat="N0460443000" lon="E0080133000" />
+    <point id="QUENN" lat="N0400954000" lon="E0103237000" />
+    <point id="RAMEN" lat="N0394814000" lon="E0085621000" />
+    <point id="RAPIS" lat="N0382412000" lon="E0163542000" />
+    <point id="RASUG" lat="N0454059000" lon="E0125516000" />
+    <point id="RATOK" lat="N0364352000" lon="E0131209000" />
+    <point id="RAVAL" lat="N0414817000" lon="E0114338000" />
+    <point id="REGSO" lat="N0384120000" lon="E0152002000" />
+    <point id="RENTA" lat="N0461820000" lon="E0105149000" />
+    <point id="RESIA" lat="N0462842000" lon="E0100236000" />
+    <point id="RIDVA" lat="N0450957000" lon="E0103832000" />
+    <point id="RIFEN" lat="N0455104000" lon="E0133523000" />
+    <point id="RIFFI" lat="N0411328000" lon="E0123156000" />
+    <point id="RIPDU" lat="N0443721000" lon="E0102830000" />
+    <point id="RISOM" lat="N0460405000" lon="E0125739000" />
+    <point id="RITEB" lat="N0424155000" lon="E0120949000" />
+    <point id="RIVAM" lat="N0422957000" lon="E0154622000" />
+    <point id="RIXUV" lat="N0455351000" lon="E0083635000" />
+    <point id="ROBAS" lat="N0451137000" lon="E0094334000" />
+    <point id="ROBET" lat="N0370251000" lon="E0115832000" />
+    <point id="ROBIM" lat="N0365453000" lon="E0125554000" />
+    <point id="ROBOT" lat="N0404235000" lon="E0172810000" />
+    <point id="RODRU" lat="N0454015000" lon="E0092336000" />
+    <point id="ROKIB" lat="N0455608000" lon="E0114132000" />
+    <point id="ROKUD" lat="N0445823000" lon="E0081539000" />
+    <point id="ROLEV" lat="N0363000000" lon="E0113723000" />
+    <point id="ROMPO" lat="N0410556000" lon="E0094615000" />
+    <point id="ROMSU" lat="N0371415000" lon="E0144520000" />
+    <point id="RONAB" lat="N0395211000" lon="E0115328000" />
+    <point id="RONOP" lat="N0451109000" lon="E0070923000" />
+    <point id="ROSAS" lat="N0385102000" lon="E0133222000" />
+    <point id="ROSGO" lat="N0462710000" lon="E0092741000" />
+    <point id="ROSKA" lat="N0451851000" lon="E0125142000" />
+    <point id="ROSKI" lat="N0424219000" lon="E0110131000" />
+    <point id="ROSUV" lat="N0434059000" lon="E0120349000" />
+    <point id="ROTAR" lat="N0451546000" lon="E0125944000" />
+    <point id="ROTIR" lat="N0421309000" lon="E0104709000" />
+    <point id="ROTUN" lat="N0405300000" lon="E0121820000" />
+    <point id="ROVIG" lat="N0445526000" lon="E0115351000" />
+    <point id="ROXAN" lat="N0404947000" lon="E0111302000" />
+    <point id="ROXOM" lat="N0381650000" lon="E0170522000" />
+    <point id="RUBRI" lat="N0363554000" lon="E0120432000" />
+    <point id="RUGOX" lat="N0411504000" lon="E0092136000" />
+    <point id="RUPAX" lat="N0421803000" lon="E0152818000" />
+    <point id="RUTOM" lat="N0383106000" lon="E0190000000" />
+    <point id="RUVIP" lat="N0400338000" lon="E0114744000" />
+    <point id="RUVUK" lat="N0445525000" lon="E0103046000" />
+    <point id="RUXOL" lat="N0440655000" lon="E0103535000" />
+    <point id="RUXOP" lat="N0411009000" lon="E0100034000" />
+    <point id="SAFFA" lat="N0464413000" lon="E0102416000" />
+    <point id="SENTI" lat="N0371017000" lon="E0123259000" />
+    <point id="SIPRO" lat="N0412646000" lon="E0134050000" />
+    <point id="SIRGI" lat="N0400750000" lon="E0164213000" />
+    <point id="SOBRI" lat="N0390504000" lon="E0150748000" />
+    <point id="SODIO" lat="N0401640000" lon="E0083231000" />
+    <point id="SODMO" lat="N0374348000" lon="E0173144000" />
+    <point id="SOMAS" lat="N0390735000" lon="E0155808000" />
+    <point id="SONAK" lat="N0363712000" lon="E0113000000" />
+    <point id="SOPIR" lat="N0363000000" lon="E0134737000" />
+    <point id="SOPOM" lat="N0375442000" lon="E0152157000" />
+    <point id="SORUG" lat="N0434043000" lon="E0125857000" />
+    <point id="SOTOV" lat="N0465638000" lon="E0111238000" />
+    <point id="SOVAN" lat="N0425005000" lon="E0115330000" />
+    <point id="SOVOX" lat="N0455806000" lon="E0133550000" />
+    <point id="SOVUB" lat="N0445514000" lon="E0120108000" />
+    <point id="SPEZI" lat="N0434634000" lon="E0093541000" />
+    <point id="SUBOK" lat="N0363000000" lon="E0165126000" />
+    <point id="SUKOM" lat="N0443309000" lon="E0114011000" />
+    <point id="SUKUN" lat="N0404502000" lon="E0095440000" />
+    <point id="SUMIR" lat="N0461532000" lon="E0112135000" />
+    <point id="SUPUX" lat="N0402529000" lon="E0080000000" />
+    <point id="SUSIP" lat="N0374025000" lon="E0110650000" />
+    <point id="SUSOM" lat="N0363000000" lon="E0140557000" />
+    <point id="SUTAD" lat="N0403546000" lon="E0085806000" />
+    <point id="SUTOB" lat="N0424559000" lon="E0143022000" />
+    <point id="SUXAN" lat="N0463344000" lon="E0102845000" />
+    <point id="SUXUB" lat="N0415254000" lon="E0140447000" />
+    <point id="TABOT" lat="N0390900000" lon="E0080000000" />
+    <point id="TADIX" lat="N0384949000" lon="E0142140000" />
+    <point id="TAGEL" lat="N0401752000" lon="E0131840000" />
+    <point id="TAGIP" lat="N0455601000" lon="E0104124000" />
+    <point id="TALEP" lat="N0432744000" lon="E0084244000" />
+    <point id="TEKSA" lat="N0400016000" lon="E0084619000" />
+    <point id="TEREZ" lat="N0412000000" lon="E0090213000" />
+    <point id="TERSI" lat="N0454713000" lon="E0072735000" />
+    <point id="TESTO" lat="N0443550000" lon="E0083956000" />
+    <point id="TIBER" lat="N0421456000" lon="E0123556000" />
+    <point id="TIBRO" lat="N0461306000" lon="E0132822000" />
+    <point id="TIDKA" lat="N0434800000" lon="E0091131000" />
+    <point id="TIGRA" lat="N0400324000" lon="E0190000000" />
+    <point id="TIMOV" lat="N0422937000" lon="E0115357000" />
+    <point id="TIMPU" lat="N0414549000" lon="E0162547000" />
+    <point id="TINIX" lat="N0420957000" lon="E0130722000" />
+    <point id="TINKU" lat="N0434548000" lon="E0103226000" />
+    <point id="TINTO" lat="N0412841000" lon="E0110404000" />
+    <point id="TIPNI" lat="N0441818000" lon="E0111305000" />
+    <point id="TISAL" lat="N0363000000" lon="E0174623000" />
+    <point id="TISAX" lat="N0463843000" lon="E0110354000" />
+    <point id="TIVNO" lat="N0434644000" lon="E0074701000" />
+    <point id="TIVUK" lat="N0385100000" lon="E0095600000" />
+    <point id="TIXIR" lat="N0421519000" lon="E0135330000" />
+    <point id="TOBSO" lat="N0470058000" lon="E0115127000" />
+    <point id="TODNO" lat="N0443138000" lon="E0110342000" />
+    <point id="TOMGI" lat="N0384305000" lon="E0181317000" />
+    <point id="TONDA" lat="N0450633000" lon="E0081347000" />
+    <point id="TOPNO" lat="N0405706000" lon="E0160628000" />
+    <point id="TORLI" lat="N0413548000" lon="E0120106000" />
+    <point id="TORPO" lat="N0433351000" lon="E0142529000" />
+    <point id="TORTU" lat="N0432318000" lon="E0085730000" />
+    <point id="TOSMI" lat="N0445938000" lon="E0065856000" />
+    <point id="TROTA" lat="N0410331000" lon="E0180357000" />
+    <point id="TUFTE" lat="N0424103000" lon="E0132802000" />
+    <point id="TULIK" lat="N0451702000" lon="E0124721000" />
+    <point id="TUNEX" lat="N0373534000" lon="E0111739000" />
+    <point id="TUPAL" lat="N0371121000" lon="E0113000000" />
+    <point id="TUPUP" lat="N0451317000" lon="E0073552000" />
+    <point id="TURMO" lat="N0405140000" lon="E0114958000" />
+    <point id="TUTIP" lat="N0391147000" lon="E0094552000" />
+    <point id="TUTIV" lat="N0454231000" lon="E0134936000" />
+    <point id="ULCOR" lat="N0445155000" lon="E0085929000" />
+    <point id="ULGOD" lat="N0462855000" lon="E0091631000" />
+    <point id="ULKEN" lat="N0393654000" lon="E0160221000" />
+    <point id="UMBEK" lat="N0453240000" lon="E0132511000" />
+    <point id="UNIMI" lat="N0465139000" lon="E0110355000" />
+    <point id="UNITA" lat="N0435640000" lon="E0090130000" />
+    <point id="UNIXO" lat="N0404631000" lon="E0124054000" />
+    <point id="UNTAD" lat="N0461312000" lon="E0105034000" />
+    <point id="UNUMU" lat="N0432522000" lon="E0124311000" />
+    <point id="UPADU" lat="N0424447000" lon="E0104419000" />
+    <point id="UPDIN" lat="N0432244000" lon="E0095411000" />
+    <point id="UPIRO" lat="N0453733000" lon="E0124433000" />
+    <point id="UPLAD" lat="N0401345000" lon="E0161238000" />
+    <point id="UPLIT" lat="N0363000000" lon="E0133223000" />
+    <point id="UPONO" lat="N0425057000" lon="E0120017000" />
+    <point id="URAVA" lat="N0462458000" lon="E0133156000" />
+    <point id="UREXE" lat="N0405500000" lon="E0094036000" />
+    <point id="URIPI" lat="N0415233000" lon="E0151105000" />
+    <point id="USANO" lat="N0434403000" lon="E0074250000" />
+    <point id="USEPI" lat="N0402647000" lon="E0082356000" />
+    <point id="UTAPO" lat="N0422232000" lon="E0141022000" />
+    <point id="UTENO" lat="N0431503000" lon="E0134056000" />
+    <point id="UVOKA" lat="N0412247000" lon="E0165149000" />
+    <point id="UVOKI" lat="N0443041000" lon="E0104321000" />
+    <point id="UXUTA" lat="N0375606000" lon="E0144125000" />
+    <point id="VABMO" lat="N0435518000" lon="E0113727000" />
+    <point id="VABOK" lat="N0451737000" lon="E0111641000" />
+    <point id="VADIK" lat="N0453824000" lon="E0112817000" />
+    <point id="VAKON" lat="N0452841000" lon="E0100000000" />
+    <point id="VAKOR" lat="N0385010000" lon="E0140913000" />
+    <point id="VALMA" lat="N0413438000" lon="E0112517000" />
+    <point id="VAMTU" lat="N0440844000" lon="E0073731000" />
+    <point id="VAPUP" lat="N0430321000" lon="E0151220000" />
+    <point id="VARAL" lat="N0400051000" lon="E0143829000" />
+    <point id="VAVAX" lat="N0403925000" lon="E0093238000" />
+    <point id="VEBOX" lat="N0410900000" lon="E0153147000" />
+    <point id="VEGAN" lat="N0403616000" lon="E0152809000" />
+    <point id="VEKEN" lat="N0463349000" lon="E0132246000" />
+    <point id="VEKET" lat="N0401939000" lon="E0092044000" />
+    <point id="VELAD" lat="N0420306000" lon="E0104549000" />
+    <point id="VELEX" lat="N0395759000" lon="E0112732000" />
+    <point id="VELUG" lat="N0425427000" lon="E0152615000" />
+    <point id="VENIM" lat="N0363000000" lon="E0172533000" />
+    <point id="VEROB" lat="N0451744000" lon="E0072322000" />
+    <point id="VERUN" lat="N0431653000" lon="E0115517000" />
+    <point id="VESAL" lat="N0462324000" lon="E0114259000" />
+    <point id="VEVAR" lat="N0444800000" lon="E0070045000" />
+    <point id="VEXUV" lat="N0404222000" lon="E0131759000" />
+    <point id="VULKA" lat="N0384800000" lon="E0151636000" />
+    <point id="VURKE" lat="N0411637000" lon="E0180549000" />
+    <point id="VUSME" lat="N0371550000" lon="E0154806000" />
+    <point id="XAMIT" lat="N0431842000" lon="E0144752000" />
+    <point id="XAPAT" lat="N0403629000" lon="E0181726000" />
+    <point id="XATOS" lat="N0394155000" lon="E0080000000" />
+    <point id="XIBIL" lat="N0424749000" lon="E0105902000" />
+    <point id="XOLTA" lat="N0424214000" lon="E0154454000" />
+    <point id="XOPTA" lat="N0423829000" lon="E0095200000" />
+
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++-->
+<!--+++++++++++++++TERM FIX+++++++++++++++++++++++++-->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++-->
+   <point id="ABLEX" lat="N0442736000" lon="E0112951000" />
+   <point id="ABLID" lat="N0450824000" lon="E0103109000" />
+   <point id="ABRUS" lat="N0365140000" lon="E0120954000" />
+   <point id="ABSEM" lat="N0452902000" lon="E0092353000" />
+   <point id="ABSID" lat="N0382520000" lon="E0131029000" />
+   <point id="ADARI" lat="N0455041000" lon="E0092510000" />
+   <point id="ADLUV" lat="N0435048000" lon="E0133101000" />
+   <point id="ADMAS" lat="N0373344000" lon="E0175129000" />
+   <point id="ADMOP" lat="N0411919000" lon="E0120710000" />
+   <point id="ADOLO" lat="N0443542000" lon="E0110722000" />
+   <point id="ADSAS" lat="N0451143000" lon="E0102551000" />
+   <point id="AGAVI" lat="N0451102000" lon="E0115634000" />
+   <point id="AGEKO" lat="N0373059000" lon="E0152601000" />
+   <point id="AGMIK" lat="N0404154000" lon="E0092431000" />
+   <point id="AGOTI" lat="N0410816000" lon="E0143852000" />
+   <point id="AHCAB" lat="N0371852000" lon="E0142804000" />
+   <point id="AIXBA" lat="N0451321000" lon="E0110204000" />
+   <point id="AKILI" lat="N0414950000" lon="E0121910000" />
+   <point id="ALARI" lat="N0444359000" lon="E0075632000" />
+   <point id="ALAVI" lat="N0353554000" lon="E0125448000" />
+   <point id="ALEXA" lat="N0444622000" lon="E0080244000" />
+   <point id="ANAXA" lat="N0412607000" lon="E0121324000" />
+   <point id="ANIRE" lat="N0371828000" lon="E0153838000" />
+   <point id="APRIV" lat="N0444057000" lon="E0095235000" />
+   <point id="ARKEM" lat="N0432712000" lon="E0132850000" />
+   <point id="ARBIP" lat="N0403002000" lon="E0180646000" />
+   <point id="ARLUK" lat="N0454326000" lon="E0115019000" />
+   <point id="ASBEB" lat="N0382453000" lon="E0131819000" />
+   <point id="ASKUV" lat="N0413803000" lon="E0115559000" />
+   <point id="ASTOR" lat="N0444950000" lon="E0080548000" />
+   <point id="ASTUB" lat="N0423404000" lon="E0141932000" />
+   <point id="ASUFE" lat="N0373440000" lon="E0152451000" />
+   <point id="ATGAM" lat="N0452452000" lon="E0092257000" />
+   <point id="ATMIP" lat="N0450252000" lon="E0100534000" />
+   <point id="BABIK" lat="N0364718000" lon="E0114811000" />
+   <point id="BABNU" lat="N0434825000" lon="E0101052000" />
+   <point id="BADUK" lat="N0381659000" lon="E0132441000" />
+   <point id="BAMOV" lat="N0461753000" lon="E0110341000" />
+   <point id="BAPIL" lat="N0441044000" lon="E0122116000" />
+   <point id="BARBY" lat="N0450630000" lon="E0074156000" />
+   <point id="BARMO" lat="N0442003000" lon="E0093154000" />
+   <point id="BASBU" lat="N0414337000" lon="E0124227000" />
+   <point id="BAVOM" lat="N0422711000" lon="E0143243000" />
+   <point id="BEBGI" lat="N0404447000" lon="E0085742000" />
+   <point id="BEDIX" lat="N0452912000" lon="E0095657000" />
+   <point id="BEGUD" lat="N0424650000" lon="E0095200000" />
+   <point id="BENTO" lat="N0410339000" lon="E0143949000" />
+   <point id="BERAB" lat="N0440303000" lon="E0082419000" />
+   <point id="BEVIS" lat="N0415558000" lon="E0181140000" />
+   <point id="BEXIB" lat="N0404739000" lon="E0090306000" />
+   <point id="BIBEK" lat="N0422628000" lon="E0111505000" />
+   <point id="BIBSO" lat="N0380633000" lon="E0125337000" />
+   <point id="BINPU" lat="N0382340000" lon="E0132511000" />
+   <point id="BITNI" lat="N0414453000" lon="E0120157000" />
+   <point id="BOCIR" lat="N0373342000" lon="E0152740000" />
+   <point id="BOGHA" lat="N0374522000" lon="E0142659000" />
+   <point id="BOLVO" lat="N0450819000" lon="E0104106000" />
+   <point id="BRIVE" lat="N0410051000" lon="E0092807000" />
+   <point id="BUNUL" lat="N0415032000" lon="E0122411000" />
+   <point id="CALDO" lat="N0455433000" lon="E0085151000" />
+   <point id="DAVID" lat="N0404712000" lon="E0082302000" />
+   <point id="DEDRA" lat="N0375115000" lon="E0153452000" />
+   <point id="DEROG" lat="N0365107000" lon="E0120731000" />
+   <point id="DERUX" lat="N0425545000" lon="E0122719000" />
+   <point id="DEVEM" lat="N0413923000" lon="E0124135000" />
+   <point id="DEXOL" lat="N0355801000" lon="E0131300000" />
+   <point id="DIBVI" lat="N0413102000" lon="E0122436000" />
+   <point id="DIGTO" lat="N0450719000" lon="E0110528000" />
+   <point id="DIKOB" lat="N0374140000" lon="E0125055000" />
+   <point id="DIRVU" lat="N0451900000" lon="E0101410000" />
+   <point id="DISEV" lat="N0403050000" lon="E0081342000" />
+   <point id="DOGAK" lat="N0383906000" lon="E0131313000" />
+   <point id="DOGEX" lat="N0451403000" lon="E0122644000" />
+   <point id="DOGGA" lat="N0404138000" lon="E0092353000" />
+   <point id="DOGUB" lat="N0454048000" lon="E0083122000" />
+   <point id="DORIN" lat="N0451333000" lon="E0095158000" />
+   <point id="DREUX" lat="N0451501000" lon="E0102033000" />
+   <point id="EDEMO" lat="N0453500000" lon="E0115708000" />
+   <point id="EDOXI" lat="N0381808000" lon="E0132809000" />
+   <point id="EDUGI" lat="N0434728000" lon="E0141020000" />
+   <point id="EKBUV" lat="N0454723000" lon="E0100702000" />
+   <point id="EKDOG" lat="N0452345000" lon="E0100000000" />
+   <point id="EKLOS" lat="N0413421000" lon="E0121801000" />
+   <point id="EKNOR" lat="N0452217000" lon="E0121038000" />
+   <point id="EKPOP" lat="N0452601000" lon="E0084638000" />
+   <point id="EKRAX" lat="N0415426000" lon="E0121229000" />
+   <point id="EKROB" lat="N0405002000" lon="E0095441000" />
+   <point id="EKRUP" lat="N0365439000" lon="E0114617000" />
+   <point id="EKTEM" lat="N0375342000" lon="E0153217000" />
+   <point id="EKTOR" lat="N0374442000" lon="E0124554000" />
+   <point id="EKVAV" lat="N0415843000" lon="E0123934000" />
+   <point id="ELBOD" lat="N0452341000" lon="E0094824000" />
+   <point id="ELDIP" lat="N0451303000" lon="E0103749000" />
+   <point id="ELITO" lat="N0415815000" lon="E0121845000" />
+   <point id="ELNOG" lat="N0413715000" lon="E0123748000" />
+   <point id="ELVEB" lat="N0442628000" lon="E0111411000" />
+   <point id="EMDEK" lat="N0410147000" lon="E0100233000" />
+   <point id="EMDUD" lat="N0443702000" lon="E0110337000" />
+   <point id="EMPAB" lat="N0372132000" lon="E0154259000" />
+   <point id="ENEXU" lat="N0413727000" lon="E0122114000" />
+   <point id="EPIDA" lat="N0390240000" lon="E0091824000" />
+   <point id="EREDO" lat="N0433235000" lon="E0131459000" />
+   <point id="ERMOB" lat="N0451442000" lon="E0104013000" />
+   <point id="ERPAV" lat="N0411321000" lon="E0095205000" />
+   <point id="ERSAB" lat="N0452635000" lon="E0123307000" />
+   <point id="ERSEP" lat="N0445831000" lon="E0073807000" />
+   <point id="ERTEV" lat="N0433818000" lon="E0085730000" />
+   <point id="ESALU" lat="N0421311000" lon="E0122932000" />
+   <point id="ESATU" lat="N0415908000" lon="E0122036000" />
+   <point id="ESITE" lat="N0451329000" lon="E0085901000" />
+   <point id="ESTEW" lat="N0373428000" lon="E0150854000" />
+   <point id="EVGIR" lat="N0453703000" lon="E0085237000" />
+   <point id="EXAMA" lat="N0420900000" lon="E0121132000" />
+   <point id="FARAK" lat="N0453315000" lon="E0082657000" />
+   <point id="FEFOS" lat="N0373121000" lon="E0143239000" />
+   <point id="FIZZY" lat="N0383551000" lon="E0130808000" />
+   <point id="FORER" lat="N0460629000" lon="E0110930000" />
+   <point id="GASVA" lat="N0410639000" lon="E0142015000" />
+   <point id="GEGDU" lat="N0420117000" lon="E0123535000" />
+   <point id="GEKBA" lat="N0441613000" lon="E0074644000" />
+   <point id="GEKNU" lat="N0404921000" lon="E0093835000" />
+   <point id="GEMMA" lat="N0404238000" lon="E0141710000" />
+   <point id="GEVSO" lat="N0383639000" lon="E0132013000" />
+   <point id="GIFAN" lat="N0372642000" lon="E0144713000" />
+   <point id="GIGIX" lat="N0372629000" lon="E0143957000" />
+   <point id="GIKUT" lat="N0441019000" lon="E0091016000" />
+   <point id="GIMIX" lat="N0463123000" lon="E0134251000" />
+   <point id="GIPAP" lat="N0420459000" lon="E0115326000" />
+   <point id="GIPOR" lat="N0402538000" lon="E0143625000" />
+   <point id="GISAM" lat="N0415507000" lon="E0174531000" />
+   <point id="GIVAT" lat="N0451155000" lon="E0103609000" />
+   <point id="GIXOM" lat="N0421543000" lon="E0113856000" />
+   <point id="GODUB" lat="N0404916000" lon="E0174512000" />
+   <point id="GOKBA" lat="N0415137000" lon="E0122256000" />
+   <point id="GOKLO" lat="N0410450000" lon="E0091930000" />
+   <point id="GOLMU" lat="N0403612000" lon="E0091343000" />
+   <point id="GOLPO" lat="N0420257000" lon="E0120741000" />
+   <point id="GONGA" lat="N0433626000" lon="E0105337000" />
+   <point id="GOPOL" lat="N0422413000" lon="E0113458000" />
+   <point id="GOVAM" lat="N0385130000" lon="E0163053000" />
+   <point id="GUFAT" lat="N0371925000" lon="E0143413000" />
+   <point id="IBLET" lat="N0383247000" lon="E0131324000" />
+   <point id="IBLIG" lat="N0373310000" lon="E0151235000" />
+   <point id="IBLUN" lat="N0445215000" lon="E0094327000" />
+   <point id="IBNEL" lat="N0442545000" lon="E0113457000" />
+   <point id="IBREP" lat="N0394140000" lon="E0080635000" />
+   <point id="IBSAP" lat="N0451249000" lon="E0083148000" />
+   <point id="IDABU" lat="N0413534000" lon="E0122201000" />
+   <point id="IDROX" lat="N0413340000" lon="E0123953000" />
+   <point id="IKREZ" lat="N0451113000" lon="E0084220000" />
+   <point id="INDOD" lat="N0451310000" lon="E0122320000" />
+   <point id="INFRI" lat="N0451403000" lon="E0104924000" />
+   <point id="INLER" lat="N0452210000" lon="E0084800000" />
+   <point id="INRIB" lat="N0434344000" lon="E0134047000" />
+   <point id="INVES" lat="N0450250000" lon="E0092545000" />
+   <point id="IPGUN" lat="N0413024000" lon="E0115522000" />
+   <point id="IPINO" lat="N0454226000" lon="E0131703000" />
+   <point id="IPKOV" lat="N0405904000" lon="E0092446000" />
+   <point id="IPLEK" lat="N0423239000" lon="E0113100000" />
+   <point id="IPMUT" lat="N0414014000" lon="E0123017000" />
+   <point id="IPROM" lat="N0410527000" lon="E0081310000" />
+   <point id="IPSAR" lat="N0413500000" lon="E0124558000" />
+   <point id="IQNOC" lat="N0371756000" lon="E0151956000" />
+   <point id="IRBES" lat="N0420407000" lon="E0121004000" />
+   <point id="IRKED" lat="N0454326000" lon="E0085204000" />
+   <point id="ITVUN" lat="N0450730000" lon="E0094353000" />
+   <point id="IVMAN" lat="N0434716000" lon="E0133554000" />
+   <point id="IXOSI" lat="N0381450000" lon="E0124908000" />
+   <point id="IXUKI" lat="N0445911000" lon="E0101738000" />
+   <point id="JESSY" lat="N0432926000" lon="E0101146000" />
+   <point id="KAREL" lat="N0432047000" lon="E0101931000" />
+   <point id="KEPUM" lat="N0434426000" lon="E0133200000" />
+   <point id="KERON" lat="N0381327000" lon="E0124845000" />
+   <point id="KIZAF" lat="N0451949000" lon="E0120741000" />
+   <point id="KOLOR" lat="N0382730000" lon="E0131503000" />
+   <point id="KUGAG" lat="N0405031000" lon="E0090830000" />
+   <point id="KUPBE" lat="N0453737000" lon="E0083610000" />
+   <point id="LADUS" lat="N0445652000" lon="E0073453000" />
+   <point id="LADUV" lat="N0434551000" lon="E0133357000" />
+   <point id="LAISH" lat="N0450233000" lon="E0101426000" />
+   <point id="LAMUP" lat="N0365459000" lon="E0120054000" />
+   <point id="LARUD" lat="N0442416000" lon="E0105331000" />
+   <point id="LASAV" lat="N0453642000" lon="E0100024000" />
+   <point id="LATNI" lat="N0354450000" lon="E0124058000" />
+   <point id="LATUS" lat="N0452210000" lon="E0121045000" />
+   <point id="LAVRU" lat="N0381548000" lon="E0132109000" />
+   <point id="LEDSA" lat="N0415847000" lon="E0115604000" />
+   <point id="LEIRA" lat="N0454943000" lon="E0131724000" />
+   <point id="LELSU" lat="N0420216000" lon="E0124827000" />
+   <point id="LESMI" lat="N0354355000" lon="E0123054000" />
+   <point id="LIDNU" lat="N0410734000" lon="E0095720000" />
+   <point id="LIGBU" lat="N0422141000" lon="E0122557000" />
+   <point id="LIMBA" lat="N0445536000" lon="E0091958000" />
+   <point id="LOBBE" lat="N0451955000" lon="E0120736000" />
+   <point id="LOMEF" lat="N0404833000" lon="E0174449000" />
+   <point id="LONDA" lat="N0381638000" lon="E0153238000" />
+   <point id="LOUIS" lat="N0381439000" lon="E0124235000" />
+   <point id="LUGAN" lat="N0460013000" lon="E0085437000" />
+   <point id="LULET" lat="N0441258000" lon="E0091859000" />
+   <point id="LUTES" lat="N0383222000" lon="E0130104000" />
+   <point id="LUZEM" lat="N0372747000" lon="E0150423000" />
+   <point id="MALFI" lat="N0403520000" lon="E0143710000" />
+   <point id="MAPIS" lat="N0410444000" lon="E0163259000" />
+   <point id="MARLY" lat="N0434403000" lon="E0095613000" />
+   <point id="MASAX" lat="N0402440000" lon="E0172552000" />
+   <point id="MASSU" lat="N0405258000" lon="E0081749000" />
+   <point id="MATOG" lat="N0452311000" lon="E0073522000" />
+   <point id="MAVEN" lat="N0420343000" lon="E0120722000" />
+   <point id="MIKSO" lat="N0420128000" lon="E0121112000" />
+   <point id="MILIS" lat="N0410158000" lon="E0094622000" />
+   <point id="MIRAX" lat="N0445609000" lon="E0080838000" />
+   <point id="MIVBO" lat="N0444129000" lon="E0113208000" />
+   <point id="MOGBO" lat="N0445854000" lon="E0072429000" />
+   <point id="MORUX" lat="N0380247000" lon="E0121538000" />
+   <point id="MUSKY" lat="N0383440000" lon="E0122803000" />
+   <point id="NALUV" lat="N0382543000" lon="E0124241000" />
+   <point id="NANUX" lat="N0420800000" lon="E0115540000" />
+   <point id="NAPOX" lat="N0415251000" lon="E0123144000" />
+   <point id="NASOM" lat="N0372555000" lon="E0143938000" />
+   <point id="NELAB" lat="N0453742000" lon="E0082424000" />
+   <point id="NENIG" lat="N0415400000" lon="E0113534000" />
+   <point id="NERBO" lat="N0451700000" lon="E0100000000" />
+   <point id="NETUN" lat="N0412514000" lon="E0121533000" />
+   <point id="NEVUX" lat="N0413144000" lon="E0121926000" />
+   <point id="NIBTO" lat="N0434225000" lon="E0110249000" />
+   <point id="NIBUG" lat="N0414022000" lon="E0122825000" />
+   <point id="NIKMO" lat="N0455934000" lon="E0091023000" />
+   <point id="NIORR" lat="N0454313000" lon="E0132524000" />
+   <point id="NIPLI" lat="N0451635000" lon="E0103249000" />
+   <point id="NIPSA" lat="N0413444000" lon="E0121930000" />
+   <point id="NOBKE" lat="N0452527000" lon="E0084738000" />
+   <point id="NOGLU" lat="N0403006000" lon="E0180816000" />
+   <point id="NOGMO" lat="N0444652000" lon="E0092053000" />
+   <point id="NOPMU" lat="N0435704000" lon="E0075348000" />
+   <point id="NUDRA" lat="N0382611000" lon="E0132822000" />
+   <point id="NULGI" lat="N0434941000" lon="E0131854000" />
+   <point id="NUTTU" lat="N0404735000" lon="E0093521000" />
+   <point id="OBIMI" lat="N0404156000" lon="E0090826000" />
+   <point id="ODAMO" lat="N0452616000" lon="E0095032000" />
+   <point id="ODOGI" lat="N0405609000" lon="E0095138000" />
+   <point id="ODULA" lat="N0413242000" lon="E0122313000" />
+   <point id="ODUPA" lat="N0422152000" lon="E0115954000" />
+   <point id="OGOVU" lat="N0390900000" lon="E0080635000" />
+   <point id="OGSOK" lat="N0445826000" lon="E0100801000" />
+   <point id="OGTOM" lat="N0420240000" lon="E0123354000" />
+   <point id="OGVON" lat="N0453150000" lon="E0094744000" />
+   <point id="OKBAD" lat="N0403903000" lon="E0091907000" />
+   <point id="OKDAK" lat="N0451628000" lon="E0092607000" />
+   <point id="OKOMU" lat="N0450641000" lon="E0073736000" />
+   <point id="OKUBU" lat="N0413545000" lon="E0121905000" />
+   <point id="OLEVA" lat="N0404535000" lon="E0140300000" />
+   <point id="OLINI" lat="N0375516000" lon="E0153359000" />
+   <point id="OLPUR" lat="N0453854000" lon="E0093709000" />
+   <point id="OMILI" lat="N0450138000" lon="E0073821000" />
+   <point id="OMIZE" lat="N0373047000" lon="E0142624000" />
+   <point id="ORTEV" lat="N0385222000" lon="E0163106000" />
+   <point id="ORVUN" lat="N0381946000" lon="E0131329000" />
+   <point id="OSMAL" lat="N0411254000" lon="E0170415000" />
+   <point id="OTKUB" lat="N0413943000" lon="E0124538000" />
+   <point id="OXERU" lat="N0420057000" lon="E0121125000" />
+   <point id="OXUGI" lat="N0382258000" lon="E0131227000" />
+   <point id="PABRO" lat="N0450013000" lon="E0095726000" />
+   <point id="PABUC" lat="N0373154000" lon="E0143854000" />
+   <point id="PEHPE" lat="N0375108000" lon="E0144211000" />
+   <point id="PELZA" lat="N0373224000" lon="E0144438000" />
+   <point id="PETIP" lat="N0354502000" lon="E0123708000" />
+   <point id="PEVAL" lat="N0451841000" lon="E0131451000" />
+   <point id="PEVIK" lat="N0451717000" lon="E0104357000" />
+   <point id="PIDAD" lat="N0433744000" lon="E0084244000" />
+   <point id="PIGEG" lat="N0410742000" lon="E0094110000" />
+   <point id="PIGOL" lat="N0353055000" lon="E0124445000" />
+   <point id="PILUD" lat="N0451811000" lon="E0103033000" />
+   <point id="PINIK" lat="N0455227000" lon="E0085056000" />
+   <point id="PINUK" lat="N0415156000" lon="E0183524000" />
+   <point id="POZIM" lat="N0373226000" lon="E0144508000" />
+   <point id="RATIR" lat="N0414054000" lon="E0122657000" />
+   <point id="RAVUX" lat="N0422835000" lon="E0122028000" />
+   <point id="REDKO" lat="N0382143000" lon="E0131920000" />
+   <point id="REPTA" lat="N0354216000" lon="E0131317000" />
+   <point id="RETKU" lat="N0430135000" lon="E0121405000" />
+   <point id="REVDO" lat="N0412000000" lon="E0084127000" />
+   <point id="RIGON" lat="N0451903000" lon="E0085844000" />
+   <point id="RILPI" lat="N0373824000" lon="E0144410000" />
+   <point id="RIMED" lat="N0441610000" lon="E0115409000" />
+   <point id="RINAD" lat="N0422712000" lon="E0114221000" />
+   <point id="RIPTO" lat="N0403320000" lon="E0090820000" />
+   <point id="RIROX" lat="N0384850000" lon="E0170642000" />
+   <point id="RIVAP" lat="N0441700000" lon="E0092056000" />
+   <point id="RIVEV" lat="N0451529000" lon="E0103114000" />
+   <point id="ROGAK" lat="N0435229000" lon="E0125410000" />
+   <point id="ROMUN" lat="N0454346000" lon="E0091449000" />
+   <point id="RONDI" lat="N0383042000" lon="E0124624000" />
+   <point id="RONIV" lat="N0412331000" lon="E0120221000" />
+   <point id="ROXOK" lat="N0444130000" lon="E0105105000" />
+   <point id="RUKOK" lat="N0441035000" lon="E0124133000" />
+   <point id="RUTUG" lat="N0445812000" lon="E0090955000" />
+   <point id="RUVAB" lat="N0454541000" lon="E0093411000" />
+   <point id="SALAP" lat="N0382232000" lon="E0125347000" />
+   <point id="SASLI" lat="N0382811000" lon="E0130708000" />
+   <point id="SENAL" lat="N0404444000" lon="E0091352000" />
+   <point id="SEZET" lat="N0371400000" lon="E0144116000" />
+   <point id="SIDRO" lat="N0382849000" lon="E0132229000" />
+   <point id="SIRLO" lat="N0450916000" lon="E0075934000" />
+   <point id="SOKVO" lat="N0404757000" lon="E0083211000" />
+   <point id="SOROP" lat="N0451344000" lon="E0091801000" />
+   <point id="SOSAK" lat="N0413715000" lon="E0120238000" />
+   <point id="SOSIV" lat="N0421059000" lon="E0120221000" />
+   <point id="SOSUB" lat="N0382216000" lon="E0124404000" />
+   <point id="SPUMA" lat="N0383652000" lon="E0132603000" />
+   <point id="SUBAR" lat="N0415531000" lon="E0123053000" />
+   <point id="SUDDE" lat="N0365902000" lon="E0143025000" />
+   <point id="SUGEP" lat="N0385531000" lon="E0160313000" />
+   <point id="SUKIB" lat="N0385053000" lon="E0155439000" />
+   <point id="SULUR" lat="N0454457000" lon="E0085636000" />
+   <point id="SUNEV" lat="N0422900000" lon="E0095200000" />
+   <point id="SUTED" lat="N0462743000" lon="E0082429000" />
+   <point id="SUVOK" lat="N0420706000" lon="E0120225000" />
+   <point id="SUXIL" lat="N0445354000" lon="E0101943000" />
+   <point id="TEKRA" lat="N0381051000" lon="E0124155000" />
+   <point id="TELVA" lat="N0453006000" lon="E0085509000" />
+   <point id="TIGLO" lat="N0441734000" lon="E0092312000" />
+   <point id="TIPAP" lat="N0411708000" lon="E0120502000" />
+   <point id="TISGU" lat="N0373323000" lon="E0145610000" />
+   <point id="TIXUM" lat="N0452956000" lon="E0095749000" />
+   <point id="TOBGA" lat="N0425327000" lon="E0095200000" />
+   <point id="TOBIR" lat="N0414407000" lon="E0122607000" />
+   <point id="TOCLA" lat="N0373038000" lon="E0152333000" />
+   <point id="TODKU" lat="N0452604000" lon="E0084714000" />
+   <point id="TOFUR" lat="N0372522000" lon="E0143327000" />
+   <point id="TOPRU" lat="N0444145000" lon="E0074522000" />
+   <point id="TOVSA" lat="N0450508000" lon="E0093650000" />
+   <point id="TREVI" lat="N0453612000" lon="E0094137000" />
+   <point id="TUBTU" lat="N0411046000" lon="E0093045000" />
+   <point id="TUGBA" lat="N0444214000" lon="E0075021000" />
+   <point id="TUKLU" lat="N0410451000" lon="E0093543000" />
+   <point id="TULLE" lat="N0405322000" lon="E0091355000" />
+   <point id="TURUD" lat="N0393155000" lon="E0090424000" />
+   <point id="TUVEL" lat="N0415354000" lon="E0122742000" />
+   <point id="TUVIB" lat="N0452236000" lon="E0093727000" />
+   <point id="ULSOP" lat="N0453127000" lon="E0100938000" />
+   <point id="ULVUN" lat="N0452646000" lon="E0101416000" />
+   <point id="UNBID" lat="N0403504000" lon="E0093139000" />
+   <point id="UNDAP" lat="N0451211000" lon="E0090758000" />
+   <point id="UNKAV" lat="N0451358000" lon="E0105855000" />
+   <point id="UNPIV" lat="N0433241000" lon="E0101504000" />
+   <point id="UNPOP" lat="N0404720000" lon="E0143347000" />
+   <point id="UPDUT" lat="N0411504000" lon="E0085053000" />
+   <point id="UPETI" lat="N0385646000" lon="E0155322000" />
+   <point id="UPGAV" lat="N0452111000" lon="E0103934000" />
+   <point id="UPOXE" lat="N0405028000" lon="E0082500000" />
+   <point id="URUXO" lat="N0420658000" lon="E0122216000" />
+   <point id="USIRU" lat="N0420251000" lon="E0114428000" />
+   <point id="USOXI" lat="N0383032000" lon="E0130746000" />
+   <point id="UTUVI" lat="N0433948000" lon="E0105847000" />
+   <point id="UVNON" lat="N0451655000" lon="E0105333000" />
+   <point id="UXUPI" lat="N0381847000" lon="E0130049000" />
+   <point id="VADKI" lat="N0423332000" lon="E0142010000" />
+   <point id="VAFRA" lat="N0454628000" lon="E0083342000" />
+   <point id="VAGUX" lat="N0452218000" lon="E0101119000" />
+   <point id="VAGVU" lat="N0403543000" lon="E0094547000" />
+   <point id="VAKAB" lat="N0421106000" lon="E0122032000" />
+   <point id="VAPEG" lat="N0382414000" lon="E0125736000" />
+   <point id="VARAP" lat="N0441958000" lon="E0091059000" />
+   <point id="VAXOT" lat="N0365049000" lon="E0120737000" />
+   <point id="VEPAD" lat="N0450614000" lon="E0115032000" />
+   <point id="VERAK" lat="N0355417000" lon="E0122543000" />
+   <point id="VETUR" lat="N0374329000" lon="E0124754000" />
+   <point id="VITIF" lat="N0371055000" lon="E0144141000" />
+   <point id="VOLET" lat="N0453216000" lon="E0114701000" />
+   <point id="VOLTU" lat="N0411142000" lon="E0140507000" />
+   <point id="XELGA" lat="N0453446000" lon="E0083550000" />
+   <point id="XENOL" lat="N0414718000" lon="E0113308000" />
+   <point id="XENRU" lat="N0452152000" lon="E0110045000" />
+   <point id="XIBRI" lat="N0413328000" lon="E0121037000" />
+   <point id="XITLI" lat="N0403907000" lon="E0090258000" />
+   <point id="XUBKA" lat="N0445410000" lon="E0110959000" />
+   <point id="XULNU" lat="N0405319000" lon="E0094612000" />
+   <point id="YAZOB" lat="N0370502000" lon="E0143606000" />
+   <point id="YOSCA" lat="N0372449000" lon="E0142714000" />
+   <point id="YULYA" lat="N0371959000" lon="E0144027000" />
+   <point id="ZERTI" lat="N0371737000" lon="E0143452000" />
+   <point id="ZICOH" lat="N0372625000" lon="E0144527000" />
+   <point id="ZUKKA" lat="N0373758000" lon="E0143753000" />
+
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++-->
+<!--+++++++++++++++RR/AA++++++++++++++++++++++++++++-->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++-->
+<point id="AEA" lat="N0403817401" lon="E0081730372"/>
+<point id="AJO" lat="N0414613901" lon="E0084628776"/>
+<point id="ALB" lat="N0440253408" lon="E0080739396"/>
+<point id="ALG" lat="N0403741000" lon="E0081438000"/>
+<point id="ANC" lat="N0433511000" lon="E0132816000"/>
+<point id="AZR" lat="N0433934999" lon="E0071327876"/>
+<point id="BAR" lat="N0410839000" lon="E0164635000"/>
+<point id="BEG" lat="N0454010099" lon="E0094233084"/>
+<point id="BLA" lat="N0452939199" lon="E0080602088"/>
+<point id="BOA" lat="N0443213000" lon="E0111726000"/>
+<point id="BCS" lat="N0403931000" lon="E0175707000"/>
+<point id="BRD" lat="N0403639000" lon="E0180010000"/>
+<point id="BSA" lat="N0452616901" lon="E0101857600"/>
+<point id="BTA" lat="N0423424899" lon="E0092829388"/>
+<point id="CAG" lat="N0391456300" lon="E0090314600"/>
+<point id="CAR" lat="N0390641000" lon="E0093029000"/>
+<point id="CBN" lat="N0365344002" lon="E0110517988"/>
+<point id="CDC" lat="N0384521000" lon="E0162209000"/>
+<point id="CGS" lat="N0433842900" lon="E0070845276"/>
+<point id="CHI" lat="N0450416399" lon="E0121653112"/>
+<point id="CMP" lat="N0420725799" lon="E0122253472"/>
+<point id="CMS" lat="N0370016824" lon="E0143719357"/>
+<point id="COM" lat="N0365906500" lon="E0143540116"/>
+<point id="CRN" lat="N0385945982" lon="E0170458980"/>
+<point id="CSL" lat="N0451310999" lon="E0073858488"/>
+<point id="CTF" lat="N0372752002" lon="E0150344172"/>
+<point id="DBK" lat="N0423313820" lon="E0181638748"/>
+<point id="DJL" lat="N0471614000" lon="E0050550000"/>
+<point id="DOL" lat="N0460502900" lon="E0144642852"/>
+<point id="ELB" lat="N0424350401" lon="E0102344592"/>
+<point id="FAL" lat="N0433436700" lon="E0131758272"/>
+<point id="FGG" lat="N0412546200" lon="E0153152896"/>
+<point id="FGI" lat="N0413007902" lon="E0090500276"/>
+<point id="FOL" lat="N0441137500" lon="E0120403576"/>
+<point id="FRS" lat="N0413831801" lon="E0131741784"/>
+<point id="FRZ" lat="N0440138201" lon="E0110012492"/>
+<point id="GEN" lat="N0442527700" lon="E0090455488"/>
+<point id="GVA" lat="N0461514101" lon="E0060755992"/>
+<point id="GZO" lat="N0360214431" lon="E0141218936"/>
+<point id="HOC" lat="N0472759602" lon="E0073955584"/>
+<point id="ILB" lat="N0453356110" lon="E0141015096"/>
+<point id="KRK" lat="N0392637889" lon="E0200421972"/>
+<point id="LAT" lat="N0413228000" lon="E0125504980"/>
+<point id="LIN" lat="N0452740500" lon="E0091631188"/>
+<point id="LMT" lat="N0385416002" lon="E0161555980"/>
+<point id="LPD" lat="N0352958902" lon="E0123751492"/>
+<point id="MLL" lat="N0452722799" lon="E0091623772"/>
+<point id="MMP" lat="N0453826801" lon="E0084405388"/>
+<point id="MOT" lat="N0461848100" lon="E0073011988"/>
+<point id="NBA" lat="N0360424000" lon="E0102606000"/>
+<point id="NIZ" lat="N0434614300" lon="E0071515768"/>
+<point id="NSY" lat="N0372401199" lon="E0145517472"/>
+<point id="OST" lat="N0414813601" lon="E0121415072"/>
+<point id="OZE" lat="N0462418702" lon="E0111732280"/>
+<point id="PAL" lat="N0380202198" lon="E0131038784"/>
+<point id="PAN" lat="N0364852099" lon="E0115756700"/>
+<point id="PAS" lat="N0460949298" lon="E0055959676"/>
+<point id="PES" lat="N0422609000" lon="E0141104000"/>
+<point id="PIS" lat="N0434037801" lon="E0102326196"/>
+<point id="PNZ" lat="N0405442700" lon="E0125726676"/>
+<point id="POM" lat="N0405541502" lon="E0142300780"/>
+<point id="PRS" lat="N0381019600" lon="E0130447892"/>
+<point id="PRT" lat="N0434835500" lon="E0111201800"/>
+<point id="PRU" lat="N0430606199" lon="E0123042768"/>
+<point id="PTC" lat="N0403712000" lon="E0145430096"/>
+<point id="PUL" lat="N0445332521" lon="E0135505232"/>
+<point id="RCA" lat="N0380433600" lon="E0153843368"/>
+<point id="RCH" lat="N0454947341" lon="E0132849008"/>
+<point id="RIM" lat="N0440054601" lon="E0123659868"/>
+<point id="ROM" lat="N0414817000" lon="E0123517000"/>
+<point id="SAZ" lat="N0440432002" lon="E0095619968"/>
+<point id="SCS" lat="N0454442000" lon="E0072018000"/>
+<point id="SES" lat="N0442502399" lon="E0084924996"/>
+<point id="SIE" lat="N0431510159" lon="E0111509720"/>
+<point id="SIO" lat="N0461255800" lon="E0071719572"/>
+<point id="SME" lat="N0405324200" lon="E0093004600"/>
+<point id="SOR" lat="N0403457202" lon="E0142006468"/>
+<point id="SPL" lat="N0432947692" lon="E0161816992"/>
+<point id="SRN" lat="N0453845499" lon="E0090117976"/>
+<point id="SZA" lat="N0415614899" lon="E0092358380"/>
+<point id="TAG" lat="N0403034801" lon="E0172428800"/>
+<point id="TAQ" lat="N0421254202" lon="E0114357396"/>
+<point id="TBK" lat="N0365842000" lon="E0085300000"/>
+<point id="TEA" lat="N0411748401" lon="E0135814376"/>
+<point id="TES" lat="N0453109192" lon="E0122205556"/>
+<point id="TNT" lat="N0460112900" lon="E0110824000"/>
+<point id="TOC" lat="N0451137702" lon="E0073910188"/>
+<point id="TOP" lat="N0445531501" lon="E0075141976"/>
+<point id="TRA" lat="N0474122200" lon="E0082613092"/>
+<point id="TRN" lat="N0412458050" lon="E0194305484"/>
+<point id="TRP" lat="N0375345499" lon="E0123047484"/>
+<point id="TUC" lat="N0365105702" lon="E0101349188"/>
+<point id="TZO" lat="N0453333300" lon="E0093025488"/>
+<point id="VIC" lat="N0453814309" lon="E0114034896"/>
+<point id="VIE" lat="N0415446000" lon="E0160257000"/>
+<point id="VIL" lat="N0452428501" lon="E0105422392"/>
+<point id="VIW" lat="N0464147011" lon="E0135452704"/>
+<point id="VOG" lat="N0445752301" lon="E0085812684"/>
+<point id="ABN" lat="N0440321398" lon="E0081315492"/>
+<point id="AH" lat="N0404156501" lon="E0081951384"/>
+<point id="ALG" lat="N0403823899" lon="E0081729868"/>
+<point id="ANC" lat="N0433512199" lon="E0132820100"/>
+<point id="ARB" lat="N0395517202" lon="E0094043176"/>
+<point id="AVI" lat="N0455527602" lon="E0122542600"/>
+<point id="BLA" lat="N0452743902" lon="E0080724096"/>
+<point id="BN" lat="N0370418001" lon="E0110236996"/>
+<point id="BP" lat="N0422532401" lon="E0093214784"/>
+<point id="BPL" lat="N0410637102" lon="E0163937584"/>
+<point id="BRD" lat="N0403619699" lon="E0180031788"/>
+<point id="BZO" lat="N0462749900" lon="E0111919884"/>
+<point id="CAL" lat="N0391435900" lon="E0090332200"/>
+<point id="CAM" lat="N0452542931" lon="E0084202808"/>
+<point id="CAR" lat="N0390641800" lon="E0093032796"/>
+<point id="CAS" lat="N0450723401" lon="E0073841388"/>
+<point id="CEV" lat="N0441603601" lon="E0121048396"/>
+<point id="CHI" lat="N0450418480" lon="E0121652968"/>
+<point id="CIA" lat="N0415153802" lon="E0123338880"/>
+<point id="CMP" lat="N0420729831" lon="E0122249008"/>
+<point id="COD" lat="N0451334601" lon="E0093228284"/>
+<point id="CT" lat="N0414743800" lon="E0084326796"/>
+<point id="CTF" lat="N0372749100" lon="E0150345180"/>
+<point id="CV" lat="N0423437099" lon="E0084823688"/>
+<point id="DEC" lat="N0392149000" lon="E0085826976"/>
+<point id="FA" lat="N0413605101" lon="E0091512384"/>
+<point id="FAL" lat="N0433741599" lon="E0132224672"/>
+<point id="FE" lat="N0414953101" lon="E0122103996"/>
+<point id="FN" lat="N0415438599" lon="E0121404380"/>
+<point id="FOG" lat="N0412551499" lon="E0153153076"/>
+<point id="FOR" lat="N0441453300" lon="E0115528700"/>
+<point id="FRS" lat="N0413837799" lon="E0131722776"/>
+<point id="FW" lat="N0415251100" lon="E0121155572"/>
+<point id="GAZ" lat="N0451206098" lon="E0103614868"/>
+<point id="GEN" lat="N0442526000" lon="E0090459988"/>
+<point id="GRA" lat="N0410329498" lon="E0140506000"/>
+<point id="GRT" lat="N0402645449" lon="E0172519740"/>
+<point id="ILB" lat="N0453352081" lon="E0141019056"/>
+<point id="INN" lat="N0471348029" lon="E0112406732"/>
+<point id="KDN" lat="N0364929500" lon="E0101834668"/>
+<point id="KTI" lat="N0471255940" lon="E0110140188"/>
+<point id="LEV" lat="N0443239199" lon="E0073655368"/>
+<point id="LIN" lat="N0452039700" lon="E0091718888"/>
+<point id="LOS" lat="N0443137549" lon="E0142822224"/>
+<point id="LPD" lat="N0353002002" lon="E0123656988"/>
+<point id="MAL" lat="N0453244999" lon="E0084522572"/>
+<point id="MLT" lat="N0354854000" lon="E0143142000"/>
+<point id="MMP" lat="N0453821901" lon="E0084406900"/>
+<point id="NOV" lat="N0452527001" lon="E0084737788"/>
+<point id="NSY" lat="N0372400299" lon="E0145515996"/>
+<point id="ORI" lat="N0453837601" lon="E0095029976"/>
+<point id="OST" lat="N0414818500" lon="E0121411184"/>
+<point id="PAL" lat="N0380203361" lon="E0131038496"/>
+<point id="PAN" lat="N0364840900" lon="E0115739672"/>
+<point id="PAR" lat="N0444920240" lon="E0101735772"/>
+<point id="PDA" lat="N0452308000" lon="E0115009000"/>
+<point id="PES" lat="N0422610702" lon="E0141100492"/>
+<point id="PIA" lat="N0445218001" lon="E0094935976"/>
+<point id="POM" lat="N0405543000" lon="E0142258980"/>
+<point id="PRS" lat="N0381122999" lon="E0130635568"/>
+<point id="PRU" lat="N0430607099" lon="E0123038592"/>
+<point id="PTC" lat="N0403714300" lon="E0145427180"/>
+<point id="PZ" lat="N0452838870" lon="E0133653712"/>
+<point id="RCA" lat="N0380046199" lon="E0153900792"/>
+<point id="RIM" lat="N0440444501" lon="E0123021600"/>
+<point id="RIV" lat="N0455607202" lon="E0125631200"/>
+<point id="RON" lat="N0454943702" lon="E0132137872"/>
+<point id="RTT" lat="N0472551319" lon="E0115624180"/>
+<point id="SIG" lat="N0372344902" lon="E0145817472"/>
+<!-- <point id="SME" lat="N0405336900" lon="E0093008200" />-->
+<point id="SOR" lat="N0403457400" lon="E0142007800"/>
+<point id="SRN" lat="N0453848502" lon="E0090122296"/>
+<point id="SVC" lat="N0454442000" lon="E0074254000"/>
+<point id="SZA" lat="N0415600002" lon="E0092338400"/>
+<point id="TAQ" lat="N0421250198" lon="E0114343896"/>
+<point id="TEA" lat="N0411745200" lon="E0135817868"/>
+<point id="TOP" lat="N0445528999" lon="E0075137584"/>
+<point id="TRE" lat="N0453720899" lon="E0120544268"/>
+<point id="TRP" lat="N0375451602" lon="E0122934692"/>
+<point id="TS" lat="N0365623402" lon="E0101504392"/>
+<point id="TZO" lat="N0453330499" lon="E0093033480"/>
+<point id="URB" lat="N0415640902" lon="E0122924180"/>
+<point id="VEN" lat="N0452656800" lon="E0121636876"/>
+<point id="VIB" lat="N0422624050" lon="E0120325660"/>
+<point id="VIC" lat="N0453812721" lon="E0114028812"/>
+<point id="VIE" lat="N0415447902" lon="E0160303600"/>
+<point id="VOG" lat="N0445749702" lon="E0085819488"/>
+<point id="VRS" lat="N0451236659" lon="E0133856292"/>
+</points>

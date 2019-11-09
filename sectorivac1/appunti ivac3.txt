@@ -1,0 +1,7 @@
+ COSE DA RIVEDERE SU IVAC3
+
+- RIVEDERE DATI lipa
+- da inserire pier a Crotone LIBC
+- rivedere CTR di MXP
+- rivedere militari in cartella
+- VRT napoli

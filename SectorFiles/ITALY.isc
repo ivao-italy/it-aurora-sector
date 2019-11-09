@@ -141,6 +141,7 @@ F;licj.hartcc
 F;licr.hartcc
 F;lict.hartcc
 F;lirf.hartcc
+F;liea.hartcc
 F;liee.hartcc
 F;lirl.hartcc
 F;lirn.hartcc
@@ -155,11 +156,19 @@ F;lirz.hartcc
 
 
 [ARTCC LOW]
+F;lirr_tma.lartcc
+F;limm_tma.lartcc
+
 
 
 
 [FILLCOLOR]
 F;limm_ws2_ctr.tfl
+F;lirr_ew_ctr.tfl
+F;lirr_su_ctr.tfl
+F;lirr_ne_ctr.tfl
+F;lipp_ne2_ctr.tfl
+F;libb_es_ctr.tfl
 
 
 
