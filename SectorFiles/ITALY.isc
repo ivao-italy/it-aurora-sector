@@ -14,6 +14,7 @@ F;itgeo.geo
 F;italy.prohibit
 F;italy.danger
 F;italy.restrict
+F;liaa.geo
 F;lide.geo
 F;limf.geo
 F;lima.geo
@@ -187,14 +188,21 @@ F;ml_ad_gnd.pol
 F;mn_ad_gnd.pol
 F;mp_ad_gnd.pol
 F;ms_ad_gnd.pol
+F;mz_ad_gnd.pol
+F;qw_ad_gnd.pol
+F;lsza_ad_gnd.pol
+F;aa_ad_gnd.pol
+F;ap_ad_gnd.pol
 
 
 [DEFINE]
 AD_RWY_STROKE;#E6E6E6
-AD_TWY_CTRLINE;#FFFFFF
+AD_TWY_CTRLINE;#B2B1C6
 AD_STOPBAR_R;#FA0000
 AD_STOPBAR_W;#DCDCDC
 PIER;#B2B1C6
+
+
 
 
 
