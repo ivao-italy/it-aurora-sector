@@ -128,7 +128,7 @@ F;itfix.fix
 F;itawlow.awl
 
 [HIGH AIRWAY]
-F;itawhigh.awh
+
 
 [ARTCC]
 F;limm.artcc
@@ -138,7 +138,6 @@ F;libb.artcc
 
 [ARTCC HIGH]
 F;lsza.hartcc
-F;limm.hartcc
 F;lime.hartcc
 F;limc.hartcc
 F;limf.hartcc
