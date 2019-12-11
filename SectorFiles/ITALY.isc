@@ -169,6 +169,9 @@ F;lirp.hartcc
 F;lieo.hartcc
 F;lirq.hartcc
 F;lirz.hartcc
+F;liba.hartcc
+F;libv.hartcc
+F;lipa.hartcc
 
 
 
@@ -283,4 +286,4 @@ F;nl_ad_gnd.pol
 
 
 [ATC]
-LIMF_APP;129.275;
+F;itfreq.atc
