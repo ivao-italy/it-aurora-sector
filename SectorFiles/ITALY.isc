@@ -123,7 +123,6 @@ F;itndb.ndb
 [FIXES]
 F;itfix.fix
 
-
 [LOW AIRWAY]
 F;itawlow.awl
 
@@ -172,6 +171,8 @@ F;lirz.hartcc
 F;liba.hartcc
 F;libv.hartcc
 F;lipa.hartcc
+F;lirh.hartcc
+F;lirm.hartcc
 
 
 
@@ -283,6 +284,7 @@ F;bp_ad_gnd.pol
 F;br_ad_gnd.pol
 F;bv_ad_gnd.pol
 F;nl_ad_gnd.pol
+
 
 
 [ATC]
