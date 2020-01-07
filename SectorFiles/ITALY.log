@@ -1,0 +1,431 @@
+[VOR]
+	READING... itvor.vor
+[NDB]
+	READING... itndb.ndb
+[FIXES]
+	READING... itfix.fix
+[VFI]
+	READING... liap.vfi
+	READING... liba.vfi
+	READING... libc.vfi
+	READING... libd.vfi
+	READING... libg.vfi
+	READING... libn.vfi
+	READING... libp.vfi
+	READING... libr.vfi
+	READING... libv.vfi
+	READING... lica.vfi
+	READING... licb.vfi
+	READING... licc.vfi
+	READING... licd.vfi
+	READING... licg.vfi
+	READING... licj.vfi
+	READING... licr.vfi
+	READING... lict.vfi
+	READING... licz.vfi
+	READING... lidt.vfi
+	READING... lied.vfi
+	READING... liee.vfi
+	READING... lieo.vfi
+	READING... lile.vfi
+	READING... lilg.vfi
+	READING... limc.vfi
+	READING... lime.vfi
+	READING... limf.vfi
+	READING... limg.vfi
+	READING... limj.vfi
+	READING... liml.vfi
+	READING... limm.vfi
+	READING... limn.vfi
+	READING... limp.vfi
+	READING... lims.vfi
+	READING... limw.vfi
+	READING... limz.vfi
+	READING... lipa.vfi
+	READING... lipe.vfi
+	READING... liph.vfi
+	READING... lipi.vfi
+	READING... lipk.vfi
+	READING... lipl.vfi
+	READING... lipo.vfi
+	READING... lipp.vfi
+	READING... lipr.vfi
+	READING... lips.vfi
+	READING... lipu.vfi
+	READING... lipx.vfi
+	READING... lipy.vfi
+	READING... lipz.vfi
+	READING... liqw.vfi
+	READING... lira.vfi
+	READING... lire.vfi
+	READING... lirf.vfi
+	READING... lirh.vfi
+	READING... liri.vfi
+	READING... lirl.vfi
+	READING... lirm.vfi
+	READING... lirn.vfi
+	READING... lirp.vfi
+	READING... lirq.vfi
+	READING... lirr.vfi
+	READING... lirs.vfi
+	READING... liru.vfi
+	READING... lirv.vfi
+	READING... lirz.vfi
+	READING... lsza.vfi
+[AIRPORT]
+	READING... itap.ap
+[GEO]
+	READING... itgeo.geo
+	READING... italy.prohibit
+	READING... italy.danger
+	READING... italy.restrict
+	READING... liaa.geo
+	READING... limf.geo
+	READING... lima.geo
+	READING... lile.geo
+	READING... liln.geo
+	READING... lilg.geo
+	READING... limb.geo
+	READING... limc.geo
+	READING... lime.geo
+	READING... limg.geo
+	READING... limj.geo
+	READING... liml.geo
+	READING... limn.geo
+	READING... limp.geo
+	READING... lims.geo
+	READING... limw.geo
+	READING... limz.geo
+	READING... liqw.geo
+	READING... lsza.geo
+	READING... lida.geo
+	READING... lide.geo
+	READING... lidf.geo
+	READING... lidh.geo
+	READING... lidr.geo
+	READING... lidt.geo
+	READING... lipa.geo
+	READING... lipb.geo
+	READING... lipc.geo
+	READING... lipd.geo
+	READING... lipe.geo
+	READING... lipf.geo
+	READING... lipg.geo
+	READING... liph.geo
+	READING... lipi.geo
+	READING... lipk.geo
+	READING... lipl.geo
+	READING... lipm.geo
+	READING... lipn.geo
+	READING... lipo.geo
+	READING... lipq.geo
+	READING... lipr.geo
+	READING... lips.geo
+	READING... lipu.geo
+	READING... lipv.geo
+	READING... lipx.geo
+	READING... lipy.geo
+	READING... lipz.geo
+	READING... liba.geo
+	READING... libc.geo
+	READING... libd.geo
+	READING... libf.geo
+	READING... libg.geo
+	READING... libn.geo
+	READING... libp.geo
+	READING... libr.geo
+	READING... libv.geo
+	READING... linl.geo
+	READING... liap.geo
+	READING... lica.geo
+	READING... licb.geo
+	READING... licc.geo
+	READING... licd.geo
+	READING... licg.geo
+	READING... licj.geo
+	READING... licp.geo
+	READING... licr.geo
+	READING... lict.geo
+	READING... licz.geo
+	READING... liea.geo
+	READING... lied.geo
+	READING... liee.geo
+	READING... lieo.geo
+	READING... lier.geo
+	READING... lilq.geo
+	READING... liqb.geo
+	READING... liql.geo
+	READING... liqn.geo
+	READING... liqs.geo
+	READING... lira.geo
+	READING... lire.geo
+	READING... lirf.geo
+	READING... lirg.geo
+	READING... lirh.geo
+	READING... liri.geo
+	READING... lirj.geo
+	READING... lirl.geo
+	READING... lirm.geo
+	READING... lirn.geo
+	READING... lirp.geo
+	READING... lirq.geo
+	READING... lirs.geo
+	READING... liru.geo
+	READING... lirv.geo
+	READING... lirz.geo
+[RUNWAY]
+	READING... itrw.rw
+[LOW AIRWAY]
+	READING... itawlow.awl
+[HIGH AIRWAY]
+[ARTCC]
+	READING... limm.artcc
+	READING... lipp.artcc
+	READING... lirr.artcc
+	READING... libb.artcc
+[ARTCC HIGH]
+	READING... lsza.hartcc
+	READING... lime.hartcc
+	READING... limc.hartcc
+	READING... limf.hartcc
+	READING... limj.hartcc
+	READING... limp.hartcc
+	READING... lims.hartcc
+	READING... lipe.hartcc
+	READING... liph.hartcc
+	READING... liml.hartcc
+	READING... lipx.hartcc
+	READING... lipy.hartcc
+	READING... lipz.hartcc
+	READING... libd.hartcc
+	READING... libg.hartcc
+	READING... libn.hartcc
+	READING... libp.hartcc
+	READING... lica.hartcc
+	READING... licc.hartcc
+	READING... licg.hartcc
+	READING... licj.hartcc
+	READING... licr.hartcc
+	READING... lict.hartcc
+	READING... lirf.hartcc
+	READING... liea.hartcc
+	READING... liee.hartcc
+	READING... lirl.hartcc
+	READING... lirn.hartcc
+	READING... lirp.hartcc
+	READING... lieo.hartcc
+	READING... lirq.hartcc
+	READING... lirz.hartcc
+	READING... liba.hartcc
+	READING... libv.hartcc
+	READING... lipa.hartcc
+	READING... lirh.hartcc
+	READING... lirm.hartcc
+[ARTCC LOW]
+	READING... lirr_tma.lartcc
+	READING... limm_tma.lartcc
+[FILLCOLOR]
+	READING... limm_ws2_ctr.tfl
+	READING... lirr_ew_ctr.tfl
+	READING... lirr_su_ctr.tfl
+	READING... lirr_ne_ctr.tfl
+	READING... lipp_ne2_ctr.tfl
+	READING... libb_es_ctr.tfl
+	READING... libbctr.tfl
+	READING... limmctr.tfl
+	READING... lirrctr.tfl
+	READING... lippctr.tfl
+	READING... mf_ad_gnd.pol
+	READING... de_ad_gnd.pol
+	READING... le_ad_gnd.pol
+	READING... ln_ad_gnd.pol
+	READING... ma_ad_gnd.pol
+	READING... mw_ad_gnd.pol
+	READING... mb_ad_gnd.pol
+	READING... mc_ad_gnd.pol
+	READING... me_ad_gnd.pol
+	READING... mg_ad_gnd.pol
+	READING... mj_ad_gnd.pol
+	READING... ml_ad_gnd.pol
+	READING... mn_ad_gnd.pol
+	READING... mp_ad_gnd.pol
+	READING... ms_ad_gnd.pol
+	READING... mz_ad_gnd.pol
+	READING... qw_ad_gnd.pol
+	READING... lsza_ad_gnd.pol
+	READING... aa_ad_gnd.pol
+	READING... ap_ad_gnd.pol
+	READING... ca_ad_gnd.pol
+	READING... cb_ad_gnd.pol
+	READING... cc_ad_gnd.pol
+	READING... cd_ad_gnd.pol
+	READING... cg_ad_gnd.pol
+	READING... cj_ad_gnd.pol
+	READING... cp_ad_gnd.pol
+	READING... cr_ad_gnd.pol
+	READING... ct_ad_gnd.pol
+	READING... cz_ad_gnd.pol
+	READING... ea_ad_gnd.pol
+	READING... ed_ad_gnd.pol
+	READING... ee_ad_gnd.pol
+	READING... eo_ad_gnd.pol
+	READING... er_ad_gnd.pol
+	READING... lq_ad_gnd.pol
+	READING... qb_ad_gnd.pol
+	READING... ql_ad_gnd.pol
+	READING... qn_ad_gnd.pol
+	READING... qs_ad_gnd.pol
+	READING... ra_ad_gnd.pol
+	READING... re_ad_gnd.pol
+	READING... rf_ad_gnd.pol
+	READING... rg_ad_gnd.pol
+	READING... rh_ad_gnd.pol
+	READING... ri_ad_gnd.pol
+	READING... rj_ad_gnd.pol
+	READING... rl_ad_gnd.pol
+	READING... rm_ad_gnd.pol
+	READING... rn_ad_gnd.pol
+	READING... rp_ad_gnd.pol
+	READING... rq_ad_gnd.pol
+	READING... rs_ad_gnd.pol
+	READING... ru_ad_gnd.pol
+	READING... rv_ad_gnd.pol
+	READING... rz_ad_gnd.pol
+	READING... da_ad_gnd.pol
+	READING... df_ad_gnd.pol
+	READING... dh_ad_gnd.pol
+	READING... dr_ad_gnd.pol
+	READING... dt_ad_gnd.pol
+	READING... pa_ad_gnd.pol
+	READING... pb_ad_gnd.pol
+	READING... pc_ad_gnd.pol
+	READING... pd_ad_gnd.pol
+	READING... pe_ad_gnd.pol
+	READING... pf_ad_gnd.pol
+	READING... pg_ad_gnd.pol
+	READING... ph_ad_gnd.pol
+	READING... pi_ad_gnd.pol
+	READING... pk_ad_gnd.pol
+	READING... pl_ad_gnd.pol
+	READING... po_ad_gnd.pol
+	READING... pq_ad_gnd.pol
+	READING... pr_ad_gnd.pol
+	READING... ps_ad_gnd.pol
+	READING... pu_ad_gnd.pol
+	READING... pv_ad_gnd.pol
+	READING... px_ad_gnd.pol
+	READING... py_ad_gnd.pol
+	READING... pz_ad_gnd.pol
+	READING... ba_ad_gnd.pol
+	READING... bc_ad_gnd.pol
+	READING... bd_ad_gnd.pol
+	READING... bf_ad_gnd.pol
+	READING... bg_ad_gnd.pol
+	READING... bn_ad_gnd.pol
+	READING... bp_ad_gnd.pol
+	READING... br_ad_gnd.pol
+	READING... bv_ad_gnd.pol
+	READING... nl_ad_gnd.pol
+[SID]
+[STAR]
+	[READING]... libr.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\libr.str" line: 1
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\libr.str" line: 9
+	[READING]... lica.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lica.str" line: 1
+	[READING]... licc.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\licc.str" line: 2
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\licc.str" line: 64
+	[READING]... licg.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\licg.str" line: 2
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\licg.str" line: 9
+	[READING]... licj.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\licj.str" line: 2
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\licj.str" line: 42
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\licj.str" line: 85
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\licj.str" line: 113
+	[READING]... licr.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\licr.str" line: 2
+	[READING]... liea.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\liea.str" line: 2
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\liea.str" line: 37
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\liea.str" line: 68
+	[READING]... lieo.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lieo.str" line: 2
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lieo.str" line: 53
+	[READING]... limc.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\limc.str" line: 1
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\limc.str" line: 53
+	[READING]... lime.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lime.str" line: 1
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lime.str" line: 29
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lime.str" line: 38
+	[READING]... liml.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\liml.str" line: 2
+	[READING]... limw.str
+	[READING]... limz.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\limz.str" line: 2
+	[READING]... lipe.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lipe.str" line: 1
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lipe.str" line: 44
+	[READING]... lipx.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lipx.str" line: 2
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lipx.str" line: 36
+	[READING]... lipy.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lipy.str" line: 2
+	[READING]... lipz.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lipz.str" line: 2
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lipz.str" line: 37
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lipz.str" line: 51
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lipz.str" line: 62
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lipz.str" line: 73
+	[READING]... lira.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lira.str" line: 1
+	[READING]... lirf.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lirf.str" line: 1
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lirf.str" line: 61
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lirf.str" line: 115
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lirf.str" line: 126
+	[READING]... lsza.str
+	[MISSING FIX] "" file "C:\Users\Alberto\Desktop\Ivac 3\it-ivac3-sector-file\SectorFiles\include\IT\lsza.str" line: 1
+[MVA]
+	[READING]... liba.mva
+	[READING]... libb.mva
+	[READING]... libd.mva
+	[READING]... lica.mva
+	[READING]... licc.mva
+	[READING]... licj.mva
+	[READING]... liee.mva
+	[READING]... lieo.mva
+	[READING]... limf.mva
+	[READING]... limj.mva
+	[READING]... limm.mva
+	[READING]... lipa.mva
+	[READING]... lipe.mva
+	[READING]... liph.mva
+	[READING]... lipp.mva
+	[READING]... lipx.mva
+	[READING]... lipz.mva
+	[READING]... lirn.mva
+	[READING]... lirp.mva
+	[READING]... lirq.mva
+	[READING]... lirr.mva
+	[READING]... lirs.mva
+[VFRROUTE]
+	[READING]... liba.vrt
+	[READING]... libd.vrt
+	[READING]... libg.vrt
+	[READING]... licc.vrt
+	[READING]... licj.vrt
+	[READING]... limc.vrt
+	[READING]... limg.vrt
+	[READING]... liml.vrt
+	[READING]... limp.vrt
+	[READING]... lire.vrt
+	[READING]... lirh.vrt
+	[READING]... lirl.vrt
+	[READING]... lirm.vrt
+	[READING]... lirn.vrt
+	[READING]... liru.vrt
+No of errors: 40
+WARNINGS: 0
