@@ -1,0 +1,2204 @@
+[INFO] Dir = 'C:\Aurora\SectorFiles\include\IT.log'
+[INFO] isc file. 300 lines
+[INFO] start reading [VOR]
+	[VOR] reading itvor.vor
+[INFO] start reading [NDB]
+	[NDB] reading itndb.ndb
+[INFO] start reading [FIXES]
+	[FIXES] reading itfix.fix
+[LOADING SHAPES]
+	[AIRPORT]
+		itap.ap
+	[GEO]
+		itgeo.geo
+		italy.prohibit
+		italy.danger
+		italy.restrict
+		liaa.geo
+		limf.geo
+		lima.geo
+		lile.geo
+		liln.geo
+		lilg.geo
+		limb.geo
+		limc.geo
+		lime.geo
+		limg.geo
+		limj.geo
+		liml.geo
+		limn.geo
+		limp.geo
+		lims.geo
+		limw.geo
+		limz.geo
+		liqw.geo
+		lsza.geo
+		lida.geo
+		lide.geo
+		lidf.geo
+		lidh.geo
+		lidr.geo
+		lidt.geo
+		lipa.geo
+		lipb.geo
+		lipc.geo
+		lipd.geo
+		lipe.geo
+		lipf.geo
+		lipg.geo
+		liph.geo
+		lipi.geo
+		lipk.geo
+		lipl.geo
+		lipm.geo
+		lipn.geo
+		lipo.geo
+		lipq.geo
+		lipr.geo
+		lips.geo
+		lipu.geo
+		lipv.geo
+		lipx.geo
+		lipy.geo
+		lipz.geo
+		liba.geo
+		libc.geo
+		libd.geo
+		libf.geo
+		libg.geo
+		libn.geo
+		libp.geo
+		libr.geo
+		libv.geo
+		linl.geo
+		liap.geo
+		lica.geo
+		licb.geo
+		licc.geo
+		licd.geo
+		licg.geo
+		licj.geo
+		licp.geo
+		licr.geo
+		lict.geo
+		licz.geo
+		liea.geo
+		lied.geo
+		liee.geo
+		lieo.geo
+		lier.geo
+		lilq.geo
+		liqb.geo
+		liql.geo
+		liqn.geo
+		liqs.geo
+		lira.geo
+		lire.geo
+		lirf.geo
+		lirg.geo
+		lirh.geo
+		liri.geo
+		lirj.geo
+		lirl.geo
+		lirm.geo
+		lirn.geo
+		lirp.geo
+		lirq.geo
+		lirs.geo
+		liru.geo
+		lirv.geo
+		lirz.geo
+	[RUNWAY]
+		itrw.rw
+	[LOW AIRWAY]
+		itawlow.awl
+	[HIGH AIRWAY]
+	[ARTCC] / [AIRSPACE]
+		limm.artcc
+		lipp.artcc
+		lirr.artcc
+		libb.artcc
+	[ARTCC HIGH] / [AIRSPACE HIGH]
+		lsza.hartcc
+		lime.hartcc
+		limc.hartcc
+		limf.hartcc
+		limj.hartcc
+		limp.hartcc
+		lims.hartcc
+		lipe.hartcc
+		liph.hartcc
+		liml.hartcc
+		lipx.hartcc
+		lipy.hartcc
+		lipz.hartcc
+		libd.hartcc
+		libg.hartcc
+		libn.hartcc
+		libp.hartcc
+		lica.hartcc
+		licc.hartcc
+		licg.hartcc
+		licj.hartcc
+		licr.hartcc
+		lict.hartcc
+		lirf.hartcc
+		liea.hartcc
+		liee.hartcc
+		lirl.hartcc
+		lirn.hartcc
+		lirp.hartcc
+		lieo.hartcc
+		lirq.hartcc
+		lirz.hartcc
+		liba.hartcc
+		libv.hartcc
+		lipa.hartcc
+		lirh.hartcc
+		lirm.hartcc
+	[ARTCC LOW] / [AIRSPACE LOW]
+		lirr_tma.lartcc
+		limm_tma.lartcc
+	[FILLCOLOR]
+		limmctr.tfl
+		limmapp.tfl
+		lirr_ew_ctr.tfl
+		lirr_su_ctr.tfl
+		lirr_ne_ctr.tfl
+		lirrapp.tfl
+		lipp_ne2_ctr.tfl
+		libb_es_ctr.tfl
+		libbctr.tfl
+		lirrctr.tfl
+		[FORMAT ERR] "" file "lirrctr.tfl" line: 1359
+		lippctr.tfl
+		mf_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mf_ad_gnd.pol" line: 477
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mf_ad_gnd.pol" line: 554
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 574
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 581
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 684
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 691
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 700
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 707
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 714
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 723
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 730
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 737
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 750
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 757
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 764
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 771
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 778
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 785
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 792
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 805
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 822
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 837
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 844
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 851
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 858
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 865
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 872
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 881
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 888
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 899
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 906
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 913
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 920
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 927
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mf_ad_gnd.pol" line: 942
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mf_ad_gnd.pol" line: 949
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mf_ad_gnd.pol" line: 1206
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "mf_ad_gnd.pol" line: 1221
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "mf_ad_gnd.pol" line: 1240
+		de_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "de_ad_gnd.pol" line: 3
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "de_ad_gnd.pol" line: 13
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "de_ad_gnd.pol" line: 83
+		le_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "le_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "le_ad_gnd.pol" line: 24
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "le_ad_gnd.pol" line: 88
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "le_ad_gnd.pol" line: 105
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "le_ad_gnd.pol" line: 122
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "le_ad_gnd.pol" line: 140
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "le_ad_gnd.pol" line: 155
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "le_ad_gnd.pol" line: 178
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "le_ad_gnd.pol" line: 184
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "le_ad_gnd.pol" line: 190
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "le_ad_gnd.pol" line: 200
+		[FORMAT ERR] "STATIC;#333333;1;#E6E6E6" file "le_ad_gnd.pol" line: 206
+		ln_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "ln_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ln_ad_gnd.pol" line: 23
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ln_ad_gnd.pol" line: 68
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ln_ad_gnd.pol" line: 84
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ln_ad_gnd.pol" line: 91
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ln_ad_gnd.pol" line: 98
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ln_ad_gnd.pol" line: 105
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ln_ad_gnd.pol" line: 112
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ln_ad_gnd.pol" line: 125
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ln_ad_gnd.pol" line: 132
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ln_ad_gnd.pol" line: 139
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ln_ad_gnd.pol" line: 146
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ln_ad_gnd.pol" line: 153
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ln_ad_gnd.pol" line: 162
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ln_ad_gnd.pol" line: 169
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ln_ad_gnd.pol" line: 176
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ln_ad_gnd.pol" line: 206
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ln_ad_gnd.pol" line: 281
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ln_ad_gnd.pol" line: 309
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ln_ad_gnd.pol" line: 339
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ln_ad_gnd.pol" line: 357
+		ma_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "ma_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ma_ad_gnd.pol" line: 62
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ma_ad_gnd.pol" line: 105
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ma_ad_gnd.pol" line: 112
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ma_ad_gnd.pol" line: 281
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ma_ad_gnd.pol" line: 288
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ma_ad_gnd.pol" line: 299
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ma_ad_gnd.pol" line: 310
+		[FORMAT ERR] "STATIC;#406230;1;#E6E6E6" file "ma_ad_gnd.pol" line: 317
+		[FORMAT ERR] "STATIC;#333333;1;#E6E6E6" file "ma_ad_gnd.pol" line: 324
+		mw_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "mw_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mw_ad_gnd.pol" line: 47
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mw_ad_gnd.pol" line: 176
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mw_ad_gnd.pol" line: 182
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mw_ad_gnd.pol" line: 190
+		[FORMAT ERR] "STATIC;#333333;1;#E6E6E6" file "mw_ad_gnd.pol" line: 208
+		mb_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "mb_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "mb_ad_gnd.pol" line: 15
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mb_ad_gnd.pol" line: 25
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mb_ad_gnd.pol" line: 34
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "mb_ad_gnd.pol" line: 65
+		mc_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "mc_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 69
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 128
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mc_ad_gnd.pol" line: 206
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mc_ad_gnd.pol" line: 296
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mc_ad_gnd.pol" line: 360
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mc_ad_gnd.pol" line: 389
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mc_ad_gnd.pol" line: 406
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mc_ad_gnd.pol" line: 417
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 432
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 482
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 507
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 546
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 570
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 585
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 605
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 620
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 651
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 669
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 732
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 764
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 787
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 799
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 818
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 835
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 860
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 878
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 896
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 952
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 966
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 1015
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 1052
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 1097
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 1126
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 1175
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 1221
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 1251
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mc_ad_gnd.pol" line: 1318
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "mc_ad_gnd.pol" line: 1343
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "mc_ad_gnd.pol" line: 1350
+		me_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "me_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "me_ad_gnd.pol" line: 127
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "me_ad_gnd.pol" line: 140
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "me_ad_gnd.pol" line: 151
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "me_ad_gnd.pol" line: 160
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "me_ad_gnd.pol" line: 175
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "me_ad_gnd.pol" line: 202
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "me_ad_gnd.pol" line: 220
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 302
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 311
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 328
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 342
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 349
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 356
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 369
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 376
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 383
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 392
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 399
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 408
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 419
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 426
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 433
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 440
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 447
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 454
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 461
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 468
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 475
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 482
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 491
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 498
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 505
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 516
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 523
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 530
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 584
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 591
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 600
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 615
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 628
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 637
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "me_ad_gnd.pol" line: 644
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "me_ad_gnd.pol" line: 651
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "me_ad_gnd.pol" line: 671
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "me_ad_gnd.pol" line: 728
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "me_ad_gnd.pol" line: 809
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "me_ad_gnd.pol" line: 899
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "me_ad_gnd.pol" line: 976
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "me_ad_gnd.pol" line: 1001
+		mg_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "mg_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "mg_ad_gnd.pol" line: 53
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mg_ad_gnd.pol" line: 74
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mg_ad_gnd.pol" line: 111
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mg_ad_gnd.pol" line: 118
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mg_ad_gnd.pol" line: 125
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mg_ad_gnd.pol" line: 145
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mg_ad_gnd.pol" line: 152
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mg_ad_gnd.pol" line: 159
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mg_ad_gnd.pol" line: 174
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mg_ad_gnd.pol" line: 197
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mg_ad_gnd.pol" line: 218
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mg_ad_gnd.pol" line: 229
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mg_ad_gnd.pol" line: 250
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "mg_ad_gnd.pol" line: 284
+		mj_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "mj_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "mj_ad_gnd.pol" line: 65
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mj_ad_gnd.pol" line: 95
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mj_ad_gnd.pol" line: 140
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mj_ad_gnd.pol" line: 147
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mj_ad_gnd.pol" line: 154
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mj_ad_gnd.pol" line: 165
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mj_ad_gnd.pol" line: 172
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mj_ad_gnd.pol" line: 232
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mj_ad_gnd.pol" line: 244
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mj_ad_gnd.pol" line: 255
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mj_ad_gnd.pol" line: 264
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mj_ad_gnd.pol" line: 271
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mj_ad_gnd.pol" line: 285
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mj_ad_gnd.pol" line: 300
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mj_ad_gnd.pol" line: 313
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mj_ad_gnd.pol" line: 328
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "mj_ad_gnd.pol" line: 479
+		ml_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "ml_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ml_ad_gnd.pol" line: 219
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ml_ad_gnd.pol" line: 472
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ml_ad_gnd.pol" line: 635
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ml_ad_gnd.pol" line: 719
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ml_ad_gnd.pol" line: 870
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ml_ad_gnd.pol" line: 1242
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ml_ad_gnd.pol" line: 1273
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ml_ad_gnd.pol" line: 1370
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ml_ad_gnd.pol" line: 1405
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1416
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1431
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1489
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1496
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1519
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1526
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1543
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1554
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1563
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1596
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1611
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1622
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1633
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1642
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1663
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1674
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1707
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1714
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1721
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1732
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1739
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1752
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1770
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ml_ad_gnd.pol" line: 1779
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ml_ad_gnd.pol" line: 1790
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ml_ad_gnd.pol" line: 1841
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ml_ad_gnd.pol" line: 1863
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ml_ad_gnd.pol" line: 2045
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "ml_ad_gnd.pol" line: 2206
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "ml_ad_gnd.pol" line: 2237
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ml_ad_gnd.pol" line: 2258
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ml_ad_gnd.pol" line: 2265
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ml_ad_gnd.pol" line: 2272
+		mn_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "mn_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "mn_ad_gnd.pol" line: 23
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mn_ad_gnd.pol" line: 51
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mn_ad_gnd.pol" line: 87
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mn_ad_gnd.pol" line: 118
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mn_ad_gnd.pol" line: 142
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mn_ad_gnd.pol" line: 172
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "mn_ad_gnd.pol" line: 208
+		mp_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "mp_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "mp_ad_gnd.pol" line: 28
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "mp_ad_gnd.pol" line: 81
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mp_ad_gnd.pol" line: 115
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mp_ad_gnd.pol" line: 176
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mp_ad_gnd.pol" line: 199
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mp_ad_gnd.pol" line: 212
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mp_ad_gnd.pol" line: 219
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mp_ad_gnd.pol" line: 226
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mp_ad_gnd.pol" line: 260
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mp_ad_gnd.pol" line: 305
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "mp_ad_gnd.pol" line: 441
+		ms_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "ms_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ms_ad_gnd.pol" line: 38
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ms_ad_gnd.pol" line: 95
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ms_ad_gnd.pol" line: 232
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ms_ad_gnd.pol" line: 244
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ms_ad_gnd.pol" line: 250
+		[FORMAT ERR] "STATIC;#333333;1;#E6E6E6" file "ms_ad_gnd.pol" line: 256
+		mz_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "mz_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "mz_ad_gnd.pol" line: 98
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "mz_ad_gnd.pol" line: 106
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "mz_ad_gnd.pol" line: 141
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mz_ad_gnd.pol" line: 148
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mz_ad_gnd.pol" line: 180
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mz_ad_gnd.pol" line: 213
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mz_ad_gnd.pol" line: 222
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "mz_ad_gnd.pol" line: 231
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mz_ad_gnd.pol" line: 238
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "mz_ad_gnd.pol" line: 260
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "mz_ad_gnd.pol" line: 279
+		qw_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "qw_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "qw_ad_gnd.pol" line: 16
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "qw_ad_gnd.pol" line: 29
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "qw_ad_gnd.pol" line: 38
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "qw_ad_gnd.pol" line: 46
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "qw_ad_gnd.pol" line: 80
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "qw_ad_gnd.pol" line: 118
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "qw_ad_gnd.pol" line: 134
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "qw_ad_gnd.pol" line: 153
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "qw_ad_gnd.pol" line: 162
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "qw_ad_gnd.pol" line: 173
+		lsza_ad_gnd.pol
+		aa_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "aa_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "aa_ad_gnd.pol" line: 26
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "aa_ad_gnd.pol" line: 35
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "aa_ad_gnd.pol" line: 45
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "aa_ad_gnd.pol" line: 52
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "aa_ad_gnd.pol" line: 90
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "aa_ad_gnd.pol" line: 97
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "aa_ad_gnd.pol" line: 105
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "aa_ad_gnd.pol" line: 112
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "aa_ad_gnd.pol" line: 119
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "aa_ad_gnd.pol" line: 126
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "aa_ad_gnd.pol" line: 133
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "aa_ad_gnd.pol" line: 140
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "aa_ad_gnd.pol" line: 147
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "aa_ad_gnd.pol" line: 154
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "aa_ad_gnd.pol" line: 161
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "aa_ad_gnd.pol" line: 168
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "aa_ad_gnd.pol" line: 175
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "aa_ad_gnd.pol" line: 182
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "aa_ad_gnd.pol" line: 202
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "aa_ad_gnd.pol" line: 343
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "aa_ad_gnd.pol" line: 366
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "aa_ad_gnd.pol" line: 410
+		ap_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "ap_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ap_ad_gnd.pol" line: 24
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ap_ad_gnd.pol" line: 56
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ap_ad_gnd.pol" line: 63
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ap_ad_gnd.pol" line: 72
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ap_ad_gnd.pol" line: 85
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ap_ad_gnd.pol" line: 94
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ap_ad_gnd.pol" line: 113
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ap_ad_gnd.pol" line: 120
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ap_ad_gnd.pol" line: 129
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ap_ad_gnd.pol" line: 150
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ap_ad_gnd.pol" line: 166
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ap_ad_gnd.pol" line: 177
+		ca_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "ca_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ca_ad_gnd.pol" line: 40
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ca_ad_gnd.pol" line: 79
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ca_ad_gnd.pol" line: 87
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 109
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 154
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 161
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 168
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 175
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 182
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 195
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 202
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 209
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 216
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 234
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 241
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 248
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 255
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 262
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ca_ad_gnd.pol" line: 269
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ca_ad_gnd.pol" line: 276
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ca_ad_gnd.pol" line: 313
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ca_ad_gnd.pol" line: 328
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ca_ad_gnd.pol" line: 363
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ca_ad_gnd.pol" line: 420
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ca_ad_gnd.pol" line: 476
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ca_ad_gnd.pol" line: 520
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ca_ad_gnd.pol" line: 541
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ca_ad_gnd.pol" line: 567
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ca_ad_gnd.pol" line: 591
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ca_ad_gnd.pol" line: 614
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ca_ad_gnd.pol" line: 631
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ca_ad_gnd.pol" line: 638
+		cb_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "cb_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cb_ad_gnd.pol" line: 34
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cb_ad_gnd.pol" line: 50
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cb_ad_gnd.pol" line: 62
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cb_ad_gnd.pol" line: 85
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cb_ad_gnd.pol" line: 97
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cb_ad_gnd.pol" line: 104
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cb_ad_gnd.pol" line: 116
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cb_ad_gnd.pol" line: 123
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cb_ad_gnd.pol" line: 134
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cb_ad_gnd.pol" line: 162
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cb_ad_gnd.pol" line: 196
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cb_ad_gnd.pol" line: 210
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "cb_ad_gnd.pol" line: 239
+		cc_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "cc_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "cc_ad_gnd.pol" line: 78
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cc_ad_gnd.pol" line: 104
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cc_ad_gnd.pol" line: 161
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cc_ad_gnd.pol" line: 168
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cc_ad_gnd.pol" line: 210
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 278
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 285
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 294
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 307
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 318
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 329
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 340
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 351
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 362
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 369
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 376
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 387
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 394
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 401
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 425
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 432
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 441
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 454
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 465
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 476
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 487
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 496
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 503
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 514
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 521
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 528
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 535
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 559
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 684
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 691
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 698
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 705
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 712
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 721
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cc_ad_gnd.pol" line: 728
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cc_ad_gnd.pol" line: 735
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cc_ad_gnd.pol" line: 804
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cc_ad_gnd.pol" line: 848
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cc_ad_gnd.pol" line: 916
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cc_ad_gnd.pol" line: 955
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "cc_ad_gnd.pol" line: 992
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "cc_ad_gnd.pol" line: 1037
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "cc_ad_gnd.pol" line: 1044
+		cd_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "cd_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cd_ad_gnd.pol" line: 35
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cd_ad_gnd.pol" line: 50
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cd_ad_gnd.pol" line: 61
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cd_ad_gnd.pol" line: 70
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cd_ad_gnd.pol" line: 86
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cd_ad_gnd.pol" line: 93
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cd_ad_gnd.pol" line: 102
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cd_ad_gnd.pol" line: 115
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cd_ad_gnd.pol" line: 122
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "cd_ad_gnd.pol" line: 142
+		cg_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "cg_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cg_ad_gnd.pol" line: 61
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cg_ad_gnd.pol" line: 114
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cg_ad_gnd.pol" line: 127
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cg_ad_gnd.pol" line: 147
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cg_ad_gnd.pol" line: 173
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cg_ad_gnd.pol" line: 185
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cg_ad_gnd.pol" line: 201
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cg_ad_gnd.pol" line: 221
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cg_ad_gnd.pol" line: 232
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cg_ad_gnd.pol" line: 241
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cg_ad_gnd.pol" line: 248
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cg_ad_gnd.pol" line: 257
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cg_ad_gnd.pol" line: 264
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cg_ad_gnd.pol" line: 273
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cg_ad_gnd.pol" line: 282
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cg_ad_gnd.pol" line: 289
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cg_ad_gnd.pol" line: 296
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cg_ad_gnd.pol" line: 326
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cg_ad_gnd.pol" line: 347
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "cg_ad_gnd.pol" line: 358
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "cg_ad_gnd.pol" line: 365
+		cj_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "cj_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cj_ad_gnd.pol" line: 132
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cj_ad_gnd.pol" line: 241
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cj_ad_gnd.pol" line: 264
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cj_ad_gnd.pol" line: 287
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cj_ad_gnd.pol" line: 330
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cj_ad_gnd.pol" line: 337
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cj_ad_gnd.pol" line: 362
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cj_ad_gnd.pol" line: 377
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cj_ad_gnd.pol" line: 384
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cj_ad_gnd.pol" line: 403
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cj_ad_gnd.pol" line: 418
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cj_ad_gnd.pol" line: 433
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cj_ad_gnd.pol" line: 442
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cj_ad_gnd.pol" line: 457
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cj_ad_gnd.pol" line: 467
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "cj_ad_gnd.pol" line: 608
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "cj_ad_gnd.pol" line: 617
+		cp_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "cp_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cp_ad_gnd.pol" line: 31
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cp_ad_gnd.pol" line: 39
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cp_ad_gnd.pol" line: 49
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cp_ad_gnd.pol" line: 68
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cp_ad_gnd.pol" line: 94
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cp_ad_gnd.pol" line: 104
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cp_ad_gnd.pol" line: 112
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cp_ad_gnd.pol" line: 128
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cp_ad_gnd.pol" line: 136
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cp_ad_gnd.pol" line: 143
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cp_ad_gnd.pol" line: 157
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cp_ad_gnd.pol" line: 164
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cp_ad_gnd.pol" line: 173
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cp_ad_gnd.pol" line: 180
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cp_ad_gnd.pol" line: 187
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cp_ad_gnd.pol" line: 194
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cp_ad_gnd.pol" line: 204
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cp_ad_gnd.pol" line: 211
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cp_ad_gnd.pol" line: 218
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cp_ad_gnd.pol" line: 229
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cp_ad_gnd.pol" line: 245
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cp_ad_gnd.pol" line: 262
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cp_ad_gnd.pol" line: 293
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cp_ad_gnd.pol" line: 324
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cp_ad_gnd.pol" line: 349
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "cp_ad_gnd.pol" line: 432
+		cr_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "cr_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cr_ad_gnd.pol" line: 64
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cr_ad_gnd.pol" line: 83
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cr_ad_gnd.pol" line: 92
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cr_ad_gnd.pol" line: 106
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cr_ad_gnd.pol" line: 125
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cr_ad_gnd.pol" line: 136
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cr_ad_gnd.pol" line: 165
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cr_ad_gnd.pol" line: 180
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cr_ad_gnd.pol" line: 187
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cr_ad_gnd.pol" line: 196
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cr_ad_gnd.pol" line: 203
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cr_ad_gnd.pol" line: 224
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cr_ad_gnd.pol" line: 256
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cr_ad_gnd.pol" line: 272
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "cr_ad_gnd.pol" line: 289
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "cr_ad_gnd.pol" line: 297
+		ct_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "ct_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ct_ad_gnd.pol" line: 34
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ct_ad_gnd.pol" line: 43
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ct_ad_gnd.pol" line: 64
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ct_ad_gnd.pol" line: 83
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 107
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 119
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 130
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 142
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 151
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 163
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 175
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 200
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 223
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 246
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 268
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 286
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 300
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 329
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 345
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 362
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 379
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 410
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 438
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ct_ad_gnd.pol" line: 454
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ct_ad_gnd.pol" line: 461
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ct_ad_gnd.pol" line: 468
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ct_ad_gnd.pol" line: 475
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ct_ad_gnd.pol" line: 506
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ct_ad_gnd.pol" line: 513
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ct_ad_gnd.pol" line: 520
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 527
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 748
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 772
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 796
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 969
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 988
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ct_ad_gnd.pol" line: 1039
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ct_ad_gnd.pol" line: 1046
+		cz_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "cz_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 22
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 53
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 73
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 82
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 89
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 96
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 103
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 127
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 151
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 176
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 201
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 225
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 245
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 268
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 285
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 303
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 321
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 340
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "cz_ad_gnd.pol" line: 358
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cz_ad_gnd.pol" line: 365
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cz_ad_gnd.pol" line: 372
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cz_ad_gnd.pol" line: 379
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cz_ad_gnd.pol" line: 386
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cz_ad_gnd.pol" line: 393
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "cz_ad_gnd.pol" line: 400
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cz_ad_gnd.pol" line: 407
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cz_ad_gnd.pol" line: 484
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cz_ad_gnd.pol" line: 581
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "cz_ad_gnd.pol" line: 623
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "cz_ad_gnd.pol" line: 638
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "cz_ad_gnd.pol" line: 645
+		ea_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "ea_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ea_ad_gnd.pol" line: 100
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ea_ad_gnd.pol" line: 145
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ea_ad_gnd.pol" line: 186
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ea_ad_gnd.pol" line: 197
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ea_ad_gnd.pol" line: 213
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ea_ad_gnd.pol" line: 226
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ea_ad_gnd.pol" line: 235
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ea_ad_gnd.pol" line: 242
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ea_ad_gnd.pol" line: 452
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ea_ad_gnd.pol" line: 556
+		ed_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "ed_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 42
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 67
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 80
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 88
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 99
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 106
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 123
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 139
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 152
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 159
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 175
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 184
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 201
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ed_ad_gnd.pol" line: 222
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ed_ad_gnd.pol" line: 238
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ed_ad_gnd.pol" line: 404
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ed_ad_gnd.pol" line: 425
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ed_ad_gnd.pol" line: 436
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ed_ad_gnd.pol" line: 682
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ed_ad_gnd.pol" line: 695
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ed_ad_gnd.pol" line: 750
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ed_ad_gnd.pol" line: 803
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ed_ad_gnd.pol" line: 839
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ed_ad_gnd.pol" line: 846
+		ee_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "ee_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ee_ad_gnd.pol" line: 127
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ee_ad_gnd.pol" line: 158
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ee_ad_gnd.pol" line: 241
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ee_ad_gnd.pol" line: 404
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ee_ad_gnd.pol" line: 411
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 418
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 499
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 506
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 513
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 520
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 527
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 534
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 541
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 558
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 565
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 572
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 579
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 586
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 595
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ee_ad_gnd.pol" line: 602
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ee_ad_gnd.pol" line: 609
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ee_ad_gnd.pol" line: 878
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ee_ad_gnd.pol" line: 917
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ee_ad_gnd.pol" line: 1049
+		eo_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "eo_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "eo_ad_gnd.pol" line: 79
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "eo_ad_gnd.pol" line: 89
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "eo_ad_gnd.pol" line: 97
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "eo_ad_gnd.pol" line: 119
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "eo_ad_gnd.pol" line: 132
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 163
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 192
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 201
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 226
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 233
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 240
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 273
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 280
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 287
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 320
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 390
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 401
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 420
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 427
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 434
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "eo_ad_gnd.pol" line: 451
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "eo_ad_gnd.pol" line: 467
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "eo_ad_gnd.pol" line: 694
+		er_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "er_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "er_ad_gnd.pol" line: 22
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "er_ad_gnd.pol" line: 35
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "er_ad_gnd.pol" line: 44
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "er_ad_gnd.pol" line: 51
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "er_ad_gnd.pol" line: 60
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "er_ad_gnd.pol" line: 72
+		lq_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "lq_ad_gnd.pol" line: 2
+		qb_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "qb_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "qb_ad_gnd.pol" line: 17
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "qb_ad_gnd.pol" line: 27
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qb_ad_gnd.pol" line: 58
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qb_ad_gnd.pol" line: 65
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qb_ad_gnd.pol" line: 76
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qb_ad_gnd.pol" line: 83
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qb_ad_gnd.pol" line: 92
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qb_ad_gnd.pol" line: 101
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "qb_ad_gnd.pol" line: 108
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "qb_ad_gnd.pol" line: 122
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "qb_ad_gnd.pol" line: 128
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "qb_ad_gnd.pol" line: 134
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "qb_ad_gnd.pol" line: 140
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "qb_ad_gnd.pol" line: 146
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "qb_ad_gnd.pol" line: 152
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "qb_ad_gnd.pol" line: 158
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "qb_ad_gnd.pol" line: 164
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "qb_ad_gnd.pol" line: 170
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "qb_ad_gnd.pol" line: 176
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "qb_ad_gnd.pol" line: 185
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "qb_ad_gnd.pol" line: 201
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "qb_ad_gnd.pol" line: 217
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "qb_ad_gnd.pol" line: 223
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "qb_ad_gnd.pol" line: 229
+		ql_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "ql_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ql_ad_gnd.pol" line: 12
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ql_ad_gnd.pol" line: 25
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ql_ad_gnd.pol" line: 37
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ql_ad_gnd.pol" line: 46
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ql_ad_gnd.pol" line: 53
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ql_ad_gnd.pol" line: 60
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ql_ad_gnd.pol" line: 74
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ql_ad_gnd.pol" line: 89
+		qn_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "qn_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "qn_ad_gnd.pol" line: 28
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qn_ad_gnd.pol" line: 35
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qn_ad_gnd.pol" line: 42
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qn_ad_gnd.pol" line: 49
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qn_ad_gnd.pol" line: 56
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qn_ad_gnd.pol" line: 63
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qn_ad_gnd.pol" line: 70
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qn_ad_gnd.pol" line: 77
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qn_ad_gnd.pol" line: 84
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "qn_ad_gnd.pol" line: 105
+		qs_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "qs_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "qs_ad_gnd.pol" line: 22
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "qs_ad_gnd.pol" line: 45
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "qs_ad_gnd.pol" line: 99
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "qs_ad_gnd.pol" line: 148
+		ra_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "ra_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ra_ad_gnd.pol" line: 92
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 128
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 226
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 251
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 268
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 275
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 334
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 341
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 352
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 369
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 383
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 392
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 403
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 428
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 443
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 454
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 461
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 472
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ra_ad_gnd.pol" line: 481
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 490
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 524
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 591
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 609
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 627
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 656
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 686
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 716
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 747
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 765
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ra_ad_gnd.pol" line: 778
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ra_ad_gnd.pol" line: 801
+		[FORMAT ERR] "STATIC;#B2B1C6;0;#B2B1C6" file "ra_ad_gnd.pol" line: 808
+		re_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "re_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "re_ad_gnd.pol" line: 32
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "re_ad_gnd.pol" line: 107
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "re_ad_gnd.pol" line: 118
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "re_ad_gnd.pol" line: 129
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "re_ad_gnd.pol" line: 223
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "re_ad_gnd.pol" line: 230
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "re_ad_gnd.pol" line: 245
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "re_ad_gnd.pol" line: 271
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "re_ad_gnd.pol" line: 336
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "re_ad_gnd.pol" line: 384
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "re_ad_gnd.pol" line: 391
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "re_ad_gnd.pol" line: 398
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "re_ad_gnd.pol" line: 405
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "re_ad_gnd.pol" line: 412
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "re_ad_gnd.pol" line: 421
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "re_ad_gnd.pol" line: 428
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "re_ad_gnd.pol" line: 435
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "re_ad_gnd.pol" line: 442
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "re_ad_gnd.pol" line: 449
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "re_ad_gnd.pol" line: 538
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "re_ad_gnd.pol" line: 549
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "re_ad_gnd.pol" line: 577
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "re_ad_gnd.pol" line: 622
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "re_ad_gnd.pol" line: 643
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "re_ad_gnd.pol" line: 672
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "re_ad_gnd.pol" line: 706
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "re_ad_gnd.pol" line: 720
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "re_ad_gnd.pol" line: 739
+		rf_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "rf_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rf_ad_gnd.pol" line: 109
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rf_ad_gnd.pol" line: 168
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 187
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 308
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 325
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 346
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 367
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 374
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 385
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 427
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 438
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 453
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 498
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 555
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 562
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 589
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 596
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 603
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 610
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 631
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 638
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 648
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 673
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 698
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 709
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 731
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 753
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 778
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 792
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 803
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 820
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 827
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 846
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 853
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 860
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 867
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 874
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 881
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 888
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 901
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 908
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 923
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 937
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 953
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 960
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 971
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 1002
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 1009
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 1016
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 1023
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 1030
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 1037
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 1044
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 1051
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rf_ad_gnd.pol" line: 1062
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 1069
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 1137
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 1301
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 1508
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 1652
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 1703
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 1807
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 1846
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 1915
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 1984
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 2023
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 2071
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rf_ad_gnd.pol" line: 2206
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "rf_ad_gnd.pol" line: 2215
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "rf_ad_gnd.pol" line: 2234
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "rf_ad_gnd.pol" line: 2248
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rf_ad_gnd.pol" line: 2264
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rf_ad_gnd.pol" line: 2271
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rf_ad_gnd.pol" line: 2279
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rf_ad_gnd.pol" line: 2286
+		rg_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "rg_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rg_ad_gnd.pol" line: 27
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rg_ad_gnd.pol" line: 39
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rg_ad_gnd.pol" line: 58
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rg_ad_gnd.pol" line: 69
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rg_ad_gnd.pol" line: 76
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rg_ad_gnd.pol" line: 83
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rg_ad_gnd.pol" line: 90
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rg_ad_gnd.pol" line: 97
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rg_ad_gnd.pol" line: 104
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rg_ad_gnd.pol" line: 166
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rg_ad_gnd.pol" line: 173
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rg_ad_gnd.pol" line: 232
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rg_ad_gnd.pol" line: 243
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rg_ad_gnd.pol" line: 254
+		rh_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "rh_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rh_ad_gnd.pol" line: 28
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rh_ad_gnd.pol" line: 65
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rh_ad_gnd.pol" line: 117
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rh_ad_gnd.pol" line: 124
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rh_ad_gnd.pol" line: 131
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rh_ad_gnd.pol" line: 138
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rh_ad_gnd.pol" line: 145
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rh_ad_gnd.pol" line: 152
+		ri_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "ri_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ri_ad_gnd.pol" line: 31
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ri_ad_gnd.pol" line: 48
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ri_ad_gnd.pol" line: 55
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ri_ad_gnd.pol" line: 64
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ri_ad_gnd.pol" line: 71
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ri_ad_gnd.pol" line: 78
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ri_ad_gnd.pol" line: 107
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ri_ad_gnd.pol" line: 119
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ri_ad_gnd.pol" line: 132
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ri_ad_gnd.pol" line: 155
+		rj_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "rj_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rj_ad_gnd.pol" line: 21
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rj_ad_gnd.pol" line: 32
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rj_ad_gnd.pol" line: 49
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rj_ad_gnd.pol" line: 73
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rj_ad_gnd.pol" line: 88
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rj_ad_gnd.pol" line: 107
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rj_ad_gnd.pol" line: 121
+		rl_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "rl_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rl_ad_gnd.pol" line: 23
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rl_ad_gnd.pol" line: 54
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rl_ad_gnd.pol" line: 149
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rl_ad_gnd.pol" line: 186
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rl_ad_gnd.pol" line: 233
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rl_ad_gnd.pol" line: 269
+		rm_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "rm_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rm_ad_gnd.pol" line: 31
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rm_ad_gnd.pol" line: 42
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rm_ad_gnd.pol" line: 69
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rm_ad_gnd.pol" line: 111
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rm_ad_gnd.pol" line: 119
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rm_ad_gnd.pol" line: 157
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rm_ad_gnd.pol" line: 234
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rm_ad_gnd.pol" line: 308
+		rn_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "rn_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rn_ad_gnd.pol" line: 86
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rn_ad_gnd.pol" line: 139
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rn_ad_gnd.pol" line: 219
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 274
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 427
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 459
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 488
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rn_ad_gnd.pol" line: 495
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rn_ad_gnd.pol" line: 502
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rn_ad_gnd.pol" line: 588
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rn_ad_gnd.pol" line: 618
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rn_ad_gnd.pol" line: 625
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 632
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 649
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 666
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 691
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 709
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 841
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 868
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 891
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 910
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 999
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rn_ad_gnd.pol" line: 1023
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rn_ad_gnd.pol" line: 1067
+		rp_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "rp_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rp_ad_gnd.pol" line: 44
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rp_ad_gnd.pol" line: 53
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rp_ad_gnd.pol" line: 67
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 90
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 119
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 126
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 134
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 167
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 206
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 213
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 222
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 229
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 236
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 243
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 250
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 258
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 265
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 272
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 281
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 290
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 297
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 317
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rp_ad_gnd.pol" line: 324
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 331
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 350
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 385
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 419
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 449
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 480
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 497
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 523
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 548
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 599
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rp_ad_gnd.pol" line: 620
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rp_ad_gnd.pol" line: 635
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rp_ad_gnd.pol" line: 642
+		rq_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "rq_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rq_ad_gnd.pol" line: 68
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rq_ad_gnd.pol" line: 75
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rq_ad_gnd.pol" line: 115
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rq_ad_gnd.pol" line: 122
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rq_ad_gnd.pol" line: 129
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rq_ad_gnd.pol" line: 136
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rq_ad_gnd.pol" line: 143
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rq_ad_gnd.pol" line: 162
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rq_ad_gnd.pol" line: 195
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rq_ad_gnd.pol" line: 238
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rq_ad_gnd.pol" line: 269
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rq_ad_gnd.pol" line: 337
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rq_ad_gnd.pol" line: 349
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rq_ad_gnd.pol" line: 360
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rq_ad_gnd.pol" line: 367
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rq_ad_gnd.pol" line: 374
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rq_ad_gnd.pol" line: 445
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rq_ad_gnd.pol" line: 482
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rq_ad_gnd.pol" line: 510
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "rq_ad_gnd.pol" line: 569
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "rq_ad_gnd.pol" line: 581
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "rq_ad_gnd.pol" line: 597
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "rq_ad_gnd.pol" line: 608
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "rq_ad_gnd.pol" line: 621
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "rq_ad_gnd.pol" line: 635
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "rq_ad_gnd.pol" line: 651
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rq_ad_gnd.pol" line: 660
+		rs_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "rs_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rs_ad_gnd.pol" line: 20
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rs_ad_gnd.pol" line: 127
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rs_ad_gnd.pol" line: 203
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rs_ad_gnd.pol" line: 227
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rs_ad_gnd.pol" line: 279
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rs_ad_gnd.pol" line: 342
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rs_ad_gnd.pol" line: 373
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rs_ad_gnd.pol" line: 392
+		ru_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "ru_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ru_ad_gnd.pol" line: 26
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ru_ad_gnd.pol" line: 35
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ru_ad_gnd.pol" line: 49
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ru_ad_gnd.pol" line: 65
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ru_ad_gnd.pol" line: 82
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ru_ad_gnd.pol" line: 91
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ru_ad_gnd.pol" line: 108
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ru_ad_gnd.pol" line: 122
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ru_ad_gnd.pol" line: 132
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 139
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 146
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 153
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 160
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 167
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 178
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 187
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 196
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 203
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 210
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 217
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 224
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 231
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 239
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ru_ad_gnd.pol" line: 246
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ru_ad_gnd.pol" line: 253
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ru_ad_gnd.pol" line: 296
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ru_ad_gnd.pol" line: 382
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ru_ad_gnd.pol" line: 397
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ru_ad_gnd.pol" line: 441
+		rv_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "rv_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rv_ad_gnd.pol" line: 36
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rv_ad_gnd.pol" line: 45
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rv_ad_gnd.pol" line: 52
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rv_ad_gnd.pol" line: 63
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rv_ad_gnd.pol" line: 76
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rv_ad_gnd.pol" line: 106
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rv_ad_gnd.pol" line: 115
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rv_ad_gnd.pol" line: 131
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rv_ad_gnd.pol" line: 138
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rv_ad_gnd.pol" line: 163
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rv_ad_gnd.pol" line: 181
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 205
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 212
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 219
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 226
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 233
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 240
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 247
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 254
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 261
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 268
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 275
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 282
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 289
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 296
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 303
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 310
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 317
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rv_ad_gnd.pol" line: 324
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rv_ad_gnd.pol" line: 333
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rv_ad_gnd.pol" line: 350
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rv_ad_gnd.pol" line: 370
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rv_ad_gnd.pol" line: 388
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rv_ad_gnd.pol" line: 398
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rv_ad_gnd.pol" line: 418
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rv_ad_gnd.pol" line: 428
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rv_ad_gnd.pol" line: 443
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 451
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 463
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 475
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 487
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 499
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 511
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 520
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 530
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 541
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 568
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 578
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 591
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 601
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 621
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 648
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 672
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 705
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 741
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 777
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 812
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 846
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 878
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 906
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 934
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 963
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 992
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1017
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1039
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1058
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1079
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1107
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1131
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1155
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1179
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1204
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1229
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1257
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1284
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1312
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1336
+		[FORMAT ERR] "STATIC;#406230;1;#FFFFFF" file "rv_ad_gnd.pol" line: 1359
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rv_ad_gnd.pol" line: 1379
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rv_ad_gnd.pol" line: 1405
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rv_ad_gnd.pol" line: 1452
+		rz_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "rz_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rz_ad_gnd.pol" line: 22
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "rz_ad_gnd.pol" line: 58
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rz_ad_gnd.pol" line: 74
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rz_ad_gnd.pol" line: 114
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rz_ad_gnd.pol" line: 130
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "rz_ad_gnd.pol" line: 137
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rz_ad_gnd.pol" line: 144
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rz_ad_gnd.pol" line: 179
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "rz_ad_gnd.pol" line: 209
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "rz_ad_gnd.pol" line: 250
+		da_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "da_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "da_ad_gnd.pol" line: 13
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "da_ad_gnd.pol" line: 31
+		df_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "df_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#89A7ED;0;#89A7ED" file "df_ad_gnd.pol" line: 23
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "df_ad_gnd.pol" line: 31
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "df_ad_gnd.pol" line: 43
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "df_ad_gnd.pol" line: 50
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "df_ad_gnd.pol" line: 57
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "df_ad_gnd.pol" line: 66
+		dh_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "dh_ad_gnd.pol" line: 2
+		dr_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "dr_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "dr_ad_gnd.pol" line: 45
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "dr_ad_gnd.pol" line: 138
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "dr_ad_gnd.pol" line: 144
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "dr_ad_gnd.pol" line: 156
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "dr_ad_gnd.pol" line: 162
+		[FORMAT ERR] "STATIC;#333333;1;#E6E6E6" file "dr_ad_gnd.pol" line: 168
+		dt_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "dt_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "dt_ad_gnd.pol" line: 19
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "dt_ad_gnd.pol" line: 74
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "dt_ad_gnd.pol" line: 94
+		pa_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "pa_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pa_ad_gnd.pol" line: 17
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pa_ad_gnd.pol" line: 60
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 79
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 168
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 217
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 252
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 267
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 284
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 301
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 330
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 340
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 348
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 365
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 391
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 422
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 440
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 458
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 482
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 503
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 519
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 528
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 550
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 734
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 836
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pa_ad_gnd.pol" line: 905
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "pa_ad_gnd.pol" line: 1100
+		pb_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "pb_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pb_ad_gnd.pol" line: 26
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pb_ad_gnd.pol" line: 33
+		[FORMAT ERR] "STATIC;#767587;1;#FFFFFF" file "pb_ad_gnd.pol" line: 40
+		[FORMAT ERR] "STATIC;#767587;1;#FFFFFF" file "pb_ad_gnd.pol" line: 49
+		[FORMAT ERR] "STATIC;#767587;1;#FFFFFF" file "pb_ad_gnd.pol" line: 83
+		[FORMAT ERR] "STATIC;#767587;1;#FFFFFF" file "pb_ad_gnd.pol" line: 99
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pb_ad_gnd.pol" line: 123
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pb_ad_gnd.pol" line: 130
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pb_ad_gnd.pol" line: 137
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pb_ad_gnd.pol" line: 144
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "pb_ad_gnd.pol" line: 151
+		pc_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "pc_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;1;#646464" file "pc_ad_gnd.pol" line: 89
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pc_ad_gnd.pol" line: 114
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pc_ad_gnd.pol" line: 752
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pc_ad_gnd.pol" line: 766
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pc_ad_gnd.pol" line: 774
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "pc_ad_gnd.pol" line: 788
+		[FORMAT ERR] "STATIC;#333333;1;#E6E6E6" file "pc_ad_gnd.pol" line: 794
+		pd_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "pd_ad_gnd.pol" line: 2
+		pe_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "pe_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pe_ad_gnd.pol" line: 32
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pe_ad_gnd.pol" line: 92
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pe_ad_gnd.pol" line: 103
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pe_ad_gnd.pol" line: 255
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pe_ad_gnd.pol" line: 262
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pe_ad_gnd.pol" line: 291
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pe_ad_gnd.pol" line: 311
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pe_ad_gnd.pol" line: 338
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pe_ad_gnd.pol" line: 357
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pe_ad_gnd.pol" line: 370
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pe_ad_gnd.pol" line: 417
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pe_ad_gnd.pol" line: 457
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pe_ad_gnd.pol" line: 501
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pe_ad_gnd.pol" line: 562
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pe_ad_gnd.pol" line: 587
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pe_ad_gnd.pol" line: 665
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pe_ad_gnd.pol" line: 725
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pe_ad_gnd.pol" line: 743
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pe_ad_gnd.pol" line: 934
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "pe_ad_gnd.pol" line: 947
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "pe_ad_gnd.pol" line: 960
+		pf_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "pf_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pf_ad_gnd.pol" line: 14
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "pf_ad_gnd.pol" line: 26
+		pg_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "pg_ad_gnd.pol" line: 2
+		ph_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "ph_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ph_ad_gnd.pol" line: 81
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ph_ad_gnd.pol" line: 97
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ph_ad_gnd.pol" line: 121
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ph_ad_gnd.pol" line: 180
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ph_ad_gnd.pol" line: 199
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ph_ad_gnd.pol" line: 218
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ph_ad_gnd.pol" line: 229
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ph_ad_gnd.pol" line: 240
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ph_ad_gnd.pol" line: 259
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ph_ad_gnd.pol" line: 282
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ph_ad_gnd.pol" line: 303
+		pi_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "pi_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pi_ad_gnd.pol" line: 28
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pi_ad_gnd.pol" line: 38
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pi_ad_gnd.pol" line: 51
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pi_ad_gnd.pol" line: 62
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pi_ad_gnd.pol" line: 71
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pi_ad_gnd.pol" line: 84
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pi_ad_gnd.pol" line: 91
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pi_ad_gnd.pol" line: 98
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pi_ad_gnd.pol" line: 105
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pi_ad_gnd.pol" line: 112
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pi_ad_gnd.pol" line: 119
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pi_ad_gnd.pol" line: 126
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pi_ad_gnd.pol" line: 133
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pi_ad_gnd.pol" line: 143
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pi_ad_gnd.pol" line: 167
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pi_ad_gnd.pol" line: 193
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pi_ad_gnd.pol" line: 203
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pi_ad_gnd.pol" line: 210
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pi_ad_gnd.pol" line: 242
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pi_ad_gnd.pol" line: 271
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "pi_ad_gnd.pol" line: 418
+		pk_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "pk_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pk_ad_gnd.pol" line: 91
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pk_ad_gnd.pol" line: 118
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pk_ad_gnd.pol" line: 147
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pk_ad_gnd.pol" line: 166
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pk_ad_gnd.pol" line: 173
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pk_ad_gnd.pol" line: 193
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pk_ad_gnd.pol" line: 214
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pk_ad_gnd.pol" line: 221
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pk_ad_gnd.pol" line: 228
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pk_ad_gnd.pol" line: 256
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pk_ad_gnd.pol" line: 273
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pk_ad_gnd.pol" line: 296
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "pk_ad_gnd.pol" line: 316
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "pk_ad_gnd.pol" line: 326
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "pk_ad_gnd.pol" line: 338
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "pk_ad_gnd.pol" line: 351
+		pl_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "pl_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pl_ad_gnd.pol" line: 27
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pl_ad_gnd.pol" line: 46
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pl_ad_gnd.pol" line: 53
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pl_ad_gnd.pol" line: 60
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pl_ad_gnd.pol" line: 67
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pl_ad_gnd.pol" line: 74
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pl_ad_gnd.pol" line: 81
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pl_ad_gnd.pol" line: 88
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pl_ad_gnd.pol" line: 146
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pl_ad_gnd.pol" line: 230
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pl_ad_gnd.pol" line: 468
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pl_ad_gnd.pol" line: 542
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "pl_ad_gnd.pol" line: 575
+		po_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "po_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "po_ad_gnd.pol" line: 24
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "po_ad_gnd.pol" line: 38
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "po_ad_gnd.pol" line: 89
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "po_ad_gnd.pol" line: 96
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "po_ad_gnd.pol" line: 107
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "po_ad_gnd.pol" line: 114
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "po_ad_gnd.pol" line: 121
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "po_ad_gnd.pol" line: 128
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "po_ad_gnd.pol" line: 135
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "po_ad_gnd.pol" line: 142
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "po_ad_gnd.pol" line: 149
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "po_ad_gnd.pol" line: 367
+		pq_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "pq_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pq_ad_gnd.pol" line: 44
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pq_ad_gnd.pol" line: 55
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pq_ad_gnd.pol" line: 64
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pq_ad_gnd.pol" line: 110
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pq_ad_gnd.pol" line: 125
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pq_ad_gnd.pol" line: 150
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pq_ad_gnd.pol" line: 185
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pq_ad_gnd.pol" line: 222
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pq_ad_gnd.pol" line: 246
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pq_ad_gnd.pol" line: 282
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pq_ad_gnd.pol" line: 310
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "pq_ad_gnd.pol" line: 346
+		pr_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "pr_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pr_ad_gnd.pol" line: 113
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pr_ad_gnd.pol" line: 173
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pr_ad_gnd.pol" line: 208
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pr_ad_gnd.pol" line: 217
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pr_ad_gnd.pol" line: 226
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pr_ad_gnd.pol" line: 236
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pr_ad_gnd.pol" line: 250
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pr_ad_gnd.pol" line: 259
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pr_ad_gnd.pol" line: 269
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pr_ad_gnd.pol" line: 334
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pr_ad_gnd.pol" line: 363
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 418
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 461
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 476
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 490
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 542
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pr_ad_gnd.pol" line: 553
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pr_ad_gnd.pol" line: 568
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pr_ad_gnd.pol" line: 575
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pr_ad_gnd.pol" line: 583
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pr_ad_gnd.pol" line: 594
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pr_ad_gnd.pol" line: 606
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pr_ad_gnd.pol" line: 613
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pr_ad_gnd.pol" line: 622
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pr_ad_gnd.pol" line: 629
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pr_ad_gnd.pol" line: 636
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 648
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 662
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 683
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 702
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 716
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 723
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 745
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 752
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 774
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 787
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 802
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 813
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 830
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 837
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 863
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 910
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 921
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 934
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pr_ad_gnd.pol" line: 949
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "pr_ad_gnd.pol" line: 958
+		ps_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "ps_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ps_ad_gnd.pol" line: 24
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ps_ad_gnd.pol" line: 94
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ps_ad_gnd.pol" line: 143
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ps_ad_gnd.pol" line: 213
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ps_ad_gnd.pol" line: 287
+		pu_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "pu_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pu_ad_gnd.pol" line: 24
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pu_ad_gnd.pol" line: 32
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pu_ad_gnd.pol" line: 38
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pu_ad_gnd.pol" line: 58
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pu_ad_gnd.pol" line: 78
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pu_ad_gnd.pol" line: 91
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pu_ad_gnd.pol" line: 99
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pu_ad_gnd.pol" line: 132
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pu_ad_gnd.pol" line: 156
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pu_ad_gnd.pol" line: 167
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pu_ad_gnd.pol" line: 173
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "pu_ad_gnd.pol" line: 179
+		pv_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "pv_ad_gnd.pol" line: 2
+		px_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "px_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "px_ad_gnd.pol" line: 173
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "px_ad_gnd.pol" line: 256
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 280
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 289
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 303
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 313
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 320
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 327
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 334
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 341
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 348
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 355
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 362
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 373
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 380
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 387
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 398
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 407
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "px_ad_gnd.pol" line: 414
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "px_ad_gnd.pol" line: 425
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "px_ad_gnd.pol" line: 458
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "px_ad_gnd.pol" line: 530
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "px_ad_gnd.pol" line: 615
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "px_ad_gnd.pol" line: 663
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "px_ad_gnd.pol" line: 670
+		py_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "py_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "py_ad_gnd.pol" line: 31
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "py_ad_gnd.pol" line: 54
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "py_ad_gnd.pol" line: 68
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "py_ad_gnd.pol" line: 75
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "py_ad_gnd.pol" line: 82
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "py_ad_gnd.pol" line: 100
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "py_ad_gnd.pol" line: 107
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "py_ad_gnd.pol" line: 114
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "py_ad_gnd.pol" line: 133
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "py_ad_gnd.pol" line: 150
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "py_ad_gnd.pol" line: 161
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "py_ad_gnd.pol" line: 172
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "py_ad_gnd.pol" line: 181
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "py_ad_gnd.pol" line: 188
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "py_ad_gnd.pol" line: 195
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "py_ad_gnd.pol" line: 202
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "py_ad_gnd.pol" line: 222
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "py_ad_gnd.pol" line: 240
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "py_ad_gnd.pol" line: 261
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "py_ad_gnd.pol" line: 283
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "py_ad_gnd.pol" line: 307
+		pz_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "pz_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "pz_ad_gnd.pol" line: 49
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 119
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 171
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pz_ad_gnd.pol" line: 206
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pz_ad_gnd.pol" line: 238
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pz_ad_gnd.pol" line: 323
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pz_ad_gnd.pol" line: 330
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pz_ad_gnd.pol" line: 337
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pz_ad_gnd.pol" line: 348
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "pz_ad_gnd.pol" line: 361
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 377
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 395
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 432
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 496
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 547
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 577
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 596
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 611
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 650
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 672
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 708
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 727
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 734
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "pz_ad_gnd.pol" line: 749
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "pz_ad_gnd.pol" line: 769
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "pz_ad_gnd.pol" line: 780
+		ba_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "ba_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ba_ad_gnd.pol" line: 25
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ba_ad_gnd.pol" line: 37
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ba_ad_gnd.pol" line: 60
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ba_ad_gnd.pol" line: 69
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ba_ad_gnd.pol" line: 76
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ba_ad_gnd.pol" line: 83
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ba_ad_gnd.pol" line: 90
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ba_ad_gnd.pol" line: 107
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ba_ad_gnd.pol" line: 117
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "ba_ad_gnd.pol" line: 129
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ba_ad_gnd.pol" line: 142
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ba_ad_gnd.pol" line: 149
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ba_ad_gnd.pol" line: 156
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ba_ad_gnd.pol" line: 163
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ba_ad_gnd.pol" line: 170
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ba_ad_gnd.pol" line: 177
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ba_ad_gnd.pol" line: 184
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ba_ad_gnd.pol" line: 195
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ba_ad_gnd.pol" line: 202
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "ba_ad_gnd.pol" line: 209
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ba_ad_gnd.pol" line: 222
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ba_ad_gnd.pol" line: 244
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ba_ad_gnd.pol" line: 317
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ba_ad_gnd.pol" line: 335
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ba_ad_gnd.pol" line: 352
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "ba_ad_gnd.pol" line: 380
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "ba_ad_gnd.pol" line: 387
+		bc_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "bc_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bc_ad_gnd.pol" line: 80
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bc_ad_gnd.pol" line: 89
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bc_ad_gnd.pol" line: 114
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bc_ad_gnd.pol" line: 126
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bc_ad_gnd.pol" line: 141
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bc_ad_gnd.pol" line: 148
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bc_ad_gnd.pol" line: 178
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bc_ad_gnd.pol" line: 210
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bc_ad_gnd.pol" line: 222
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "bc_ad_gnd.pol" line: 235
+		bd_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "bd_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "bd_ad_gnd.pol" line: 70
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "bd_ad_gnd.pol" line: 81
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 89
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 98
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 110
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 124
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 131
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bd_ad_gnd.pol" line: 138
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bd_ad_gnd.pol" line: 245
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bd_ad_gnd.pol" line: 257
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bd_ad_gnd.pol" line: 268
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bd_ad_gnd.pol" line: 287
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 312
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 364
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 389
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 417
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 452
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 476
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 505
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 530
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 550
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 567
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bd_ad_gnd.pol" line: 584
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "bd_ad_gnd.pol" line: 603
+		bf_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "bf_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "bf_ad_gnd.pol" line: 21
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bf_ad_gnd.pol" line: 30
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bf_ad_gnd.pol" line: 49
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bf_ad_gnd.pol" line: 65
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bf_ad_gnd.pol" line: 72
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bf_ad_gnd.pol" line: 79
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bf_ad_gnd.pol" line: 86
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bf_ad_gnd.pol" line: 137
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "bf_ad_gnd.pol" line: 241
+		bg_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "bg_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "bg_ad_gnd.pol" line: 32
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "bg_ad_gnd.pol" line: 39
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "bg_ad_gnd.pol" line: 50
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "bg_ad_gnd.pol" line: 57
+		[FORMAT ERR] "STATIC;#646464;0;#646464" file "bg_ad_gnd.pol" line: 70
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 80
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 87
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 94
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 114
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 123
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 130
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bg_ad_gnd.pol" line: 138
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bg_ad_gnd.pol" line: 145
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bg_ad_gnd.pol" line: 152
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bg_ad_gnd.pol" line: 159
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bg_ad_gnd.pol" line: 166
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bg_ad_gnd.pol" line: 185
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bg_ad_gnd.pol" line: 192
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bg_ad_gnd.pol" line: 199
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bg_ad_gnd.pol" line: 206
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bg_ad_gnd.pol" line: 213
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 220
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 240
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 262
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 285
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 313
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 359
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 379
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bg_ad_gnd.pol" line: 469
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "bg_ad_gnd.pol" line: 497
+		bn_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "bn_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bn_ad_gnd.pol" line: 27
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bn_ad_gnd.pol" line: 39
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bn_ad_gnd.pol" line: 53
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bn_ad_gnd.pol" line: 60
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bn_ad_gnd.pol" line: 69
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bn_ad_gnd.pol" line: 78
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bn_ad_gnd.pol" line: 85
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bn_ad_gnd.pol" line: 309
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bn_ad_gnd.pol" line: 347
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bn_ad_gnd.pol" line: 368
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "bn_ad_gnd.pol" line: 386
+		bp_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "bp_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 69
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 83
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 93
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 111
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 135
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 144
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bp_ad_gnd.pol" line: 166
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bp_ad_gnd.pol" line: 173
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bp_ad_gnd.pol" line: 180
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bp_ad_gnd.pol" line: 187
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bp_ad_gnd.pol" line: 198
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bp_ad_gnd.pol" line: 205
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bp_ad_gnd.pol" line: 214
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bp_ad_gnd.pol" line: 221
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bp_ad_gnd.pol" line: 228
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bp_ad_gnd.pol" line: 235
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bp_ad_gnd.pol" line: 242
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 249
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 280
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 302
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 349
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 390
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 419
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 434
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 457
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bp_ad_gnd.pol" line: 480
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "bp_ad_gnd.pol" line: 500
+		br_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "br_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 93
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 103
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "br_ad_gnd.pol" line: 135
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "br_ad_gnd.pol" line: 142
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "br_ad_gnd.pol" line: 150
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "br_ad_gnd.pol" line: 162
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 175
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 416
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 448
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 467
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 490
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 505
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 538
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 570
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 623
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 640
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 663
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "br_ad_gnd.pol" line: 694
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "br_ad_gnd.pol" line: 721
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "br_ad_gnd.pol" line: 734
+		bv_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#000000" file "bv_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 25
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 38
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 48
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 62
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 76
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 87
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 95
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 104
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 113
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 123
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 130
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 138
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 146
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 155
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 164
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 173
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 180
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 187
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 195
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 203
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 211
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 219
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 227
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 236
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 246
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 254
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 262
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 271
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 279
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 315
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 346
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 379
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 394
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 433
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 461
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 509
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "bv_ad_gnd.pol" line: 522
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 529
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 605
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 642
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 677
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 705
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 769
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 790
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 911
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "bv_ad_gnd.pol" line: 935
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "bv_ad_gnd.pol" line: 1000
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "bv_ad_gnd.pol" line: 1007
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1014
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1022
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1028
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1036
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1042
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1048
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1054
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1060
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1066
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1072
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1078
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1084
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1090
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1096
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1102
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1108
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1114
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1120
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1126
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1132
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1138
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1144
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1150
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1156
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1162
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1168
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1174
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1180
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1186
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1192
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1198
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1204
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1210
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1216
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1222
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1228
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1234
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1240
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1246
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1252
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1258
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1264
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1270
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1276
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1282
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1290
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1296
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1304
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1310
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1318
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1334
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1350
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1362
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1368
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1384
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1400
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1408
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1414
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1420
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1426
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1432
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1438
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1444
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1450
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1456
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1462
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1468
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1474
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1480
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1486
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1492
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1498
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1504
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1510
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1516
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1522
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1528
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1534
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1540
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1546
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1552
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1558
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1564
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1570
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1576
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1582
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1588
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1594
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1600
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1606
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1612
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1618
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1624
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1630
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1636
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1642
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1648
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1654
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1660
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1666
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1672
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1678
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1684
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1690
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1696
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1702
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1708
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1714
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1720
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1726
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1732
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1738
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1744
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1750
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1756
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1762
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1768
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1774
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1780
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1786
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1792
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1798
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1804
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1810
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1816
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1822
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1828
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1834
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1840
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1846
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1852
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1858
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1864
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1870
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1876
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1882
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1888
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1894
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1900
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1906
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1912
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1918
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1924
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1930
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1939
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1955
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1963
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1972
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 1988
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2000
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2006
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2014
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2022
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2030
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2038
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2046
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2054
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2062
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2070
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2078
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2084
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2092
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2098
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2106
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2112
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2120
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2126
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2134
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2140
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2148
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2154
+		[FORMAT ERR] "STATIC;#E6E6E6;0;#E6E6E6" file "bv_ad_gnd.pol" line: 2162
+		nl_ad_gnd.pol
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "nl_ad_gnd.pol" line: 2
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "nl_ad_gnd.pol" line: 20
+		[FORMAT ERR] "STATIC;#202000;0;#202000" file "nl_ad_gnd.pol" line: 31
+		[FORMAT ERR] "STATIC;#767587;0;#767587" file "nl_ad_gnd.pol" line: 38
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "nl_ad_gnd.pol" line: 84
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "nl_ad_gnd.pol" line: 108
+		[FORMAT ERR] "STATIC;#406230;1;#406230" file "nl_ad_gnd.pol" line: 120
+		[FORMAT ERR] "STATIC;#333333;0;#333333" file "nl_ad_gnd.pol" line: 135
+		[FORMAT ERR] "STATIC;#B2B1C6;1;#B2B1C6" file "nl_ad_gnd.pol" line: 143
+		[FORMAT ERR] "STATIC;#B2B1C6;1;#B2B1C6" file "nl_ad_gnd.pol" line: 158
+		[FIX VOR NDB MISSING] "PA-BRAVO" in "C:\Aurora\SectorFiles\include\IT\lipi.str" line: 1122
+		[FIX VOR NDB MISSING] "PS-ARIEL" in "C:\Aurora\SectorFiles\include\IT\lirr.str" line: 1535
+		[FORMAT ERR] "PS-BRAVO;PS-BRAVO;<br>" file "nl_ad_gnd.pol" line: 1536
+		[FORMAT ERR] "LUGANO;LUGAN;" file "nl_ad_gnd.pol" line: 1557
+	[MVA]
+		C:\Aurora\SectorFiles\include\IT\liba.mva
+		C:\Aurora\SectorFiles\include\IT\libb.mva
+		C:\Aurora\SectorFiles\include\IT\libd.mva
+		C:\Aurora\SectorFiles\include\IT\lica.mva
+		C:\Aurora\SectorFiles\include\IT\licc.mva
+		C:\Aurora\SectorFiles\include\IT\licj.mva
+		C:\Aurora\SectorFiles\include\IT\liee.mva
+		C:\Aurora\SectorFiles\include\IT\lieo.mva
+		C:\Aurora\SectorFiles\include\IT\limf.mva
+		C:\Aurora\SectorFiles\include\IT\limj.mva
+		C:\Aurora\SectorFiles\include\IT\limm.mva
+		C:\Aurora\SectorFiles\include\IT\lipa.mva
+		C:\Aurora\SectorFiles\include\IT\lipe.mva
+		C:\Aurora\SectorFiles\include\IT\liph.mva
+		C:\Aurora\SectorFiles\include\IT\lipp.mva
+		C:\Aurora\SectorFiles\include\IT\lipx.mva
+		C:\Aurora\SectorFiles\include\IT\lipz.mva
+		C:\Aurora\SectorFiles\include\IT\lirn.mva
+		C:\Aurora\SectorFiles\include\IT\lirp.mva
+		C:\Aurora\SectorFiles\include\IT\lirq.mva
+		C:\Aurora\SectorFiles\include\IT\lirr.mva
+		C:\Aurora\SectorFiles\include\IT\lirs.mva
+Summary:
+[FIX] [NDB] [VOR]: 1728 nodes
+[GEO]: 111243 lines
+[AIRPORT]: 120 apts
+[RUNWAY]: 125 rwys
+[ARTCC]: 269 lines
+[ARTCC LOW]: 42 lines
+[ARTCC HIGH]: 4732 lines
+[LOW AIRWAY]: 2685 awys
+[HIGH AIRWAY]: 0 awys
+[MVA]: 10917 lines
+[FILLCOLOR]: 44496 lines
+[SID]: 0 lines
+[STAR]: 1011 lines
