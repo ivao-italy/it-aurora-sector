@@ -113,6 +113,7 @@
 	[LOW AIRWAY]
 		itawlow.awl
 	[HIGH AIRWAY]
+		itawhigh.hairway
 	[ARTCC] / [AIRSPACE]
 		limm.artcc
 		lipp.artcc
@@ -2162,9 +2163,9 @@
 		[FORMAT ERR] "STATIC;#B2B1C6;1;#B2B1C6" file "nl_ad_gnd.pol" line: 143
 		[FORMAT ERR] "STATIC;#B2B1C6;1;#B2B1C6" file "nl_ad_gnd.pol" line: 158
 		[FIX VOR NDB MISSING] "PA-BRAVO" in "C:\Aurora\SectorFiles\include\IT\lipi.str" line: 1122
-		[FIX VOR NDB MISSING] "PS-ARIEL" in "C:\Aurora\SectorFiles\include\IT\lirr.str" line: 1535
-		[FORMAT ERR] "PS-BRAVO;PS-BRAVO;<br>" file "nl_ad_gnd.pol" line: 1536
-		[FORMAT ERR] "LUGANO;LUGAN;" file "nl_ad_gnd.pol" line: 1557
+		[FIX VOR NDB MISSING] "PS-ARIEL" in "C:\Aurora\SectorFiles\include\IT\lirr.str" line: 1764
+		[FORMAT ERR] "PS-BRAVO;PS-BRAVO;<br>" file "nl_ad_gnd.pol" line: 1765
+		[FORMAT ERR] "LUGANO;LUGAN;" file "nl_ad_gnd.pol" line: 1786
 	[MVA]
 		C:\Aurora\SectorFiles\include\IT\liba.mva
 		C:\Aurora\SectorFiles\include\IT\libb.mva
@@ -2189,16 +2190,16 @@
 		C:\Aurora\SectorFiles\include\IT\lirr.mva
 		C:\Aurora\SectorFiles\include\IT\lirs.mva
 Summary:
-[FIX] [NDB] [VOR]: 1728 nodes
+[FIX] [NDB] [VOR]: 1735 nodes
 [GEO]: 111243 lines
 [AIRPORT]: 120 apts
 [RUNWAY]: 125 rwys
-[ARTCC]: 269 lines
-[ARTCC LOW]: 42 lines
+[ARTCC]: 270 lines
+[ARTCC LOW]: 107 lines
 [ARTCC HIGH]: 4732 lines
-[LOW AIRWAY]: 2685 awys
-[HIGH AIRWAY]: 0 awys
-[MVA]: 10917 lines
+[LOW AIRWAY]: 1192 awys
+[HIGH AIRWAY]: 1493 awys
+[MVA]: 11059 lines
 [FILLCOLOR]: 44496 lines
 [SID]: 0 lines
-[STAR]: 1011 lines
+[STAR]: 1210 lines
