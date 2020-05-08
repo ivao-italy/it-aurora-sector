@@ -5,8 +5,8 @@ E012.14.20.000
 45
 +3.0
 IT
-IVAO ITALY ATC OPERATIONS DEPARTMENT
-AIRAC A3/20 EFF 23.04.2020
+
+
 
 [Airport]
 F;itap.ap
@@ -175,10 +175,6 @@ F;libv.hartcc
 F;lipa.hartcc
 F;lirh.hartcc
 F;lirm.hartcc
-
-[DEFINE]
-F;IT\colors\colors.def
-
 
 
 [ARTCC LOW]
