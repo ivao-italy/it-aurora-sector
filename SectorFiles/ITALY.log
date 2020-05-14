@@ -564,7 +564,7 @@ DISCARDED (Unreferenced)...lirr_ew_ctr.tfl
 DISCARDED (Unreferenced)...lirr_ne_ctr.tfl
 DISCARDED (Unreferenced)...lirr_su_ctr.tfl
 [FIXES]
-ANALYZED... itfix.fix [73 error(s) - 31 warning(s)]
+ANALYZED... itfix.fix [73 error(s) - 24 warning(s)]
 Error: Invalid FIX identifier [MN-BRAVO] at Line N°1555
 Error: Invalid FIX identifier [MN-CHARLIE] at Line N°1556
 Error: Invalid FIX identifier [MN-ZULU] at Line N°1557
@@ -638,14 +638,8 @@ Error: Invalid FIX identifier [TAC-Y10LR] at Line N°1718
 Error: Invalid FIX identifier [TAC-Y28LR] at Line N°1719
 Error: Invalid FIX identifier [HTAC31L] at Line N°1725
 Error: Invalid FIX identifier [HTAC13R] at Line N°1726
-Warning: EKTOR: Lat/Long disagreement [AIRAC: N037.44.47.300 E012.45.58.490] at Line N°772
-Warning: EKVAV: Lat/Long disagreement [AIRAC: N041.58.43.000 E012.39.34.000] at Line N°773
 Warning: LOCRI: Unknown FIX in AIRAC database at Line N°878
 Warning: BR502: Unknown FIX in AIRAC database at Line N°1085
-Warning: ME533: Lat/Long disagreement [AIRAC: N045.43.01.580 E009.26.23.350] at Line N°1158
-Warning: CJ457: Lat/Long disagreement [AIRAC: N038.29.56.320 E013.08.03.550] at Line N°1274
-Warning: EO469: Lat/Long disagreement [AIRAC: N040.36.08.200 E009.29.44.900] at Line N°1329
-Warning: EO470: Lat/Long disagreement [AIRAC: N040.41.48.900 E009.40.34.300] at Line N°1331
 Warning: EO723: Unknown FIX in AIRAC database at Line N°1349
 Warning: EO724: Unknown FIX in AIRAC database at Line N°1350
 Warning: RA711: Unknown FIX in AIRAC database at Line N°1436
@@ -655,7 +649,6 @@ Warning: CZ002: Unknown FIX in AIRAC database at Line N°1618
 Warning: CZ006: Unknown FIX in AIRAC database at Line N°1622
 Warning: CZ007: Unknown FIX in AIRAC database at Line N°1623
 Warning: SILVA: Unknown FIX in AIRAC database at Line N°1633
-Warning: LALVA: Lat/Long disagreement [AIRAC: N044.07.51.160 E012.27.00.580] at Line N°1645
 Warning: BERNY: Lat/Long disagreement [AIRAC: N039.00.26.400 W076.30.21.860] at Line N°1654
 Warning: MARTE: Lat/Long disagreement [AIRAC: N045.50.12.310 E012.41.46.100] at Line N°1673
 Warning: IPNUD: Lat/Long disagreement [AIRAC: N041.25.36.360 E016.03.18.650] at Line N°1678
@@ -842,17 +835,12 @@ ANALYZED... lirq.mva [OK]
 ANALYZED... lirr.mva [OK]
 ANALYZED... lirs.mva [OK]
 [NDB]
-ANALYZED... itndb.ndb [2 error(s) - 2 warning(s)]
-Error: CAM: AIRAC frequency disagreement [True: 332,5] at Line N°8
-Error: Wrong number of fields or missing end semicolon at Line N°17
-Warning: CAM: Lat/Long disagreement [AIRAC: N052.12.38.570 E000.10.59.010] at Line N°8
-Warning: CAR: Unknown navaid in AIRAC database at Line N°9
+ANALYZED... itndb.ndb [OK]
 [RUNWAY]
-ANALYZED... itrw.rw [51 warning(s)]
+ANALYZED... itrw.rw [49 warning(s)]
 Warning: LIBC: Rwy 17 course disagreement [AIRAC: 166] at Line N°5
 Warning: LIBC Rwy 35 course disagreement [AIRAC: 346] at Line N°5
 Warning: LIBD: Rwy 07 course disagreement [AIRAC: 065] at Line N°6
-Warning: LIBD Rwy 07: Lat/Long disagreement [AIRAC: N041.07.58.310 E016.44.26.260] at Line N°6
 Warning: LIBD Rwy 25 course disagreement [AIRAC: 245] at Line N°6
 Warning: LICC: Rwy 08 course disagreement [AIRAC: 082] at Line N°17
 Warning: LICC Rwy 26 course disagreement [AIRAC: 262] at Line N°17
@@ -861,8 +849,6 @@ Warning: LICJ Rwy 20 course disagreement [AIRAC: 202] at Line N°21
 Warning: LICJ: Rwy 07 course disagreement [AIRAC: 065] at Line N°22
 Warning: LICJ Rwy 25 course disagreement [AIRAC: 245] at Line N°22
 Warning: LICR Rwy 33 course disagreement [AIRAC: 331] at Line N°25
-Warning: LIDB Rwy 05: Lat/Long disagreement [AIRAC: N046.09.49.240 E012.14.44.670] at Line N°31
-Warning: LIDB Rwy 23: Lat/Long disagreement [AIRAC: N046.10.07.120 E012.15.12.750] at Line N°31
 Warning: LIEA: Rwy 02 course disagreement [AIRAC: 024] at Line N°38
 Warning: LIEA Rwy 20 course disagreement [AIRAC: 204] at Line N°38
 Warning: LIEE: Rwy 14 course disagreement [AIRAC: 137] at Line N°41
@@ -899,7 +885,8 @@ Warning: LIRF: Rwy 16R course disagreement [AIRAC: 161] at Line N°100
 Warning: LIRF Rwy 34L course disagreement [AIRAC: 341] at Line N°100
 Warning: LIRN: Rwy 06 course disagreement [AIRAC: 056] at Line N°109
 Warning: LIRN Rwy 24 course disagreement [AIRAC: 236] at Line N°109
-Warning: Unreferenced airport [LSZA] at Line N°119
+Warning: LSZA: Rwy 01 course disagreement [AIRAC: 017] at Line N°119
+Warning: LSZA Rwy 19 course disagreement [AIRAC: 197] at Line N°119
 [STAR]
 ANALYZED... liba.str [2 error(s)]
 Error: Wrong number of fields or missing end semicolon at Line N°1
@@ -919,9 +906,9 @@ ANALYZED... libn.str [6 error(s)]
 Error: Invalid latitude field [] at Line N°1
 Error: Invalid longitude field [] at Line N°1
 Error: Wrong number of fields or missing end semicolon at Line N°4
-Error: Invalid latitude field [HITAC-32/IAF2] at Line N°8
-Error: Invalid longitude field [HITAC-32/IAF2] at Line N°8
-Error: Wrong number of fields or missing end semicolon at Line N°11
+Error: Invalid latitude field [HITAC-32/IAF1] at Line N°8
+Error: Invalid longitude field [HITAC-32/IAF1] at Line N°8
+Error: Wrong number of fields or missing end semicolon at Line N°12
 ANALYZED... libp.str [2 error(s)]
 Error: Wrong number of fields or missing end semicolon at Line N°1
 Error: Wrong number of fields or missing end semicolon at Line N°4
@@ -1105,21 +1092,20 @@ Error: Wrong number of fields or missing end semicolon at Line N°56
 Error: Wrong number of fields or missing end semicolon at Line N°62
 Error: Wrong number of fields or missing end semicolon at Line N°67
 ANALYZED... limf.str [3 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid latitude field [] at Line N°7
-Error: Invalid latitude field [] at Line N°12
+Error: Wrong number of fields or missing end semicolon at Line N°1
+Error: Wrong number of fields or missing end semicolon at Line N°7
+Error: Wrong number of fields or missing end semicolon at Line N°12
 ANALYZED... limg.str [2 error(s)]
 Error: Wrong number of fields or missing end semicolon at Line N°1
 Error: Wrong number of fields or missing end semicolon at Line N°4
 ANALYZED... limj.str [2 error(s)]
 Error: Wrong number of fields or missing end semicolon at Line N°1
 Error: Wrong number of fields or missing end semicolon at Line N°7
-ANALYZED... liml.str [7 error(s)]
+ANALYZED... liml.str [6 error(s)]
 Error: Invalid latitude field [] at Line N°2
 Error: Invalid longitude field [] at Line N°2
 Error: Wrong number of fields or missing end semicolon at Line N°11
 Error: Wrong number of fields or missing end semicolon at Line N°17
-Error: Unreferenced identifier [IAF18] at Line N°20
 Error: Wrong number of fields or missing end semicolon at Line N°22
 Error: Wrong number of fields or missing end semicolon at Line N°65
 ANALYZED... limn.str [14 error(s)]
@@ -1159,12 +1145,11 @@ Error: Invalid longitude field [PI/PA-BRAVO] at Line N°2
 Error: Invalid latitude field [PA-GOCAT] at Line N°3
 Error: Invalid longitude field [PA-GOCAT] at Line N°3
 Error: Wrong number of fields or missing end semicolon at Line N°5
-ANALYZED... lipb.str [5 error(s)]
+ANALYZED... lipb.str [4 error(s)]
 Error: Invalid latitude field [] at Line N°1
 Error: Invalid longitude field [] at Line N°1
 Error: Wrong number of fields or missing end semicolon at Line N°7
 Error: Wrong number of fields or missing end semicolon at Line N°10
-Error: Wrong number of fields or missing end semicolon at Line N°11
 ANALYZED... lipc.str [6 error(s)]
 Error: Wrong number of fields or missing end semicolon at Line N°1
 Error: Invalid latitude field [PC-WHISKY] at Line N°2
@@ -1251,17 +1236,15 @@ Error: Wrong number of fields or missing end semicolon at Line N°86
 Error: Wrong number of fields or missing end semicolon at Line N°89
 Error: Wrong number of fields or missing end semicolon at Line N°92
 Error: Wrong number of fields or missing end semicolon at Line N°135
-ANALYZED... lira.str [10 error(s)]
+ANALYZED... lira.str [8 error(s)]
 Error: Invalid latitude field [] at Line N°1
 Error: Invalid longitude field [] at Line N°1
 Error: Invalid latitude field [] at Line N°7
 Error: Invalid longitude field [] at Line N°7
-Error: Unreferenced identifier [FRS] at Line N°20
 Error: Invalid latitude field [] at Line N°32
 Error: Invalid longitude field [] at Line N°32
 Error: Wrong number of fields or missing end semicolon at Line N°62
 Error: Wrong number of fields or missing end semicolon at Line N°66
-Error: Unreferenced identifier [FRS] at Line N°70
 ANALYZED... lire.str [2 error(s)]
 Error: Wrong number of fields or missing end semicolon at Line N°1
 Error: Wrong number of fields or missing end semicolon at Line N°6
@@ -1303,7 +1286,7 @@ Error: Invalid longitude field [RM-SIERRA] at Line N°5
 Error: Wrong number of fields or missing end semicolon at Line N°7
 Error: Invalid latitude field [TAC-06R] at Line N°8
 Error: Invalid longitude field [TAC-06R] at Line N°8
-ANALYZED... lirn.str [17 error(s)]
+ANALYZED... lirn.str [16 error(s)]
 Error: Invalid latitude field [] at Line N°1
 Error: Invalid longitude field [] at Line N°1
 Error: Invalid latitude field [] at Line N°67
@@ -1317,7 +1300,6 @@ Error: Invalid longitude field [] at Line N°207
 Error: Invalid latitude field [] at Line N°215
 Error: Invalid longitude field [] at Line N°215
 Error: Wrong number of fields or missing end semicolon at Line N°244
-Error: Unreferenced identifier [GAVSA] at Line N°248
 Error: Wrong number of fields or missing end semicolon at Line N°250
 Error: Wrong number of fields or missing end semicolon at Line N°254
 Error: Wrong number of fields or missing end semicolon at Line N°383
@@ -1349,7 +1331,9 @@ Error: Wrong number of fields or missing end semicolon at Line N°14
 ANALYZED... lirz.str [2 error(s)]
 Error: Wrong number of fields or missing end semicolon at Line N°1
 Error: Wrong number of fields or missing end semicolon at Line N°4
-DISCARDED (Unreferenced)...lsza.str
+ANALYZED... lsza.str [2 error(s)]
+Error: Invalid latitude field [] at Line N°1
+Error: Invalid longitude field [] at Line N°1
 [VFRFIX]
 ANALYZED... liap.vfi [OK]
 ANALYZED... liba.vfi [OK]
@@ -1417,7 +1401,7 @@ ANALYZED... lirs.vfi [OK]
 ANALYZED... liru.vfi [OK]
 ANALYZED... lirv.vfi [OK]
 ANALYZED... lirz.vfi [OK]
-DISCARDED (Unreferenced)...lsza.vfi
+ANALYZED... lsza.vfi [OK]
 [VFRROUTE]
 ANALYZED... liba.vrt [8 error(s)]
 Error: Invalid latitude or reference Id [MNL] at Line N°4
@@ -1478,9 +1462,7 @@ ANALYZED... lirm.vrt [OK]
 ANALYZED... lirn.vrt [OK]
 ANALYZED... liru.vrt [OK]
 [VOR]
-ANALYZED... itvor.vor [2 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°42
-Error: Wrong number of fields or missing end semicolon at Line N°44
+ANALYZED... itvor.vor [OK]
 [TAXIWAY]
 ANALYZED... liba.txi [OK]
 ANALYZED... libc.txi [OK]
@@ -1544,8 +1526,8 @@ ANALYZED... lirs.txi [OK]
 ANALYZED... liru.txi [OK]
 ANALYZED... lirz.txi [OK]
 
-N° of errors: 909
-N° of warnings: 88
+N° of errors: 902
+N° of warnings: 77
 
 **Unused VOR/NDB/FIX names in referenced files**
 ABADI
@@ -1603,7 +1585,6 @@ ANAKI
 AOSTA
 APRIV
 APSUX
-ARB
 ARBIP
 ARBUM
 ARDAM
@@ -1706,6 +1687,7 @@ CALKE
 CAM
 CANNE
 CAR
+CAS
 CAS
 CD803
 CERVI
@@ -1859,7 +1841,6 @@ FGG
 FIZZY
 FOG
 FOL
-FW
 GALTI
 GAPDO
 GAPMI
@@ -1923,7 +1904,6 @@ HTAC-X
 HTAC08-26
 IAF-Y
 IAF-Z
-IAF2
 IBENI
 IBLIG
 IBLUN
@@ -2020,6 +2000,7 @@ LIMBA
 LIN
 LISKO
 LMT
+LNE
 LOBSI
 LOCRI
 LOGDI
@@ -2029,7 +2010,6 @@ LORLO
 LORNO
 LOUIS
 LPD
-LUGAN
 LUKAD
 LUKIM
 LULET
@@ -2104,7 +2084,6 @@ ML707
 ML711
 ML712
 ML713
-MLL
 MMP
 MN-ALPHA
 MN-BRAVO
@@ -2125,6 +2104,7 @@ MOVOR
 MUSKY
 MZ702
 MZ706
+NAP
 NAPOX
 NATAG
 NATOV
@@ -2165,6 +2145,7 @@ NOSTA
 NOSTO
 NOTRI
 NOV
+NOV
 NSY
 NUCRE
 NUDRA
@@ -2201,7 +2182,8 @@ OLPUR
 OMAKU
 OMETO
 OMILI
-ORI
+ORF
+ORF
 ORSOM
 ORVEX
 OSDAX
@@ -2275,7 +2257,6 @@ PIKEL
 PIKOT
 PIMOT
 PIN
-PINIK
 PININ
 PINUK
 PIRIX
@@ -2384,6 +2365,7 @@ RM-ALPHA
 RM-PAPA
 RM-SIERRA
 RM-TANGO
+RMN
 RN407
 RN511
 RN515
@@ -2598,7 +2580,6 @@ VIC
 VIE
 VIE
 VIL
-VOG
 VOG
 VOLTU
 VOMER-VOR08
