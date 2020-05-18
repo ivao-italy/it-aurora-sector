@@ -1,0 +1,62 @@
+// This software is published under the GNU GPL Licence a copy of which must always accompany this file"
+// This Sectorfile must always acompanied by the History file"
+
+[INFO]
+N038.10.04.627
+E024.33.34.907
+60
+48
+4.4
+EL
+
+[ATC]
+F;OTHER\LGGG_ATC.FRQ
+F;OTHER\LGGG_MIL.FRQ
+
+[Airport]
+F;OTHER\grap.ap
+
+[Runway]
+F;OTHER\grrw.rw
+
+[FIXES]
+F;NAVAIDS\grfix.fix
+
+[NDB]
+F;NAVAIDS\grndb.ndb
+
+[VOR]
+F;NAVAIDS\GRVOR.VOR
+
+[HIGH AIRWAY]
+F;AIRWAY\grawhigh.awh
+
+[LOW AIRWAY]
+F;AIRWAY\grawlow.awl
+
+[ARTCC]
+F;AIRSPACE\grartcc.artcc
+
+[ARTCC HIGH]
+F;AIRSPACE\grartcch.artcc
+
+[ARTCC LOW]
+F;AIRSPACE\grartccl.artcc
+
+[GEO]
+F;GEO\LGTS.GEO
+F;GEO\grgeo.geo
+F;GEO\lgav.geo
+F;GEO\lgts.geo
+F;GEO\lgkr.geo
+F;GEO\lgir.geo
+F;GEO\lgsm.geo
+F;GEO\lglr.geo
+F;GEO\lgsa.geo
+F;GEO\lgtg.geo
+F;GEO\lgkf.geo
+F;GEO\lgza.geo
+
+[FILLCOLOR]
+F;OTHER\ATC_ACC.fcl
+F;OTHER\ATC_LOW.fcl
