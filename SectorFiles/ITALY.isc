@@ -40,6 +40,7 @@ F;GEO\lida.geo
 F;GEO\lide.geo
 F;GEO\lidf.geo
 F;GEO\lidh.geo
+F;GEO\lidk.geo
 F;GEO\lidr.geo
 F;GEO\lidt.geo
 F;GEO\lipa.geo
@@ -256,6 +257,7 @@ F;GND_LAYOUT\rz_ad_gnd.pol
 F;GND_LAYOUT\da_ad_gnd.pol
 F;GND_LAYOUT\df_ad_gnd.pol
 F;GND_LAYOUT\dh_ad_gnd.pol
+F;GND_LAYOUT\dk_ad_gnd.pol
 F;GND_LAYOUT\dr_ad_gnd.pol
 F;GND_LAYOUT\dt_ad_gnd.pol
 F;GND_LAYOUT\pa_ad_gnd.pol
