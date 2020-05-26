@@ -61,7 +61,8 @@ N041.46.31.420;E012.36.50.787;
 
 LIRA;15;IAF 15; ; ;3;
 ROM;ROM;<br>;
-URB;URB;<br>;
+LOCRI;LOCRI;<br>;
+CMP;CMP;<br>;
 
 LIRA;33;IAF 33; ; ;3;
 ROM;ROM;<br>;

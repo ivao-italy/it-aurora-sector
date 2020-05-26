@@ -5,6 +5,8 @@ E012.14.20.000
 45
 +3.0
 IT
+IVAO ITALY ATC OPERATIONS DEPARTMENT
+AIRAC A4/20 EFF 21.05.2020
 
 [ATC]
 F;OTHER\itfreq.atc
@@ -271,6 +273,7 @@ F;GND_LAYOUT\ph_ad_gnd.pol
 F;GND_LAYOUT\pi_ad_gnd.pol
 F;GND_LAYOUT\pk_ad_gnd.pol
 F;GND_LAYOUT\pl_ad_gnd.pol
+F;GND_LAYOUT\pn_ad_gnd.pol
 F;GND_LAYOUT\po_ad_gnd.pol
 F;GND_LAYOUT\pq_ad_gnd.pol
 F;GND_LAYOUT\pr_ad_gnd.pol
