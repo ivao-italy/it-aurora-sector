@@ -1,2599 +1,332 @@
-[AIRPORT]
-ANALYZED... itap.ap [4 warning(s)]
-Warning: LIBB: Unknown airport in AIRAC database at Line N°9
-Warning: LIMM: Unknown airport in AIRAC database at Line N°74
-Warning: LIPP: Unknown airport in AIRAC database at Line N°97
-Warning: LIRR: Unknown airport in AIRAC database at Line N°126
-[ARTCC]
-ANALYZED... limm.artcc [OK]
-ANALYZED... lipp.artcc [OK]
-ANALYZED... lirr.artcc [OK]
-ANALYZED... libb.artcc [OK]
-[ARTCC HIGH]
-ANALYZED... lsza.hartcc [OK]
-ANALYZED... lime.hartcc [OK]
-ANALYZED... limc.hartcc [OK]
-ANALYZED... limf.hartcc [OK]
-ANALYZED... limj.hartcc [OK]
-ANALYZED... limp.hartcc [OK]
-ANALYZED... lims.hartcc [OK]
-ANALYZED... lipe.hartcc [OK]
-ANALYZED... liph.hartcc [OK]
-ANALYZED... liml.hartcc [OK]
-ANALYZED... lipx.hartcc [OK]
-ANALYZED... lipy.hartcc [OK]
-ANALYZED... lipz.hartcc [OK]
-ANALYZED... libd.hartcc [OK]
-ANALYZED... libg.hartcc [OK]
-ANALYZED... libn.hartcc [OK]
-ANALYZED... libp.hartcc [OK]
-ANALYZED... lica.hartcc [OK]
-ANALYZED... licc.hartcc [OK]
-ANALYZED... licg.hartcc [OK]
-ANALYZED... licj.hartcc [OK]
-ANALYZED... licr.hartcc [OK]
-ANALYZED... lict.hartcc [OK]
-ANALYZED... lirf.hartcc [OK]
-ANALYZED... liea.hartcc [OK]
-ANALYZED... liee.hartcc [OK]
-ANALYZED... lirl.hartcc [OK]
-ANALYZED... lirn.hartcc [OK]
-ANALYZED... lirp.hartcc [OK]
-ANALYZED... lieo.hartcc [OK]
-ANALYZED... lirq.hartcc [OK]
-ANALYZED... lirz.hartcc [OK]
-ANALYZED... liba.hartcc [OK]
-ANALYZED... libv.hartcc [OK]
-ANALYZED... lipa.hartcc [OK]
-ANALYZED... lirh.hartcc [OK]
-ANALYZED... lirm.hartcc [OK]
-[ARTCC LOW]
-ANALYZED... lirr_tma.lartcc [OK]
-ANALYZED... limm_tma.lartcc [OK]
-ANALYZED... lieoapp.lartcc [OK]
-[ATC]
-ANALYZED... itfreq.atc [198 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°3
-Error: Wrong number of fields or missing end semicolon at Line N°4
-Error: Wrong number of fields or missing end semicolon at Line N°5
-Error: Wrong number of fields or missing end semicolon at Line N°6
-Error: Wrong number of fields or missing end semicolon at Line N°7
-Error: Wrong number of fields or missing end semicolon at Line N°8
-Error: Wrong number of fields or missing end semicolon at Line N°9
-Error: Wrong number of fields or missing end semicolon at Line N°10
-Error: Wrong number of fields or missing end semicolon at Line N°11
-Error: Wrong number of fields or missing end semicolon at Line N°14
-Error: Wrong number of fields or missing end semicolon at Line N°15
-Error: Wrong number of fields or missing end semicolon at Line N°16
-Error: Wrong number of fields or missing end semicolon at Line N°17
-Error: Wrong number of fields or missing end semicolon at Line N°18
-Error: Wrong number of fields or missing end semicolon at Line N°19
-Error: Wrong number of fields or missing end semicolon at Line N°20
-Error: Wrong number of fields or missing end semicolon at Line N°23
-Error: Wrong number of fields or missing end semicolon at Line N°24
-Error: Wrong number of fields or missing end semicolon at Line N°25
-Error: Wrong number of fields or missing end semicolon at Line N°26
-Error: Wrong number of fields or missing end semicolon at Line N°27
-Error: Wrong number of fields or missing end semicolon at Line N°28
-Error: Wrong number of fields or missing end semicolon at Line N°29
-Error: Wrong number of fields or missing end semicolon at Line N°30
-Error: Wrong number of fields or missing end semicolon at Line N°31
-Error: Wrong number of fields or missing end semicolon at Line N°32
-Error: Wrong number of fields or missing end semicolon at Line N°33
-Error: Wrong number of fields or missing end semicolon at Line N°34
-Error: Wrong number of fields or missing end semicolon at Line N°35
-Error: Wrong number of fields or missing end semicolon at Line N°36
-Error: Wrong number of fields or missing end semicolon at Line N°37
-Error: Wrong number of fields or missing end semicolon at Line N°38
-Error: Wrong number of fields or missing end semicolon at Line N°39
-Error: Wrong number of fields or missing end semicolon at Line N°40
-Error: Wrong number of fields or missing end semicolon at Line N°41
-Error: Wrong number of fields or missing end semicolon at Line N°42
-Error: Wrong number of fields or missing end semicolon at Line N°43
-Error: Wrong number of fields or missing end semicolon at Line N°44
-Error: Wrong number of fields or missing end semicolon at Line N°45
-Error: Wrong number of fields or missing end semicolon at Line N°46
-Error: Wrong number of fields or missing end semicolon at Line N°47
-Error: Wrong number of fields or missing end semicolon at Line N°48
-Error: Wrong number of fields or missing end semicolon at Line N°49
-Error: Wrong number of fields or missing end semicolon at Line N°50
-Error: Wrong number of fields or missing end semicolon at Line N°51
-Error: Wrong number of fields or missing end semicolon at Line N°55
-Error: Wrong number of fields or missing end semicolon at Line N°56
-Error: Wrong number of fields or missing end semicolon at Line N°57
-Error: Wrong number of fields or missing end semicolon at Line N°58
-Error: Wrong number of fields or missing end semicolon at Line N°59
-Error: Wrong number of fields or missing end semicolon at Line N°60
-Error: Wrong number of fields or missing end semicolon at Line N°61
-Error: Wrong number of fields or missing end semicolon at Line N°62
-Error: Wrong number of fields or missing end semicolon at Line N°63
-Error: Wrong number of fields or missing end semicolon at Line N°64
-Error: Wrong number of fields or missing end semicolon at Line N°65
-Error: Wrong number of fields or missing end semicolon at Line N°66
-Error: Wrong number of fields or missing end semicolon at Line N°69
-Error: Wrong number of fields or missing end semicolon at Line N°70
-Error: Wrong number of fields or missing end semicolon at Line N°71
-Error: Wrong number of fields or missing end semicolon at Line N°72
-Error: Wrong number of fields or missing end semicolon at Line N°73
-Error: Wrong number of fields or missing end semicolon at Line N°74
-Error: Wrong number of fields or missing end semicolon at Line N°75
-Error: Wrong number of fields or missing end semicolon at Line N°78
-Error: Wrong number of fields or missing end semicolon at Line N°79
-Error: Wrong number of fields or missing end semicolon at Line N°80
-Error: Wrong number of fields or missing end semicolon at Line N°81
-Error: Wrong number of fields or missing end semicolon at Line N°82
-Error: Wrong number of fields or missing end semicolon at Line N°83
-Error: Wrong number of fields or missing end semicolon at Line N°84
-Error: Wrong number of fields or missing end semicolon at Line N°85
-Error: Wrong number of fields or missing end semicolon at Line N°86
-Error: Wrong number of fields or missing end semicolon at Line N°87
-Error: Wrong number of fields or missing end semicolon at Line N°88
-Error: Wrong number of fields or missing end semicolon at Line N°89
-Error: Wrong number of fields or missing end semicolon at Line N°90
-Error: Wrong number of fields or missing end semicolon at Line N°91
-Error: Wrong number of fields or missing end semicolon at Line N°92
-Error: Wrong number of fields or missing end semicolon at Line N°93
-Error: Wrong number of fields or missing end semicolon at Line N°94
-Error: Wrong number of fields or missing end semicolon at Line N°95
-Error: Wrong number of fields or missing end semicolon at Line N°96
-Error: Wrong number of fields or missing end semicolon at Line N°97
-Error: Wrong number of fields or missing end semicolon at Line N°98
-Error: Wrong number of fields or missing end semicolon at Line N°99
-Error: Wrong number of fields or missing end semicolon at Line N°100
-Error: Wrong number of fields or missing end semicolon at Line N°101
-Error: Wrong number of fields or missing end semicolon at Line N°102
-Error: Wrong number of fields or missing end semicolon at Line N°103
-Error: Wrong number of fields or missing end semicolon at Line N°104
-Error: Wrong number of fields or missing end semicolon at Line N°105
-Error: Wrong number of fields or missing end semicolon at Line N°106
-Error: Wrong number of fields or missing end semicolon at Line N°107
-Error: Wrong number of fields or missing end semicolon at Line N°108
-Error: Wrong number of fields or missing end semicolon at Line N°109
-Error: Wrong number of fields or missing end semicolon at Line N°110
-Error: Wrong number of fields or missing end semicolon at Line N°111
-Error: Wrong number of fields or missing end semicolon at Line N°112
-Error: Wrong number of fields or missing end semicolon at Line N°113
-Error: Wrong number of fields or missing end semicolon at Line N°114
-Error: Wrong number of fields or missing end semicolon at Line N°115
-Error: Wrong number of fields or missing end semicolon at Line N°116
-Error: Wrong number of fields or missing end semicolon at Line N°117
-Error: Wrong number of fields or missing end semicolon at Line N°118
-Error: Wrong number of fields or missing end semicolon at Line N°119
-Error: Wrong number of fields or missing end semicolon at Line N°120
-Error: Wrong number of fields or missing end semicolon at Line N°121
-Error: Wrong number of fields or missing end semicolon at Line N°122
-Error: Wrong number of fields or missing end semicolon at Line N°123
-Error: Wrong number of fields or missing end semicolon at Line N°124
-Error: Wrong number of fields or missing end semicolon at Line N°125
-Error: Wrong number of fields or missing end semicolon at Line N°126
-Error: Wrong number of fields or missing end semicolon at Line N°127
-Error: Wrong number of fields or missing end semicolon at Line N°128
-Error: Wrong number of fields or missing end semicolon at Line N°129
-Error: Wrong number of fields or missing end semicolon at Line N°130
-Error: Wrong number of fields or missing end semicolon at Line N°131
-Error: Wrong number of fields or missing end semicolon at Line N°132
-Error: Wrong number of fields or missing end semicolon at Line N°133
-Error: Wrong number of fields or missing end semicolon at Line N°134
-Error: Wrong number of fields or missing end semicolon at Line N°135
-Error: Wrong number of fields or missing end semicolon at Line N°136
-Error: Wrong number of fields or missing end semicolon at Line N°137
-Error: Wrong number of fields or missing end semicolon at Line N°138
-Error: Wrong number of fields or missing end semicolon at Line N°139
-Error: Wrong number of fields or missing end semicolon at Line N°140
-Error: Wrong number of fields or missing end semicolon at Line N°141
-Error: Wrong number of fields or missing end semicolon at Line N°142
-Error: Wrong number of fields or missing end semicolon at Line N°143
-Error: Wrong number of fields or missing end semicolon at Line N°144
-Error: Wrong number of fields or missing end semicolon at Line N°151
-Error: Wrong number of fields or missing end semicolon at Line N°152
-Error: Wrong number of fields or missing end semicolon at Line N°153
-Error: Wrong number of fields or missing end semicolon at Line N°154
-Error: Wrong number of fields or missing end semicolon at Line N°155
-Error: Wrong number of fields or missing end semicolon at Line N°156
-Error: Wrong number of fields or missing end semicolon at Line N°157
-Error: Wrong number of fields or missing end semicolon at Line N°158
-Error: Wrong number of fields or missing end semicolon at Line N°161
-Error: Wrong number of fields or missing end semicolon at Line N°162
-Error: Wrong number of fields or missing end semicolon at Line N°163
-Error: Wrong number of fields or missing end semicolon at Line N°164
-Error: Wrong number of fields or missing end semicolon at Line N°165
-Error: Wrong number of fields or missing end semicolon at Line N°166
-Error: Wrong number of fields or missing end semicolon at Line N°167
-Error: Wrong number of fields or missing end semicolon at Line N°168
-Error: Wrong number of fields or missing end semicolon at Line N°169
-Error: Wrong number of fields or missing end semicolon at Line N°170
-Error: Wrong number of fields or missing end semicolon at Line N°171
-Error: Wrong number of fields or missing end semicolon at Line N°172
-Error: Wrong number of fields or missing end semicolon at Line N°173
-Error: Wrong number of fields or missing end semicolon at Line N°174
-Error: Wrong number of fields or missing end semicolon at Line N°175
-Error: Wrong number of fields or missing end semicolon at Line N°176
-Error: Wrong number of fields or missing end semicolon at Line N°177
-Error: Wrong number of fields or missing end semicolon at Line N°178
-Error: Wrong number of fields or missing end semicolon at Line N°179
-Error: Wrong number of fields or missing end semicolon at Line N°180
-Error: Wrong number of fields or missing end semicolon at Line N°181
-Error: Wrong number of fields or missing end semicolon at Line N°182
-Error: Wrong number of fields or missing end semicolon at Line N°183
-Error: Wrong number of fields or missing end semicolon at Line N°184
-Error: Wrong number of fields or missing end semicolon at Line N°185
-Error: Wrong number of fields or missing end semicolon at Line N°186
-Error: Wrong number of fields or missing end semicolon at Line N°187
-Error: Wrong number of fields or missing end semicolon at Line N°188
-Error: Wrong number of fields or missing end semicolon at Line N°189
-Error: Wrong number of fields or missing end semicolon at Line N°190
-Error: Wrong number of fields or missing end semicolon at Line N°191
-Error: Wrong number of fields or missing end semicolon at Line N°192
-Error: Wrong number of fields or missing end semicolon at Line N°193
-Error: Wrong number of fields or missing end semicolon at Line N°194
-Error: Wrong number of fields or missing end semicolon at Line N°195
-Error: Wrong number of fields or missing end semicolon at Line N°196
-Error: Wrong number of fields or missing end semicolon at Line N°202
-Error: Wrong number of fields or missing end semicolon at Line N°203
-Error: Wrong number of fields or missing end semicolon at Line N°204
-Error: Wrong number of fields or missing end semicolon at Line N°205
-Error: Wrong number of fields or missing end semicolon at Line N°206
-Error: Wrong number of fields or missing end semicolon at Line N°207
-Error: Wrong number of fields or missing end semicolon at Line N°208
-Error: Wrong number of fields or missing end semicolon at Line N°212
-Error: Wrong number of fields or missing end semicolon at Line N°213
-Error: Wrong number of fields or missing end semicolon at Line N°214
-Error: Wrong number of fields or missing end semicolon at Line N°215
-Error: Wrong number of fields or missing end semicolon at Line N°216
-Error: Wrong number of fields or missing end semicolon at Line N°217
-Error: Wrong number of fields or missing end semicolon at Line N°218
-Error: Wrong number of fields or missing end semicolon at Line N°219
-Error: Wrong number of fields or missing end semicolon at Line N°220
-Error: Wrong number of fields or missing end semicolon at Line N°221
-Error: Wrong number of fields or missing end semicolon at Line N°222
-Error: Wrong number of fields or missing end semicolon at Line N°223
-Error: Wrong number of fields or missing end semicolon at Line N°224
-Error: Wrong number of fields or missing end semicolon at Line N°225
-Error: Wrong number of fields or missing end semicolon at Line N°226
-Error: Wrong number of fields or missing end semicolon at Line N°227
-ANALYZED... itfreq.atc [198 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°3
-Error: Wrong number of fields or missing end semicolon at Line N°4
-Error: Wrong number of fields or missing end semicolon at Line N°5
-Error: Wrong number of fields or missing end semicolon at Line N°6
-Error: Wrong number of fields or missing end semicolon at Line N°7
-Error: Wrong number of fields or missing end semicolon at Line N°8
-Error: Wrong number of fields or missing end semicolon at Line N°9
-Error: Wrong number of fields or missing end semicolon at Line N°10
-Error: Wrong number of fields or missing end semicolon at Line N°11
-Error: Wrong number of fields or missing end semicolon at Line N°14
-Error: Wrong number of fields or missing end semicolon at Line N°15
-Error: Wrong number of fields or missing end semicolon at Line N°16
-Error: Wrong number of fields or missing end semicolon at Line N°17
-Error: Wrong number of fields or missing end semicolon at Line N°18
-Error: Wrong number of fields or missing end semicolon at Line N°19
-Error: Wrong number of fields or missing end semicolon at Line N°20
-Error: Wrong number of fields or missing end semicolon at Line N°23
-Error: Wrong number of fields or missing end semicolon at Line N°24
-Error: Wrong number of fields or missing end semicolon at Line N°25
-Error: Wrong number of fields or missing end semicolon at Line N°26
-Error: Wrong number of fields or missing end semicolon at Line N°27
-Error: Wrong number of fields or missing end semicolon at Line N°28
-Error: Wrong number of fields or missing end semicolon at Line N°29
-Error: Wrong number of fields or missing end semicolon at Line N°30
-Error: Wrong number of fields or missing end semicolon at Line N°31
-Error: Wrong number of fields or missing end semicolon at Line N°32
-Error: Wrong number of fields or missing end semicolon at Line N°33
-Error: Wrong number of fields or missing end semicolon at Line N°34
-Error: Wrong number of fields or missing end semicolon at Line N°35
-Error: Wrong number of fields or missing end semicolon at Line N°36
-Error: Wrong number of fields or missing end semicolon at Line N°37
-Error: Wrong number of fields or missing end semicolon at Line N°38
-Error: Wrong number of fields or missing end semicolon at Line N°39
-Error: Wrong number of fields or missing end semicolon at Line N°40
-Error: Wrong number of fields or missing end semicolon at Line N°41
-Error: Wrong number of fields or missing end semicolon at Line N°42
-Error: Wrong number of fields or missing end semicolon at Line N°43
-Error: Wrong number of fields or missing end semicolon at Line N°44
-Error: Wrong number of fields or missing end semicolon at Line N°45
-Error: Wrong number of fields or missing end semicolon at Line N°46
-Error: Wrong number of fields or missing end semicolon at Line N°47
-Error: Wrong number of fields or missing end semicolon at Line N°48
-Error: Wrong number of fields or missing end semicolon at Line N°49
-Error: Wrong number of fields or missing end semicolon at Line N°50
-Error: Wrong number of fields or missing end semicolon at Line N°51
-Error: Wrong number of fields or missing end semicolon at Line N°55
-Error: Wrong number of fields or missing end semicolon at Line N°56
-Error: Wrong number of fields or missing end semicolon at Line N°57
-Error: Wrong number of fields or missing end semicolon at Line N°58
-Error: Wrong number of fields or missing end semicolon at Line N°59
-Error: Wrong number of fields or missing end semicolon at Line N°60
-Error: Wrong number of fields or missing end semicolon at Line N°61
-Error: Wrong number of fields or missing end semicolon at Line N°62
-Error: Wrong number of fields or missing end semicolon at Line N°63
-Error: Wrong number of fields or missing end semicolon at Line N°64
-Error: Wrong number of fields or missing end semicolon at Line N°65
-Error: Wrong number of fields or missing end semicolon at Line N°66
-Error: Wrong number of fields or missing end semicolon at Line N°69
-Error: Wrong number of fields or missing end semicolon at Line N°70
-Error: Wrong number of fields or missing end semicolon at Line N°71
-Error: Wrong number of fields or missing end semicolon at Line N°72
-Error: Wrong number of fields or missing end semicolon at Line N°73
-Error: Wrong number of fields or missing end semicolon at Line N°74
-Error: Wrong number of fields or missing end semicolon at Line N°75
-Error: Wrong number of fields or missing end semicolon at Line N°78
-Error: Wrong number of fields or missing end semicolon at Line N°79
-Error: Wrong number of fields or missing end semicolon at Line N°80
-Error: Wrong number of fields or missing end semicolon at Line N°81
-Error: Wrong number of fields or missing end semicolon at Line N°82
-Error: Wrong number of fields or missing end semicolon at Line N°83
-Error: Wrong number of fields or missing end semicolon at Line N°84
-Error: Wrong number of fields or missing end semicolon at Line N°85
-Error: Wrong number of fields or missing end semicolon at Line N°86
-Error: Wrong number of fields or missing end semicolon at Line N°87
-Error: Wrong number of fields or missing end semicolon at Line N°88
-Error: Wrong number of fields or missing end semicolon at Line N°89
-Error: Wrong number of fields or missing end semicolon at Line N°90
-Error: Wrong number of fields or missing end semicolon at Line N°91
-Error: Wrong number of fields or missing end semicolon at Line N°92
-Error: Wrong number of fields or missing end semicolon at Line N°93
-Error: Wrong number of fields or missing end semicolon at Line N°94
-Error: Wrong number of fields or missing end semicolon at Line N°95
-Error: Wrong number of fields or missing end semicolon at Line N°96
-Error: Wrong number of fields or missing end semicolon at Line N°97
-Error: Wrong number of fields or missing end semicolon at Line N°98
-Error: Wrong number of fields or missing end semicolon at Line N°99
-Error: Wrong number of fields or missing end semicolon at Line N°100
-Error: Wrong number of fields or missing end semicolon at Line N°101
-Error: Wrong number of fields or missing end semicolon at Line N°102
-Error: Wrong number of fields or missing end semicolon at Line N°103
-Error: Wrong number of fields or missing end semicolon at Line N°104
-Error: Wrong number of fields or missing end semicolon at Line N°105
-Error: Wrong number of fields or missing end semicolon at Line N°106
-Error: Wrong number of fields or missing end semicolon at Line N°107
-Error: Wrong number of fields or missing end semicolon at Line N°108
-Error: Wrong number of fields or missing end semicolon at Line N°109
-Error: Wrong number of fields or missing end semicolon at Line N°110
-Error: Wrong number of fields or missing end semicolon at Line N°111
-Error: Wrong number of fields or missing end semicolon at Line N°112
-Error: Wrong number of fields or missing end semicolon at Line N°113
-Error: Wrong number of fields or missing end semicolon at Line N°114
-Error: Wrong number of fields or missing end semicolon at Line N°115
-Error: Wrong number of fields or missing end semicolon at Line N°116
-Error: Wrong number of fields or missing end semicolon at Line N°117
-Error: Wrong number of fields or missing end semicolon at Line N°118
-Error: Wrong number of fields or missing end semicolon at Line N°119
-Error: Wrong number of fields or missing end semicolon at Line N°120
-Error: Wrong number of fields or missing end semicolon at Line N°121
-Error: Wrong number of fields or missing end semicolon at Line N°122
-Error: Wrong number of fields or missing end semicolon at Line N°123
-Error: Wrong number of fields or missing end semicolon at Line N°124
-Error: Wrong number of fields or missing end semicolon at Line N°125
-Error: Wrong number of fields or missing end semicolon at Line N°126
-Error: Wrong number of fields or missing end semicolon at Line N°127
-Error: Wrong number of fields or missing end semicolon at Line N°128
-Error: Wrong number of fields or missing end semicolon at Line N°129
-Error: Wrong number of fields or missing end semicolon at Line N°130
-Error: Wrong number of fields or missing end semicolon at Line N°131
-Error: Wrong number of fields or missing end semicolon at Line N°132
-Error: Wrong number of fields or missing end semicolon at Line N°133
-Error: Wrong number of fields or missing end semicolon at Line N°134
-Error: Wrong number of fields or missing end semicolon at Line N°135
-Error: Wrong number of fields or missing end semicolon at Line N°136
-Error: Wrong number of fields or missing end semicolon at Line N°137
-Error: Wrong number of fields or missing end semicolon at Line N°138
-Error: Wrong number of fields or missing end semicolon at Line N°139
-Error: Wrong number of fields or missing end semicolon at Line N°140
-Error: Wrong number of fields or missing end semicolon at Line N°141
-Error: Wrong number of fields or missing end semicolon at Line N°142
-Error: Wrong number of fields or missing end semicolon at Line N°143
-Error: Wrong number of fields or missing end semicolon at Line N°144
-Error: Wrong number of fields or missing end semicolon at Line N°151
-Error: Wrong number of fields or missing end semicolon at Line N°152
-Error: Wrong number of fields or missing end semicolon at Line N°153
-Error: Wrong number of fields or missing end semicolon at Line N°154
-Error: Wrong number of fields or missing end semicolon at Line N°155
-Error: Wrong number of fields or missing end semicolon at Line N°156
-Error: Wrong number of fields or missing end semicolon at Line N°157
-Error: Wrong number of fields or missing end semicolon at Line N°158
-Error: Wrong number of fields or missing end semicolon at Line N°161
-Error: Wrong number of fields or missing end semicolon at Line N°162
-Error: Wrong number of fields or missing end semicolon at Line N°163
-Error: Wrong number of fields or missing end semicolon at Line N°164
-Error: Wrong number of fields or missing end semicolon at Line N°165
-Error: Wrong number of fields or missing end semicolon at Line N°166
-Error: Wrong number of fields or missing end semicolon at Line N°167
-Error: Wrong number of fields or missing end semicolon at Line N°168
-Error: Wrong number of fields or missing end semicolon at Line N°169
-Error: Wrong number of fields or missing end semicolon at Line N°170
-Error: Wrong number of fields or missing end semicolon at Line N°171
-Error: Wrong number of fields or missing end semicolon at Line N°172
-Error: Wrong number of fields or missing end semicolon at Line N°173
-Error: Wrong number of fields or missing end semicolon at Line N°174
-Error: Wrong number of fields or missing end semicolon at Line N°175
-Error: Wrong number of fields or missing end semicolon at Line N°176
-Error: Wrong number of fields or missing end semicolon at Line N°177
-Error: Wrong number of fields or missing end semicolon at Line N°178
-Error: Wrong number of fields or missing end semicolon at Line N°179
-Error: Wrong number of fields or missing end semicolon at Line N°180
-Error: Wrong number of fields or missing end semicolon at Line N°181
-Error: Wrong number of fields or missing end semicolon at Line N°182
-Error: Wrong number of fields or missing end semicolon at Line N°183
-Error: Wrong number of fields or missing end semicolon at Line N°184
-Error: Wrong number of fields or missing end semicolon at Line N°185
-Error: Wrong number of fields or missing end semicolon at Line N°186
-Error: Wrong number of fields or missing end semicolon at Line N°187
-Error: Wrong number of fields or missing end semicolon at Line N°188
-Error: Wrong number of fields or missing end semicolon at Line N°189
-Error: Wrong number of fields or missing end semicolon at Line N°190
-Error: Wrong number of fields or missing end semicolon at Line N°191
-Error: Wrong number of fields or missing end semicolon at Line N°192
-Error: Wrong number of fields or missing end semicolon at Line N°193
-Error: Wrong number of fields or missing end semicolon at Line N°194
-Error: Wrong number of fields or missing end semicolon at Line N°195
-Error: Wrong number of fields or missing end semicolon at Line N°196
-Error: Wrong number of fields or missing end semicolon at Line N°202
-Error: Wrong number of fields or missing end semicolon at Line N°203
-Error: Wrong number of fields or missing end semicolon at Line N°204
-Error: Wrong number of fields or missing end semicolon at Line N°205
-Error: Wrong number of fields or missing end semicolon at Line N°206
-Error: Wrong number of fields or missing end semicolon at Line N°207
-Error: Wrong number of fields or missing end semicolon at Line N°208
-Error: Wrong number of fields or missing end semicolon at Line N°212
-Error: Wrong number of fields or missing end semicolon at Line N°213
-Error: Wrong number of fields or missing end semicolon at Line N°214
-Error: Wrong number of fields or missing end semicolon at Line N°215
-Error: Wrong number of fields or missing end semicolon at Line N°216
-Error: Wrong number of fields or missing end semicolon at Line N°217
-Error: Wrong number of fields or missing end semicolon at Line N°218
-Error: Wrong number of fields or missing end semicolon at Line N°219
-Error: Wrong number of fields or missing end semicolon at Line N°220
-Error: Wrong number of fields or missing end semicolon at Line N°221
-Error: Wrong number of fields or missing end semicolon at Line N°222
-Error: Wrong number of fields or missing end semicolon at Line N°223
-Error: Wrong number of fields or missing end semicolon at Line N°224
-Error: Wrong number of fields or missing end semicolon at Line N°225
-Error: Wrong number of fields or missing end semicolon at Line N°226
-Error: Wrong number of fields or missing end semicolon at Line N°227
-DISCARDED (Unreferenced)...limmctr.tfl
-DISCARDED (Unreferenced)...limmapp.tfl
-DISCARDED (Unreferenced)...lirr_ew_ctr.tfl
-DISCARDED (Unreferenced)...lirr_su_ctr.tfl
-DISCARDED (Unreferenced)...lirr_ne_ctr.tfl
-DISCARDED (Unreferenced)...lirrapp.tfl
-DISCARDED (Unreferenced)...lipp_ne2_ctr.tfl
-DISCARDED (Unreferenced)...libb_es_ctr.tfl
-DISCARDED (Unreferenced)...libbctr.tfl
-DISCARDED (Unreferenced)...lirrctr.tfl
-DISCARDED (Unreferenced)...lippctr.tfl
-DISCARDED (Unreferenced)...mf_ad_gnd.pol
-DISCARDED (Unreferenced)...de_ad_gnd.pol
-DISCARDED (Unreferenced)...le_ad_gnd.pol
-DISCARDED (Unreferenced)...ln_ad_gnd.pol
-DISCARDED (Unreferenced)...ma_ad_gnd.pol
-DISCARDED (Unreferenced)...mw_ad_gnd.pol
-DISCARDED (Unreferenced)...mb_ad_gnd.pol
-DISCARDED (Unreferenced)...mc_ad_gnd.pol
-DISCARDED (Unreferenced)...me_ad_gnd.pol
-DISCARDED (Unreferenced)...mg_ad_gnd.pol
-DISCARDED (Unreferenced)...mj_ad_gnd.pol
-DISCARDED (Unreferenced)...ml_ad_gnd.pol
-DISCARDED (Unreferenced)...mn_ad_gnd.pol
-DISCARDED (Unreferenced)...mp_ad_gnd.pol
-DISCARDED (Unreferenced)...ms_ad_gnd.pol
-DISCARDED (Unreferenced)...mz_ad_gnd.pol
-DISCARDED (Unreferenced)...qw_ad_gnd.pol
-DISCARDED (Unreferenced)...lsza_ad_gnd.pol
-DISCARDED (Unreferenced)...aa_ad_gnd.pol
-DISCARDED (Unreferenced)...ap_ad_gnd.pol
-DISCARDED (Unreferenced)...ca_ad_gnd.pol
-DISCARDED (Unreferenced)...cb_ad_gnd.pol
-DISCARDED (Unreferenced)...cc_ad_gnd.pol
-DISCARDED (Unreferenced)...cd_ad_gnd.pol
-DISCARDED (Unreferenced)...cg_ad_gnd.pol
-DISCARDED (Unreferenced)...cj_ad_gnd.pol
-DISCARDED (Unreferenced)...cp_ad_gnd.pol
-DISCARDED (Unreferenced)...cr_ad_gnd.pol
-DISCARDED (Unreferenced)...ct_ad_gnd.pol
-DISCARDED (Unreferenced)...cz_ad_gnd.pol
-DISCARDED (Unreferenced)...ea_ad_gnd.pol
-DISCARDED (Unreferenced)...ed_ad_gnd.pol
-DISCARDED (Unreferenced)...ee_ad_gnd.pol
-DISCARDED (Unreferenced)...eo_ad_gnd.pol
-DISCARDED (Unreferenced)...er_ad_gnd.pol
-DISCARDED (Unreferenced)...lq_ad_gnd.pol
-DISCARDED (Unreferenced)...qb_ad_gnd.pol
-DISCARDED (Unreferenced)...ql_ad_gnd.pol
-DISCARDED (Unreferenced)...qn_ad_gnd.pol
-DISCARDED (Unreferenced)...qs_ad_gnd.pol
-DISCARDED (Unreferenced)...ra_ad_gnd.pol
-DISCARDED (Unreferenced)...re_ad_gnd.pol
-DISCARDED (Unreferenced)...rf_ad_gnd.pol
-DISCARDED (Unreferenced)...rg_ad_gnd.pol
-DISCARDED (Unreferenced)...rh_ad_gnd.pol
-DISCARDED (Unreferenced)...ri_ad_gnd.pol
-DISCARDED (Unreferenced)...rj_ad_gnd.pol
-DISCARDED (Unreferenced)...rl_ad_gnd.pol
-DISCARDED (Unreferenced)...rm_ad_gnd.pol
-DISCARDED (Unreferenced)...rn_ad_gnd.pol
-DISCARDED (Unreferenced)...rp_ad_gnd.pol
-DISCARDED (Unreferenced)...rq_ad_gnd.pol
-DISCARDED (Unreferenced)...rs_ad_gnd.pol
-DISCARDED (Unreferenced)...ru_ad_gnd.pol
-DISCARDED (Unreferenced)...rv_ad_gnd.pol
-DISCARDED (Unreferenced)...rz_ad_gnd.pol
-DISCARDED (Unreferenced)...da_ad_gnd.pol
-DISCARDED (Unreferenced)...df_ad_gnd.pol
-DISCARDED (Unreferenced)...dh_ad_gnd.pol
-DISCARDED (Unreferenced)...dr_ad_gnd.pol
-DISCARDED (Unreferenced)...dt_ad_gnd.pol
-DISCARDED (Unreferenced)...pa_ad_gnd.pol
-DISCARDED (Unreferenced)...pb_ad_gnd.pol
-DISCARDED (Unreferenced)...pc_ad_gnd.pol
-DISCARDED (Unreferenced)...pd_ad_gnd.pol
-DISCARDED (Unreferenced)...pe_ad_gnd.pol
-DISCARDED (Unreferenced)...pf_ad_gnd.pol
-DISCARDED (Unreferenced)...pg_ad_gnd.pol
-DISCARDED (Unreferenced)...ph_ad_gnd.pol
-DISCARDED (Unreferenced)...pi_ad_gnd.pol
-DISCARDED (Unreferenced)...pk_ad_gnd.pol
-DISCARDED (Unreferenced)...pl_ad_gnd.pol
-DISCARDED (Unreferenced)...po_ad_gnd.pol
-DISCARDED (Unreferenced)...pq_ad_gnd.pol
-DISCARDED (Unreferenced)...pr_ad_gnd.pol
-DISCARDED (Unreferenced)...ps_ad_gnd.pol
-DISCARDED (Unreferenced)...pu_ad_gnd.pol
-DISCARDED (Unreferenced)...pv_ad_gnd.pol
-DISCARDED (Unreferenced)...px_ad_gnd.pol
-DISCARDED (Unreferenced)...py_ad_gnd.pol
-DISCARDED (Unreferenced)...pz_ad_gnd.pol
-DISCARDED (Unreferenced)...ba_ad_gnd.pol
-DISCARDED (Unreferenced)...bc_ad_gnd.pol
-DISCARDED (Unreferenced)...bd_ad_gnd.pol
-DISCARDED (Unreferenced)...bf_ad_gnd.pol
-DISCARDED (Unreferenced)...bg_ad_gnd.pol
-DISCARDED (Unreferenced)...bn_ad_gnd.pol
-DISCARDED (Unreferenced)...bp_ad_gnd.pol
-DISCARDED (Unreferenced)...br_ad_gnd.pol
-DISCARDED (Unreferenced)...bv_ad_gnd.pol
-DISCARDED (Unreferenced)...nl_ad_gnd.pol
-DISCARDED (Unreferenced)...libbctr.tfl
-DISCARDED (Unreferenced)...libb_es_ctr.tfl
-DISCARDED (Unreferenced)...limmapp.tfl
-DISCARDED (Unreferenced)...limmctr.tfl
-DISCARDED (Unreferenced)...lippctr.tfl
-DISCARDED (Unreferenced)...lipp_ne2_ctr.tfl
-DISCARDED (Unreferenced)...lirrapp.tfl
-DISCARDED (Unreferenced)...lirrctr.tfl
-DISCARDED (Unreferenced)...lirr_ew_ctr.tfl
-DISCARDED (Unreferenced)...lirr_ne_ctr.tfl
-DISCARDED (Unreferenced)...lirr_su_ctr.tfl
-[FIXES]
-ANALYZED... itfix.fix [73 error(s) - 24 warning(s)]
-Error: Invalid FIX identifier [MN-BRAVO] at Line N°1555
-Error: Invalid FIX identifier [MN-CHARLIE] at Line N°1556
-Error: Invalid FIX identifier [MN-ZULU] at Line N°1557
-Error: Invalid FIX identifier [MN-ECHO] at Line N°1558
-Error: Invalid FIX identifier [MN-ALPHA] at Line N°1559
-Error: Invalid FIX identifier [MN-YANKEE] at Line N°1560
-Error: Invalid FIX identifier [RS-ALPHA1] at Line N°1562
-Error: Invalid FIX identifier [RS-BRAVO1] at Line N°1563
-Error: Invalid FIX identifier [RS-BRAVO2] at Line N°1564
-Error: Invalid FIX identifier [RS-BRAVO3] at Line N°1565
-Error: Invalid FIX identifier [RS-CHARLIE1] at Line N°1566
-Error: Invalid FIX identifier [PS-CHARLIE] at Line N°1569
-Error: Invalid FIX identifier [PL-ADNOB] at Line N°1571
-Error: Invalid FIX identifier [PL-BRAVO] at Line N°1572
-Error: Invalid FIX identifier [PL-PETER] at Line N°1573
-Error: Invalid FIX identifier [PL-LORIS] at Line N°1574
-Error: Invalid FIX identifier [PL-SIERRA] at Line N°1575
-Error: Invalid FIX identifier [PL-KILO] at Line N°1576
-Error: Invalid FIX identifier [PI/PA-BRAVO] at Line N°1578
-Error: Invalid FIX identifier [PA-GOCAT] at Line N°1579
-Error: Invalid FIX identifier [PC-WHISKY] at Line N°1581
-Error: Invalid FIX identifier [ED-SUSAN] at Line N°1583
-Error: Invalid FIX identifier [ED-RICCI] at Line N°1584
-Error: Invalid FIX identifier [ED-MAURY] at Line N°1585
-Error: Invalid FIX identifier [ED-CAPOF] at Line N°1586
-Error: Invalid FIX identifier [ED-NIVEL] at Line N°1587
-Error: Invalid FIX identifier [ED-CATAL] at Line N°1588
-Error: Invalid FIX identifier [ED-SILVE] at Line N°1589
-Error: Invalid FIX identifier [ED-TEULA] at Line N°1590
-Error: Invalid FIX identifier [ED-PERDA] at Line N°1591
-Error: Invalid FIX identifier [ED-VANID] at Line N°1592
-Error: Invalid FIX identifier [ED-SOMUX] at Line N°1593
-Error: Invalid FIX identifier [BV-ARGIR] at Line N°1595
-Error: Invalid FIX identifier [BV-BRAVO] at Line N°1596
-Error: Invalid FIX identifier [BV-DANTO] at Line N°1597
-Error: Invalid FIX identifier [BV-DELTA] at Line N°1598
-Error: Invalid FIX identifier [BV-BRAVO] at Line N°1599
-Error: Invalid FIX identifier [BV-VICTOR] at Line N°1600
-Error: Invalid FIX identifier [BV-MAGRO] at Line N°1601
-Error: Invalid FIX identifier [RM-ALPHA] at Line N°1603
-Error: Invalid FIX identifier [RM-PAPA] at Line N°1604
-Error: Invalid FIX identifier [RM-TANGO] at Line N°1605
-Error: Invalid FIX identifier [RM-SIERRA] at Line N°1606
-Error: Invalid FIX identifier [RL-ADBOR] at Line N°1608
-Error: Invalid FIX identifier [RL-BRAVO] at Line N°1609
-Error: Invalid FIX identifier [CZ-JOSEF] at Line N°1627
-Error: Invalid FIX identifier [CZ-ORION] at Line N°1628
-Error: Invalid FIX identifier [HTAC11] at Line N°1642
-Error: Invalid FIX identifier [HTAC29] at Line N°1643
-Error: Invalid FIX identifier [C-ILS11] at Line N°1644
-Error: Invalid FIX identifier [HTACZ31] at Line N°1649
-Error: Invalid FIX identifier [HTACY31] at Line N°1650
-Error: Invalid FIX identifier [HTAC21] at Line N°1655
-Error: Invalid FIX identifier [TAC04R] at Line N°1658
-Error: Invalid FIX identifier [HTAC04R] at Line N°1659
-Error: Invalid FIX identifier [TACP36] at Line N°1662
-Error: Invalid FIX identifier [TACS36] at Line N°1663
-Error: Invalid FIX identifier [TACT36] at Line N°1664
-Error: Invalid FIX identifier [HTAC36] at Line N°1665
-Error: Invalid FIX identifier [VOMER-VOR08] at Line N°1668
-Error: Invalid FIX identifier [HTAC08-26] at Line N°1670
-Error: Invalid FIX identifier [HTAC06] at Line N°1674
-Error: Invalid FIX identifier [TAC17L] at Line N°1683
-Error: Invalid FIX identifier [TAC17R] at Line N°1684
-Error: Invalid FIX identifier [HTAC-X] at Line N°1692
-Error: Invalid FIX identifier [TAC-06R] at Line N°1695
-Error: Invalid FIX identifier [HITAC-32/IAF1] at Line N°1707
-Error: Invalid FIX identifier [ILS10R] at Line N°1715
-Error: Invalid FIX identifier [TAC-Z10LR] at Line N°1716
-Error: Invalid FIX identifier [TAC-Y10LR] at Line N°1718
-Error: Invalid FIX identifier [TAC-Y28LR] at Line N°1719
-Error: Invalid FIX identifier [HTAC31L] at Line N°1725
-Error: Invalid FIX identifier [HTAC13R] at Line N°1726
-Warning: LOCRI: Unknown FIX in AIRAC database at Line N°878
-Warning: BR502: Unknown FIX in AIRAC database at Line N°1085
-Warning: EO723: Unknown FIX in AIRAC database at Line N°1349
-Warning: EO724: Unknown FIX in AIRAC database at Line N°1350
-Warning: RA711: Unknown FIX in AIRAC database at Line N°1436
-Warning: RA712: Unknown FIX in AIRAC database at Line N°1437
-Warning: RF783: Lat/Long disagreement [AIRAC: N041.49.15.440 E011.59.21.290] at Line N°1516
-Warning: CZ002: Unknown FIX in AIRAC database at Line N°1618
-Warning: CZ006: Unknown FIX in AIRAC database at Line N°1622
-Warning: CZ007: Unknown FIX in AIRAC database at Line N°1623
-Warning: SILVA: Unknown FIX in AIRAC database at Line N°1633
-Warning: BERNY: Lat/Long disagreement [AIRAC: N039.00.26.400 W076.30.21.860] at Line N°1654
-Warning: MARTE: Lat/Long disagreement [AIRAC: N045.50.12.310 E012.41.46.100] at Line N°1673
-Warning: IPNUD: Lat/Long disagreement [AIRAC: N041.25.36.360 E016.03.18.650] at Line N°1678
-Warning: ESUPO: Lat/Long disagreement [AIRAC: N039.05.14.460 E009.02.44.740] at Line N°1685
-Warning: PEPEV: Lat/Long disagreement [AIRAC: N039.38.50.050 E008.42.21.400] at Line N°1686
-Warning: RIRUS: Lat/Long disagreement [AIRAC: N039.03.21.470 E008.52.09.810] at Line N°1687
-Warning: IRDUN: Lat/Long disagreement [AIRAC: N041.26.05.700 E013.03.32.700] at Line N°1701
-Warning: HOTRY: Lat/Long disagreement [AIRAC: N040.13.15.550 E018.20.44.250] at Line N°1704
-Warning: PORTO: Lat/Long disagreement [AIRAC: N040.13.02.900 E017.48.24.360] at Line N°1705
-Warning: SOSSI: Lat/Long disagreement [AIRAC: N040.09.13.910 E018.24.14.310] at Line N°1706
-Warning: IDENU: Lat/Long disagreement [AIRAC: N041.24.26.000 E012.24.31.000] at Line N°1711
-Warning: TOBUP: Lat/Long disagreement [AIRAC: N041.28.20.000 E012.28.22.000] at Line N°1712
-Warning: ARLOT: Lat/Long disagreement [AIRAC: N040.24.27.150 E017.25.57.130] at Line N°1722
-[GATES]
-ANALYZED... liap.gts [OK]
-ANALYZED... libc.gts [OK]
-ANALYZED... libd.gts [OK]
-ANALYZED... libf.gts [OK]
-ANALYZED... libp.gts [OK]
-ANALYZED... libr.gts [OK]
-ANALYZED... lica.gts [OK]
-ANALYZED... licb.gts [OK]
-ANALYZED... licc.gts [OK]
-ANALYZED... licg.gts [OK]
-ANALYZED... licj.gts [OK]
-ANALYZED... licr.gts [OK]
-ANALYZED... lict.gts [OK]
-ANALYZED... licz.gts [OK]
-ANALYZED... liea.gts [OK]
-ANALYZED... lied.gts [OK]
-ANALYZED... liee.gts [OK]
-ANALYZED... lieo.gts [OK]
-ANALYZED... limc.gts [OK]
-ANALYZED... lime.gts [OK]
-ANALYZED... limf.gts [OK]
-ANALYZED... limg.gts [OK]
-ANALYZED... limj.gts [OK]
-ANALYZED... liml.gts [OK]
-ANALYZED... limp.gts [OK]
-ANALYZED... limz.gts [OK]
-ANALYZED... linl.gts [OK]
-ANALYZED... lipe.gts [OK]
-ANALYZED... liph.gts [OK]
-ANALYZED... lipk.gts [OK]
-ANALYZED... lipl.gts [OK]
-ANALYZED... lipo.gts [OK]
-ANALYZED... lipq.gts [OK]
-ANALYZED... lipr.gts [OK]
-ANALYZED... lipx.gts [OK]
-ANALYZED... lipy.gts [OK]
-ANALYZED... lipz.gts [OK]
-ANALYZED... lira.gts [OK]
-ANALYZED... lirf.gts [OK]
-ANALYZED... liri.gts [OK]
-ANALYZED... lirn.gts [OK]
-ANALYZED... lirp.gts [OK]
-ANALYZED... lirq.gts [OK]
-ANALYZED... lirs.gts [OK]
-ANALYZED... lirz.gts [OK]
-[GEO]
-ANALYZED... itgeo.geo [OK]
-ANALYZED... italy.prohibit [OK]
-ANALYZED... italy.danger [OK]
-ANALYZED... italy.restrict [OK]
-ANALYZED... liaa.geo [OK]
-ANALYZED... limf.geo [OK]
-ANALYZED... lima.geo [OK]
-ANALYZED... lile.geo [OK]
-ANALYZED... liln.geo [OK]
-ANALYZED... lilg.geo [OK]
-ANALYZED... limb.geo [OK]
-ANALYZED... limc.geo [OK]
-ANALYZED... lime.geo [OK]
-ANALYZED... limg.geo [OK]
-ANALYZED... limj.geo [OK]
-ANALYZED... liml.geo [OK]
-ANALYZED... limn.geo [OK]
-ANALYZED... limp.geo [OK]
-ANALYZED... lims.geo [OK]
-ANALYZED... limw.geo [OK]
-ANALYZED... limz.geo [OK]
-ANALYZED... liqw.geo [OK]
-ANALYZED... lsza.geo [OK]
-ANALYZED... lida.geo [OK]
-ANALYZED... lide.geo [OK]
-ANALYZED... lidf.geo [OK]
-ANALYZED... lidh.geo [OK]
-ANALYZED... lidr.geo [OK]
-ANALYZED... lidt.geo [OK]
-ANALYZED... lipa.geo [OK]
-ANALYZED... lipb.geo [OK]
-ANALYZED... lipc.geo [OK]
-ANALYZED... lipd.geo [OK]
-ANALYZED... lipe.geo [OK]
-ANALYZED... lipf.geo [OK]
-ANALYZED... lipg.geo [OK]
-ANALYZED... liph.geo [OK]
-ANALYZED... lipi.geo [OK]
-ANALYZED... lipk.geo [OK]
-ANALYZED... lipl.geo [OK]
-ANALYZED... lipm.geo [OK]
-ANALYZED... lipn.geo [OK]
-ANALYZED... lipo.geo [OK]
-ANALYZED... lipq.geo [OK]
-ANALYZED... lipr.geo [OK]
-ANALYZED... lips.geo [OK]
-ANALYZED... lipu.geo [OK]
-ANALYZED... lipv.geo [OK]
-ANALYZED... lipx.geo [OK]
-ANALYZED... lipy.geo [OK]
-ANALYZED... lipz.geo [OK]
-ANALYZED... liba.geo [OK]
-ANALYZED... libc.geo [OK]
-ANALYZED... libd.geo [OK]
-ANALYZED... libf.geo [OK]
-ANALYZED... libg.geo [OK]
-ANALYZED... libn.geo [OK]
-ANALYZED... libp.geo [OK]
-ANALYZED... libr.geo [OK]
-ANALYZED... libv.geo [OK]
-ANALYZED... linl.geo [OK]
-ANALYZED... liap.geo [OK]
-ANALYZED... lica.geo [OK]
-ANALYZED... licb.geo [OK]
-ANALYZED... licc.geo [OK]
-ANALYZED... licd.geo [OK]
-ANALYZED... licg.geo [OK]
-ANALYZED... licj.geo [OK]
-ANALYZED... licp.geo [OK]
-ANALYZED... licr.geo [OK]
-ANALYZED... lict.geo [OK]
-ANALYZED... licz.geo [OK]
-ANALYZED... liea.geo [OK]
-ANALYZED... lied.geo [OK]
-ANALYZED... liee.geo [OK]
-ANALYZED... lieo.geo [OK]
-ANALYZED... lier.geo [OK]
-ANALYZED... lilq.geo [OK]
-ANALYZED... liqb.geo [OK]
-ANALYZED... liql.geo [OK]
-ANALYZED... liqn.geo [OK]
-ANALYZED... liqs.geo [OK]
-ANALYZED... lira.geo [OK]
-ANALYZED... lire.geo [OK]
-ANALYZED... lirf.geo [OK]
-ANALYZED... lirg.geo [OK]
-ANALYZED... lirh.geo [OK]
-ANALYZED... liri.geo [OK]
-ANALYZED... lirj.geo [OK]
-ANALYZED... lirl.geo [OK]
-ANALYZED... lirm.geo [OK]
-ANALYZED... lirn.geo [OK]
-ANALYZED... lirp.geo [OK]
-ANALYZED... lirq.geo [OK]
-ANALYZED... lirs.geo [OK]
-ANALYZED... liru.geo [OK]
-ANALYZED... lirv.geo [OK]
-ANALYZED... lirz.geo [OK]
-[HIGH AIRWAY]
-ANALYZED... itawhigh.hairway [OK]
-[LOW AIRWAY]
-ANALYZED... itawlow.awl [OK]
-[MVA]
-ANALYZED... liba.mva [OK]
-ANALYZED... libb.mva [OK]
-ANALYZED... libd.mva [OK]
-ANALYZED... lica.mva [OK]
-ANALYZED... licc.mva [OK]
-ANALYZED... licj.mva [OK]
-ANALYZED... liee.mva [OK]
-ANALYZED... lieo.mva [OK]
-ANALYZED... limf.mva [OK]
-ANALYZED... limj.mva [OK]
-ANALYZED... limm.mva [OK]
-ANALYZED... lipa.mva [OK]
-ANALYZED... lipe.mva [OK]
-ANALYZED... liph.mva [OK]
-ANALYZED... lipp.mva [OK]
-ANALYZED... lipx.mva [OK]
-ANALYZED... lipz.mva [OK]
-ANALYZED... lirn.mva [OK]
-ANALYZED... lirp.mva [OK]
-ANALYZED... lirq.mva [OK]
-ANALYZED... lirr.mva [OK]
-ANALYZED... lirs.mva [OK]
-[NDB]
-ANALYZED... itndb.ndb [OK]
-[RUNWAY]
-ANALYZED... itrw.rw [49 warning(s)]
-Warning: LIBC: Rwy 17 course disagreement [AIRAC: 166] at Line N°5
-Warning: LIBC Rwy 35 course disagreement [AIRAC: 346] at Line N°5
-Warning: LIBD: Rwy 07 course disagreement [AIRAC: 065] at Line N°6
-Warning: LIBD Rwy 25 course disagreement [AIRAC: 245] at Line N°6
-Warning: LICC: Rwy 08 course disagreement [AIRAC: 082] at Line N°17
-Warning: LICC Rwy 26 course disagreement [AIRAC: 262] at Line N°17
-Warning: LICJ: Rwy 02 course disagreement [AIRAC: 022] at Line N°21
-Warning: LICJ Rwy 20 course disagreement [AIRAC: 202] at Line N°21
-Warning: LICJ: Rwy 07 course disagreement [AIRAC: 065] at Line N°22
-Warning: LICJ Rwy 25 course disagreement [AIRAC: 245] at Line N°22
-Warning: LICR Rwy 33 course disagreement [AIRAC: 331] at Line N°25
-Warning: LIEA: Rwy 02 course disagreement [AIRAC: 024] at Line N°38
-Warning: LIEA Rwy 20 course disagreement [AIRAC: 204] at Line N°38
-Warning: LIEE: Rwy 14 course disagreement [AIRAC: 137] at Line N°41
-Warning: LIEO Rwy 23 course disagreement [AIRAC: 234] at Line N°42
-Warning: LIMA: Rwy 10L course disagreement [AIRAC: 100] at Line N°51
-Warning: LIMA Rwy 28R course disagreement [AIRAC: 280] at Line N°51
-Warning: LIMC: Rwy 17L course disagreement [AIRAC: 168] at Line N°53
-Warning: LIMC Rwy 35R course disagreement [AIRAC: 348] at Line N°53
-Warning: LIMC: Rwy 17R course disagreement [AIRAC: 168] at Line N°54
-Warning: LIMC Rwy 35L course disagreement [AIRAC: 348] at Line N°54
-Warning: LIME: Rwy 10 course disagreement [AIRAC: 104] at Line N°55
-Warning: LIME Rwy 28 course disagreement [AIRAC: 284] at Line N°55
-Warning: LIMF: Rwy 18 course disagreement [AIRAC: 182] at Line N°57
-Warning: LIMF Rwy 36 course disagreement [AIRAC: 002] at Line N°57
-Warning: LIMG: Rwy 09 course disagreement [AIRAC: 092] at Line N°58
-Warning: LIMG Rwy 27 course disagreement [AIRAC: 272] at Line N°58
-Warning: LIML: Rwy 17 course disagreement [AIRAC: 175] at Line N°60
-Warning: LIML Rwy 35 course disagreement [AIRAC: 355] at Line N°60
-Warning: LIML: Rwy 18 course disagreement [AIRAC: 175] at Line N°61
-Warning: LIML Rwy 36 course disagreement [AIRAC: 355] at Line N°61
-Warning: LIMP: Rwy 02 course disagreement [AIRAC: 016] at Line N°63
-Warning: LIMP Rwy 20 course disagreement [AIRAC: 196] at Line N°63
-Warning: LIMZ: Rwy 03 course disagreement [AIRAC: 032] at Line N°66
-Warning: LIMZ Rwy 21 course disagreement [AIRAC: 212] at Line N°66
-Warning: LIPL: Rwy 13 course disagreement [AIRAC: 134] at Line N°77
-Warning: LIPL Rwy 31 course disagreement [AIRAC: 314] at Line N°77
-Warning: LIPO: Rwy 14 course disagreement [AIRAC: 134] at Line N°80
-Warning: LIPO Rwy 32 course disagreement [AIRAC: 314] at Line N°80
-Warning: LIRF: Rwy 07 course disagreement [AIRAC: 068] at Line N°98
-Warning: LIRF Rwy 25 course disagreement [AIRAC: 248] at Line N°98
-Warning: LIRF: Rwy 16L course disagreement [AIRAC: 161] at Line N°99
-Warning: LIRF Rwy 34R course disagreement [AIRAC: 341] at Line N°99
-Warning: LIRF: Rwy 16R course disagreement [AIRAC: 161] at Line N°100
-Warning: LIRF Rwy 34L course disagreement [AIRAC: 341] at Line N°100
-Warning: LIRN: Rwy 06 course disagreement [AIRAC: 056] at Line N°109
-Warning: LIRN Rwy 24 course disagreement [AIRAC: 236] at Line N°109
-Warning: LSZA: Rwy 01 course disagreement [AIRAC: 017] at Line N°119
-Warning: LSZA Rwy 19 course disagreement [AIRAC: 197] at Line N°119
-[STAR]
-ANALYZED... liba.str [2 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°7
-ANALYZED... libd.str [5 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°8
-Error: Wrong number of fields or missing end semicolon at Line N°12
-Error: Wrong number of fields or missing end semicolon at Line N°18
-Error: Wrong number of fields or missing end semicolon at Line N°61
-ANALYZED... libg.str [4 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°6
-Error: Wrong number of fields or missing end semicolon at Line N°9
-Error: Wrong number of fields or missing end semicolon at Line N°94
-ANALYZED... libn.str [6 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°4
-Error: Invalid latitude field [HITAC-32/IAF1] at Line N°8
-Error: Invalid longitude field [HITAC-32/IAF1] at Line N°8
-Error: Wrong number of fields or missing end semicolon at Line N°12
-ANALYZED... libp.str [2 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°4
-ANALYZED... libr.str [8 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Invalid latitude field [] at Line N°9
-Error: Invalid longitude field [] at Line N°9
-Error: Wrong number of fields or missing end semicolon at Line N°17
-Error: Wrong number of fields or missing end semicolon at Line N°20
-Error: Wrong number of fields or missing end semicolon at Line N°24
-Error: Wrong number of fields or missing end semicolon at Line N°67
-ANALYZED... libv.str [22 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Invalid latitude field [BV-ARGIR] at Line N°2
-Error: Invalid longitude field [BV-ARGIR] at Line N°2
-Error: Invalid latitude field [BV-BRAVO] at Line N°3
-Error: Invalid longitude field [BV-BRAVO] at Line N°3
-Error: Invalid latitude field [BV-DANTO] at Line N°4
-Error: Invalid longitude field [BV-DANTO] at Line N°4
-Error: Invalid latitude field [BV-DELTA] at Line N°5
-Error: Invalid longitude field [BV-DELTA] at Line N°5
-Error: Invalid latitude field [BV-BRAVO] at Line N°6
-Error: Invalid longitude field [BV-BRAVO] at Line N°6
-Error: Invalid latitude field [BV-VICTOR] at Line N°7
-Error: Invalid longitude field [BV-VICTOR] at Line N°7
-Error: Invalid latitude field [BV-MAGRO] at Line N°8
-Error: Invalid longitude field [BV-MAGRO] at Line N°8
-Error: Wrong number of fields or missing end semicolon at Line N°10
-Error: Invalid latitude field [IAF-Z] at Line N°11
-Error: Invalid longitude field [IAF-Z] at Line N°11
-Error: Invalid latitude field [IAF-Y] at Line N°12
-Error: Invalid longitude field [IAF-Y] at Line N°12
-Error: Invalid latitude field [HTAC-X] at Line N°13
-Error: Invalid longitude field [HTAC-X] at Line N°13
-ANALYZED... lica.str [6 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°13
-Error: Wrong number of fields or missing end semicolon at Line N°17
-Error: Wrong number of fields or missing end semicolon at Line N°23
-Error: Wrong number of fields or missing end semicolon at Line N°108
-ANALYZED... licc.str [8 error(s)]
-Error: Invalid latitude field [] at Line N°2
-Error: Invalid longitude field [] at Line N°2
-Error: Invalid latitude field [] at Line N°64
-Error: Invalid longitude field [] at Line N°64
-Error: Wrong number of fields or missing end semicolon at Line N°109
-Error: Wrong number of fields or missing end semicolon at Line N°112
-Error: Wrong number of fields or missing end semicolon at Line N°116
-Error: Wrong number of fields or missing end semicolon at Line N°159
-ANALYZED... licd.str [4 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°11
-Error: Wrong number of fields or missing end semicolon at Line N°15
-ANALYZED... licg.str [8 error(s)]
-Error: Invalid latitude field [] at Line N°2
-Error: Invalid longitude field [] at Line N°2
-Error: Invalid latitude field [] at Line N°8
-Error: Invalid longitude field [] at Line N°8
-Error: Wrong number of fields or missing end semicolon at Line N°15
-Error: Wrong number of fields or missing end semicolon at Line N°19
-Error: Wrong number of fields or missing end semicolon at Line N°23
-Error: Wrong number of fields or missing end semicolon at Line N°108
-ANALYZED... licj.str [14 error(s)]
-Error: Invalid latitude field [] at Line N°2
-Error: Invalid longitude field [] at Line N°2
-Error: Invalid latitude field [] at Line N°42
-Error: Invalid longitude field [] at Line N°42
-Error: Invalid latitude field [] at Line N°85
-Error: Invalid longitude field [] at Line N°85
-Error: Invalid latitude field [] at Line N°113
-Error: Invalid longitude field [] at Line N°113
-Error: Wrong number of fields or missing end semicolon at Line N°119
-Error: Wrong number of fields or missing end semicolon at Line N°122
-Error: Wrong number of fields or missing end semicolon at Line N°125
-Error: Wrong number of fields or missing end semicolon at Line N°129
-Error: Wrong number of fields or missing end semicolon at Line N°172
-Error: Wrong number of fields or missing end semicolon at Line N°215
-ANALYZED... licr.str [5 error(s)]
-Error: Invalid latitude field [] at Line N°2
-Error: Invalid longitude field [] at Line N°2
-Error: Wrong number of fields or missing end semicolon at Line N°9
-Error: Wrong number of fields or missing end semicolon at Line N°20
-Error: Wrong number of fields or missing end semicolon at Line N°24
-ANALYZED... lict.str [4 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°5
-Error: Wrong number of fields or missing end semicolon at Line N°8
-Error: Wrong number of fields or missing end semicolon at Line N°11
-ANALYZED... licz.str [12 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Invalid latitude field [CZ-JOSEF] at Line N°12
-Error: Invalid longitude field [CZ-JOSEF] at Line N°12
-Error: Invalid latitude field [CZ-ORION] at Line N°13
-Error: Invalid longitude field [CZ-ORION] at Line N°13
-Error: Wrong number of fields or missing end semicolon at Line N°15
-Error: Invalid latitude field [TAC-Z10LR] at Line N°17
-Error: Invalid longitude field [TAC-Z10LR] at Line N°17
-Error: Invalid latitude field [TAC-Y10LR] at Line N°19
-Error: Invalid longitude field [TAC-Y10LR] at Line N°19
-Error: Invalid latitude field [TAC-Y28LR] at Line N°20
-Error: Invalid longitude field [TAC-Y28LR] at Line N°20
-ANALYZED... lidt.str [4 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°8
-Error: Wrong number of fields or missing end semicolon at Line N°11
-ANALYZED... liea.str [9 error(s)]
-Error: Invalid latitude field [] at Line N°2
-Error: Invalid longitude field [] at Line N°2
-Error: Invalid latitude field [] at Line N°37
-Error: Invalid longitude field [] at Line N°37
-Error: Invalid latitude field [] at Line N°68
-Error: Invalid longitude field [] at Line N°68
-Error: Wrong number of fields or missing end semicolon at Line N°75
-Error: Wrong number of fields or missing end semicolon at Line N°79
-Error: Wrong number of fields or missing end semicolon at Line N°122
-ANALYZED... lied.str [24 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Invalid latitude field [ED-SUSAN] at Line N°2
-Error: Invalid longitude field [ED-SUSAN] at Line N°2
-Error: Invalid latitude field [ED-RICCI] at Line N°3
-Error: Invalid longitude field [ED-RICCI] at Line N°3
-Error: Invalid latitude field [ED-MAURY] at Line N°4
-Error: Invalid longitude field [ED-MAURY] at Line N°4
-Error: Invalid latitude field [ED-CAPOF] at Line N°5
-Error: Invalid longitude field [ED-CAPOF] at Line N°5
-Error: Invalid latitude field [ED-NIVEL] at Line N°6
-Error: Invalid longitude field [ED-NIVEL] at Line N°6
-Error: Invalid latitude field [ED-CATAL] at Line N°7
-Error: Invalid longitude field [ED-CATAL] at Line N°7
-Error: Invalid latitude field [ED-SILVE] at Line N°8
-Error: Invalid longitude field [ED-SILVE] at Line N°8
-Error: Invalid latitude field [ED-TEULA] at Line N°9
-Error: Invalid longitude field [ED-TEULA] at Line N°9
-Error: Invalid latitude field [ED-PERDA] at Line N°10
-Error: Invalid longitude field [ED-PERDA] at Line N°10
-Error: Invalid latitude field [ED-VANID] at Line N°11
-Error: Invalid longitude field [ED-VANID] at Line N°11
-Error: Invalid latitude field [ED-SOMUX] at Line N°12
-Error: Invalid longitude field [ED-SOMUX] at Line N°12
-Error: Wrong number of fields or missing end semicolon at Line N°14
-ANALYZED... liee.str [6 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°81
-Error: Wrong number of fields or missing end semicolon at Line N°85
-Error: Wrong number of fields or missing end semicolon at Line N°88
-Error: Wrong number of fields or missing end semicolon at Line N°131
-ANALYZED... lieo.str [8 error(s)]
-Error: Invalid latitude field [] at Line N°2
-Error: Invalid longitude field [] at Line N°2
-Error: Invalid latitude field [] at Line N°53
-Error: Invalid longitude field [] at Line N°53
-Error: Wrong number of fields or missing end semicolon at Line N°104
-Error: Wrong number of fields or missing end semicolon at Line N°107
-Error: Wrong number of fields or missing end semicolon at Line N°110
-Error: Wrong number of fields or missing end semicolon at Line N°153
-ANALYZED... limc.str [11 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Invalid latitude field [] at Line N°53
-Error: Invalid longitude field [] at Line N°53
-Error: Invalid latitude field [] at Line N°108
-Error: Invalid longitude field [] at Line N°108
-Error: Invalid latitude field [] at Line N°112
-Error: Invalid longitude field [] at Line N°112
-Error: Wrong number of fields or missing end semicolon at Line N°142
-Error: Wrong number of fields or missing end semicolon at Line N°145
-Error: Wrong number of fields or missing end semicolon at Line N°150
-ANALYZED... lime.str [9 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Invalid latitude field [] at Line N°34
-Error: Invalid longitude field [] at Line N°34
-Error: Invalid latitude field [] at Line N°43
-Error: Invalid longitude field [] at Line N°43
-Error: Wrong number of fields or missing end semicolon at Line N°56
-Error: Wrong number of fields or missing end semicolon at Line N°62
-Error: Wrong number of fields or missing end semicolon at Line N°67
-ANALYZED... limf.str [3 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°7
-Error: Wrong number of fields or missing end semicolon at Line N°12
-ANALYZED... limg.str [2 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°4
-ANALYZED... limj.str [2 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°7
-ANALYZED... liml.str [6 error(s)]
-Error: Invalid latitude field [] at Line N°2
-Error: Invalid longitude field [] at Line N°2
-Error: Wrong number of fields or missing end semicolon at Line N°11
-Error: Wrong number of fields or missing end semicolon at Line N°17
-Error: Wrong number of fields or missing end semicolon at Line N°22
-Error: Wrong number of fields or missing end semicolon at Line N°65
-ANALYZED... limn.str [14 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Invalid latitude field [MN-BRAVO] at Line N°2
-Error: Invalid longitude field [MN-BRAVO] at Line N°2
-Error: Invalid latitude field [MN-CHARLIE] at Line N°3
-Error: Invalid longitude field [MN-CHARLIE] at Line N°3
-Error: Invalid latitude field [MN-ZULU] at Line N°4
-Error: Invalid longitude field [MN-ZULU] at Line N°4
-Error: Invalid latitude field [MN-ECHO] at Line N°5
-Error: Invalid longitude field [MN-ECHO] at Line N°5
-Error: Invalid latitude field [MN-ALPHA] at Line N°6
-Error: Invalid longitude field [MN-ALPHA] at Line N°6
-Error: Invalid latitude field [MN-YANKEE] at Line N°7
-Error: Invalid longitude field [MN-YANKEE] at Line N°7
-Error: Wrong number of fields or missing end semicolon at Line N°9
-ANALYZED... limp.str [4 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°13
-Error: Wrong number of fields or missing end semicolon at Line N°17
-ANALYZED... limw.str [2 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°5
-Error: Wrong number of fields or missing end semicolon at Line N°8
-ANALYZED... limz.str [6 error(s)]
-Error: Invalid latitude field [] at Line N°2
-Error: Invalid longitude field [] at Line N°2
-Error: Invalid latitude field [] at Line N°7
-Error: Invalid longitude field [] at Line N°7
-Error: Wrong number of fields or missing end semicolon at Line N°52
-Error: Wrong number of fields or missing end semicolon at Line N°55
-ANALYZED... lipa.str [6 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Invalid latitude field [PI/PA-BRAVO] at Line N°2
-Error: Invalid longitude field [PI/PA-BRAVO] at Line N°2
-Error: Invalid latitude field [PA-GOCAT] at Line N°3
-Error: Invalid longitude field [PA-GOCAT] at Line N°3
-Error: Wrong number of fields or missing end semicolon at Line N°5
-ANALYZED... lipb.str [4 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°7
-Error: Wrong number of fields or missing end semicolon at Line N°10
-ANALYZED... lipc.str [6 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Invalid latitude field [PC-WHISKY] at Line N°2
-Error: Invalid longitude field [PC-WHISKY] at Line N°2
-Error: Wrong number of fields or missing end semicolon at Line N°4
-Error: Invalid latitude field [C-ILS11] at Line N°9
-Error: Invalid longitude field [C-ILS11] at Line N°9
-ANALYZED... lipe.str [8 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Invalid latitude field [] at Line N°44
-Error: Invalid longitude field [] at Line N°44
-Error: Wrong number of fields or missing end semicolon at Line N°85
-Error: Wrong number of fields or missing end semicolon at Line N°88
-Error: Wrong number of fields or missing end semicolon at Line N°91
-Error: Wrong number of fields or missing end semicolon at Line N°134
-ANALYZED... liph.str [2 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°5
-ANALYZED... lipi.str [4 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Invalid latitude field [PA-GOCAT] at Line N°2
-Error: Invalid longitude field [PA-GOCAT] at Line N°2
-Error: Wrong number of fields or missing end semicolon at Line N°4
-ANALYZED... lipl.str [14 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Invalid latitude field [PL-ADNOB] at Line N°2
-Error: Invalid longitude field [PL-ADNOB] at Line N°2
-Error: Invalid latitude field [PL-BRAVO] at Line N°3
-Error: Invalid longitude field [PL-BRAVO] at Line N°3
-Error: Invalid latitude field [PL-PETER] at Line N°4
-Error: Invalid longitude field [PL-PETER] at Line N°4
-Error: Invalid latitude field [PL-LORIS] at Line N°5
-Error: Invalid longitude field [PL-LORIS] at Line N°5
-Error: Invalid latitude field [PL-SIERRA] at Line N°6
-Error: Invalid longitude field [PL-SIERRA] at Line N°6
-Error: Invalid latitude field [PL-KILO] at Line N°7
-Error: Invalid longitude field [PL-KILO] at Line N°7
-Error: Wrong number of fields or missing end semicolon at Line N°9
-ANALYZED... lipo.str [2 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°7
-ANALYZED... lipq.str [2 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°4
-ANALYZED... lipr.str [4 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°5
-Error: Wrong number of fields or missing end semicolon at Line N°8
-Error: Wrong number of fields or missing end semicolon at Line N°51
-ANALYZED... lips.str [8 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Invalid latitude field [PS-CHARLIE] at Line N°2
-Error: Invalid longitude field [PS-CHARLIE] at Line N°2
-Error: Wrong number of fields or missing end semicolon at Line N°4
-Error: Invalid latitude field [VOMER-VOR08] at Line N°5
-Error: Invalid longitude field [VOMER-VOR08] at Line N°5
-Error: Invalid latitude field [HTAC08-26] at Line N°7
-Error: Invalid longitude field [HTAC08-26] at Line N°7
-ANALYZED... lipx.str [6 error(s)]
-Error: Invalid latitude field [] at Line N°2
-Error: Invalid longitude field [] at Line N°2
-Error: Invalid latitude field [] at Line N°36
-Error: Invalid longitude field [] at Line N°36
-Error: Invalid latitude field [] at Line N°48
-Error: Invalid longitude field [] at Line N°48
-ANALYZED... lipy.str [4 error(s)]
-Error: Invalid latitude field [] at Line N°2
-Error: Invalid longitude field [] at Line N°2
-Error: Wrong number of fields or missing end semicolon at Line N°10
-Error: Wrong number of fields or missing end semicolon at Line N°17
-ANALYZED... lipz.str [14 error(s)]
-Error: Invalid latitude field [] at Line N°2
-Error: Invalid longitude field [] at Line N°2
-Error: Invalid latitude field [] at Line N°37
-Error: Invalid longitude field [] at Line N°37
-Error: Invalid latitude field [] at Line N°51
-Error: Invalid longitude field [] at Line N°51
-Error: Invalid latitude field [] at Line N°62
-Error: Invalid longitude field [] at Line N°62
-Error: Invalid latitude field [] at Line N°73
-Error: Invalid longitude field [] at Line N°73
-Error: Wrong number of fields or missing end semicolon at Line N°86
-Error: Wrong number of fields or missing end semicolon at Line N°89
-Error: Wrong number of fields or missing end semicolon at Line N°92
-Error: Wrong number of fields or missing end semicolon at Line N°135
-ANALYZED... lira.str [8 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Invalid latitude field [] at Line N°7
-Error: Invalid longitude field [] at Line N°7
-Error: Invalid latitude field [] at Line N°32
-Error: Invalid longitude field [] at Line N°32
-Error: Wrong number of fields or missing end semicolon at Line N°62
-Error: Wrong number of fields or missing end semicolon at Line N°66
-ANALYZED... lire.str [2 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°6
-ANALYZED... lirf.str [14 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Invalid latitude field [] at Line N°68
-Error: Invalid longitude field [] at Line N°68
-Error: Invalid latitude field [] at Line N°130
-Error: Invalid longitude field [] at Line N°130
-Error: Invalid latitude field [] at Line N°141
-Error: Invalid longitude field [] at Line N°141
-Error: Wrong number of fields or missing end semicolon at Line N°147
-Error: Wrong number of fields or missing end semicolon at Line N°153
-Error: Wrong number of fields or missing end semicolon at Line N°159
-Error: Wrong number of fields or missing end semicolon at Line N°163
-Error: Wrong number of fields or missing end semicolon at Line N°248
-Error: Wrong number of fields or missing end semicolon at Line N°334
-ANALYZED... liri.str [2 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°4
-ANALYZED... lirl.str [6 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Invalid latitude field [RL-ADBOR] at Line N°2
-Error: Invalid longitude field [RL-ADBOR] at Line N°2
-Error: Invalid latitude field [RL-BRAVO] at Line N°3
-Error: Invalid longitude field [RL-BRAVO] at Line N°3
-Error: Wrong number of fields or missing end semicolon at Line N°5
-ANALYZED... lirm.str [12 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Invalid latitude field [RM-ALPHA] at Line N°2
-Error: Invalid longitude field [RM-ALPHA] at Line N°2
-Error: Invalid latitude field [RM-PAPA] at Line N°3
-Error: Invalid longitude field [RM-PAPA] at Line N°3
-Error: Invalid latitude field [RM-TANGO] at Line N°4
-Error: Invalid longitude field [RM-TANGO] at Line N°4
-Error: Invalid latitude field [RM-SIERRA] at Line N°5
-Error: Invalid longitude field [RM-SIERRA] at Line N°5
-Error: Wrong number of fields or missing end semicolon at Line N°7
-Error: Invalid latitude field [TAC-06R] at Line N°8
-Error: Invalid longitude field [TAC-06R] at Line N°8
-ANALYZED... lirn.str [16 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Invalid latitude field [] at Line N°67
-Error: Invalid longitude field [] at Line N°67
-Error: Invalid latitude field [] at Line N°117
-Error: Invalid longitude field [] at Line N°117
-Error: Invalid latitude field [] at Line N°201
-Error: Invalid longitude field [] at Line N°201
-Error: Invalid latitude field [] at Line N°207
-Error: Invalid longitude field [] at Line N°207
-Error: Invalid latitude field [] at Line N°215
-Error: Invalid longitude field [] at Line N°215
-Error: Wrong number of fields or missing end semicolon at Line N°244
-Error: Wrong number of fields or missing end semicolon at Line N°250
-Error: Wrong number of fields or missing end semicolon at Line N°254
-Error: Wrong number of fields or missing end semicolon at Line N°383
-ANALYZED... lirp.str [6 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Invalid latitude field [] at Line N°5
-Error: Invalid longitude field [] at Line N°5
-Error: Wrong number of fields or missing end semicolon at Line N°13
-Error: Wrong number of fields or missing end semicolon at Line N°16
-ANALYZED... lirq.str [2 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°4
-ANALYZED... lirs.str [14 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-Error: Invalid latitude field [RS-ALPHA1] at Line N°2
-Error: Invalid longitude field [RS-ALPHA1] at Line N°2
-Error: Invalid latitude field [RS-BRAVO1] at Line N°3
-Error: Invalid longitude field [RS-BRAVO1] at Line N°3
-Error: Invalid latitude field [RS-BRAVO2] at Line N°4
-Error: Invalid longitude field [RS-BRAVO2] at Line N°4
-Error: Invalid latitude field [RS-BRAVO3] at Line N°5
-Error: Invalid longitude field [RS-BRAVO3] at Line N°5
-Error: Invalid latitude field [RS-CHARLIE1] at Line N°6
-Error: Invalid longitude field [RS-CHARLIE1] at Line N°6
-Error: Wrong number of fields or missing end semicolon at Line N°9
-Error: Wrong number of fields or missing end semicolon at Line N°14
-ANALYZED... lirz.str [2 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°1
-Error: Wrong number of fields or missing end semicolon at Line N°4
-ANALYZED... lsza.str [2 error(s)]
-Error: Invalid latitude field [] at Line N°1
-Error: Invalid longitude field [] at Line N°1
-[VFRFIX]
-ANALYZED... liap.vfi [OK]
-ANALYZED... liba.vfi [OK]
-ANALYZED... libc.vfi [OK]
-ANALYZED... libd.vfi [OK]
-ANALYZED... libg.vfi [OK]
-ANALYZED... libn.vfi [OK]
-ANALYZED... libp.vfi [OK]
-ANALYZED... libr.vfi [OK]
-ANALYZED... libv.vfi [OK]
-ANALYZED... lica.vfi [OK]
-ANALYZED... licb.vfi [OK]
-ANALYZED... licc.vfi [OK]
-ANALYZED... licd.vfi [OK]
-ANALYZED... licg.vfi [OK]
-ANALYZED... licj.vfi [OK]
-ANALYZED... licr.vfi [OK]
-ANALYZED... lict.vfi [OK]
-ANALYZED... licz.vfi [OK]
-ANALYZED... lidt.vfi [OK]
-ANALYZED... lied.vfi [OK]
-ANALYZED... liee.vfi [OK]
-ANALYZED... lieo.vfi [OK]
-ANALYZED... lile.vfi [OK]
-ANALYZED... lilg.vfi [OK]
-ANALYZED... limc.vfi [OK]
-ANALYZED... lime.vfi [OK]
-ANALYZED... limf.vfi [OK]
-ANALYZED... limg.vfi [OK]
-ANALYZED... limj.vfi [OK]
-ANALYZED... liml.vfi [OK]
-ANALYZED... limm.vfi [OK]
-ANALYZED... limn.vfi [OK]
-ANALYZED... limp.vfi [OK]
-ANALYZED... lims.vfi [OK]
-ANALYZED... limw.vfi [OK]
-ANALYZED... limz.vfi [OK]
-ANALYZED... lipa.vfi [OK]
-ANALYZED... lipe.vfi [OK]
-ANALYZED... liph.vfi [OK]
-ANALYZED... lipi.vfi [OK]
-ANALYZED... lipk.vfi [OK]
-ANALYZED... lipl.vfi [OK]
-ANALYZED... lipo.vfi [OK]
-ANALYZED... lipp.vfi [OK]
-ANALYZED... lipr.vfi [OK]
-ANALYZED... lips.vfi [OK]
-ANALYZED... lipu.vfi [OK]
-ANALYZED... lipx.vfi [OK]
-ANALYZED... lipy.vfi [OK]
-ANALYZED... lipz.vfi [OK]
-ANALYZED... liqw.vfi [OK]
-ANALYZED... lira.vfi [OK]
-ANALYZED... lire.vfi [OK]
-ANALYZED... lirf.vfi [OK]
-ANALYZED... lirh.vfi [OK]
-ANALYZED... liri.vfi [OK]
-ANALYZED... lirl.vfi [OK]
-ANALYZED... lirm.vfi [OK]
-ANALYZED... lirn.vfi [OK]
-ANALYZED... lirp.vfi [OK]
-ANALYZED... lirq.vfi [OK]
-ANALYZED... lirr.vfi [OK]
-ANALYZED... lirs.vfi [OK]
-ANALYZED... liru.vfi [OK]
-ANALYZED... lirv.vfi [OK]
-ANALYZED... lirz.vfi [OK]
-ANALYZED... lsza.vfi [OK]
-[VFRROUTE]
-ANALYZED... liba.vrt [8 error(s)]
-Error: Invalid latitude or reference Id [MNL] at Line N°4
-Error: Invalid longitude or reference Id [MNL] at Line N°4
-Error: Invalid latitude or reference Id [MNL] at Line N°6
-Error: Invalid longitude or reference Id [MNL] at Line N°6
-Error: Invalid latitude or reference Id [BA-SW2] at Line N°8
-Error: Invalid longitude or reference Id [BA-SW2] at Line N°8
-Error: Invalid latitude or reference Id [MNL] at Line N°11
-Error: Invalid longitude or reference Id [MNL] at Line N°11
-ANALYZED... libd.vrt [6 error(s)]
-Error: Invalid latitude or reference Id [BAR] at Line N°3
-Error: Invalid longitude or reference Id [BAR] at Line N°3
-Error: Invalid latitude or reference Id [BAR] at Line N°6
-Error: Invalid longitude or reference Id [BAR] at Line N°6
-Error: Invalid latitude or reference Id [BAR] at Line N°8
-Error: Invalid longitude or reference Id [BAR] at Line N°8
-ANALYZED... libg.vrt [6 error(s)]
-Error: Invalid latitude or reference Id [TAG] at Line N°2
-Error: Invalid longitude or reference Id [TAG] at Line N°2
-Error: Invalid latitude or reference Id [TAG] at Line N°4
-Error: Invalid longitude or reference Id [TAG] at Line N°4
-Error: Invalid latitude or reference Id [TAG] at Line N°6
-Error: Invalid longitude or reference Id [TAG] at Line N°6
-ANALYZED... licc.vrt [6 error(s)]
-Error: Invalid latitude or reference Id [CTF] at Line N°3
-Error: Invalid longitude or reference Id [CTF] at Line N°3
-Error: Invalid latitude or reference Id [CTF] at Line N°6
-Error: Invalid longitude or reference Id [CTF] at Line N°6
-Error: Invalid latitude or reference Id [CTF] at Line N°9
-Error: Invalid longitude or reference Id [CTF] at Line N°9
-ANALYZED... licj.vrt [4 error(s)]
-Error: Invalid latitude or reference Id [PRS] at Line N°3
-Error: Invalid longitude or reference Id [PRS] at Line N°3
-Error: Invalid latitude or reference Id [PRS] at Line N°4
-Error: Invalid longitude or reference Id [PRS] at Line N°4
-ANALYZED... limc.vrt [4 error(s)]
-Error: Invalid latitude or reference Id [MMP] at Line N°3
-Error: Invalid longitude or reference Id [MMP] at Line N°3
-Error: Invalid latitude or reference Id [MMP] at Line N°4
-Error: Invalid longitude or reference Id [MMP] at Line N°4
-ANALYZED... limg.vrt [4 error(s)]
-Error: Invalid latitude or reference Id [ALB] at Line N°2
-Error: Invalid longitude or reference Id [ALB] at Line N°2
-Error: Invalid latitude or reference Id [ALB] at Line N°4
-Error: Invalid longitude or reference Id [ALB] at Line N°4
-ANALYZED... liml.vrt [OK]
-ANALYZED... limp.vrt [OK]
-ANALYZED... lire.vrt [4 error(s)]
-Error: Invalid latitude or reference Id [RL-SW1] at Line N°1
-Error: Invalid longitude or reference Id [RL-SW1] at Line N°1
-Error: Invalid latitude or reference Id [RL-SW1] at Line N°3
-Error: Invalid longitude or reference Id [RL-SW1] at Line N°3
-ANALYZED... lirh.vrt [1 error(s)]
-Error: Wrong number of fields or missing end semicolon at Line N°3
-ANALYZED... lirl.vrt [OK]
-ANALYZED... lirm.vrt [OK]
-ANALYZED... lirn.vrt [OK]
-ANALYZED... liru.vrt [OK]
-[VOR]
-ANALYZED... itvor.vor [OK]
-[TAXIWAY]
-ANALYZED... liba.txi [OK]
-ANALYZED... libc.txi [OK]
-ANALYZED... libd.txi [OK]
-ANALYZED... libf.txi [OK]
-ANALYZED... libg.txi [OK]
-ANALYZED... libn.txi [OK]
-ANALYZED... libp.txi [OK]
-ANALYZED... libr.txi [OK]
-ANALYZED... libv.txi [OK]
-ANALYZED... lica.txi [OK]
-ANALYZED... licb.txi [OK]
-ANALYZED... licc.txi [OK]
-ANALYZED... licg.txi [OK]
-ANALYZED... licj.txi [OK]
-ANALYZED... licr.txi [OK]
-ANALYZED... lict.txi [OK]
-ANALYZED... licz.txi [OK]
-ANALYZED... liea.txi [OK]
-ANALYZED... lied.txi [OK]
-ANALYZED... liee.txi [OK]
-ANALYZED... lieo.txi [OK]
-ANALYZED... lile.txi [OK]
-ANALYZED... lima.txi [OK]
-ANALYZED... limc.txi [OK]
-ANALYZED... lime.txi [OK]
-ANALYZED... limf.txi [OK]
-ANALYZED... limj.txi [OK]
-ANALYZED... liml.txi [OK]
-ANALYZED... limn.txi [OK]
-ANALYZED... limp.txi [OK]
-ANALYZED... limw.txi [OK]
-ANALYZED... limz.txi [OK]
-ANALYZED... linl.txi [OK]
-ANALYZED... lipa.txi [OK]
-ANALYZED... lipb.txi [OK]
-ANALYZED... lipc.txi [OK]
-ANALYZED... lipe.txi [OK]
-ANALYZED... liph.txi [OK]
-ANALYZED... lipi.txi [OK]
-ANALYZED... lipk.txi [OK]
-ANALYZED... lipl.txi [OK]
-ANALYZED... lipo.txi [OK]
-ANALYZED... lipq.txi [OK]
-ANALYZED... lipr.txi [OK]
-ANALYZED... lips.txi [OK]
-ANALYZED... lipu.txi [OK]
-ANALYZED... lipx.txi [OK]
-ANALYZED... lipy.txi [OK]
-ANALYZED... lipz.txi [OK]
-ANALYZED... lira.txi [OK]
-ANALYZED... lire.txi [OK]
-ANALYZED... lirf.txi [OK]
-ANALYZED... liri.txi [OK]
-ANALYZED... lirl.txi [OK]
-ANALYZED... lirm.txi [OK]
-ANALYZED... lirn.txi [OK]
-ANALYZED... lirp.txi [OK]
-ANALYZED... lirq.txi [OK]
-ANALYZED... lirs.txi [OK]
-ANALYZED... liru.txi [OK]
-ANALYZED... lirz.txi [OK]
-
-N° of errors: 902
-N° of warnings: 77
-
-**Unused VOR/NDB/FIX names in referenced files**
-ABADI
-ABAKO
-ABDAB
-ABESI
-ABIDU
-ABKON
-ABMOG
-ABN
-ABREG
-ABROX
-ABRUS
-ABSEM
-ABUKI
-ABULO
-ADAMI
-ADARI
-ADBAL
-ADISO
-ADMAS
-ADMOP
-ADOLO
-ADOSA
-ADREN
-ADRUX
-ADUKA
-AGAVI
-AGEKO
-AGNIS
-AGOMO
-AHO
-AIOSA
-AKASU
-AKILI
-AKUTO
-ALARI
-ALAVI
-ALAXI
-ALB
-ALEDI
-ALESE
-ALEXA
-ALG
-ALIXI
-ALOKU
-ALUDU
-AMGOK
-AMLON
-AMOXI
-AMREX
-AMSED
-AMTEL
-ANAKI
-AOSTA
-APRIV
-APSUX
-ARBIP
-ARBUM
-ARDAM
-ARKEM
-ARLES
-ARLUK
-ARNOS
-ARSIK
-ARSOB
-ARVOD
-ASBEB
-ASBOP
-ASDOR
-ASKAG
-ASPIR
-ASTOR
-ASVOL
-ASVUT
-ATGAM
-ATMAD
-ATPED
-ATRIG
-AVI
-AVI
-BABAG
-BABLO
-BABNU
-BADBA
-BADOP
-BADUK
-BAGIX
-BAGNO
-BAKEP
-BAKOR
-BAKRO
-BALUK
-BAMVU
-BANAV
-BANKO
-BAPLU
-BARBY
-BARMO
-BARPI
-BASIP
-BAVMI
-BAVOM
-BAXON
-BD551
-BD555
-BEDIX
-BEDPI
-BEGUD
-BEKAN
-BEKIV
-BELIX
-BELOK
-BELOV
-BEPMA
-BERMI
-BEROK
-BEROL
-BETEN
-BETMU
-BETOT
-BEVIS
-BEXOR
-BIBAN
-BIDMA
-BIKTU
-BIRSU
-BLA
-BLONA
-BNS
-BOCIR
-BOLOT
-BORDI
-BORMI
-BPL
-BR511
-BR512
-BRD
-BRD
-BRENO
-BSA
-BUDIN
-BULAR
-BUMOK
-BUSER
-BV-ARGIR
-BV-BRAVO
-BV-BRAVO
-BV-DANTO
-BV-DELTA
-BV-MAGRO
-BV-VICTOR
-C-ILS11
-CAL
-CALDO
-CALKE
-CAM
-CANNE
-CAR
-CAS
-CAS
-CD803
-CERVI
-CEV
-CG734
-CG735
-CG756
-CG757
-CHI
-CHI
-CJ514
-CJ516
-CJ517
-CJ532
-CJ533
-CJ534
-COBBA
-COM
-CR723
-CRAYE
-CRN
-CTF
-CTF
-CZ-JOSEF
-CZ-ORION
-DAMIC
-DAXNU
-DEC
-DEC
-DEDOM
-DEDRA
-DEGUM
-DELER
-DELIK
-DEROG
-DESIP
-DETSA
-DEXOL
-DEXUL
-DIBAX
-DIBVI
-DIKEM
-DIKOB
-DILEB
-DINOB
-DINUX
-DIPOK
-DIPVO
-DIRAB
-DIRED
-DIRKA
-DISEV
-DITUM
-DIVAR
-DIVIP
-DIVKU
-DOBIM
-DOBIX
-DOBOG
-DODEL
-DOGEX
-DOGUB
-DOGUS
-DOKAR
-DOLON
-DOPEL
-DORAS
-DORAV
-DORIN
-EA501
-ED-CAPOF
-ED-CATAL
-ED-MAURY
-ED-NIVEL
-ED-PERDA
-ED-RICCI
-ED-SILVE
-ED-SOMUX
-ED-SUSAN
-ED-TEULA
-ED-VANID
-EDEMO
-EDOPA
-EDUGI
-EKBUV
-EKDIR
-EKLAP
-EKLOS
-EKMIL
-EKMOT
-EKMUR
-EKOLA
-EKPAL
-EKPAR
-EKPEB
-EKPIS
-EKPOP
-EKRAX
-EKROB
-EKRUP
-EKSID
-EKTOL
-EKTOR
-EKTUK
-EKVAV
-ELB
-ELBUK
-ELITO
-ELNOG
-ELVIN
-EMBOS
-ENEPA
-ENEXU
-ENOBA
-ENOXA
-ENSOT
-EO411
-EO487
-EO489
-EO507
-EO521
-EO522
-EO722
-EO723
-EO724
-EPIDA
-EPIKU
-EREDO
-ERIKA
-ERITU
-ERLIT
-ERNAM
-EROVI
-ERPAV
-ERPEM
-ERPOG
-ERTEV
-ESODU
-ETAKO
-ETPOK
-ETRIN
-EVANO
-EVINO
-EVKIV
-EVULI
-FAL
-FAL
-FARAK
-FASAN
-FGG
-FIZZY
-FOG
-FOL
-GALTI
-GAPDO
-GAPMI
-GARGA
-GARLO
-GAVRA
-GAZ
-GEGDU
-GEKBA
-GEMMA
-GEMVI
-GEN
-GEN
-GENGI
-GERBU
-GERMO
-GHE
-GIBLO
-GIFAN
-GIGGI
-GIGIX
-GIKEB
-GIKIN
-GIKUS
-GIMEL
-GIMIX
-GINAR
-GINOX
-GIO
-GIPIX
-GIPUK
-GIRIS
-GIROV
-GISAM
-GISIG
-GISPA
-GITOD
-GOGEM
-GOKBA
-GOKEL
-GOKMI
-GOLAS
-GOLPO
-GONOT
-GOPAT
-GOREP
-GOSEB
-GOTEK
-GOTMO
-GOVAM
-GOVGO
-GOXIN
-GRA
-GRA
-GRO
-GRT
-GUDPO
-GUNGO
-HITAC-32/IAF1
-HTAC-X
-HTAC08-26
-IAF-Y
-IAF-Z
-IBENI
-IBLIG
-IBLUN
-IBNAN
-IBREP
-IBRID
-IBROS
-IBTOK
-IBUGO
-IDEPA
-IDLOL
-IDONA
-INBUT
-INDOD
-INDUM
-INGAB
-INKIM
-INSOX
-INTUD
-INVES
-INVOP
-IPDAB
-IPGOR
-IPGUN
-IPINO
-IPLUB
-IPMUT
-IPROM
-IRKED
-ISA
-IVKAL
-IVLAM
-IVLOX
-IVMEP
-IVORY
-IXITO
-IXOGU
-IXORA
-IXUSA
-KALIK
-KALMO
-KANIN
-KAPPO
-KARDU
-KAREL
-KATAR
-KATTI
-KEBBU
-KEGED
-KEMMI
-KERON
-KILLI
-KISTO
-KODOK
-KOGEB
-KOLEX
-KOLUS
-KONER
-KONUT
-KOPER
-KOVAS
-KOXUD
-KUBUD
-KUGIX
-KUKEV
-KUMIN
-KUTID
-LADUS
-LAGEN
-LAKOX
-LAMPO
-LANLI
-LANNO
-LAPAB
-LAPRI
-LAPVO
-LATAN
-LATNI
-LCC
-LEBNU
-LEDKO
-LEDRO
-LEDSA
-LEGLO
-LELSU
-LESMI
-LEV
-LEVSI
-LIGUR
-LIKDA
-LIKNO
-LILEE
-LIMBA
-LIN
-LISKO
-LMT
-LNE
-LOBSI
-LOCRI
-LOGDI
-LOMEF
-LOPKO
-LORLO
-LORNO
-LOUIS
-LPD
-LUKAD
-LUKIM
-LULET
-LULIX
-LUMAR
-LUNAM
-LUNAR
-LUPAL
-LUPIN
-LUPOS
-LURAG
-LURUT
-LUTOR
-LUXIL
-LUZEM
-MABOX
-MADIR
-MADKA
-MAL
-MALAV
-MALFI
-MALOG
-MALUG
-MAMAR
-MAREL
-MAREP
-MARLY
-MASEG
-MASOT
-MATED
-MATOG
-MC721
-MC906
-ME536
-MEDAL
-MEGAN
-MEGER
-MIKSO
-MIRAX
-MIRSA
-MISPO
-MIVBO
-MIVKI
-ML401
-ML402
-ML403
-ML461
-ML462
-ML463
-ML464
-ML465
-ML466
-ML467
-ML468
-ML501
-ML502
-ML503
-ML504
-ML506
-ML602
-ML603
-ML604
-ML606
-ML607
-ML608
-ML702
-ML703
-ML704
-ML705
-ML706
-ML707
-ML711
-ML712
-ML713
-MMP
-MN-ALPHA
-MN-BRAVO
-MN-CHARLIE
-MN-ECHO
-MN-YANKEE
-MN-ZULU
-MNL
-MOBDO
-MOGBO
-MOGPU
-MOKTO
-MOLUX
-MONEB
-MONFA
-MOULE
-MOVOR
-MUSKY
-MZ702
-MZ706
-NAP
-NAPOX
-NATAG
-NATOV
-NAVAG
-NAXAV
-NAXES
-NEBAS
-NEDED
-NEGIK
-NEKPI
-NEMBO
-NEMIT
-NENIG
-NERAR
-NERBO
-NEVMO
-NEVOT
-NIBEL
-NIBLO
-NIBTO
-NIKMA
-NIKMO
-NIKOL
-NIMUM
-NIORR
-NIPLI
-NISIL
-NISUV
-NITAM
-NIVAS
-NOBKE
-NOBMI
-NOGMO
-NOLSI
-NOPMU
-NORNI
-NOSTA
-NOSTO
-NOTRI
-NOV
-NOV
-NSY
-NUCRE
-NUDRA
-NUKNI
-NULGI
-NUPMA
-NUTRO
-OBAXU
-OBUXA
-ODAMO
-ODUPA
-OGAPU
-OGLAK
-OGOVU
-OGTOM
-OKBIS
-OKDAK
-OKDEB
-OKIDO
-OKIMO
-OKIVA
-OKMAP
-OKOMU
-OKTAV
-OKUBU
-OKUNO
-OLBEK
-OLETI
-OLGAT
-OLINI
-OLNUK
-OLPIX
-OLPUR
-OMAKU
-OMETO
-OMILI
-ORF
-ORF
-ORSOM
-ORVEX
-OSDAX
-OSDET
-OSLOP
-OSMAR
-OSMEB
-OSMOX
-OST
-OST
-OTFOX
-OTKEK
-OTKUB
-OTMUV
-OTNUN
-OTRET
-OXUGI
-OZE
-PA-GOCAT
-PABRO
-PAN
-PAPIZ
-PC-WHISKY
-PE366
-PE367
-PE501
-PE502
-PE504
-PE505
-PE601
-PE602
-PE603
-PE604
-PE606
-PE607
-PE608
-PE609
-PE611
-PE612
-PE613
-PE614
-PE701
-PE702
-PED
-PEGIT
-PEKOD
-PELEN
-PELZA
-PEMAR
-PEPAG
-PEPIX
-PERAV
-PEROS
-PES
-PES
-PESAR
-PETAS
-PETIP
-PEVAL
-PEVIR
-PEXET
-PI/PA-BRAVO
-PIA
-PIDAD
-PIDEP
-PIDUL
-PIGAK
-PIGER
-PIGOL
-PIKEL
-PIKOT
-PIMOT
-PIN
-PININ
-PINUK
-PIRIX
-PIS
-PISIP
-PIVOP
-PL-ADNOB
-PL-BRAVO
-PL-KILO
-PL-LORIS
-PL-PETER
-PL-SIERRA
-PODOX
-POKAV
-POLIT
-POM
-POULP
-POZZO
-PRT
-PRU
-PRU
-PS-CHARLIE
-PTC
-PTC
-PUNSA
-PY402
-PY403
-PY404
-PY406
-PZ534
-PZ539
-PZ702
-PZ703
-PZ703
-PZ704
-PZ712
-QUENN
-RAMEN
-RAPIS
-RASUG
-RATOK
-RAVAL
-RCA
-RCH
-REGSO
-RENTA
-REPTA
-RESIA
-RETKU
-RF401
-RF407
-RF469
-RF471
-RF702
-RF703
-RF706
-RF707
-RF708
-RF709
-RF711
-RF712
-RF713
-RF725
-RF726
-RF727
-RF729
-RF731
-RF733
-RF735
-RF741
-RF742
-RF743
-RF744
-RF746
-RF747
-RF748
-RF751
-RF752
-RF753
-RF754
-RF762
-RF763
-RF764
-RF771
-RF772
-RF774
-RF776
-RF778
-RF779
-RIDVA
-RIFEN
-RIFFI
-RIGON
-RIM
-RIMED
-RINAD
-RIROX
-RISOM
-RIV
-RIV
-RIVAM
-RIVAP
-RL-ADBOR
-RL-BRAVO
-RM-ALPHA
-RM-PAPA
-RM-SIERRA
-RM-TANGO
-RMN
-RN407
-RN511
-RN515
-RN516
-ROBAS
-ROBET
-ROBIM
-ROBOT
-RODRU
-ROKIB
-ROKUD
-ROLEV
-ROMPO
-ROMSU
-ROMUN
-RON
-RONAB
-RONDI
-RONOP
-ROSGO
-ROSKA
-ROSKI
-ROSUV
-ROTAR
-ROTIR
-ROTUN
-ROVIG
-ROXAN
-ROXOM
-RQ501
-RQ502
-RQ503
-RS-ALPHA1
-RS-BRAVO1
-RS-BRAVO2
-RS-BRAVO3
-RS-CHARLIE1
-RUBRI
-RUGOX
-RUKOK
-RUPAX
-RUTOM
-RUTUG
-RUVAB
-RUVIP
-RUVUK
-RUXOP
-SAFFA
-SASLI
-SAZ
-SCS
-SES
-SIDRO
-SIG
-SIG
-SIPRO
-SIRGI
-SIRLO
-SME
-SOBRI
-SODMO
-SOMAS
-SOPIR
-SOPOM
-SOR
-SORUG
-SOSAK
-SOSIV
-SOSUB
-SOTOV
-SOVAN
-SOVOX
-SOVUB
-SPEZI
-SPUMA
-SRN
-SUBAR
-SUGEP
-SUKOM
-SULUR
-SUMIR
-SUNEV
-SUPUX
-SUSOM
-SUTAD
-SUTED
-SUTOB
-SUXAN
-SUXUB
-TABOT
-TAC-06R
-TAC-Y10LR
-TAC-Y28LR
-TAC-Z10LR
-TADIX
-TAGEL
-TAGIP
-TALEP
-TEA
-TEKRA
-TEKSA
-TELVA
-TEREZ
-TERSI
-TES
-TESTO
-TIBRO
-TIDKA
-TIGRA
-TIMOV
-TIMPU
-TINIX
-TINKU
-TINTO
-TIPAP
-TIPNI
-TISAL
-TISAX
-TISGU
-TIVNO
-TIVUK
-TIXIR
-TNT
-TOBGA
-TOBIR
-TOBSO
-TODKU
-TODNO
-TOMGI
-TONDA
-TOP
-TOPNO
-TORLI
-TORTU
-TOSMI
-TOVSA
-TPR
-TREVI
-TROTA
-TRP
-TUBTU
-TUFTE
-TULIK
-TUNEX
-TUPUP
-TURMO
-TUTIP
-TUTIV
-TUVIB
-TZO
-ULCOR
-ULGOD
-ULKEN
-ULSOP
-UMBEK
-UNBID
-UNIMI
-UNITA
-UNIXO
-UNKAV
-UNPIV
-UNTAD
-UNUMU
-UPADU
-UPDUT
-UPIRO
-UPLAD
-UPLIT
-UPONO
-URAVA
-UREXE
-URIPI
-USANO
-USEPI
-USOXI
-UTAME
-UTAPO
-UTUVI
-UVIBE
-UVOKA
-UVOKI
-VABMO
-VABOK
-VADIK
-VADKI
-VAGUX
-VAGVU
-VAKON
-VAKOR
-VAMTU
-VAPUP
-VARAL
-VAVAX
-VEBOX
-VEGAN
-VEKEN
-VEKET
-VELAD
-VELEX
-VELUG
-VEPAD
-VERAK
-VEROB
-VERUN
-VESAL
-VESOD
-VEVAR
-VEXUV
-VIB
-VIC
-VIC
-VIE
-VIE
-VIL
-VOG
-VOLTU
-VOMER-VOR08
-VULKA
-VURKE
-XAMIT
-XAPAT
-XATOS
-XENOL
-XENRU
-XIBRI
-XOLTA
-XOPTA
-XUBKA
-ZICOH
-ZOKLE
-
+[INFO] Dir = 'C:\Aurora\SectorFiles\include\IT.log'
+[INFO] isc file. 309 lines
+[INFO] start reading [VOR]
+	[VOR] reading NAVAIDS\itvor.vor
+[INFO] start reading [NDB]
+	[NDB] reading NAVAIDS\itndb.ndb
+[INFO] start reading [FIXES]
+	[FIXES] reading NAVAIDS\itfix.fix
+[LOADING SHAPES]
+	[AIRPORT]
+		OTHER\itap.ap
+	[GEO]
+		GEO\itgeo.geo
+		GEO\italy.prohibit
+		GEO\italy.danger
+		GEO\italy.restrict
+		GEO\liaa.geo
+		GEO\limf.geo
+		[FORMAT ERR] file GEO\limf.geo line: 1513 stroke_width: &apos;1&apos;
+		[FORMAT ERR] file GEO\limf.geo line: 1514 stroke_color: ad_twy_ctrline)
+		[FORMAT ERR] file GEO\limf.geo line: 1517 stroke_width: &apos;1&apos;
+		[FORMAT ERR] file GEO\limf.geo line: 1518 stroke_color: ad_twy_ctrline)
+		[FORMAT ERR] file GEO\limf.geo line: 1521 stroke_width: &apos;1&apos;
+		[FORMAT ERR] file GEO\limf.geo line: 1522 stroke_color: ad_twy_ctrline)
+		[FORMAT ERR] file GEO\limf.geo line: 1525 stroke_width: &apos;1&apos;
+		[FORMAT ERR] file GEO\limf.geo line: 1526 stroke_color: ad_twy_ctrline)
+		[FORMAT ERR] file GEO\limf.geo line: 1529 stroke_width: &apos;1&apos;
+		[FORMAT ERR] file GEO\limf.geo line: 1530 stroke_color: ad_twy_ctrline)
+		[FORMAT ERR] file GEO\limf.geo line: 1548 stroke_width: &apos;1&apos;
+		[FORMAT ERR] file GEO\limf.geo line: 1549 stroke_color: ad_twy_ctrline)
+		GEO\lima.geo
+		GEO\lile.geo
+		GEO\liln.geo
+		GEO\lilg.geo
+		GEO\limb.geo
+		GEO\limc.geo
+		GEO\lime.geo
+		GEO\limg.geo
+		GEO\limj.geo
+		GEO\liml.geo
+		GEO\limn.geo
+		GEO\limp.geo
+		GEO\lims.geo
+		GEO\limw.geo
+		GEO\limz.geo
+		GEO\liqw.geo
+		GEO\lsza.geo
+		GEO\lida.geo
+		GEO\lide.geo
+		GEO\lidf.geo
+		GEO\lidh.geo
+		GEO\lidk.geo
+		GEO\lidr.geo
+		GEO\lidt.geo
+		GEO\lipa.geo
+		GEO\lipb.geo
+		GEO\lipc.geo
+		GEO\lipd.geo
+		GEO\lipe.geo
+		GEO\lipf.geo
+		GEO\lipg.geo
+		GEO\liph.geo
+		GEO\lipi.geo
+		GEO\lipk.geo
+		GEO\lipl.geo
+		GEO\lipm.geo
+		GEO\lipn.geo
+		GEO\lipo.geo
+		GEO\lipq.geo
+		GEO\lipr.geo
+		GEO\lips.geo
+		GEO\lipu.geo
+		GEO\lipv.geo
+		GEO\lipx.geo
+		GEO\lipy.geo
+		GEO\lipz.geo
+		GEO\liba.geo
+		GEO\libc.geo
+		GEO\libd.geo
+		GEO\libf.geo
+		GEO\libg.geo
+		GEO\libn.geo
+		GEO\libp.geo
+		GEO\libr.geo
+		GEO\libv.geo
+		GEO\linl.geo
+		GEO\liap.geo
+		GEO\lica.geo
+		GEO\licb.geo
+		GEO\licc.geo
+		GEO\licd.geo
+		GEO\licg.geo
+		GEO\licj.geo
+		GEO\licp.geo
+		GEO\licr.geo
+		GEO\lict.geo
+		GEO\licz.geo
+		GEO\liea.geo
+		GEO\lied.geo
+		GEO\liee.geo
+		GEO\lieo.geo
+		GEO\lier.geo
+		GEO\lilq.geo
+		GEO\liqb.geo
+		GEO\liql.geo
+		GEO\liqn.geo
+		GEO\liqs.geo
+		GEO\lira.geo
+		GEO\lire.geo
+		GEO\lirf.geo
+		GEO\lirg.geo
+		GEO\lirh.geo
+		GEO\liri.geo
+		GEO\lirj.geo
+		GEO\lirl.geo
+		GEO\lirm.geo
+		GEO\lirn.geo
+		GEO\lirp.geo
+		GEO\lirq.geo
+		GEO\lirs.geo
+		GEO\liru.geo
+		GEO\lirv.geo
+		GEO\lirz.geo
+	[RUNWAY]
+		OTHER\itrw.rw
+	[GEO]
+		RW_MARKINGS\ba_mark.geo
+		RW_MARKINGS\bd_mark.geo
+		RW_MARKINGS\bf_mark.geo
+		RW_MARKINGS\bg_mark.geo
+		RW_MARKINGS\bn_mark.geo
+		RW_MARKINGS\bp_mark.geo
+		RW_MARKINGS\br_mark.geo
+		RW_MARKINGS\bv_mark.geo
+		RW_MARKINGS\de_mark.geo
+		RW_MARKINGS\le_mark.geo
+		RW_MARKINGS\ln_mark.geo
+		RW_MARKINGS\ma_mark.geo
+	[LOW AIRWAY]
+		AIRWAY\itawlow.awl
+	[HIGH AIRWAY]
+		AIRWAY\itawhigh.hairway
+	[ARTCC] / [AIRSPACE]
+		ACC\limm.artcc
+		ACC\lipp.artcc
+		ACC\lirr.artcc
+		ACC\libb.artcc
+	[ARTCC HIGH] / [AIRSPACE HIGH]
+		HI_AIRSPACE\lsza.hartcc
+		HI_AIRSPACE\lime.hartcc
+		HI_AIRSPACE\limc.hartcc
+		HI_AIRSPACE\limf.hartcc
+		HI_AIRSPACE\limj.hartcc
+		HI_AIRSPACE\limp.hartcc
+		HI_AIRSPACE\lims.hartcc
+		HI_AIRSPACE\lipe.hartcc
+		HI_AIRSPACE\liph.hartcc
+		HI_AIRSPACE\liml.hartcc
+		HI_AIRSPACE\lipx.hartcc
+		HI_AIRSPACE\lipy.hartcc
+		HI_AIRSPACE\lipz.hartcc
+		HI_AIRSPACE\libd.hartcc
+		HI_AIRSPACE\libg.hartcc
+		HI_AIRSPACE\libn.hartcc
+		HI_AIRSPACE\libp.hartcc
+		HI_AIRSPACE\lica.hartcc
+		HI_AIRSPACE\licc.hartcc
+		HI_AIRSPACE\licg.hartcc
+		HI_AIRSPACE\licj.hartcc
+		HI_AIRSPACE\licr.hartcc
+		HI_AIRSPACE\lict.hartcc
+		HI_AIRSPACE\lirf.hartcc
+		HI_AIRSPACE\liea.hartcc
+		HI_AIRSPACE\liee.hartcc
+		HI_AIRSPACE\lirl.hartcc
+		HI_AIRSPACE\lirn.hartcc
+		HI_AIRSPACE\lirp.hartcc
+		HI_AIRSPACE\lieo.hartcc
+		HI_AIRSPACE\lirq.hartcc
+		HI_AIRSPACE\lirz.hartcc
+		HI_AIRSPACE\liba.hartcc
+		HI_AIRSPACE\libv.hartcc
+		HI_AIRSPACE\lipa.hartcc
+		HI_AIRSPACE\lirh.hartcc
+		HI_AIRSPACE\lirm.hartcc
+	[ARTCC LOW] / [AIRSPACE LOW]
+		LOW_AIRSPACE\lirr_tma.lartcc
+		LOW_AIRSPACE\limm_tma.lartcc
+		LOW_AIRSPACE\lieoapp.lartcc
+	[FILLCOLOR]
+		DYNAMIC_SEC\limmctr.tfl
+		DYNAMIC_SEC\limmapp.tfl
+		DYNAMIC_SEC\lirr_ew_ctr.tfl
+		DYNAMIC_SEC\lirr_su_ctr.tfl
+		DYNAMIC_SEC\lirr_ne_ctr.tfl
+		DYNAMIC_SEC\lirrapp.tfl
+		DYNAMIC_SEC\lipp_ne2_ctr.tfl
+		DYNAMIC_SEC\libb_es_ctr.tfl
+		DYNAMIC_SEC\libbctr.tfl
+		DYNAMIC_SEC\lirrctr.tfl
+		[FORMAT ERR] "" file "DYNAMIC_SEC\lirrctr.tfl" line: 1359
+		DYNAMIC_SEC\lippctr.tfl
+		GND_LAYOUT\mf_ad_gnd.pol
+		GND_LAYOUT\de_ad_gnd.pol
+		GND_LAYOUT\le_ad_gnd.pol
+		GND_LAYOUT\ln_ad_gnd.pol
+		GND_LAYOUT\ma_ad_gnd.pol
+		GND_LAYOUT\mb_ad_gnd.pol
+		GND_LAYOUT\mc_ad_gnd.pol
+		GND_LAYOUT\me_ad_gnd.pol
+		GND_LAYOUT\mg_ad_gnd.pol
+		GND_LAYOUT\mj_ad_gnd.pol
+		GND_LAYOUT\ml_ad_gnd.pol
+		GND_LAYOUT\mn_ad_gnd.pol
+		GND_LAYOUT\mw_ad_gnd.pol
+		GND_LAYOUT\mp_ad_gnd.pol
+		GND_LAYOUT\ms_ad_gnd.pol
+		GND_LAYOUT\mz_ad_gnd.pol
+		GND_LAYOUT\qw_ad_gnd.pol
+		GND_LAYOUT\lsza_ad_gnd.pol
+		GND_LAYOUT\aa_ad_gnd.pol
+		GND_LAYOUT\ap_ad_gnd.pol
+		GND_LAYOUT\ca_ad_gnd.pol
+		GND_LAYOUT\cb_ad_gnd.pol
+		GND_LAYOUT\cc_ad_gnd.pol
+		GND_LAYOUT\cd_ad_gnd.pol
+		GND_LAYOUT\cg_ad_gnd.pol
+		GND_LAYOUT\cj_ad_gnd.pol
+		GND_LAYOUT\cp_ad_gnd.pol
+		GND_LAYOUT\cr_ad_gnd.pol
+		GND_LAYOUT\ct_ad_gnd.pol
+		GND_LAYOUT\cz_ad_gnd.pol
+		GND_LAYOUT\ea_ad_gnd.pol
+		GND_LAYOUT\ed_ad_gnd.pol
+		GND_LAYOUT\ee_ad_gnd.pol
+		GND_LAYOUT\eo_ad_gnd.pol
+		GND_LAYOUT\er_ad_gnd.pol
+		GND_LAYOUT\lq_ad_gnd.pol
+		GND_LAYOUT\qb_ad_gnd.pol
+		GND_LAYOUT\ql_ad_gnd.pol
+		GND_LAYOUT\qn_ad_gnd.pol
+		GND_LAYOUT\qs_ad_gnd.pol
+		GND_LAYOUT\ra_ad_gnd.pol
+		GND_LAYOUT\re_ad_gnd.pol
+		GND_LAYOUT\rf_ad_gnd.pol
+		GND_LAYOUT\rg_ad_gnd.pol
+		GND_LAYOUT\rh_ad_gnd.pol
+		GND_LAYOUT\ri_ad_gnd.pol
+		GND_LAYOUT\rj_ad_gnd.pol
+		GND_LAYOUT\rl_ad_gnd.pol
+		GND_LAYOUT\rm_ad_gnd.pol
+		GND_LAYOUT\rn_ad_gnd.pol
+		GND_LAYOUT\rp_ad_gnd.pol
+		GND_LAYOUT\rq_ad_gnd.pol
+		GND_LAYOUT\rs_ad_gnd.pol
+		GND_LAYOUT\ru_ad_gnd.pol
+		GND_LAYOUT\rv_ad_gnd.pol
+		GND_LAYOUT\rz_ad_gnd.pol
+		GND_LAYOUT\da_ad_gnd.pol
+		GND_LAYOUT\df_ad_gnd.pol
+		GND_LAYOUT\dh_ad_gnd.pol
+		GND_LAYOUT\dk_ad_gnd.pol
+		GND_LAYOUT\dr_ad_gnd.pol
+		GND_LAYOUT\dt_ad_gnd.pol
+		GND_LAYOUT\pa_ad_gnd.pol
+		GND_LAYOUT\pb_ad_gnd.pol
+		GND_LAYOUT\pc_ad_gnd.pol
+		GND_LAYOUT\pd_ad_gnd.pol
+		GND_LAYOUT\pe_ad_gnd.pol
+		GND_LAYOUT\pf_ad_gnd.pol
+		GND_LAYOUT\pg_ad_gnd.pol
+		GND_LAYOUT\ph_ad_gnd.pol
+		GND_LAYOUT\pi_ad_gnd.pol
+		GND_LAYOUT\pk_ad_gnd.pol
+		GND_LAYOUT\pl_ad_gnd.pol
+		GND_LAYOUT\pn_ad_gnd.pol
+		GND_LAYOUT\po_ad_gnd.pol
+		GND_LAYOUT\pq_ad_gnd.pol
+		GND_LAYOUT\pr_ad_gnd.pol
+		GND_LAYOUT\ps_ad_gnd.pol
+		GND_LAYOUT\pu_ad_gnd.pol
+		GND_LAYOUT\pv_ad_gnd.pol
+		GND_LAYOUT\px_ad_gnd.pol
+		GND_LAYOUT\py_ad_gnd.pol
+		GND_LAYOUT\pz_ad_gnd.pol
+		GND_LAYOUT\ba_ad_gnd.pol
+		GND_LAYOUT\bc_ad_gnd.pol
+		GND_LAYOUT\bd_ad_gnd.pol
+		GND_LAYOUT\bf_ad_gnd.pol
+		GND_LAYOUT\bg_ad_gnd.pol
+		GND_LAYOUT\bn_ad_gnd.pol
+		GND_LAYOUT\bp_ad_gnd.pol
+		GND_LAYOUT\br_ad_gnd.pol
+		GND_LAYOUT\bv_ad_gnd.pol
+		GND_LAYOUT\nl_ad_gnd.pol
+	[MVA]
+		C:\Aurora\SectorFiles\include\IT\liba.mva
+		C:\Aurora\SectorFiles\include\IT\libb.mva
+		C:\Aurora\SectorFiles\include\IT\libd.mva
+		C:\Aurora\SectorFiles\include\IT\lica.mva
+		C:\Aurora\SectorFiles\include\IT\licc.mva
+		C:\Aurora\SectorFiles\include\IT\licj.mva
+		C:\Aurora\SectorFiles\include\IT\liee.mva
+		C:\Aurora\SectorFiles\include\IT\lieo.mva
+		C:\Aurora\SectorFiles\include\IT\limf.mva
+		C:\Aurora\SectorFiles\include\IT\limj.mva
+		C:\Aurora\SectorFiles\include\IT\limm.mva
+		C:\Aurora\SectorFiles\include\IT\lipa.mva
+		C:\Aurora\SectorFiles\include\IT\lipe.mva
+		C:\Aurora\SectorFiles\include\IT\liph.mva
+		C:\Aurora\SectorFiles\include\IT\lipp.mva
+		C:\Aurora\SectorFiles\include\IT\lipx.mva
+		C:\Aurora\SectorFiles\include\IT\lipz.mva
+		C:\Aurora\SectorFiles\include\IT\lirn.mva
+		C:\Aurora\SectorFiles\include\IT\lirp.mva
+		C:\Aurora\SectorFiles\include\IT\lirq.mva
+		C:\Aurora\SectorFiles\include\IT\lirr.mva
+		C:\Aurora\SectorFiles\include\IT\lirs.mva
+Summary:
+[FIX] [NDB] [VOR]: 1749 nodes
+[GEO]: 111688 lines
+[AIRPORT]: 132 apts
+[RUNWAY]: 121 rwys
+[ARTCC]: 271 lines
+[ARTCC LOW]: 122 lines
+[ARTCC HIGH]: 4735 lines
+[LOW AIRWAY]: 1192 awys
+[HIGH AIRWAY]: 1493 awys
+[MVA]: 10734 lines
+[FILLCOLOR]: 40143 lines
+[SID]: 0 lines
+[STAR]: 4295 lines

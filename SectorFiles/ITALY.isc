@@ -8,6 +8,7 @@ IT
 IVAO ITALY ATC OPERATIONS DEPARTMENT
 AIRAC A4/20 EFF 21.05.2020
 
+
 [ATC]
 F;OTHER\itfreq.atc
 
@@ -114,8 +115,27 @@ F;GEO\lirs.geo
 F;GEO\liru.geo
 F;GEO\lirv.geo
 F;GEO\lirz.geo
-[Runway]
+
+[RUNWAY]
 F;OTHER\itrw.rw
+
+[GEO]
+F;RW_MARKINGS\ba_mark.geo
+F;RW_MARKINGS\bd_mark.geo
+F;RW_MARKINGS\bf_mark.geo
+F;RW_MARKINGS\bg_mark.geo
+F;RW_MARKINGS\bn_mark.geo
+F;RW_MARKINGS\bp_mark.geo
+F;RW_MARKINGS\br_mark.geo
+F;RW_MARKINGS\bv_mark.geo
+F;RW_MARKINGS\de_mark.geo
+F;RW_MARKINGS\le_mark.geo
+F;RW_MARKINGS\ln_mark.geo
+F;RW_MARKINGS\ma_mark.geo
+F;RW_MARKINGS\mc35L_mark.geo
+F;RW_MARKINGS\mc35R_mark.geo
+
+
 
 [DEFINE]
 F;IT\colors\colors.def
@@ -184,9 +204,6 @@ F;HI_AIRSPACE\lirm.hartcc
 F;LOW_AIRSPACE\lirr_tma.lartcc
 F;LOW_AIRSPACE\limm_tma.lartcc
 F;LOW_AIRSPACE\lieoapp.lartcc
-
-
-
 
 [FILLCOLOR]
 F;DYNAMIC_SEC\limmctr.tfl
