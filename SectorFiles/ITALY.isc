@@ -6,7 +6,7 @@ E012.14.20.000
 +3.0
 IT
 IVAO ITALY ATC OPERATIONS DEPARTMENT
-AIRAC A4/20 EFF 21.05.2020
+AIRAC A6/20 EFF 16.07.2020
 
 
 [ATC]
@@ -134,6 +134,10 @@ F;RW_MARKINGS\ln_mark.geo
 F;RW_MARKINGS\ma_mark.geo
 F;RW_MARKINGS\mc35L_mark.geo
 F;RW_MARKINGS\mc35R_mark.geo
+F;RW_MARKINGS\me_mark.geo
+F;RW_MARKINGS\mf_mark.geo
+F;RW_MARKINGS\mg_mark.geo
+F;RW_MARKINGS\mj_mark.geo
 
 
 
@@ -172,6 +176,7 @@ F;HI_AIRSPACE\lims.hartcc
 F;HI_AIRSPACE\lipe.hartcc
 F;HI_AIRSPACE\liph.hartcc
 F;HI_AIRSPACE\liml.hartcc
+F;HI_AIRSPACE\lipq.hartcc
 F;HI_AIRSPACE\lipx.hartcc
 F;HI_AIRSPACE\lipy.hartcc
 F;HI_AIRSPACE\lipz.hartcc

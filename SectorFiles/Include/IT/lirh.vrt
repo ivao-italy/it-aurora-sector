@@ -1,5 +1,8 @@
 1;RH-NW1;RH-NW1;
 1;RH-W1;RH-W1;
 1;RH-W2;RH-W2
-1;RH-S1;RH-S1;
-1;RH-SE1;RH-SE1;
+2;RH-S1;RH-S1;
+2;RH-SE1;RH-SE1;
+3;RH-S1;RH-S1;
+3;RH-W2;RH-W2;
+//interruzione obbligata per evitare collegamento con rotte RL
