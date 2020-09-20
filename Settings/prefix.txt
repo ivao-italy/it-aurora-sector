@@ -34,7 +34,7 @@ ABG;;Abakan-Avia;Abakan-Avia;R
 ABI;BL;Air Bilbao;AirBilbao;V
 ABJ;;Abaet? Linhas A?reas;Abaet?;R
 ABK;;Alberta Citylink;Alberta Citylink;R
-ABL;;Air Bc;Aircoach;R
+ABL;BX;Air Busan;Air Busan;R
 ABM;;Aero Albatros;Albatros Espana;R
 ABN;;Albatros Virtual;Albatros;R
 ABO;;Aeroexpreso Bogota;Aeroexpreso;R
@@ -55,6 +55,7 @@ ACD;;Academy Airlines;Academy;R
 ACE;;Air Charter Express;Unknown;R
 ACF;;AventureClub Airlines;AventureClub;V
 ACG;;Air London International;Air London;R
+ACH;CC;Aerocharter Colombia;Aerocharter;V
 ACI;;Air Caledonie International;Aircalin;R
 ACJ;;Avicon;Avicharters;R
 ACK;;Nantucket;Ack Air;R
@@ -331,7 +332,7 @@ APB;;Air Atlantique Air Publicite;Charente;R
 APC;;Airpac;Airpac;R
 APE;;Parcel Express;Air Parcel;R
 APF;;Amapola Flyg;Amapola;R
-APG;;Aerotaxis Pegaso;Aeropegaso;R
+APG;Z2;Philippines AirAsia;COOL RED;R
 APH;;Alpha Aviation;Airflight;R
 APJ;MM;Peach Aviation;AIR PEACH;R
 APK;P4;Air Peace;PEACE BIRD;R
@@ -4729,6 +4730,7 @@ THE;;T?xi A?reo H?rcules Virtual;H?rcules;V
 THG;;Thurston;Thurston;R
 THK;;Turkish Airforce;Turkish Airforce;V
 THO;;Taca De Honduras;Lempira;R
+THR;TR;Thor Airlines;Thor;V
 THS;;Transportes Aereos Hispanos;Tahis;R
 THT;;Air Tahiti Nui;Tahiti Airlines;R
 THU;;Thunder;Air Thunder;R
