@@ -1,2397 +1,325 @@
-[VOR]
-	READING... NAVAIDS\itvor.vor
-[NDB]
-	READING... NAVAIDS\itndb.ndb
-[FIXES]
-	READING... NAVAIDS\itfix.fix
-[VFI]
-	READING... liap.vfi
-	READING... liba.vfi
-	READING... libc.vfi
-	READING... libd.vfi
-	READING... libg.vfi
-	READING... libn.vfi
-	READING... libp.vfi
-	READING... libr.vfi
-	READING... libv.vfi
-	READING... lica.vfi
-	READING... licb.vfi
-	READING... licc.vfi
-	READING... licd.vfi
-	READING... licg.vfi
-	READING... licj.vfi
-	READING... licr.vfi
-	READING... lict.vfi
-	READING... licz.vfi
-	READING... lidt.vfi
-	READING... liea.vfi
-	READING... lied.vfi
-	READING... liee.vfi
-	READING... lieo.vfi
-	READING... lile.vfi
-	READING... lilg.vfi
-	READING... lima.vfi
-	READING... limc.vfi
-	READING... lime.vfi
-	READING... limf.vfi
-	READING... limg.vfi
-	READING... limj.vfi
-	READING... liml.vfi
-	READING... limm.vfi
-	READING... limn.vfi
-	READING... limp.vfi
-	READING... lims.vfi
-	READING... limw.vfi
-	READING... limz.vfi
-	READING... lipa.vfi
-	READING... lipb.vfi
-	READING... lipc.vfi
-	READING... lipe.vfi
-	READING... liph.vfi
-	READING... lipi.vfi
-	READING... lipk.vfi
-	READING... lipl.vfi
-	READING... lipo.vfi
-	READING... lipp.vfi
-	READING... lipq.vfi
-	READING... lipr.vfi
-	READING... lips.vfi
-	READING... lipu.vfi
-	READING... lipx.vfi
-	READING... lipy.vfi
-	READING... lipz.vfi
-	READING... liqn.vfi
-	READING... liqw.vfi
-	READING... lira.vfi
-	READING... lire.vfi
-	READING... lirf.vfi
-	READING... lirh.vfi
-	READING... liri.vfi
-	READING... lirj.vfi
-	READING... lirl.vfi
-	READING... lirm.vfi
-	READING... lirn.vfi
-	READING... lirp.vfi
-	READING... lirq.vfi
-	READING... lirr.vfi
-	READING... lirs.vfi
-	READING... liru.vfi
-	READING... lirv.vfi
-	READING... lirz.vfi
-	READING... lsza.vfi
-[AIRPORT]
-	READING... OTHER\itap.ap
-[GEO]
-	READING... GEO\itgeo.geo
-	READING... GEO\italy.prohibit
-	READING... GEO\italy.danger
-	READING... GEO\italy.restrict
-	READING... GEO\liaa.geo
-	READING... GEO\limf.geo
-	READING... GEO\lima.geo
-	READING... GEO\lile.geo
-	READING... GEO\liln.geo
-	READING... GEO\lilg.geo
-	READING... GEO\limb.geo
-	READING... GEO\limc.geo
-	READING... GEO\lime.geo
-	READING... GEO\limg.geo
-	READING... GEO\limj.geo
-	READING... GEO\liml.geo
-	READING... GEO\limn.geo
-	READING... GEO\limp.geo
-	READING... GEO\lims.geo
-	READING... GEO\limw.geo
-	READING... GEO\limz.geo
-	READING... GEO\liqw.geo
-	READING... GEO\lsza.geo
-	READING... GEO\lida.geo
-	READING... GEO\lide.geo
-	READING... GEO\lidf.geo
-	READING... GEO\lidh.geo
-	READING... GEO\lidk.geo
-	READING... GEO\lidr.geo
-	READING... GEO\lidt.geo
-	READING... GEO\lipa.geo
-	READING... GEO\lipb.geo
-	READING... GEO\lipc.geo
-	READING... GEO\lipd.geo
-	READING... GEO\lipe.geo
-	READING... GEO\lipf.geo
-	READING... GEO\lipg.geo
-	READING... GEO\liph.geo
-	READING... GEO\lipi.geo
-	READING... GEO\lipk.geo
-	READING... GEO\lipl.geo
-	READING... GEO\lipm.geo
-	READING... GEO\lipn.geo
-	READING... GEO\lipo.geo
-	READING... GEO\lipq.geo
-	READING... GEO\lipr.geo
-	READING... GEO\lips.geo
-	READING... GEO\lipu.geo
-	READING... GEO\lipv.geo
-	READING... GEO\lipx.geo
-	READING... GEO\lipy.geo
-	READING... GEO\lipz.geo
-	READING... GEO\liba.geo
-	READING... GEO\libc.geo
-	READING... GEO\libd.geo
-	READING... GEO\libf.geo
-	READING... GEO\libg.geo
-	READING... GEO\libn.geo
-	READING... GEO\libp.geo
-	READING... GEO\libr.geo
-	READING... GEO\libv.geo
-	READING... GEO\linl.geo
-	READING... GEO\liap.geo
-	READING... GEO\lica.geo
-	READING... GEO\licb.geo
-	READING... GEO\licc.geo
-	READING... GEO\licd.geo
-	READING... GEO\licg.geo
-	READING... GEO\licj.geo
-	READING... GEO\licp.geo
-	READING... GEO\licr.geo
-	READING... GEO\lict.geo
-	READING... GEO\licz.geo
-	READING... GEO\liea.geo
-	READING... GEO\lied.geo
-	READING... GEO\liee.geo
-	READING... GEO\lieo.geo
-	READING... GEO\lier.geo
-	READING... GEO\lilq.geo
-	READING... GEO\liqb.geo
-	READING... GEO\liql.geo
-	READING... GEO\liqn.geo
-	READING... GEO\liqs.geo
-	READING... GEO\lira.geo
-	READING... GEO\lire.geo
-	READING... GEO\lirf.geo
-	READING... GEO\lirg.geo
-	READING... GEO\lirh.geo
-	READING... GEO\liri.geo
-	READING... GEO\lirj.geo
-	READING... GEO\lirl.geo
-	READING... GEO\lirm.geo
-	READING... GEO\lirn.geo
-	READING... GEO\lirp.geo
-	READING... GEO\lirq.geo
-	READING... GEO\lirs.geo
-	READING... GEO\liru.geo
-	READING... GEO\lirv.geo
-	READING... GEO\lirz.geo
-[RUNWAY]
-	READING... OTHER\itrw.rw
-[GEO]
-	READING... RW_MARKINGS\ba_mark.geo
-	READING... RW_MARKINGS\bd_mark.geo
-	READING... RW_MARKINGS\bf_mark.geo
-	READING... RW_MARKINGS\bg_mark.geo
-	READING... RW_MARKINGS\bn_mark.geo
-	READING... RW_MARKINGS\bp_mark.geo
-	READING... RW_MARKINGS\br_mark.geo
-	READING... RW_MARKINGS\bv_mark.geo
-	READING... RW_MARKINGS\de_mark.geo
-	READING... RW_MARKINGS\le_mark.geo
-	READING... RW_MARKINGS\ln_mark.geo
-	READING... RW_MARKINGS\ma_mark.geo
-	READING... RW_MARKINGS\mc35L_mark.geo
-	READING... RW_MARKINGS\mc35R_mark.geo
-	READING... RW_MARKINGS\me_mark.geo
-	READING... RW_MARKINGS\mf_mark.geo
-	READING... RW_MARKINGS\mg_mark.geo
-	READING... RW_MARKINGS\mj_mark.geo
-[LOW AIRWAY]
-	READING... AIRWAY\itawlow.awl
-[HIGH AIRWAY]
-	READING... AIRWAY\itawhigh.hairway
-[ARTCC]
-	READING... ACC\limm.artcc
-	READING... ACC\lipp.artcc
-	READING... ACC\lirr.artcc
-	READING... ACC\libb.artcc
-[ARTCC HIGH]
-	READING... HI_AIRSPACE\lsza.hartcc
-	READING... HI_AIRSPACE\lime.hartcc
-	READING... HI_AIRSPACE\limc.hartcc
-	READING... HI_AIRSPACE\limf.hartcc
-	READING... HI_AIRSPACE\limj.hartcc
-	READING... HI_AIRSPACE\limp.hartcc
-	READING... HI_AIRSPACE\lims.hartcc
-	READING... HI_AIRSPACE\lipe.hartcc
-	READING... HI_AIRSPACE\liph.hartcc
-	READING... HI_AIRSPACE\liml.hartcc
-	READING... HI_AIRSPACE\lipq.hartcc
-	READING... HI_AIRSPACE\lipx.hartcc
-	READING... HI_AIRSPACE\lipy.hartcc
-	READING... HI_AIRSPACE\lipz.hartcc
-	READING... HI_AIRSPACE\libd.hartcc
-	READING... HI_AIRSPACE\libg.hartcc
-	READING... HI_AIRSPACE\libn.hartcc
-	READING... HI_AIRSPACE\libp.hartcc
-	READING... HI_AIRSPACE\lica.hartcc
-	READING... HI_AIRSPACE\licc.hartcc
-	READING... HI_AIRSPACE\licg.hartcc
-	READING... HI_AIRSPACE\licj.hartcc
-	READING... HI_AIRSPACE\licr.hartcc
-	READING... HI_AIRSPACE\lict.hartcc
-	READING... HI_AIRSPACE\lirf.hartcc
-	READING... HI_AIRSPACE\liea.hartcc
-	READING... HI_AIRSPACE\liee.hartcc
-	READING... HI_AIRSPACE\lirl.hartcc
-	READING... HI_AIRSPACE\lirn.hartcc
-	READING... HI_AIRSPACE\lirp.hartcc
-	READING... HI_AIRSPACE\lieo.hartcc
-	READING... HI_AIRSPACE\lirq.hartcc
-	READING... HI_AIRSPACE\lirz.hartcc
-	READING... HI_AIRSPACE\liba.hartcc
-	READING... HI_AIRSPACE\libv.hartcc
-	READING... HI_AIRSPACE\lipa.hartcc
-	READING... HI_AIRSPACE\lirh.hartcc
-	READING... HI_AIRSPACE\lirm.hartcc
-[ARTCC LOW]
-	READING... LOW_AIRSPACE\lirr_tma.lartcc
-	READING... LOW_AIRSPACE\limm_tma.lartcc
-	READING... LOW_AIRSPACE\lieoapp.lartcc
-[FILLCOLOR]
-	READING... DYNAMIC_SEC\limmctr.tfl
-	READING... DYNAMIC_SEC\limmapp.tfl
-	READING... DYNAMIC_SEC\lirr_ew_ctr.tfl
-	READING... DYNAMIC_SEC\lirr_su_ctr.tfl
-	READING... DYNAMIC_SEC\lirr_ne_ctr.tfl
-	READING... DYNAMIC_SEC\lirrapp.tfl
-	READING... DYNAMIC_SEC\lipp_ne2_ctr.tfl
-	READING... DYNAMIC_SEC\libb_es_ctr.tfl
-	READING... DYNAMIC_SEC\libbctr.tfl
-	READING... DYNAMIC_SEC\lirrctr.tfl
-	READING... DYNAMIC_SEC\lippctr.tfl
-	READING... GND_LAYOUT\mf_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 101
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 357
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 373
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 398
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 448
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 502
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 657
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 736
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 747
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 823
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 844
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 850
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 952
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 958
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 966
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 972
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 978
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 986
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 992
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 998
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1010
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1016
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1022
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1028
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1034
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1040
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1046
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1058
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1074
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1088
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1094
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1100
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1106
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1112
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1118
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1126
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1132
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1142
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1148
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1154
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1160
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1166
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1180
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\mf_ad_gnd.pol" line: 1188
-	READING... GND_LAYOUT\de_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\de_ad_gnd.pol" line: 2
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\de_ad_gnd.pol" line: 13
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\de_ad_gnd.pol" line: 83
-	READING... GND_LAYOUT\le_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\le_ad_gnd.pol" line: 2
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\le_ad_gnd.pol" line: 25
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\le_ad_gnd.pol" line: 42
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\le_ad_gnd.pol" line: 106
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\le_ad_gnd.pol" line: 123
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\le_ad_gnd.pol" line: 141
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\le_ad_gnd.pol" line: 158
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\le_ad_gnd.pol" line: 181
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\le_ad_gnd.pol" line: 189
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\le_ad_gnd.pol" line: 195
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\le_ad_gnd.pol" line: 205
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\le_ad_gnd.pol" line: 213
-	READING... GND_LAYOUT\ln_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 2
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 24
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 53
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 127
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 154
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 183
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 202
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 246
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 264
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 270
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 276
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 282
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 288
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 300
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 306
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 312
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 318
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 324
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 332
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 338
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ln_ad_gnd.pol" line: 346
-	READING... GND_LAYOUT\ma_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ma_ad_gnd.pol" line: 2
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ma_ad_gnd.pol" line: 63
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ma_ad_gnd.pol" line: 234
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ma_ad_gnd.pol" line: 276
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ma_ad_gnd.pol" line: 284
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ma_ad_gnd.pol" line: 293
-	READING... GND_LAYOUT\mb_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\mb_ad_gnd.pol" line: 2
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mb_ad_gnd.pol" line: 16
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mb_ad_gnd.pol" line: 48
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mb_ad_gnd.pol" line: 59
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\mb_ad_gnd.pol" line: 69
-	READING... GND_LAYOUT\mc_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 74
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 123
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 147
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 185
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 208
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 222
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 241
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 255
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 285
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 302
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 364
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 395
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 417
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 428
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 446
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 462
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 486
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 503
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 520
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 575
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 588
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 636
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 672
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 716
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 744
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 792
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 837
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 866
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 932
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 959
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 976
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 1034
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 1113
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 1202
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 1265
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 1293
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 1309
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 1319
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 1335
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\mc_ad_gnd.pol" line: 1341
-	READING... GND_LAYOUT\me_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\me_ad_gnd.pol" line: 2
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\me_ad_gnd.pol" line: 128
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\me_ad_gnd.pol" line: 147
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\me_ad_gnd.pol" line: 203
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\me_ad_gnd.pol" line: 283
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\me_ad_gnd.pol" line: 372
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\me_ad_gnd.pol" line: 450
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\me_ad_gnd.pol" line: 462
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\me_ad_gnd.pol" line: 472
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\me_ad_gnd.pol" line: 480
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\me_ad_gnd.pol" line: 494
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\me_ad_gnd.pol" line: 522
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\me_ad_gnd.pol" line: 547
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 629
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 637
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 653
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 666
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 672
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 678
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 690
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 696
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 702
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 710
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 716
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 724
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 734
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 740
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 746
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 752
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 758
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 764
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 770
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 776
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 782
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 788
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 796
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 802
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 808
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 895
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 901
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 907
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 960
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 966
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 974
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 988
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 1000
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 1008
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\me_ad_gnd.pol" line: 1014
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\me_ad_gnd.pol" line: 1023
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\me_ad_gnd.pol" line: 1047
-	READING... GND_LAYOUT\mg_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 55
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 75
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 110
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 132
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 170
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 176
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 182
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 201
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 207
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 213
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 227
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 249
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 269
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\mg_ad_gnd.pol" line: 280
-	READING... GND_LAYOUT\mj_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 67
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 219
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 250
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 296
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 302
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 308
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 318
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 324
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 383
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 394
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 404
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 412
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 418
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 431
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 445
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 457
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\mj_ad_gnd.pol" line: 473
-	READING... GND_LAYOUT\ml_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 221
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 343
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 493
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 864
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 899
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 949
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 970
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1151
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1316
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1412
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1446
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1458
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1472
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1582
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1588
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1610
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1616
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1632
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1642
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1650
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1682
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1696
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1706
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1716
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1724
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1744
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1754
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1786
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1792
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1798
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1808
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1814
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1826
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1843
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1851
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1866
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1902
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1908
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ml_ad_gnd.pol" line: 1914
-	READING... GND_LAYOUT\mn_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\mn_ad_gnd.pol" line: 2
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mn_ad_gnd.pol" line: 24
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mn_ad_gnd.pol" line: 59
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mn_ad_gnd.pol" line: 89
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mn_ad_gnd.pol" line: 112
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mn_ad_gnd.pol" line: 141
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mn_ad_gnd.pol" line: 178
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\mn_ad_gnd.pol" line: 207
-	READING... GND_LAYOUT\mw_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\mw_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\mw_ad_gnd.pol" line: 43
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mw_ad_gnd.pol" line: 63
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mw_ad_gnd.pol" line: 69
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mw_ad_gnd.pol" line: 80
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\mw_ad_gnd.pol" line: 210
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\mw_ad_gnd.pol" line: 219
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\mw_ad_gnd.pol" line: 235
-	READING... GND_LAYOUT\mp_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\mp_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mp_ad_gnd.pol" line: 30
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mp_ad_gnd.pol" line: 63
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mp_ad_gnd.pol" line: 107
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mp_ad_gnd.pol" line: 244
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mp_ad_gnd.pol" line: 296
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\mp_ad_gnd.pol" line: 331
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\mp_ad_gnd.pol" line: 391
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mp_ad_gnd.pol" line: 415
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mp_ad_gnd.pol" line: 427
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mp_ad_gnd.pol" line: 433
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\mp_ad_gnd.pol" line: 441
-	READING... GND_LAYOUT\ms_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ms_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ms_ad_gnd.pol" line: 40
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ms_ad_gnd.pol" line: 99
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ms_ad_gnd.pol" line: 238
-	READING... GND_LAYOUT\mz_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\mz_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mz_ad_gnd.pol" line: 100
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mz_ad_gnd.pol" line: 107
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\mz_ad_gnd.pol" line: 141
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mz_ad_gnd.pol" line: 149
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\mz_ad_gnd.pol" line: 170
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\mz_ad_gnd.pol" line: 190
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mz_ad_gnd.pol" line: 223
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mz_ad_gnd.pol" line: 255
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mz_ad_gnd.pol" line: 263
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\mz_ad_gnd.pol" line: 271
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\mz_ad_gnd.pol" line: 279
-	READING... GND_LAYOUT\qw_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\qw_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\qw_ad_gnd.pol" line: 19
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\qw_ad_gnd.pol" line: 31
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\qw_ad_gnd.pol" line: 39
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\qw_ad_gnd.pol" line: 50
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\qw_ad_gnd.pol" line: 83
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\qw_ad_gnd.pol" line: 120
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\qw_ad_gnd.pol" line: 135
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\qw_ad_gnd.pol" line: 153
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\qw_ad_gnd.pol" line: 163
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\qw_ad_gnd.pol" line: 173
-	READING... GND_LAYOUT\lsza_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\lsza_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\lsza_ad_gnd.pol" line: 46
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\lsza_ad_gnd.pol" line: 126
-	READING... GND_LAYOUT\aa_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 28
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 47
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 188
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 213
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 221
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 230
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 238
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 277
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 285
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 291
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 297
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 303
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 309
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 315
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 321
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 327
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 333
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 339
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 345
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 351
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 359
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\aa_ad_gnd.pol" line: 402
-	READING... GND_LAYOUT\ap_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ap_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ap_ad_gnd.pol" line: 26
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ap_ad_gnd.pol" line: 44
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ap_ad_gnd.pol" line: 50
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ap_ad_gnd.pol" line: 58
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ap_ad_gnd.pol" line: 78
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ap_ad_gnd.pol" line: 93
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ap_ad_gnd.pol" line: 105
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ap_ad_gnd.pol" line: 138
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ap_ad_gnd.pol" line: 144
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ap_ad_gnd.pol" line: 154
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ap_ad_gnd.pol" line: 166
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ap_ad_gnd.pol" line: 176
-	READING... GND_LAYOUT\ca_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 42
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 78
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 92
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 126
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 182
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 237
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 280
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 300
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 325
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 348
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 370
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 388
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 428
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 435
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 458
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 502
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 508
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 514
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 520
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 526
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 538
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 544
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 550
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 556
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 573
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 579
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 585
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 591
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 597
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 603
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ca_ad_gnd.pol" line: 611
-	READING... GND_LAYOUT\cb_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 36
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 63
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 96
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 109
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 139
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 154
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 167
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 191
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 202
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 208
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 219
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 225
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\cb_ad_gnd.pol" line: 237
-	READING... GND_LAYOUT\cc_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 78
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 105
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 173
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 216
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 283
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 321
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 359
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 415
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 421
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 464
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 533
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 577
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 585
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 591
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 599
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 611
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 621
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 631
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 641
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 651
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 661
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 667
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 673
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 683
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 689
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 695
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 718
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 724
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 732
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 744
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 754
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 764
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 774
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 782
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 788
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 798
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 804
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 810
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 816
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 839
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 963
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 969
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 975
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 981
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 987
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 995
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 1001
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\cc_ad_gnd.pol" line: 1009
-	READING... GND_LAYOUT\cd_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\cd_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cd_ad_gnd.pol" line: 37
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cd_ad_gnd.pol" line: 58
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cd_ad_gnd.pol" line: 72
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cd_ad_gnd.pol" line: 84
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cd_ad_gnd.pol" line: 94
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cd_ad_gnd.pol" line: 142
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cd_ad_gnd.pol" line: 157
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cd_ad_gnd.pol" line: 163
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cd_ad_gnd.pol" line: 171
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cd_ad_gnd.pol" line: 183
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\cd_ad_gnd.pol" line: 191
-	READING... GND_LAYOUT\cg_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 63
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 92
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 112
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 124
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 129
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 181
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 193
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 214
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 225
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 240
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 261
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 271
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 279
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 285
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 293
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 299
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 307
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 315
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 321
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 330
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\cg_ad_gnd.pol" line: 336
-	READING... GND_LAYOUT\cj_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 135
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 144
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 286
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 311
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 421
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 443
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 465
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 507
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 513
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 537
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 551
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 557
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 575
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 589
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 603
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 611
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 627
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\cj_ad_gnd.pol" line: 635
-	READING... GND_LAYOUT\cp_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 34
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 49
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 65
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 95
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 125
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 149
-	[COORD ERR] "STATIC;RESTRICT;1;TAXIWAY;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 233
-	[COORD ERR] "STATIC;RESTRICT;1;TAXIWAY;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 240
-	[COORD ERR] "STATIC;RESTRICT;1;TAXIWAY;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 249
-	[COORD ERR] "STATIC;RESTRICT;1;TAXIWAY;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 267
-	[COORD ERR] "STATIC;RESTRICT;1;TAXIWAY;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 292
-	[COORD ERR] "STATIC;RESTRICT;1;TAXIWAY;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 301
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 311
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 326
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 333
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 339
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 352
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 360
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 368
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 374
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 380
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 386
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 395
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 401
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\cp_ad_gnd.pol" line: 414
-	READING... GND_LAYOUT\cr_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 66
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 86
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 117
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 132
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 150
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 170
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 178
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 191
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 211
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 221
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 249
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 263
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 269
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 277
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 285
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\cr_ad_gnd.pol" line: 292
-	READING... GND_LAYOUT\ct_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 36
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 256
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 279
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 302
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 474
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 492
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 542
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 550
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 558
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 578
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 596
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 621
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 632
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 642
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 653
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 661
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 672
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 683
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 707
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 729
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 751
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 772
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 789
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 802
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 830
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 845
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 861
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 877
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 907
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 934
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 951
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 957
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 963
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 969
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 999
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 1005
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 1011
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ct_ad_gnd.pol" line: 1019
-	READING... GND_LAYOUT\cz_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 24
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 100
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 196
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 237
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 253
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 283
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 302
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 310
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 316
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 322
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 328
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 351
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 374
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 398
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 422
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 445
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 464
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 486
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 502
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 519
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 536
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 554
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 571
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 579
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 585
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 591
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 597
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 603
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 609
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 617
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\cz_ad_gnd.pol" line: 623
-	READING... GND_LAYOUT\ea_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ea_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ea_ad_gnd.pol" line: 102
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ea_ad_gnd.pol" line: 311
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ea_ad_gnd.pol" line: 416
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ea_ad_gnd.pol" line: 462
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ea_ad_gnd.pol" line: 504
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ea_ad_gnd.pol" line: 514
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ea_ad_gnd.pol" line: 529
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ea_ad_gnd.pol" line: 541
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ea_ad_gnd.pol" line: 549
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ea_ad_gnd.pol" line: 558
-	READING... GND_LAYOUT\ed_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 44
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 209
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 229
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 239
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 484
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 496
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 550
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 602
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 639
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 663
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 675
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 682
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 692
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 698
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 714
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 729
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 741
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 747
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 762
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 770
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 786
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 806
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 823
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ed_ad_gnd.pol" line: 829
-	READING... GND_LAYOUT\ee_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 129
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 397
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 435
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 568
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 600
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 682
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 844
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 850
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 858
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 938
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 944
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 950
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 956
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 962
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 968
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 974
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 990
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 996
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 1002
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 1008
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 1014
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 1022
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 1028
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ee_ad_gnd.pol" line: 1036
-	READING... GND_LAYOUT\eo_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 81
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 309
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 318
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 327
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 348
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 360
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 392
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 420
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 428
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 452
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 458
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 464
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 496
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 502
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 508
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 540
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 609
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 619
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 637
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 643
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 649
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 665
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\eo_ad_gnd.pol" line: 682
-	READING... GND_LAYOUT\er_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\er_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\er_ad_gnd.pol" line: 24
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\er_ad_gnd.pol" line: 38
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\er_ad_gnd.pol" line: 52
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\er_ad_gnd.pol" line: 60
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\er_ad_gnd.pol" line: 66
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\er_ad_gnd.pol" line: 76
-	READING... GND_LAYOUT\lq_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\lq_ad_gnd.pol" line: 3
-	READING... GND_LAYOUT\qb_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\qb_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\qb_ad_gnd.pol" line: 19
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\qb_ad_gnd.pol" line: 34
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\qb_ad_gnd.pol" line: 45
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qb_ad_gnd.pol" line: 77
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qb_ad_gnd.pol" line: 83
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qb_ad_gnd.pol" line: 93
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qb_ad_gnd.pol" line: 99
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qb_ad_gnd.pol" line: 107
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qb_ad_gnd.pol" line: 115
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\qb_ad_gnd.pol" line: 123
-	READING... GND_LAYOUT\ql_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ql_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ql_ad_gnd.pol" line: 14
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ql_ad_gnd.pol" line: 20
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ql_ad_gnd.pol" line: 33
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ql_ad_gnd.pol" line: 49
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ql_ad_gnd.pol" line: 63
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ql_ad_gnd.pol" line: 76
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ql_ad_gnd.pol" line: 84
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ql_ad_gnd.pol" line: 92
-	READING... GND_LAYOUT\qn_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\qn_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\qn_ad_gnd.pol" line: 30
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qn_ad_gnd.pol" line: 38
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qn_ad_gnd.pol" line: 44
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qn_ad_gnd.pol" line: 50
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qn_ad_gnd.pol" line: 56
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qn_ad_gnd.pol" line: 62
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qn_ad_gnd.pol" line: 68
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qn_ad_gnd.pol" line: 74
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qn_ad_gnd.pol" line: 80
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\qn_ad_gnd.pol" line: 100
-	READING... GND_LAYOUT\qs_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\qs_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\qs_ad_gnd.pol" line: 28
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\qs_ad_gnd.pol" line: 81
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\qs_ad_gnd.pol" line: 131
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\qs_ad_gnd.pol" line: 155
-	READING... GND_LAYOUT\ra_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 94
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 127
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 193
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 210
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 227
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 255
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 284
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 313
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 343
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 360
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 372
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 396
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 433
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 530
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 554
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 573
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 579
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 637
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 643
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 653
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 669
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 682
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 690
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 700
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 724
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 738
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 748
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 754
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 764
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 772
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ra_ad_gnd.pol" line: 782
-	READING... GND_LAYOUT\re_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\re_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\re_ad_gnd.pol" line: 34
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\re_ad_gnd.pol" line: 122
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\re_ad_gnd.pol" line: 132
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\re_ad_gnd.pol" line: 159
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\re_ad_gnd.pol" line: 203
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\re_ad_gnd.pol" line: 223
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\re_ad_gnd.pol" line: 251
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\re_ad_gnd.pol" line: 284
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\re_ad_gnd.pol" line: 297
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\re_ad_gnd.pol" line: 317
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\re_ad_gnd.pol" line: 391
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\re_ad_gnd.pol" line: 401
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\re_ad_gnd.pol" line: 411
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\re_ad_gnd.pol" line: 504
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\re_ad_gnd.pol" line: 510
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\re_ad_gnd.pol" line: 524
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\re_ad_gnd.pol" line: 549
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\re_ad_gnd.pol" line: 613
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\re_ad_gnd.pol" line: 662
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\re_ad_gnd.pol" line: 668
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\re_ad_gnd.pol" line: 674
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\re_ad_gnd.pol" line: 680
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\re_ad_gnd.pol" line: 686
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\re_ad_gnd.pol" line: 694
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\re_ad_gnd.pol" line: 700
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\re_ad_gnd.pol" line: 706
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\re_ad_gnd.pol" line: 712
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\re_ad_gnd.pol" line: 720
-	READING... GND_LAYOUT\rf_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 111
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 178
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 351
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 557
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 700
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 750
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 863
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 901
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 969
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1037
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1075
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1122
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1256
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1266
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1325
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1345
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1480
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1498
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1516
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1529
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1546
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1566
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1586
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1592
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1602
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1643
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1653
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1667
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1711
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1767
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1773
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1799
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1805
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1811
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1817
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1837
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1843
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1852
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1876
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1900
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1910
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1931
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1952
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1976
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1989
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 1999
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2015
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2021
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2039
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2045
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2051
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2057
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2063
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2069
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2075
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2087
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2093
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2107
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2120
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2135
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2141
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2151
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2181
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2187
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2193
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2199
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2205
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2211
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2217
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2223
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2233
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2241
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2247
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rf_ad_gnd.pol" line: 2254
-	READING... GND_LAYOUT\rg_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 29
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 90
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 96
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 154
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 164
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 176
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 187
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 205
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 217
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 225
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 231
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 237
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 243
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rg_ad_gnd.pol" line: 251
-	READING... GND_LAYOUT\rh_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\rh_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rh_ad_gnd.pol" line: 30
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rh_ad_gnd.pol" line: 66
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rh_ad_gnd.pol" line: 117
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rh_ad_gnd.pol" line: 123
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rh_ad_gnd.pol" line: 129
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rh_ad_gnd.pol" line: 135
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rh_ad_gnd.pol" line: 141
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rh_ad_gnd.pol" line: 147
-	READING... GND_LAYOUT\ri_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ri_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ri_ad_gnd.pol" line: 33
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ri_ad_gnd.pol" line: 61
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ri_ad_gnd.pol" line: 72
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ri_ad_gnd.pol" line: 84
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ri_ad_gnd.pol" line: 108
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ri_ad_gnd.pol" line: 124
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ri_ad_gnd.pol" line: 130
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ri_ad_gnd.pol" line: 140
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ri_ad_gnd.pol" line: 146
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ri_ad_gnd.pol" line: 154
-	READING... GND_LAYOUT\rj_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\rj_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rj_ad_gnd.pol" line: 23
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rj_ad_gnd.pol" line: 41
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rj_ad_gnd.pol" line: 56
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rj_ad_gnd.pol" line: 68
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rj_ad_gnd.pol" line: 84
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rj_ad_gnd.pol" line: 107
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rj_ad_gnd.pol" line: 123
-	READING... GND_LAYOUT\rl_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\rl_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rl_ad_gnd.pol" line: 25
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rl_ad_gnd.pol" line: 61
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rl_ad_gnd.pol" line: 107
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rl_ad_gnd.pol" line: 144
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rl_ad_gnd.pol" line: 174
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rl_ad_gnd.pol" line: 270
-	READING... GND_LAYOUT\rm_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\rm_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rm_ad_gnd.pol" line: 33
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rm_ad_gnd.pol" line: 70
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rm_ad_gnd.pol" line: 146
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rm_ad_gnd.pol" line: 221
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rm_ad_gnd.pol" line: 231
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rm_ad_gnd.pol" line: 257
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rm_ad_gnd.pol" line: 298
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rm_ad_gnd.pol" line: 307
-	READING... GND_LAYOUT\rn_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 88
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 104
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 120
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 144
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 161
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 292
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 318
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 340
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 358
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 446
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 469
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 514
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 562
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 641
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 698
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 830
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 861
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 889
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 897
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 903
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 988
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 1017
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 1023
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rn_ad_gnd.pol" line: 1031
-	READING... GND_LAYOUT\rp_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 46
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 64
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 98
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 131
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 160
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 190
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 206
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 231
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 255
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 305
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 325
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 341
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 349
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 362
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 386
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 414
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 420
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 427
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 459
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 499
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 505
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 513
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 519
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 525
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 531
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 537
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 544
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 550
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 556
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 564
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 572
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 578
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 597
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 603
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 611
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rp_ad_gnd.pol" line: 617
-	READING... GND_LAYOUT\rq_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 70
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 140
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 176
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 203
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 263
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 269
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 308
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 314
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 320
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 326
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 334
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 352
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 384
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 428
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 439
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 454
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 464
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 476
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 489
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 504
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 514
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 544
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 611
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 622
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 632
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 638
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rq_ad_gnd.pol" line: 646
-	READING... GND_LAYOUT\rs_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\rs_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rs_ad_gnd.pol" line: 22
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rs_ad_gnd.pol" line: 128
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rs_ad_gnd.pol" line: 203
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rs_ad_gnd.pol" line: 226
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rs_ad_gnd.pol" line: 277
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rs_ad_gnd.pol" line: 339
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rs_ad_gnd.pol" line: 369
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rs_ad_gnd.pol" line: 389
-	READING... GND_LAYOUT\ru_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 28
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 70
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 155
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 169
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 214
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 222
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 235
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 252
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 268
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 276
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 292
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 305
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 314
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 322
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 328
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 334
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 340
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 346
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 356
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 364
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 372
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 378
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 384
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 390
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 396
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 402
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 409
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 415
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ru_ad_gnd.pol" line: 423
-	READING... GND_LAYOUT\rv_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 38
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 54
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 73
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 90
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 99
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 118
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 127
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 141
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 150
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 158
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 164
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 174
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 186
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 215
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 223
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 240
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 246
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 270
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 287
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 312
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 323
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 334
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 345
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 356
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 367
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 375
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 384
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 394
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 420
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 429
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 441
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 450
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 469
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 495
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 518
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 550
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 585
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 620
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 654
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 687
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 718
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 745
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 772
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 800
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 828
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 852
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 873
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 891
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 911
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 938
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 961
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 984
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1007
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1031
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1055
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1082
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1108
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1135
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1158
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1180
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1201
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1207
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1213
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1219
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1225
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1231
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1237
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1243
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1249
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1255
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1261
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1267
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1273
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1279
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1285
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1291
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1297
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1303
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1313
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1338
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rv_ad_gnd.pol" line: 1384
-	READING... GND_LAYOUT\rz_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\rz_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rz_ad_gnd.pol" line: 24
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rz_ad_gnd.pol" line: 58
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\rz_ad_gnd.pol" line: 87
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rz_ad_gnd.pol" line: 129
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\rz_ad_gnd.pol" line: 164
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\rz_ad_gnd.pol" line: 181
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rz_ad_gnd.pol" line: 222
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rz_ad_gnd.pol" line: 237
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\rz_ad_gnd.pol" line: 243
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\rz_ad_gnd.pol" line: 251
-	READING... GND_LAYOUT\da_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\da_ad_gnd.pol" line: 2
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\da_ad_gnd.pol" line: 14
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\da_ad_gnd.pol" line: 33
-	READING... GND_LAYOUT\df_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\df_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\df_ad_gnd.pol" line: 25
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\df_ad_gnd.pol" line: 34
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\df_ad_gnd.pol" line: 42
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\df_ad_gnd.pol" line: 60
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\df_ad_gnd.pol" line: 73
-	READING... GND_LAYOUT\dh_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\dh_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\dh_ad_gnd.pol" line: 19
-	READING... GND_LAYOUT\dk_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\dk_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\dk_ad_gnd.pol" line: 20
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\dk_ad_gnd.pol" line: 29
-	READING... GND_LAYOUT\dr_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\dr_ad_gnd.pol" line: 2
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\dr_ad_gnd.pol" line: 46
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\dr_ad_gnd.pol" line: 140
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\dr_ad_gnd.pol" line: 146
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\dr_ad_gnd.pol" line: 158
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\dr_ad_gnd.pol" line: 164
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\dr_ad_gnd.pol" line: 172
-	READING... GND_LAYOUT\dt_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\dt_ad_gnd.pol" line: 2
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\dt_ad_gnd.pol" line: 20
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\dt_ad_gnd.pol" line: 74
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\dt_ad_gnd.pol" line: 130
-	READING... GND_LAYOUT\pa_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 19
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 28
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 35
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 51
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 76
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 106
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 123
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 140
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 163
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 183
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 198
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 206
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 227
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 410
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 511
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 579
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 775
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 817
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pa_ad_gnd.pol" line: 837
-	READING... GND_LAYOUT\pb_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pb_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pb_ad_gnd.pol" line: 28
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pb_ad_gnd.pol" line: 36
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pb_ad_gnd.pol" line: 69
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pb_ad_gnd.pol" line: 84
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pb_ad_gnd.pol" line: 109
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pb_ad_gnd.pol" line: 115
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pb_ad_gnd.pol" line: 123
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pb_ad_gnd.pol" line: 129
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pb_ad_gnd.pol" line: 135
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pb_ad_gnd.pol" line: 141
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pb_ad_gnd.pol" line: 149
-	READING... GND_LAYOUT\pc_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pc_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pc_ad_gnd.pol" line: 91
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pc_ad_gnd.pol" line: 730
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pc_ad_gnd.pol" line: 736
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pc_ad_gnd.pol" line: 763
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pc_ad_gnd.pol" line: 777
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pc_ad_gnd.pol" line: 785
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pc_ad_gnd.pol" line: 801
-	READING... GND_LAYOUT\pd_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pd_ad_gnd.pol" line: 3
-	READING... GND_LAYOUT\pe_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 34
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 93
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 108
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 261
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 300
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 343
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 403
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 427
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 504
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 563
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 580
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 770
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 785
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 791
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 819
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 840
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 858
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 872
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 898
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 916
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 928
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pe_ad_gnd.pol" line: 976
-	READING... GND_LAYOUT\pf_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pf_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pf_ad_gnd.pol" line: 16
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pf_ad_gnd.pol" line: 29
-	READING... GND_LAYOUT\pg_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pg_ad_gnd.pol" line: 3
-	READING... GND_LAYOUT\ph_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ph_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ph_ad_gnd.pol" line: 83
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ph_ad_gnd.pol" line: 101
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ph_ad_gnd.pol" line: 123
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ph_ad_gnd.pol" line: 147
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ph_ad_gnd.pol" line: 164
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ph_ad_gnd.pol" line: 187
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ph_ad_gnd.pol" line: 248
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ph_ad_gnd.pol" line: 266
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ph_ad_gnd.pol" line: 284
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ph_ad_gnd.pol" line: 294
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ph_ad_gnd.pol" line: 306
-	READING... GND_LAYOUT\pi_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 30
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 39
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 62
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 87
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 96
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 102
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 133
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 161
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 310
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 319
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 331
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 341
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 349
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 363
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 369
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 375
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 381
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 387
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 393
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 399
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pi_ad_gnd.pol" line: 407
-	READING... GND_LAYOUT\pk_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 93
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 120
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 136
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 158
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 179
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 207
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 235
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 255
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 264
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 275
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 289
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 295
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 314
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 334
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pk_ad_gnd.pol" line: 342
-	READING... GND_LAYOUT\pl_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 29
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 86
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 169
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 406
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 479
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 511
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 539
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 559
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 565
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 571
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 577
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 583
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 589
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pl_ad_gnd.pol" line: 597
-	READING... GND_LAYOUT\pn_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pn_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pn_ad_gnd.pol" line: 35
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pn_ad_gnd.pol" line: 108
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pn_ad_gnd.pol" line: 134
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pn_ad_gnd.pol" line: 161
-	READING... GND_LAYOUT\po_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\po_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\po_ad_gnd.pol" line: 27
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\po_ad_gnd.pol" line: 246
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\po_ad_gnd.pol" line: 261
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\po_ad_gnd.pol" line: 313
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\po_ad_gnd.pol" line: 319
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\po_ad_gnd.pol" line: 329
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\po_ad_gnd.pol" line: 335
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\po_ad_gnd.pol" line: 341
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\po_ad_gnd.pol" line: 347
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\po_ad_gnd.pol" line: 353
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\po_ad_gnd.pol" line: 359
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\po_ad_gnd.pol" line: 367
-	READING... GND_LAYOUT\pq_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pq_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pq_ad_gnd.pol" line: 46
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pq_ad_gnd.pol" line: 70
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pq_ad_gnd.pol" line: 104
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pq_ad_gnd.pol" line: 140
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pq_ad_gnd.pol" line: 163
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pq_ad_gnd.pol" line: 198
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pq_ad_gnd.pol" line: 225
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pq_ad_gnd.pol" line: 262
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pq_ad_gnd.pol" line: 274
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pq_ad_gnd.pol" line: 284
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pq_ad_gnd.pol" line: 329
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pq_ad_gnd.pol" line: 345
-	READING... GND_LAYOUT\pr_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 115
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 128
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 148
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 166
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 179
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 185
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 206
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 212
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 233
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 245
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 259
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 269
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 285
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 291
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 316
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 362
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 372
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 384
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 398
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 408
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 467
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 501
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 509
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 517
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 526
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 539
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 547
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 556
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 620
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 648
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 704
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 746
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 760
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 773
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 824
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 836
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 850
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 856
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 863
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 873
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 884
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 890
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 898
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 904
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 910
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pr_ad_gnd.pol" line: 924
-	READING... GND_LAYOUT\ps_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ps_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ps_ad_gnd.pol" line: 27
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ps_ad_gnd.pol" line: 96
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ps_ad_gnd.pol" line: 144
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ps_ad_gnd.pol" line: 213
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ps_ad_gnd.pol" line: 288
-	READING... GND_LAYOUT\pu_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 26
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 46
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 66
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 79
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 87
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 122
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 130
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 138
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 162
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 173
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 179
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 188
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pu_ad_gnd.pol" line: 194
-	READING... GND_LAYOUT\pv_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pv_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pv_ad_gnd.pol" line: 20
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pv_ad_gnd.pol" line: 41
-	READING... GND_LAYOUT\px_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\px_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\px_ad_gnd.pol" line: 175
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\px_ad_gnd.pol" line: 207
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\px_ad_gnd.pol" line: 278
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\px_ad_gnd.pol" line: 362
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\px_ad_gnd.pol" line: 409
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\px_ad_gnd.pol" line: 417
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\px_ad_gnd.pol" line: 501
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 526
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 534
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 547
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 556
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 562
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 568
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 574
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 580
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 586
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 592
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 598
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 608
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 614
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 620
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 630
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 638
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\px_ad_gnd.pol" line: 644
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\px_ad_gnd.pol" line: 656
-	READING... GND_LAYOUT\py_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\py_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\py_ad_gnd.pol" line: 33
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\py_ad_gnd.pol" line: 52
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\py_ad_gnd.pol" line: 69
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\py_ad_gnd.pol" line: 89
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\py_ad_gnd.pol" line: 110
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\py_ad_gnd.pol" line: 136
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\py_ad_gnd.pol" line: 158
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\py_ad_gnd.pol" line: 170
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\py_ad_gnd.pol" line: 179
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\py_ad_gnd.pol" line: 185
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\py_ad_gnd.pol" line: 202
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\py_ad_gnd.pol" line: 210
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\py_ad_gnd.pol" line: 216
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\py_ad_gnd.pol" line: 234
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\py_ad_gnd.pol" line: 250
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\py_ad_gnd.pol" line: 260
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\py_ad_gnd.pol" line: 270
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\py_ad_gnd.pol" line: 278
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\py_ad_gnd.pol" line: 284
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\py_ad_gnd.pol" line: 290
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\py_ad_gnd.pol" line: 298
-	READING... GND_LAYOUT\pz_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 51
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 122
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 139
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 175
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 200
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 229
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 247
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 261
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 299
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 320
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 355
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 373
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 379
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 393
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 412
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 468
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 539
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 554
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 605
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 641
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 652
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 669
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 700
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 784
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 790
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 796
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 806
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 818
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 835
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\pz_ad_gnd.pol" line: 845
-	READING... GND_LAYOUT\ba_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 28
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 49
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 121
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 138
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 154
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 181
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 189
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 200
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 222
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 230
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 236
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 242
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 248
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 264
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 273
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 284
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 298
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 304
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 312
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 318
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 324
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 330
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 336
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 346
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 352
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 358
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\ba_ad_gnd.pol" line: 372
-	READING... GND_LAYOUT\bc_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\bc_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bc_ad_gnd.pol" line: 82
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bc_ad_gnd.pol" line: 111
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bc_ad_gnd.pol" line: 142
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bc_ad_gnd.pol" line: 153
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bc_ad_gnd.pol" line: 167
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bc_ad_gnd.pol" line: 175
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bc_ad_gnd.pol" line: 201
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bc_ad_gnd.pol" line: 212
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bc_ad_gnd.pol" line: 226
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\bc_ad_gnd.pol" line: 235
-	READING... GND_LAYOUT\bd_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 72
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 123
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 147
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 174
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 208
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 231
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 259
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 283
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 302
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 318
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 334
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 354
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 364
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 373
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 381
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 392
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 405
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 411
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 419
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 525
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 536
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 546
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 564
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\bd_ad_gnd.pol" line: 590
-	READING... GND_LAYOUT\bf_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\bf_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bf_ad_gnd.pol" line: 23
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bf_ad_gnd.pol" line: 73
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bf_ad_gnd.pol" line: 178
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bf_ad_gnd.pol" line: 188
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bf_ad_gnd.pol" line: 206
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bf_ad_gnd.pol" line: 224
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bf_ad_gnd.pol" line: 230
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bf_ad_gnd.pol" line: 236
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\bf_ad_gnd.pol" line: 244
-	READING... GND_LAYOUT\bg_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 34
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 53
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 74
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 96
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 123
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 168
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 187
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 276
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 305
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 311
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 321
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 327
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 339
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 350
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 356
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 362
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 381
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 389
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 395
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 404
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 410
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 416
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 422
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 428
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 446
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 452
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 458
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 464
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 470
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\bg_ad_gnd.pol" line: 478
-	READING... GND_LAYOUT\bn_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\bn_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bn_ad_gnd.pol" line: 29
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bn_ad_gnd.pol" line: 252
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bn_ad_gnd.pol" line: 289
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bn_ad_gnd.pol" line: 309
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bn_ad_gnd.pol" line: 328
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bn_ad_gnd.pol" line: 339
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bn_ad_gnd.pol" line: 352
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bn_ad_gnd.pol" line: 358
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bn_ad_gnd.pol" line: 366
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bn_ad_gnd.pol" line: 376
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\bn_ad_gnd.pol" line: 384
-	READING... GND_LAYOUT\bp_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 71
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 101
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 122
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 168
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 208
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 236
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 250
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 272
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 294
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 315
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 336
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 350
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 359
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 376
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 399
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 407
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 430
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 436
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 442
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 448
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 458
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 464
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 472
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 478
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 484
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 490
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 496
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\bp_ad_gnd.pol" line: 504
-	READING... GND_LAYOUT\br_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\br_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 95
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 331
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 361
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 378
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 397
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 408
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 434
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 460
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 509
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 522
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 541
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 577
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\br_ad_gnd.pol" line: 603
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\br_ad_gnd.pol" line: 616
-	[COORD ERR] "STATIC;APRON;1;APRON;" file "GND_LAYOUT\br_ad_gnd.pol" line: 625
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\br_ad_gnd.pol" line: 658
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\br_ad_gnd.pol" line: 664
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\br_ad_gnd.pol" line: 671
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\br_ad_gnd.pol" line: 682
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 696
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\br_ad_gnd.pol" line: 708
-	READING... GND_LAYOUT\bv_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 27
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 102
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 138
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 172
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 199
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 262
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 282
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 402
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 425
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 491
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 503
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 512
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 525
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 538
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 548
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 555
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 563
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 571
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 580
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 586
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 593
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 600
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 608
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 616
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 624
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 630
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 636
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 643
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 650
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 657
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 664
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 671
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 679
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 688
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 695
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 702
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 710
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 717
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 752
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 782
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 814
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 828
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 866
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 893
-	[COORD ERR] "STATIC;RESTRICT;1;RESTRICT;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 940
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 954
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 962
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\bv_ad_gnd.pol" line: 968
-	READING... GND_LAYOUT\nl_ad_gnd.pol
-	[COORD ERR] "STATIC;COAST;1;COAST;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 3
-	[COORD ERR] "STATIC;TAXIWAY;1;TAXIWAY;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 22
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 69
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 92
-	[COORD ERR] "STATIC;GRASS;1;GRASS;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 103
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 120
-	[COORD ERR] "STATIC;BUILDING;1;BUILDING;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 130
-	[COORD ERR] "STATIC;RUNWAY;1;RUNWAY;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 138
-[SID]
-[STAR]
-	[READING]... liba.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liba.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liba.str" line: 7
-	[READING]... libd.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libd.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libd.str" line: 8
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libd.str" line: 12
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libd.str" line: 18
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libd.str" line: 61
-	[READING]... libg.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libg.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libg.str" line: 6
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libg.str" line: 9
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libg.str" line: 94
-	[READING]... libn.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libn.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libn.str" line: 4
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libn.str" line: 12
-	[READING]... libp.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libp.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libp.str" line: 4
-	[READING]... libr.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libr.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libr.str" line: 9
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libr.str" line: 17
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libr.str" line: 20
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libr.str" line: 24
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libr.str" line: 67
-	[READING]... libv.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libv.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\libv.str" line: 10
-	[READING]... lica.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lica.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lica.str" line: 13
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lica.str" line: 17
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lica.str" line: 23
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lica.str" line: 108
-	[READING]... licc.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licc.str" line: 2
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licc.str" line: 64
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licc.str" line: 119
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licc.str" line: 122
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licc.str" line: 126
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licc.str" line: 169
-	[READING]... licd.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licd.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licd.str" line: 11
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licd.str" line: 15
-	[READING]... licg.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licg.str" line: 2
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licg.str" line: 9
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licg.str" line: 14
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licg.str" line: 21
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licg.str" line: 25
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licg.str" line: 29
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licg.str" line: 114
-	[READING]... licj.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licj.str" line: 2
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licj.str" line: 42
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licj.str" line: 85
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licj.str" line: 113
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licj.str" line: 119
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licj.str" line: 122
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licj.str" line: 125
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licj.str" line: 129
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licj.str" line: 172
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licj.str" line: 215
-	[READING]... licr.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licr.str" line: 2
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licr.str" line: 9
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licr.str" line: 20
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licr.str" line: 24
-	[READING]... lict.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lict.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lict.str" line: 5
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lict.str" line: 8
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lict.str" line: 11
-	[READING]... licz.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licz.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\licz.str" line: 15
-	[READING]... lidt.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lidt.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lidt.str" line: 8
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lidt.str" line: 11
-	[READING]... liea.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liea.str" line: 2
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liea.str" line: 37
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liea.str" line: 68
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liea.str" line: 75
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liea.str" line: 79
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liea.str" line: 122
-	[READING]... lied.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lied.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lied.str" line: 14
-	[READING]... liee.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liee.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liee.str" line: 81
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liee.str" line: 85
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liee.str" line: 88
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liee.str" line: 131
-	[READING]... lieo.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lieo.str" line: 2
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lieo.str" line: 53
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lieo.str" line: 104
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lieo.str" line: 107
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lieo.str" line: 110
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lieo.str" line: 153
-	[READING]... limc.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limc.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limc.str" line: 53
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limc.str" line: 108
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limc.str" line: 114
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limc.str" line: 144
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limc.str" line: 147
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limc.str" line: 152
-	[READING]... lime.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lime.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lime.str" line: 34
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lime.str" line: 43
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lime.str" line: 56
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lime.str" line: 62
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lime.str" line: 67
-	[READING]... limf.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limf.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limf.str" line: 7
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limf.str" line: 16
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limf.str" line: 21
-	[READING]... limg.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limg.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limg.str" line: 4
-	[READING]... limj.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limj.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limj.str" line: 6
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limj.str" line: 15
-	[READING]... liml.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liml.str" line: 2
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liml.str" line: 11
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liml.str" line: 17
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liml.str" line: 22
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liml.str" line: 65
-	[READING]... limn.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limn.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limn.str" line: 9
-	[READING]... limp.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limp.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limp.str" line: 13
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limp.str" line: 17
-	[READING]... limw.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limw.str" line: 5
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limw.str" line: 8
-	[READING]... limz.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limz.str" line: 2
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limz.str" line: 7
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limz.str" line: 52
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\limz.str" line: 55
-	[READING]... lipa.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipa.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipa.str" line: 5
-	[READING]... lipb.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipb.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipb.str" line: 7
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipb.str" line: 10
-	[READING]... lipc.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipc.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipc.str" line: 4
-	[READING]... lipe.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipe.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipe.str" line: 44
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipe.str" line: 85
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipe.str" line: 88
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipe.str" line: 91
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipe.str" line: 134
-	[READING]... liph.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liph.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liph.str" line: 5
-	[READING]... lipi.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipi.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipi.str" line: 4
-	[READING]... lipl.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipl.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipl.str" line: 9
-	[READING]... lipo.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipo.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipo.str" line: 7
-	[READING]... lipq.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipq.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipq.str" line: 4
-	[READING]... lipr.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipr.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipr.str" line: 5
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipr.str" line: 8
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipr.str" line: 51
-	[READING]... lips.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lips.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lips.str" line: 4
-	[READING]... lipx.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipx.str" line: 2
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipx.str" line: 36
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipx.str" line: 48
-	[READING]... lipy.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipy.str" line: 2
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipy.str" line: 26
-	[MISSING FIX] "ADLUV" file "C:\Aurora\SectorFiles\include\IT\lipy.str" line: 31
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipy.str" line: 33
-	[READING]... lipz.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 2
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 37
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 51
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 62
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 73
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 86
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 89
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 92
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 135
-	[READING]... lira.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lira.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lira.str" line: 7
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lira.str" line: 32
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lira.str" line: 62
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lira.str" line: 67
-	[READING]... lire.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lire.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lire.str" line: 6
-	[READING]... lirf.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirf.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirf.str" line: 68
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirf.str" line: 130
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirf.str" line: 141
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirf.str" line: 147
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirf.str" line: 153
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirf.str" line: 159
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirf.str" line: 163
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirf.str" line: 248
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirf.str" line: 334
-	[READING]... liri.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liri.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\liri.str" line: 4
-	[READING]... lirl.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirl.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirl.str" line: 5
-	[READING]... lirm.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirm.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirm.str" line: 7
-	[READING]... lirn.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirn.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirn.str" line: 67
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirn.str" line: 117
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirn.str" line: 201
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirn.str" line: 207
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirn.str" line: 215
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirn.str" line: 244
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirn.str" line: 250
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirn.str" line: 254
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirn.str" line: 383
-	[READING]... lirp.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirp.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirp.str" line: 6
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirp.str" line: 14
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirp.str" line: 18
-	[READING]... lirq.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirq.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirq.str" line: 4
-	[READING]... lirs.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirs.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirs.str" line: 9
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirs.str" line: 14
-	[READING]... lirz.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirz.str" line: 1
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lirz.str" line: 4
-	[READING]... lsza.str
-	[MISSING FIX] "" file "C:\Aurora\SectorFiles\include\IT\lsza.str" line: 1
-[MVA]
-	[READING]... liba.mva
-	[READING]... libb.mva
-	[READING]... libd.mva
-	[READING]... lica.mva
-	[READING]... licc.mva
-	[READING]... licj.mva
-	[READING]... liee.mva
-	[READING]... lieo.mva
-	[READING]... limf.mva
-	[READING]... limj.mva
-	[READING]... limm.mva
-	[READING]... lipa.mva
-	[READING]... lipe.mva
-	[READING]... liph.mva
-	[READING]... lipp.mva
-	[READING]... lipq.mva
-	[READING]... lipx.mva
-	[READING]... lipz.mva
-	[READING]... lirn.mva
-	[READING]... lirp.mva
-	[READING]... lirq.mva
-	[READING]... lirr.mva
-	[READING]... lirs.mva
-[VFRROUTE]
-	[READING]... liba.vrt
-	[READING]... libd.vrt
-	[READING]... libg.vrt
-	[READING]... licc.vrt
-	[READING]... licj.vrt
-	[READING]... limc.vrt
-	[READING]... limg.vrt
-	[READING]... liml.vrt
-	[READING]... limp.vrt
-	[READING]... lire.vrt
-	[READING]... lirh.vrt
-	[READING]... lirl.vrt
-	[READING]... lirm.vrt
-	[READING]... lirn.vrt
-	[READING]... liru.vrt
-No of errors: 1936
-WARNINGS: 0
+[INFO] Dir = 'C:\Aurora\SectorFiles\include\IT.log'
+[INFO] isc file. 318 lines
+[INFO] start reading [VOR]
+	[VOR] reading NAVAIDS\itvor.vor
+[INFO] start reading [NDB]
+	[NDB] reading NAVAIDS\itndb.ndb
+[INFO] start reading [FIXES]
+	[FIXES] reading NAVAIDS\itfix.fix
+[LOADING SHAPES]
+	[AIRPORT]
+		OTHER\itap.ap
+	[GEO]
+		GEO\itgeo.geo
+		GEO\italy.prohibit
+		GEO\italy.danger
+		GEO\italy.restrict
+		GEO\liaa.geo
+		GEO\limf.geo
+		GEO\lima.geo
+		GEO\lile.geo
+		GEO\liln.geo
+		GEO\lilg.geo
+		GEO\limb.geo
+		GEO\limc.geo
+		GEO\lime.geo
+		GEO\limg.geo
+		GEO\limj.geo
+		GEO\liml.geo
+		GEO\limn.geo
+		GEO\limp.geo
+		GEO\lims.geo
+		GEO\limw.geo
+		GEO\limz.geo
+		GEO\liqw.geo
+		GEO\lsza.geo
+		GEO\lida.geo
+		GEO\lide.geo
+		GEO\lidf.geo
+		GEO\lidh.geo
+		GEO\lidk.geo
+		GEO\lidr.geo
+		GEO\lidt.geo
+		GEO\lipa.geo
+		GEO\lipb.geo
+		GEO\lipc.geo
+		GEO\lipd.geo
+		GEO\lipe.geo
+		GEO\lipf.geo
+		GEO\lipg.geo
+		GEO\liph.geo
+		GEO\lipi.geo
+		GEO\lipk.geo
+		GEO\lipl.geo
+		GEO\lipm.geo
+		GEO\lipn.geo
+		GEO\lipo.geo
+		GEO\lipq.geo
+		GEO\lipr.geo
+		GEO\lips.geo
+		GEO\lipu.geo
+		GEO\lipv.geo
+		GEO\lipx.geo
+		GEO\lipy.geo
+		GEO\lipz.geo
+		GEO\liba.geo
+		GEO\libc.geo
+		GEO\libd.geo
+		GEO\libf.geo
+		GEO\libg.geo
+		GEO\libn.geo
+		GEO\libp.geo
+		GEO\libr.geo
+		GEO\libv.geo
+		GEO\linl.geo
+		GEO\liap.geo
+		GEO\lica.geo
+		GEO\licb.geo
+		GEO\licc.geo
+		GEO\licd.geo
+		GEO\licg.geo
+		GEO\licj.geo
+		GEO\licp.geo
+		GEO\licr.geo
+		GEO\lict.geo
+		GEO\licz.geo
+		GEO\liea.geo
+		GEO\lied.geo
+		GEO\liee.geo
+		GEO\lieo.geo
+		GEO\lier.geo
+		GEO\lilq.geo
+		GEO\liqb.geo
+		GEO\liql.geo
+		GEO\liqn.geo
+		GEO\liqs.geo
+		GEO\lira.geo
+		GEO\lire.geo
+		GEO\lirf.geo
+		GEO\lirg.geo
+		GEO\lirh.geo
+		GEO\liri.geo
+		GEO\lirj.geo
+		GEO\lirl.geo
+		GEO\lirm.geo
+		GEO\lirn.geo
+		GEO\lirp.geo
+		GEO\lirq.geo
+		GEO\lirs.geo
+		GEO\liru.geo
+		GEO\lirv.geo
+		GEO\lirz.geo
+	[RUNWAY]
+		OTHER\itrw.rw
+	[GEO]
+		RW_MARKINGS\ba_mark.geo
+		RW_MARKINGS\bd_mark.geo
+		RW_MARKINGS\bf_mark.geo
+		RW_MARKINGS\bg_mark.geo
+		RW_MARKINGS\bn_mark.geo
+		RW_MARKINGS\bp_mark.geo
+		RW_MARKINGS\br_mark.geo
+		RW_MARKINGS\bv_mark.geo
+		RW_MARKINGS\de_mark.geo
+		RW_MARKINGS\le_mark.geo
+		RW_MARKINGS\ln_mark.geo
+		RW_MARKINGS\ma_mark.geo
+		RW_MARKINGS\mc35L_mark.geo
+		RW_MARKINGS\mc35R_mark.geo
+		RW_MARKINGS\me_mark.geo
+		RW_MARKINGS\mf_mark.geo
+		RW_MARKINGS\mg_mark.geo
+		RW_MARKINGS\mj_mark.geo
+	[LOW AIRWAY]
+		AIRWAY\itawlow.awl
+	[HIGH AIRWAY]
+		AIRWAY\itawhigh.hairway
+	[ARTCC] / [AIRSPACE]
+		ACC\limm.artcc
+		ACC\lipp.artcc
+		ACC\lirr.artcc
+		ACC\libb.artcc
+	[ARTCC HIGH] / [AIRSPACE HIGH]
+		HI_AIRSPACE\lsza.hartcc
+		HI_AIRSPACE\lime.hartcc
+		HI_AIRSPACE\limc.hartcc
+		HI_AIRSPACE\limf.hartcc
+		HI_AIRSPACE\limj.hartcc
+		HI_AIRSPACE\limp.hartcc
+		HI_AIRSPACE\lims.hartcc
+		HI_AIRSPACE\lipe.hartcc
+		HI_AIRSPACE\liph.hartcc
+		HI_AIRSPACE\liml.hartcc
+		HI_AIRSPACE\lipq.hartcc
+		HI_AIRSPACE\lipx.hartcc
+		HI_AIRSPACE\lipy.hartcc
+		HI_AIRSPACE\lipz.hartcc
+		HI_AIRSPACE\libd.hartcc
+		HI_AIRSPACE\libg.hartcc
+		HI_AIRSPACE\libn.hartcc
+		HI_AIRSPACE\libp.hartcc
+		HI_AIRSPACE\lica.hartcc
+		HI_AIRSPACE\licc.hartcc
+		HI_AIRSPACE\licg.hartcc
+		HI_AIRSPACE\licj.hartcc
+		HI_AIRSPACE\licr.hartcc
+		HI_AIRSPACE\lict.hartcc
+		HI_AIRSPACE\lirf.hartcc
+		HI_AIRSPACE\liea.hartcc
+		HI_AIRSPACE\liee.hartcc
+		HI_AIRSPACE\lirl.hartcc
+		HI_AIRSPACE\lirn.hartcc
+		HI_AIRSPACE\lirp.hartcc
+		HI_AIRSPACE\lieo.hartcc
+		HI_AIRSPACE\lirq.hartcc
+		HI_AIRSPACE\lirs.hartcc
+		[MISSING FILE] "F;HI_AIRSPACE\lirs.hartcc" in "C:\Aurora\SectorFiles\ITALY.isc" line: 201
+	[ARTCC LOW] / [AIRSPACE LOW]
+		LOW_AIRSPACE\lirr_tma.lartcc
+		LOW_AIRSPACE\limm_tma.lartcc
+		LOW_AIRSPACE\lieoapp.lartcc
+	[FILLCOLOR]
+		DYNAMIC_SEC\limmctr.tfl
+		DYNAMIC_SEC\limmapp.tfl
+		DYNAMIC_SEC\lirr_ew_ctr.tfl
+		DYNAMIC_SEC\lirr_su_ctr.tfl
+		DYNAMIC_SEC\lirr_ne_ctr.tfl
+		DYNAMIC_SEC\lirrapp.tfl
+		DYNAMIC_SEC\lipp_ne2_ctr.tfl
+		DYNAMIC_SEC\libb_es_ctr.tfl
+		DYNAMIC_SEC\libbctr.tfl
+		DYNAMIC_SEC\lirrctr.tfl
+		[FORMAT ERR] "" file "DYNAMIC_SEC\lirrctr.tfl" line: 1359
+		DYNAMIC_SEC\lippctr.tfl
+		GND_LAYOUT\mf_ad_gnd.pol
+		GND_LAYOUT\de_ad_gnd.pol
+		GND_LAYOUT\le_ad_gnd.pol
+		GND_LAYOUT\ln_ad_gnd.pol
+		GND_LAYOUT\ma_ad_gnd.pol
+		GND_LAYOUT\mb_ad_gnd.pol
+		GND_LAYOUT\mc_ad_gnd.pol
+		GND_LAYOUT\me_ad_gnd.pol
+		GND_LAYOUT\mg_ad_gnd.pol
+		GND_LAYOUT\mj_ad_gnd.pol
+		GND_LAYOUT\ml_ad_gnd.pol
+		GND_LAYOUT\mn_ad_gnd.pol
+		GND_LAYOUT\mw_ad_gnd.pol
+		GND_LAYOUT\mp_ad_gnd.pol
+		GND_LAYOUT\ms_ad_gnd.pol
+		GND_LAYOUT\mz_ad_gnd.pol
+		GND_LAYOUT\qw_ad_gnd.pol
+		GND_LAYOUT\lsza_ad_gnd.pol
+		GND_LAYOUT\aa_ad_gnd.pol
+		GND_LAYOUT\ap_ad_gnd.pol
+		GND_LAYOUT\ca_ad_gnd.pol
+		GND_LAYOUT\cb_ad_gnd.pol
+		GND_LAYOUT\cc_ad_gnd.pol
+		GND_LAYOUT\cd_ad_gnd.pol
+		GND_LAYOUT\cg_ad_gnd.pol
+		GND_LAYOUT\cj_ad_gnd.pol
+		GND_LAYOUT\cp_ad_gnd.pol
+		GND_LAYOUT\cr_ad_gnd.pol
+		GND_LAYOUT\ct_ad_gnd.pol
+		GND_LAYOUT\cz_ad_gnd.pol
+		GND_LAYOUT\ea_ad_gnd.pol
+		GND_LAYOUT\ed_ad_gnd.pol
+		GND_LAYOUT\ee_ad_gnd.pol
+		GND_LAYOUT\eo_ad_gnd.pol
+		GND_LAYOUT\er_ad_gnd.pol
+		GND_LAYOUT\lq_ad_gnd.pol
+		GND_LAYOUT\qb_ad_gnd.pol
+		GND_LAYOUT\ql_ad_gnd.pol
+		GND_LAYOUT\qn_ad_gnd.pol
+		GND_LAYOUT\qs_ad_gnd.pol
+		GND_LAYOUT\ra_ad_gnd.pol
+		GND_LAYOUT\re_ad_gnd.pol
+		GND_LAYOUT\rf_ad_gnd.pol
+		GND_LAYOUT\rg_ad_gnd.pol
+		GND_LAYOUT\rh_ad_gnd.pol
+		GND_LAYOUT\ri_ad_gnd.pol
+		GND_LAYOUT\rj_ad_gnd.pol
+		GND_LAYOUT\rl_ad_gnd.pol
+		GND_LAYOUT\rm_ad_gnd.pol
+		GND_LAYOUT\rn_ad_gnd.pol
+		GND_LAYOUT\rp_ad_gnd.pol
+		GND_LAYOUT\rq_ad_gnd.pol
+		GND_LAYOUT\rs_ad_gnd.pol
+		GND_LAYOUT\ru_ad_gnd.pol
+		GND_LAYOUT\rv_ad_gnd.pol
+		GND_LAYOUT\rz_ad_gnd.pol
+		GND_LAYOUT\da_ad_gnd.pol
+		GND_LAYOUT\df_ad_gnd.pol
+		GND_LAYOUT\dh_ad_gnd.pol
+		GND_LAYOUT\dk_ad_gnd.pol
+		GND_LAYOUT\dr_ad_gnd.pol
+		GND_LAYOUT\dt_ad_gnd.pol
+		GND_LAYOUT\pa_ad_gnd.pol
+		GND_LAYOUT\pb_ad_gnd.pol
+		GND_LAYOUT\pc_ad_gnd.pol
+		GND_LAYOUT\pd_ad_gnd.pol
+		GND_LAYOUT\pe_ad_gnd.pol
+		GND_LAYOUT\pf_ad_gnd.pol
+		GND_LAYOUT\pg_ad_gnd.pol
+		GND_LAYOUT\ph_ad_gnd.pol
+		GND_LAYOUT\pi_ad_gnd.pol
+		GND_LAYOUT\pk_ad_gnd.pol
+		GND_LAYOUT\pl_ad_gnd.pol
+		GND_LAYOUT\pn_ad_gnd.pol
+		GND_LAYOUT\po_ad_gnd.pol
+		GND_LAYOUT\pq_ad_gnd.pol
+		GND_LAYOUT\pr_ad_gnd.pol
+		GND_LAYOUT\ps_ad_gnd.pol
+		GND_LAYOUT\pu_ad_gnd.pol
+		GND_LAYOUT\pv_ad_gnd.pol
+		GND_LAYOUT\px_ad_gnd.pol
+		GND_LAYOUT\py_ad_gnd.pol
+		GND_LAYOUT\pz_ad_gnd.pol
+		GND_LAYOUT\ba_ad_gnd.pol
+		GND_LAYOUT\bc_ad_gnd.pol
+		GND_LAYOUT\bd_ad_gnd.pol
+		GND_LAYOUT\bf_ad_gnd.pol
+		GND_LAYOUT\bg_ad_gnd.pol
+		GND_LAYOUT\bn_ad_gnd.pol
+		GND_LAYOUT\bp_ad_gnd.pol
+		GND_LAYOUT\br_ad_gnd.pol
+		GND_LAYOUT\bv_ad_gnd.pol
+		GND_LAYOUT\nl_ad_gnd.pol
+		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\lipy.str" line: 3784
+	[MVA]
+		C:\Aurora\SectorFiles\include\IT\liba.mva
+		C:\Aurora\SectorFiles\include\IT\libb.mva
+		C:\Aurora\SectorFiles\include\IT\libd.mva
+		C:\Aurora\SectorFiles\include\IT\lica.mva
+		C:\Aurora\SectorFiles\include\IT\licc.mva
+		C:\Aurora\SectorFiles\include\IT\licj.mva
+		C:\Aurora\SectorFiles\include\IT\liee.mva
+		C:\Aurora\SectorFiles\include\IT\lieo.mva
+		C:\Aurora\SectorFiles\include\IT\limf.mva
+		C:\Aurora\SectorFiles\include\IT\limj.mva
+		C:\Aurora\SectorFiles\include\IT\limm.mva
+		C:\Aurora\SectorFiles\include\IT\lipa.mva
+		C:\Aurora\SectorFiles\include\IT\lipe.mva
+		C:\Aurora\SectorFiles\include\IT\liph.mva
+		C:\Aurora\SectorFiles\include\IT\lipp.mva
+		C:\Aurora\SectorFiles\include\IT\lipq.mva
+		C:\Aurora\SectorFiles\include\IT\lipx.mva
+		C:\Aurora\SectorFiles\include\IT\lipz.mva
+		C:\Aurora\SectorFiles\include\IT\lirn.mva
+		C:\Aurora\SectorFiles\include\IT\lirp.mva
+		C:\Aurora\SectorFiles\include\IT\lirq.mva
+		C:\Aurora\SectorFiles\include\IT\lirr.mva
+		C:\Aurora\SectorFiles\include\IT\lirs.mva
+Summary:
+[FIX] [NDB] [VOR]: 1755 nodes
+[GEO]: 113429 lines
+[AIRPORT]: 132 apts
+[RUNWAY]: 121 rwys
+[ARTCC]: 645 lines
+[ARTCC LOW]: 287 lines
+[ARTCC HIGH]: 4484 lines
+[LOW AIRWAY]: 2168 awys
+[HIGH AIRWAY]: 2634 awys
+[MVA]: 10779 lines
+[FILLCOLOR]: 40204 lines
+[SID]: 0 lines
+[STAR]: 4360 lines
