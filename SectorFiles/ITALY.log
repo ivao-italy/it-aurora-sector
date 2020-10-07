@@ -173,7 +173,12 @@
 		HI_AIRSPACE\lieo.hartcc
 		HI_AIRSPACE\lirq.hartcc
 		HI_AIRSPACE\lirs.hartcc
-		[MISSING FILE] "F;HI_AIRSPACE\lirs.hartcc" in "C:\Aurora\SectorFiles\ITALY.isc" line: 201
+		HI_AIRSPACE\lirz.hartcc
+		HI_AIRSPACE\liba.hartcc
+		HI_AIRSPACE\libv.hartcc
+		HI_AIRSPACE\lipa.hartcc
+		HI_AIRSPACE\lirh.hartcc
+		HI_AIRSPACE\lirm.hartcc
 	[ARTCC LOW] / [AIRSPACE LOW]
 		LOW_AIRSPACE\lirr_tma.lartcc
 		LOW_AIRSPACE\limm_tma.lartcc
@@ -284,7 +289,19 @@
 		GND_LAYOUT\br_ad_gnd.pol
 		GND_LAYOUT\bv_ad_gnd.pol
 		GND_LAYOUT\nl_ad_gnd.pol
-		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\lipy.str" line: 3784
+		[FORMAT ERR] "FASAN;FASA;2R;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 999
+		[FORMAT ERR] "RUBRI;RUBI;1Z;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 1917
+		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\licr.str" line: 2546
+		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\licr.str" line: 2547
+		[FORMAT ERR] "KOVAS;KOCVA;<br>" file "GND_LAYOUT\nl_ad_gnd.pol" line: 3318
+		[FORMAT ERR] "LUSIL;LISIL;1E;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 4165
+		[FORMAT ERR] "RIPDU;RIPSU;2W;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5116
+		[FORMAT ERR] "NEVNI;NEVINI;<br>;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5379
+		[FORMAT ERR] "ADSAD;ADSAS;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5405
+		[FORMAT ERR] "LUPIN;PULIN;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5471
+		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\lipy.str" line: 6018
+		[FORMAT ERR] "/Discontinuity" in "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 6115
+		[FORMAT ERR] "N45.10.29.000;E011.58.45.000;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 6118
 	[MVA]
 		C:\Aurora\SectorFiles\include\IT\liba.mva
 		C:\Aurora\SectorFiles\include\IT\libb.mva
@@ -310,16 +327,16 @@
 		C:\Aurora\SectorFiles\include\IT\lirr.mva
 		C:\Aurora\SectorFiles\include\IT\lirs.mva
 Summary:
-[FIX] [NDB] [VOR]: 1755 nodes
+[FIX] [NDB] [VOR]: 1823 nodes
 [GEO]: 113429 lines
 [AIRPORT]: 132 apts
 [RUNWAY]: 121 rwys
 [ARTCC]: 645 lines
 [ARTCC LOW]: 287 lines
-[ARTCC HIGH]: 4484 lines
+[ARTCC HIGH]: 5167 lines
 [LOW AIRWAY]: 2168 awys
 [HIGH AIRWAY]: 2634 awys
 [MVA]: 10779 lines
 [FILLCOLOR]: 40204 lines
 [SID]: 0 lines
-[STAR]: 4360 lines
+[STAR]: 6637 lines
