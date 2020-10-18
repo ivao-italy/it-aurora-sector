@@ -290,18 +290,18 @@
 		GND_LAYOUT\bv_ad_gnd.pol
 		GND_LAYOUT\nl_ad_gnd.pol
 		[FORMAT ERR] "FASAN;FASA;2R;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 999
-		[FORMAT ERR] "RUBRI;RUBI;1Z;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 1917
-		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\licr.str" line: 2546
-		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\licr.str" line: 2547
-		[FORMAT ERR] "KOVAS;KOCVA;<br>" file "GND_LAYOUT\nl_ad_gnd.pol" line: 3318
-		[FORMAT ERR] "LUSIL;LISIL;1E;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 4165
-		[FORMAT ERR] "RIPDU;RIPSU;2W;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5116
-		[FORMAT ERR] "NEVNI;NEVINI;<br>;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5379
-		[FORMAT ERR] "ADSAD;ADSAS;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5405
-		[FORMAT ERR] "LUPIN;PULIN;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5471
-		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\lipy.str" line: 6018
-		[FORMAT ERR] "/Discontinuity" in "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 6115
-		[FORMAT ERR] "N45.10.29.000;E011.58.45.000;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 6118
+		[FORMAT ERR] "RUBRI;RUBI;1Z;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 2287
+		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\licr.str" line: 2916
+		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\licr.str" line: 2917
+		[FORMAT ERR] "KOVAS;KOCVA;<br>" file "GND_LAYOUT\nl_ad_gnd.pol" line: 3688
+		[FORMAT ERR] "LUSIL;LISIL;1E;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 4535
+		[FORMAT ERR] "RIPDU;RIPSU;2W;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5560
+		[FORMAT ERR] "NEVNI;NEVINI;<br>;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5823
+		[FORMAT ERR] "ADSAD;ADSAS;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5849
+		[FORMAT ERR] "LUPIN;PULIN;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5915
+		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\lipy.str" line: 6462
+		[FORMAT ERR] "/Discontinuity" in "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 6559
+		[FORMAT ERR] "N45.10.29.000;E011.58.45.000;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 6562
 	[MVA]
 		C:\Aurora\SectorFiles\include\IT\liba.mva
 		C:\Aurora\SectorFiles\include\IT\libb.mva
@@ -328,7 +328,7 @@
 		C:\Aurora\SectorFiles\include\IT\lirs.mva
 Summary:
 [FIX] [NDB] [VOR]: 1823 nodes
-[GEO]: 113429 lines
+[GEO]: 113439 lines
 [AIRPORT]: 132 apts
 [RUNWAY]: 121 rwys
 [ARTCC]: 645 lines
@@ -339,4 +339,4 @@ Summary:
 [MVA]: 10779 lines
 [FILLCOLOR]: 40204 lines
 [SID]: 0 lines
-[STAR]: 6637 lines
+[STAR]: 7053 lines
