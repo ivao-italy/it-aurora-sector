@@ -1,5 +1,5 @@
 [INFO] Dir = 'C:\Aurora\SectorFiles\include\IT.log'
-[INFO] isc file. 318 lines
+[INFO] isc file. 328 lines
 [INFO] start reading [VOR]
 	[VOR] reading NAVAIDS\itvor.vor
 [INFO] start reading [NDB]
@@ -120,7 +120,6 @@
 		RW_MARKINGS\bp_mark.geo
 		RW_MARKINGS\br_mark.geo
 		RW_MARKINGS\bv_mark.geo
-		RW_MARKINGS\de_mark.geo
 		RW_MARKINGS\le_mark.geo
 		RW_MARKINGS\ln_mark.geo
 		RW_MARKINGS\ma_mark.geo
@@ -130,6 +129,17 @@
 		RW_MARKINGS\mf_mark.geo
 		RW_MARKINGS\mg_mark.geo
 		RW_MARKINGS\mj_mark.geo
+		RW_MARKINGS\ml_mark.geo
+		RW_MARKINGS\mn_mark.geo
+		RW_MARKINGS\mp_mark.geo
+		RW_MARKINGS\ms_mark.geo
+		RW_MARKINGS\mw_mark.geo
+		RW_MARKINGS\mz_mark.geo
+		RW_MARKINGS\da_mark.geo
+		RW_MARKINGS\de_mark.geo
+		RW_MARKINGS\dr_mark.geo
+		RW_MARKINGS\dt_mark.geo
+		[MISSING FILE] "F;RW_MARKINGS\dt_mark.geo" in "C:\Aurora\SectorFiles\ITALY.isc" line: 149
 	[LOW AIRWAY]
 		AIRWAY\itawlow.awl
 	[HIGH AIRWAY]
@@ -290,18 +300,18 @@
 		GND_LAYOUT\bv_ad_gnd.pol
 		GND_LAYOUT\nl_ad_gnd.pol
 		[FORMAT ERR] "FASAN;FASA;2R;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 999
-		[FORMAT ERR] "RUBRI;RUBI;1Z;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 2287
-		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\licr.str" line: 2916
-		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\licr.str" line: 2917
-		[FORMAT ERR] "KOVAS;KOCVA;<br>" file "GND_LAYOUT\nl_ad_gnd.pol" line: 3688
-		[FORMAT ERR] "LUSIL;LISIL;1E;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 4535
-		[FORMAT ERR] "RIPDU;RIPSU;2W;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5560
-		[FORMAT ERR] "NEVNI;NEVINI;<br>;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5823
-		[FORMAT ERR] "ADSAD;ADSAS;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5849
-		[FORMAT ERR] "LUPIN;PULIN;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5915
-		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\lipy.str" line: 6462
-		[FORMAT ERR] "/Discontinuity" in "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 6559
-		[FORMAT ERR] "N45.10.29.000;E011.58.45.000;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 6562
+		[FORMAT ERR] "RUBRI;RUBI;1Z;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 2302
+		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\licr.str" line: 2931
+		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\licr.str" line: 2932
+		[FORMAT ERR] "KOVAS;KOCVA;<br>" file "GND_LAYOUT\nl_ad_gnd.pol" line: 3703
+		[FORMAT ERR] "LUSIL;LISIL;1E;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 4550
+		[FORMAT ERR] "RIPDU;RIPSU;2W;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5575
+		[FORMAT ERR] "NEVNI;NEVINI;<br>;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5838
+		[FORMAT ERR] "ADSAD;ADSAS;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5864
+		[FORMAT ERR] "LUPIN;PULIN;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 5930
+		[FIX VOR NDB MISSING] "" in "C:\Aurora\SectorFiles\include\IT\lipy.str" line: 6477
+		[FORMAT ERR] "/Discontinuity" in "C:\Aurora\SectorFiles\include\IT\lipz.str" line: 6574
+		[FORMAT ERR] "N45.10.29.000;E011.58.45.000;" file "GND_LAYOUT\nl_ad_gnd.pol" line: 6577
 	[MVA]
 		C:\Aurora\SectorFiles\include\IT\liba.mva
 		C:\Aurora\SectorFiles\include\IT\libb.mva
@@ -328,15 +338,15 @@
 		C:\Aurora\SectorFiles\include\IT\lirs.mva
 Summary:
 [FIX] [NDB] [VOR]: 1823 nodes
-[GEO]: 113439 lines
+[GEO]: 114586 lines
 [AIRPORT]: 132 apts
 [RUNWAY]: 121 rwys
 [ARTCC]: 645 lines
 [ARTCC LOW]: 287 lines
-[ARTCC HIGH]: 5167 lines
+[ARTCC HIGH]: 5355 lines
 [LOW AIRWAY]: 2168 awys
 [HIGH AIRWAY]: 2634 awys
 [MVA]: 10779 lines
-[FILLCOLOR]: 40204 lines
+[FILLCOLOR]: 40221 lines
 [SID]: 0 lines
-[STAR]: 7053 lines
+[STAR]: 7062 lines
