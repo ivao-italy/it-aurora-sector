@@ -1,4 +1,4 @@
-LIPQ:09;STAR; ; ;
+LIPQ;09;STAR; ; ;
 CHI;CHI;
 CHI;CHI;1M;
 PQ406;PQ406;
@@ -7,7 +7,7 @@ RON;RON;
 //Discontinuity
 TIBRO;TIBRO;<br>;
 TIBRO;TIBRO;3D;
-LUPIN;PULIN;
+LUPIN;LUPIN;
 RON;RON;
 //Discontinuity
 RIFEN;RIFEN;<br>;

@@ -12,6 +12,12 @@ AIRAC A10/20 EFF 05.11.2020
 [ATC]
 F;OTHER\itfreq.atc
 
+[CPDLCNAMES]
+F;OTHER\cdplcnames.cpdlcnames
+
+[CPDLC]
+F;OTHER\cpdlc.cpdlc
+
 [Airport]
 F;OTHER\itap.ap
 
@@ -168,6 +174,9 @@ F;NAVAIDS\itfix.fix
 [HIGH AIRWAY]
 F;AIRWAY\itawhigh.hairway
 
+[LOW AIRWAY]
+F;AIRWAY\itawlow.lairway
+
 [ARTCC]
 F;ACC\limm.artcc
 F;ACC\lipp.artcc
@@ -221,6 +230,7 @@ F;LOW_AIRSPACE\limm_tma.lartcc
 F;LOW_AIRSPACE\lieoapp.lartcc
 
 [FILLCOLOR]
+F;DYNAMIC_SEC\Legion.tfl
 F;DYNAMIC_SEC\limmctr.tfl
 F;DYNAMIC_SEC\limmapp.tfl
 F;DYNAMIC_SEC\lirr_ew_ctr.tfl
