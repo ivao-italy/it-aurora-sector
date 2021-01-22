@@ -230,7 +230,7 @@ F;LOW_AIRSPACE\limm_tma.lartcc
 F;LOW_AIRSPACE\lieoapp.lartcc
 
 [FILLCOLOR]
-F;DYNAMIC_SEC\Legion.tfl
+F;DYNAMIC_SEC\GCI.tfl
 F;DYNAMIC_SEC\limmctr.tfl
 F;DYNAMIC_SEC\limmapp.tfl
 F;DYNAMIC_SEC\lirr_ew_ctr.tfl
