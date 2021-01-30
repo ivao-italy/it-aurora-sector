@@ -6,7 +6,7 @@ E012.14.20.000
 +3.0
 IT
 IVAO ITALY ATC OPERATIONS DEPARTMENT
-AIRAC A10/20 EFF 05.11.2020
+AIRAC A13/20 EFF 28.01.2021
 
 
 [ATC]
@@ -175,7 +175,7 @@ F;NAVAIDS\itfix.fix
 F;AIRWAY\itawhigh.hairway
 
 [LOW AIRWAY]
-F;AIRWAY\itawlow.lairway
+
 
 [ARTCC]
 F;ACC\limm.artcc
