@@ -175,7 +175,7 @@ F;NAVAIDS\itfix.fix
 F;AIRWAY\itawhigh.hairway
 
 [LOW AIRWAY]
-
+F;AIRWAY\itawlow.lairway
 
 [ARTCC]
 F;ACC\limm.artcc
