@@ -10,7 +10,8 @@ AIRAC A13/20 EFF 28.01.2021
 
 
 [ATC]
-F;OTHER\itfreq.atc
+F;OTHER\itfreq.frq
+
 
 [CPDLCNAMES]
 F;OTHER\cdplcnames.cpdlcnames
