@@ -194,7 +194,6 @@ F;HI_AIRSPACE\lipe.hartcc
 F;HI_AIRSPACE\liph.hartcc
 F;HI_AIRSPACE\liml.hartcc
 F;HI_AIRSPACE\lipq.hartcc
-F;HI_AIRSPACE\lipx.hartcc
 F;HI_AIRSPACE\lipy.hartcc
 F;HI_AIRSPACE\lipz.hartcc
 F;HI_AIRSPACE\libd.hartcc
@@ -228,6 +227,8 @@ F;LOW_AIRSPACE\lirr_tma.lartcc
 F;LOW_AIRSPACE\limm_tma.lartcc
 F;LOW_AIRSPACE\lirr_ew0_app.lartcc
 F;LOW_AIRSPACE\lipp_ce0_app.lartcc
+F;LOW_AIRSPACE\limm_ce0_app.lartcc
+
 
 [FILLCOLOR]
 F;DYNAMIC_SEC\GCI.tfl
