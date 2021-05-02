@@ -197,6 +197,7 @@ F;HI_AIRSPACE\lipq.hartcc
 F;HI_AIRSPACE\lipy.hartcc
 F;HI_AIRSPACE\lipz.hartcc
 F;HI_AIRSPACE\libd.hartcc
+F;HI_AIRSPACE\libc.hartcc
 F;HI_AIRSPACE\libg.hartcc
 F;HI_AIRSPACE\libn.hartcc
 F;HI_AIRSPACE\libp.hartcc
@@ -227,7 +228,8 @@ F;LOW_AIRSPACE\lirr_tma.lartcc
 F;LOW_AIRSPACE\limm_tma.lartcc
 F;LOW_AIRSPACE\lirr_ew0_app.lartcc
 F;LOW_AIRSPACE\lipp_ce0_app.lartcc
-F;LOW_AIRSPACE\limm_ce0_app.lartcc
+F;LOW_AIRSPACE\limm_es0_app.lartcc
+F;LOW_AIRSPACE\lirr_es0_app.lartcc
 
 
 [FILLCOLOR]
