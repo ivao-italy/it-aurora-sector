@@ -6,6 +6,8 @@ E012.14.20.000
 +3.0
 IT
 
+[ATIS]
+F;default.atis
 
 [ATC]
 F;OTHER\itfreq.frq
