@@ -172,6 +172,8 @@ F;NAVAIDS\itndb.ndb
 
 [FIXES]
 F;NAVAIDS\itfix.fix
+F;NAVAIDS\itfix_esterni.fix
+F;NAVAIDS\itfix_militari.fix
 
 [HIGH AIRWAY]
 F;AIRWAY\itawhigh.hairway
