@@ -171,7 +171,8 @@ F;NAVAIDS\itvor.vor
 F;NAVAIDS\itndb.ndb
 
 [FIXES]
-F;NAVAIDS\itfix.fix
+F;NAVAIDS\itfix_enr_fra.fix
+F;NAVAIDS\itfix_term_apt.fix
 F;NAVAIDS\itfix_esterni.fix
 F;NAVAIDS\itfix_militari.fix
 
