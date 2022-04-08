@@ -1,0 +1,35 @@
+///////////////////////////
+//---------RWY15-33---------//
+///////////////////////////
+
+//-----MAPPA UNICA------//
+
+LIBF;15:33;STAR (ALL); ; ;
+URIPI;URIPI;
+URIPI;URIPI;1A;
+FGG;FGG;
+//Discontinuity//
+EKTOL;EKTOL;<br>;
+EKTOL;EKTOL;1A;
+FGG;FGG;
+//Discontinuity//
+DOGUS;DOGUS;<br>;
+DOGUS;DOGUS;1A;
+FGG;FGG;
+
+//----MAPPE SINGOLE----//
+
+LIBF;15:33;URIPI1A; ; ;
+URIPI;URIPI;
+URIPI;URIPI;1A;
+FGG;FGG;
+
+LIBF;15:33;EKTOL1A; ; ;
+EKTOL;EKTOL;
+EKTOL;EKTOL;1A;
+FGG;FGG;
+
+LIBF;15:33;DOGUS1A; ; ;
+DOGUS;DOGUS;
+DOGUS;DOGUS;1A;
+FGG;FGG;
