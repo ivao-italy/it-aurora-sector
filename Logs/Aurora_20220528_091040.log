@@ -1,5 +1,5 @@
-DEBUG | 2022-05-28 09:11:19.856 | Aurora | initLogging | APP START
-DEBUG | 2022-05-28 09:11:19.856 | Aurora | initLogging | Version 1.2.25.0 x64
+DEBUG | 2022-05-28 09:10:40.314 | Aurora | initLogging | APP START
+DEBUG | 2022-05-28 09:10:40.314 | Aurora | initLogging | Aurora V1.2.22.33bx64
 [HINT] TWinControl.CreateWnd creating Handle during loading fInset:TfInset csDesigning=False
 [HINT] TWinControl.CreateWnd creating Handle during loading Panel3:TPanel csDesigning=False
 [HINT] TWinControl.CreateWnd creating Handle during loading gbAlpha:TGaugeBar csDesigning=False
@@ -88,6 +88,4 @@ DEBUG | 2022-05-28 09:11:19.856 | Aurora | initLogging | Version 1.2.25.0 x64
 [HINT] TWinControl.CreateWnd creating Handle during loading pnlBack:TPanel csDesigning=False
 [HINT] TWinControl.CreateWnd creating Handle during loading pnlMap:TPanel csDesigning=False
 [HINT] TWinControl.CreateWnd creating Handle during loading mpBGeo:TImgView32 csDesigning=False
-DEBUG | 2022-05-28 09:11:20.909 | TfH | pVTerminateConnection | Disconnected
-DEBUG | 2022-05-28 09:12:36.289 | TfH | pVTerminateConnection | Disconnected
-DEBUG | 2022-05-28 09:12:36.523 | TfH | endLogging | APP CLOSED
+DEBUG | 2022-05-28 09:10:40.758 | TfH | display scale | 100%
