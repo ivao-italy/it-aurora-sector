@@ -112,3 +112,16 @@
 - Fix potential CTD on atis update
 - Fix TS2 players context menu not closing
 
+## [1.3.0.17] - 2022-09-03
+### Fixed
+- Changelog loading slowly
+- Empty changelog
+- Traffic voice status SDK
+- Get runway configuration of controlled airports with SDK
+- Get selected traffic with SDK
+- Show changelog button
+
+### Changed
+- Moved custom server port settings to profile.ini
+- Fix unhandled exception logging on non alpha versions
+
