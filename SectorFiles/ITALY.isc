@@ -243,6 +243,12 @@ F;LOW_AIRSPACE\limm_es0_app.lartcc
 F;LOW_AIRSPACE\lirr_es0_app.lartcc
 F;LOW_AIRSPACE\libb_cs0_app.lartcc
 F;LOW_AIRSPACE\lirr_us0_app.lartcc
+F;LOW_AIRSPACE\atz_lirr_cc.lartcc
+F;LOW_AIRSPACE\atz_lirr_ee.lartcc
+F;LOW_AIRSPACE\atz_lirr_rr.lartcc
+F;LOW_AIRSPACE\atz_libb.lartcc
+F;LOW_AIRSPACE\atz_limm.lartcc
+F;LOW_AIRSPACE\atz_lipp.lartcc
 
 
 [FILLCOLOR]
