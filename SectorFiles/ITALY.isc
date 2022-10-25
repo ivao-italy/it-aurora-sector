@@ -173,10 +173,11 @@ F;NAVAIDS\itvor.vor
 F;NAVAIDS\itndb.ndb
 
 [FIXES]
-F;NAVAIDS\itfix_enr_fra.fix
-F;NAVAIDS\itfix_term_apt.fix
-F;NAVAIDS\itfix_esterni.fix
-F;NAVAIDS\itfix_militari.fix
+F;NAVAIDS\ENR.fix
+F;NAVAIDS\FRA.fix
+F;NAVAIDS\ESTERNI.fix
+F;NAVAIDS\MIL.fix
+F;NAVAIDS\APT.fix
 
 [HIGH AIRWAY]
 //F;AIRWAY\itawhigh.hairway
@@ -185,10 +186,6 @@ F;NAVAIDS\itfix_militari.fix
 F;AIRWAY\itawlow.lairway
 
 [ARTCC]
-//F;ACC\limm.artcc
-//F;ACC\lipp.artcc
-//F;ACC\lirr.artcc
-//F;ACC\libb.artcc
 F;ACC\FRA.artcc
 F;ACC\FRA-gates.artcc
 
