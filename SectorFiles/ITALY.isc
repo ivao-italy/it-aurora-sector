@@ -228,6 +228,7 @@ F;DYNAMIC_SEC\libb_es_ctr.tfl
 F;DYNAMIC_SEC\libbctr.tfl
 F;DYNAMIC_SEC\lirrctr.tfl
 F;DYNAMIC_SEC\lippctr.tfl
+//ESTERI
 F;DYNAMIC_SEC\ljlj.tfl
 F;DYNAMIC_SEC\ldzo.tfl
 F;DYNAMIC_SEC\lovv.tfl
@@ -239,6 +240,7 @@ F;DYNAMIC_SEC\lggg.tfl
 F;DYNAMIC_SEC\daaa.tfl
 F;DYNAMIC_SEC\dttc.tfl
 F;DYNAMIC_SEC\lmmm.tfl
+F;DYNAMIC_SEC\lyba.tfl
 
 F;GND_LAYOUT\mf_ad_gnd.pol
 F;GND_LAYOUT\de_ad_gnd.pol
