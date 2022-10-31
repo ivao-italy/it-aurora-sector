@@ -189,7 +189,7 @@ F;AIRWAY\itawlow.lairway
 [ARTCC]
 F;ACC\FRA.artcc
 F;ACC\FRA-gates.artcc
-F;ACC\grartcc.artcc
+F;ACC\test.artcc
 
 [ARTCC HIGH]
 F;HI_AIRSPACE\lirr.hartcc
@@ -207,27 +207,26 @@ F;LOW_AIRSPACE\limm_es0_app.lartcc
 F;LOW_AIRSPACE\lirr_es0_app.lartcc
 F;LOW_AIRSPACE\libb_cs0_app.lartcc
 F;LOW_AIRSPACE\lirr_us0_app.lartcc
-//F;LOW_AIRSPACE\atz_lirr_cc.lartcc
-//F;LOW_AIRSPACE\atz_lirr_ee.lartcc
-//F;LOW_AIRSPACE\atz_lirr_rr.lartcc
-//F;LOW_AIRSPACE\atz_libb.lartcc
-//F;LOW_AIRSPACE\atz_limm.lartcc
-//F;LOW_AIRSPACE\atz_lipp.lartcc
+
 
 
 [FILLCOLOR]
 F;DYNAMIC_SEC\GCI.tfl
 F;DYNAMIC_SEC\limmctr.tfl
 F;DYNAMIC_SEC\limmapp.tfl
+
 F;DYNAMIC_SEC\lirr_ew_ctr.tfl
 F;DYNAMIC_SEC\lirr_su_ctr.tfl
 F;DYNAMIC_SEC\lirr_ne_ctr.tfl
 F;DYNAMIC_SEC\lirrapp.tfl
+F;DYNAMIC_SEC\lirrctr.tfl
+
 F;DYNAMIC_SEC\lipp_ne2_ctr.tfl
+F;DYNAMIC_SEC\lippctr.tfl
+
 F;DYNAMIC_SEC\libb_es_ctr.tfl
 F;DYNAMIC_SEC\libbctr.tfl
-F;DYNAMIC_SEC\lirrctr.tfl
-F;DYNAMIC_SEC\lippctr.tfl
+
 //ESTERI
 F;DYNAMIC_SEC\ljlj.tfl
 F;DYNAMIC_SEC\ldzo.tfl
