@@ -1,6 +1,6 @@
 [INFO]
-N041.48.01.000
-E012.14.20.000
+N040.56.23.000
+E016.26.04.000
 60
 45
 +4.0
@@ -9,9 +9,11 @@ IT
 [ATIS]
 F;default.atis
 
-[ATC]
-F;OTHER\itfreq.frq
+[DEFINE]
+F;IT\colors\colors.def
 
+[ATC]
+F;OTHER\libb.frq
 
 [CPDLCNAMES]
 F;OTHER\cdplcnames.cpdlcnames
@@ -20,7 +22,10 @@ F;OTHER\cdplcnames.cpdlcnames
 F;OTHER\cpdlc.cpdlc
 
 [Airport]
-F;OTHER\itap.ap
+F;OTHER\libb.ap
+
+[RUNWAY]
+F;OTHER\libb.rw
 
 [GEO]
 F;GEO\itgeo.geo
@@ -123,9 +128,6 @@ F;GEO\liru.geo
 F;GEO\lirv.geo
 F;GEO\lirz.geo
 
-[RUNWAY]
-F;OTHER\itrw.rw
-
 [GEO]
 F;RW_MARKINGS\ba_mark.geo
 F;RW_MARKINGS\bd_mark.geo
@@ -160,12 +162,6 @@ F;RW_MARKINGS\pb_mark.geo
 F;RW_MARKINGS\rs_mark.geo
 
 
-
-
-
-[DEFINE]
-F;IT\colors\colors.def
-
 [VOR]
 F;NAVAIDS\itvor.vor
 
@@ -188,57 +184,36 @@ F;AIRWAY\itawlow.lairway
 [ARTCC]
 F;ACC\FRA.artcc
 F;ACC\FRA-gates.artcc
-F;ACC\test.artcc
 
 [ARTCC HIGH]
-F;HI_AIRSPACE\lirr.hartcc
-F;HI_AIRSPACE\limm.hartcc
-F;HI_AIRSPACE\lipp.hartcc
 F;HI_AIRSPACE\libb.hartcc
-
 
 [ARTCC LOW]
 F;LOW_AIRSPACE\lirr_tma.lartcc
-F;LOW_AIRSPACE\limm_tma.lartcc
 F;LOW_AIRSPACE\lirr_ew0_app.lartcc
 F;LOW_AIRSPACE\lipp_ce0_app.lartcc
-F;LOW_AIRSPACE\limm_es0_app.lartcc
 F;LOW_AIRSPACE\lirr_es0_app.lartcc
 F;LOW_AIRSPACE\libb_cs0_app.lartcc
 F;LOW_AIRSPACE\lirr_us0_app.lartcc
 
 
-
 [FILLCOLOR]
 F;DYNAMIC_SEC\GCI.tfl
-F;DYNAMIC_SEC\limmctr.tfl
-F;DYNAMIC_SEC\limmapp.tfl
-
-F;DYNAMIC_SEC\lirr_ew_ctr.tfl
 F;DYNAMIC_SEC\lirr_su_ctr.tfl
 F;DYNAMIC_SEC\lirr_ne_ctr.tfl
 F;DYNAMIC_SEC\lirrapp.tfl
-F;DYNAMIC_SEC\lirrctr.tfl
-
 F;DYNAMIC_SEC\lipp_ne2_ctr.tfl
-F;DYNAMIC_SEC\lippctr.tfl
-
 F;DYNAMIC_SEC\libb_es_ctr.tfl
 F;DYNAMIC_SEC\libbctr.tfl
+F;DYNAMIC_SEC\lirrctr.tfl
+F;DYNAMIC_SEC\lippctr.tfl
 
-//ESTERI
-F;DYNAMIC_SEC\ljlj.tfl
-F;DYNAMIC_SEC\ldzo.tfl
-F;DYNAMIC_SEC\lovv.tfl
-F;DYNAMIC_SEC\edmm.tfl
-F;DYNAMIC_SEC\lsas.tfl
-F;DYNAMIC_SEC\lfmm.tfl
-F;DYNAMIC_SEC\laaa.tfl
-F;DYNAMIC_SEC\lggg.tfl
-F;DYNAMIC_SEC\daaa.tfl
-F;DYNAMIC_SEC\dttc.tfl
 F;DYNAMIC_SEC\lmmm.tfl
+F;DYNAMIC_SEC\lggg.tfl
+F;DYNAMIC_SEC\laaa.tfl
 F;DYNAMIC_SEC\lyba.tfl
+F;DYNAMIC_SEC\ldzo.tfl
+
 
 F;GND_LAYOUT\mf_ad_gnd.pol
 F;GND_LAYOUT\de_ad_gnd.pol

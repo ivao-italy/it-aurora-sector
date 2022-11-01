@@ -91,7 +91,6 @@ F;NAVAIDS\MIL.fix
 F;NAVAIDS\APT.fix
 
 [HIGH AIRWAY]
-F;AIRWAY\itawhigh.hairway
 
 [LOW AIRWAY]
 F;AIRWAY\itawlow.lairway
@@ -120,6 +119,10 @@ F;DYNAMIC_SEC\lsas.tfl
 F;DYNAMIC_SEC\lfmm.tfl
 
 F;GND_LAYOUT\mf_ad_gnd.pol
+F;GND_LAYOUT\pl_ad_gnd.pol
+F;GND_LAYOUT\po_ad_gnd.pol
+F;GND_LAYOUT\px_ad_gnd.pol
+F;GND_LAYOUT\pn_ad_gnd.pol
 F;GND_LAYOUT\de_ad_gnd.pol
 F;GND_LAYOUT\le_ad_gnd.pol
 F;GND_LAYOUT\ln_ad_gnd.pol

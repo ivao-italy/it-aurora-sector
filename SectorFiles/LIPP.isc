@@ -89,7 +89,6 @@ F;NAVAIDS\MIL.fix
 F;NAVAIDS\APT.fix
 
 [HIGH AIRWAY]
-F;AIRWAY\itawhigh.hairway
 
 [LOW AIRWAY]
 F;AIRWAY\itawlow.lairway
@@ -97,7 +96,6 @@ F;AIRWAY\itawlow.lairway
 [ARTCC]
 F;ACC\FRA.artcc
 F;ACC\FRA-gates.artcc
-F;ACC\test.artcc
 
 [ARTCC HIGH]
 F;HI_AIRSPACE\lipp.hartcc
