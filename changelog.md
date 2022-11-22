@@ -125,3 +125,13 @@
 - Moved custom server port settings to profile.ini
 - Fix unhandled exception logging on non alpha versions
 
+
+## [1.3.0.19] - 2022-09-15
+### Fixed
+- Autorisation data (internal change)
+- Star linetype on startup
+- Sector drawing issue on some geometries with negative coordinates
+
+### Changed
+- Accepts all windows voices for voice ATIS
+
