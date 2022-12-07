@@ -27,14 +27,16 @@ F;GEO\itgeo.geo
 F;GEO\italy.prohibit
 F;GEO\italy.danger
 F;GEO\italy.restrict
-F;GEO\limf.geo
-F;GEO\lima.geo
+F;GEO\lide.geo
 F;GEO\lile.geo
-F;GEO\liln.geo
 F;GEO\lilg.geo
+F;GEO\liln.geo
+F;GEO\lilq.geo
+F;GEO\lima.geo
 F;GEO\limb.geo
 F;GEO\limc.geo
 F;GEO\lime.geo
+F;GEO\limf.geo
 F;GEO\limg.geo
 F;GEO\limj.geo
 F;GEO\liml.geo
@@ -43,16 +45,15 @@ F;GEO\limp.geo
 F;GEO\lims.geo
 F;GEO\limw.geo
 F;GEO\limz.geo
-F;GEO\liqw.geo
-F;GEO\lsza.geo
-F;GEO\lide.geo
 F;GEO\lipe.geo
 F;GEO\lipl.geo
 F;GEO\lipn.geo
 F;GEO\lipo.geo
 F;GEO\lipx.geo
-F;GEO\lilq.geo
-F;GEO\liql.geo
+F;GEO\liqw.geo
+F;GEO\lirp.geo
+F;GEO\lirq.geo
+F;GEO\lsza.geo
 
 [RUNWAY]
 F;OTHER\limm.rw
@@ -71,7 +72,6 @@ F;RW_MARKINGS\mp_mark.geo
 F;RW_MARKINGS\ms_mark.geo
 F;RW_MARKINGS\mw_mark.geo
 F;RW_MARKINGS\mz_mark.geo
-F;RW_MARKINGS\de_mark.geo
 
 [DEFINE]
 F;IT\colors\colors.def
