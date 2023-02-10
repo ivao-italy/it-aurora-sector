@@ -33,7 +33,7 @@
 -LIBB_CS0_APP->LIBD_CS0_APP
 
 ---PADOVA
---------(ex avvicinamenti singoli)
+(ex avvicinamenti singoli)
 -LIPP_CE0_APP->LIPQ_CE0_APP
 
 *REVISIONE ENTI LIMITROFI
