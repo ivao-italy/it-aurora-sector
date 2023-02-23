@@ -114,8 +114,7 @@ F;LOW_AIRSPACE\limm_es0_app.lartcc
 F;LOW_AIRSPACE\lirr_es0_app.lartcc
 F;LOW_AIRSPACE\libb_cs0_app.lartcc
 F;LOW_AIRSPACE\lirr_us0_app.lartcc
-
-
+F;LOW_AIRSPACE\lirf_star.lartcc
 
 [FILLCOLOR]
 F;DYNAMIC_SEC\GCI.tfl
