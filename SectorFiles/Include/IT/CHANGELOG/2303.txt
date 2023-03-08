@@ -1,0 +1,15 @@
+////////////////////////////////////////
+//changelog sector file Italy division//
+////////////////////////////////////////
+
++++++++AIRAC 2303 (AIP A02/23)++++++++++
+
+*STAR LSZA (ENR 2.1.2.24)
+*M739, M872, N163 (ENR 3.2)
+*Cancellazione ORI, GRT (ULFIG) e BEG (fix OBFUL
+*Fix ENR 4.4
+*VRP ENR 6.3.1
+*STAR LIBG
+*STAR LIME
+*VOR BRL (Bergamo)
+*STAR LIML
