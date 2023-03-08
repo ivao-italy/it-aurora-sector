@@ -13,3 +13,4 @@
 *STAR LIME
 *VOR BRL (Bergamo)
 *STAR LIML
+*LIMC STAR35 su Low-Airspace
