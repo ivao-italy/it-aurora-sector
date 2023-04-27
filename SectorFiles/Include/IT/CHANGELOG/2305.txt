@@ -13,5 +13,4 @@ LIRN parcheggi
 LIML parcheggi
 LIBP STAR
 LIDT IAP
-LIRF fix dei parcheggi
-LICA fix nomi star
+LIBG IAF ARLOT COORD UPDATE
