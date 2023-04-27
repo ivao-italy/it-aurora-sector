@@ -1,0 +1,8 @@
+////////////////////////////////////////
+//changelog sector file Italy division//
+////////////////////////////////////////
+
++++++++AIRAC 2304 (AIP A03/23) patch1 ++++++++++
+
+LIRF fix dei parcheggi
+LICA fix nomi star
