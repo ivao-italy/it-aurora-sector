@@ -7,7 +7,6 @@
 Q549
 fix AVCOL, DAFOC
 iaf AVCOL e DAFOC LIDT
-LIMZ STAR
 LIMJ MVA da controllare
 LIRN parcheggi
 LIML parcheggi
