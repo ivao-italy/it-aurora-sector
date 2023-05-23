@@ -135,3 +135,39 @@
 ### Changed
 - Accepts all windows voices for voice ATIS
 
+## [1.3.0.33] - 2023-05-08
+
+### Fixed.
+- Issue forcing antenna position always on airport center point
+- ft in transition altitude when mtr is assigned.
+- ATIS open screen blocked for a few sec.
+- Issue forcing antenna position always on airport center point
+- Crashing on svg (images) viewer
+- PTT buffer error
+- Trainers / examiners receiving ATIS in sequense.
+- Extra navaid info on route.
+- Missing/double nav data on route
+- Transferlist invisible on high dpi
+- Change EOBT via stripslist.
+- CPDLC/TELEX sending strange values on hoppie.nl.
+- CPDLC / DCL losing assinged data.
+- Cancel next ATC
+- Callsign in Guard message
+
+### CHANGED
+- PTT block time increased for ATC
+- ATIS selects auto english tts.
+- Sort alphabetic transferlist.
+- Nearest airport in INSET skips hiden
+- Block ATIS if offline.
+- ACC lines drawing above HS and LS
+
+
+### ADDED
+- Sector : Voice ATIS structure on atc positions.
+- Colorscheme : Line type for airways.
+- Transfer list in call history intercom.
+
+
+
+
