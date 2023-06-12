@@ -1,0 +1,18 @@
+////////////////////////////////////////
+//changelog sector file Italy division//
+////////////////////////////////////////
+
++++++++AIRAC 2306 (AIP A05/23)++++++++++
+
+-LIBA CTR Zona 1
+-LIET new airport 
+-nuovi punti VRP su LILN
+-MVA di LIBB update
+-LIBD revisione STAR VOR e implementazione star RNAV1
+-LIEE revisione STAR VOR e implementazione STAR RNAV1
+-LIEE revisione procedure IAP
+-LIRQ revisione parcheggi
+-LIRZ Aggiornamento parcheggi
+-LIRA update parking spots
+-LIPH nuovo VOR "TVS"
+-LIPH revisione STAR 07
