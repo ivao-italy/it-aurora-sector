@@ -75,7 +75,10 @@ F;OTHER\lirr.rw
 [GEO]
 F;RW_MARKINGS\eo_mark.geo
 F;RW_MARKINGS\rs_mark.geo
+F;RW_MARKINGS\cc_mark.geo
 F;RW_MARKINGS\cz_mark.geo
+F;RW_MARKINGS\cj_mark.geo
+F;RW_MARKINGS\ct_mark.geo
 
 [DEFINE]
 F;IT\colors\colors.def
