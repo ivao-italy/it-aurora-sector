@@ -1,0 +1,9 @@
+////////////////////////////////////////
+//changelog sector file Italy division//
+////////////////////////////////////////
+
++++++++AIRAC 2309 (AIP A08/23)++++++++++
+
+-AGGIUNTA VOR BSM
+-AGGIORNAMENTO AREE D75 E R48
+-AGGIORNAMENTO STAR LIPH, LIPO E LIPX
