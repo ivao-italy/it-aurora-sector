@@ -1,0 +1,11 @@
+////////////////////////////////////////
+//changelog sector file Italy division//
+////////////////////////////////////////
+
++++++++AIRAC 2310 (AIP A09/23)++++++++++
+
+-RIMOZIONE AEROVIE W433
+-DISMISSIONE VIE NDB
+-AGGIORNATA FREQUENZA ANCONA TORRE
+-AGGIUNTA BAMOV2A LIBP
+-IMPLEMENTATA RNP RWY22 LIBP
