@@ -9,3 +9,8 @@
 -AGGIORNATA FREQUENZA ANCONA TORRE
 -AGGIUNTA BAMOV2A LIBP
 -IMPLEMENTATA RNP RWY22 LIBP
+-Nuova fraseologia CPDLC
+
+altri updates:
+-aggiunta AWY Q704 mancante
+-correzione VRP Napoli
