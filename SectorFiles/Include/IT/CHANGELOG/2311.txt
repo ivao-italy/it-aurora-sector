@@ -1,0 +1,16 @@
+////////////////////////////////////////
+//changelog sector file Italy division//
+////////////////////////////////////////
+
++++++++AIRAC 2311 (AIP A10/23)++++++++++
+
+-AWYS updt
+-istituzione P112 Civitavecchia (NORD)
+-LIBC: Nuove star RNP1/RNAV1
+-LIBC: Nuove IAC RNP
+-LIPL:aggiunto APRON T - txi C1 e C2
+
+bugfix sul sector
+-LICA:Aggiunta label twy T
+-LIMC:Aggiunte labels mancanti
+
