@@ -1,0 +1,18 @@
+////////////////////////////////////////
+//changelog sector file Italy division//
+////////////////////////////////////////
+
++++++++AIRAC 2312 (AIP A10/23)++++++++++
+
+-Eliminazione della posizione LIMF_APP (Torino Radar) e Implementazione del settore terminale LIMF_WN0_APP (Milano Radar)
+-LIMF: Nuovo CTR Torino, Nuove STAR RNAV1, nuovi VRP (CORRU' e RACCONIGI);
+-LIMZ: Nuovo CTR Cuneo, Nuove STAR RNAV1;
+-LIPQ; Nuova TA fissata a 6000ft;
+-LIML: Rinomina della RWY 18/36 in RWY 17/35, Eliminazione della precedente RWY 17/35, riconfigurata come TWY L;
+-Istituzione della zona vietata LI P113 Basilica Pontificia di Loreto.
+
+bugfix sul sector
+-LIBP: label txy A riposizionata
+-LIML: lieve modifica alla forma del CTR di Linate;
+
+
