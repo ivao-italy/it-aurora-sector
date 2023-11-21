@@ -11,8 +11,8 @@
 -LIML: Rinomina della RWY 18/36 in RWY 17/35, Eliminazione della precedente RWY 17/35, riconfigurata come TWY L;
 -Istituzione della zona vietata LI P113 Basilica Pontificia di Loreto.
 
-bugfix sul sector
+bugfix e variazioni sul sector
 -LIBP: label txy A riposizionata
 -LIML: lieve modifica alla forma del CTR di Linate;
-
+-CTA Sardegna: modifica shape
 
