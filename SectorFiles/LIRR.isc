@@ -111,12 +111,8 @@ F;ACC\FRA-gates.artcc
 F;HI_AIRSPACE\lirr.hartcc
 
 [ARTCC LOW]
-F;LOW_AIRSPACE\lirr_tma.lartcc
-F;LOW_AIRSPACE\limm_tma.lartcc
 F;LOW_AIRSPACE\lirr_ew0_app.lartcc
-F;LOW_AIRSPACE\limm_es0_app.lartcc
-F;LOW_AIRSPACE\lirr_es0_app.lartcc
-F;LOW_AIRSPACE\libb_cs0_app.lartcc
+F;LOW_AIRSPACE\lirr_tma.lartcc
 F;LOW_AIRSPACE\lirr_us0_app.lartcc
 F;LOW_AIRSPACE\lirf_star.lartcc
 
