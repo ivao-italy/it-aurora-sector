@@ -107,6 +107,7 @@ F;HI_AIRSPACE\limm.hartcc
 [ARTCC LOW]
 F;LOW_AIRSPACE\limm_es0_app.lartcc
 F;LOW_AIRSPACE\limm_tma.lartcc
+F;LOW_AIRSPACE\limf_wn0_app.lartcc
 F;LOW_AIRSPACE\limc_star.lartcc
 
 [FILLCOLOR]
