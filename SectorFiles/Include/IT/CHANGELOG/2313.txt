@@ -1,0 +1,16 @@
+////////////////////////////////////////
+//changelog sector file Italy division//
+////////////////////////////////////////
+
++++++++AIRAC 2313 (AIP A11/23)++++++++++
+
+-LIPZ: Revisione CTR Venezia
+-LIPZ: Eliminazione MVA LIPZ
+-LIPP: Nuova postazione LIPZ_SE0_APP (callsign Padova Radar)
+-LIPP: Update MVA per inserimento nuovo settore SE0
+-LIBR: NEW STAR RNAV1
+-LICA: NEW STAR RNAV1
+-LIPY: cambio freq. torre 119.805
+
+bugfix e variazioni sul sector
+-LIMM: update MVA 
