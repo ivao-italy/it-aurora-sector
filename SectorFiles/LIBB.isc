@@ -76,8 +76,6 @@ F;NAVAIDS\VFR_NASCOSTI.fix
 
 [LOW AIRWAY]
 F;AIRWAY\itawlow.lairway
-[HIGH AIRWAY]
-F;AIRWAY\itawhigh.hairway
 
 [ARTCC]
 F;ACC\FRA.artcc
