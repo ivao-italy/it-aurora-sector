@@ -13,4 +13,4 @@
 -LIPY: cambio freq. torre 119.805
 
 bugfix e variazioni sul sector
--LIMM: update MVA 
+-LIMM: update MVA per inserimento settore WN0
