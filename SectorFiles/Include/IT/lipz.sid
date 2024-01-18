@@ -1,0 +1,20 @@
+//rnav
+LIPZ;04L:04R;AKAD6L; ; ; ; ;
+LIPZ;04L:04R;CHI6L; ; ; ; ;
+LIPZ;04L:04R;ROKI6L; ; ; ; ;
+LIPZ;04L:04R;ROSK7L; ; ; ; ;
+LIPZ;04L:04R;VIC6L; ; ; ; ;
+LIPZ;22L:22R;CHI6R; ; ; ; ;
+LIPZ;22L:22R;ROKI6Q; ; ; ; ;
+LIPZ;22L:22R;ROSK6Q; ; ; ; ;
+LIPZ;22L:22R;VIC6Q; ; ; ; ;
+//convenzionali
+LIPZ;04L:04R;CHI9V; ; ; ; ;
+LIPZ;04L:04R;ROKI8W; ; ; ; ;
+LIPZ;04L:04R;ROSK8V; ; ; ; ;
+LIPZ;04L:04R;VIC7Y; ; ; ; ;
+LIPZ;22L:22R;CHI5D; ; ; ; ;
+LIPZ;22L:22R;LUMA7V; ; ; ; ;
+LIPZ;22L:22R;ROKI7V; ; ; ; ;
+LIPZ;22L:22R;ROSK6D; ; ; ; ;
+LIPZ;22L:22R;VIC6E; ; ; ; ;
