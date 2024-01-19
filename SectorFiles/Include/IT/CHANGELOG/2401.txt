@@ -1,0 +1,18 @@
+////////////////////////////////////////
+//changelog sector file Italy division//
+////////////////////////////////////////
+
++++++++AIRAC 2401 (AIP A01/24)++++++++++
+
+Novità:
+-LIBR: Update Stands
+-LIPK: Nuovi punti ESFOK, PUCEF
+-LIPK: STAR RNAV e RNP Rwy30
+-LICC: SID RCA7A//B diventano ATC Disc
+-Aggiunte le TAG delle SID per i seguenti aeroporti: 
+LICC,LICJ,LIMC,LIME,LIML,LIPZ,LIRA,LIRF,LIRN
+(solo le TAG per LABEL/STRIP. non c'è la procedura disegnata)
+
+Bugfix:
+LIPR: RNP 13 mancante
+
