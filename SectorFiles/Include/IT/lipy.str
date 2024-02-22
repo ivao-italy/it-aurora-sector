@@ -442,6 +442,16 @@ PY413;PY413;
 PY414;PY414;
 EFCUN;EFCUN;
 
+LIPY;04;RNP AMMUF; ; ;3;
+AMMUF;AMMUF;
+PY703;PY703;
+PY707;PY707;
+
+LIPY;04;RNP EFCUN; ; ;3;
+EFCUN;EFCUN;
+PY703;PY703;
+PY707;PY707;
+
 
 
 /////////////////////////////////////////////////
