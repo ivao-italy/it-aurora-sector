@@ -99,7 +99,7 @@ F;ACC\FRA.artcc
 F;ACC\FRA-gates.artcc
 
 [ARTCC HIGH]
-F;HI_AIRSPACE\lirr.hartcc
+F;HI_AIRSPACE\lipp.hartcc
 
 [ARTCC LOW]
 F;LOW_AIRSPACE\limm_es0_app.lartcc
