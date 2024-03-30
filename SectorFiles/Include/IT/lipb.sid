@@ -1,5 +1,13 @@
+//RNP
+LIPB;01:19;ADOS1W; ; ; ; ;
+LIPB;01:19;ALES1W; ; ; ; ;
+LIPB;01:19;NAXA1W; ; ; ; ;
+LIPB;01:19;VIC1W; ; ; ; ;
+
+//Conventional
 LIPB;01:19;ADOS6A; ; ; ; ;
 LIPB;01:19;ALES6A; ; ; ; ;
 LIPB;01:19;NAXA6A; ; ; ; ;
 LIPB;01:19;VIC6A; ; ; ; ;
 LIPB;01:19;VIC6B; ; ; ; ;
+
