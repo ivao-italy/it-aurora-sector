@@ -109,7 +109,7 @@ F;LOW_AIRSPACE\lipp_se0_app.lartcc
 
 [FILLCOLOR]
 F;DYNAMIC_SEC\GCI.tfl
-F;DYNAMIC_SEC\lirr_su_ctr.tfl
+F;DYNAMIC_SEC\lirr_nc_ctr.tfl
 F;DYNAMIC_SEC\lirr_ne_ctr.tfl
 F;DYNAMIC_SEC\lirrapp.tfl
 F;DYNAMIC_SEC\lipp_ne2_ctr.tfl
