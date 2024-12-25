@@ -113,6 +113,7 @@ F;HI_AIRSPACE\lirr.hartcc
 F;LOW_AIRSPACE\lirr_ew0_app.lartcc
 F;LOW_AIRSPACE\lirr_tma.lartcc
 F;LOW_AIRSPACE\lirr_us0_app.lartcc
+F;LOW_AIRSPACE\lirr_es0_app.lartcc
 F;LOW_AIRSPACE\lirf_star.lartcc
 
 [FILLCOLOR]
@@ -123,7 +124,7 @@ F;DYNAMIC_SEC\lirr_ew_ctr.tfl
 F;DYNAMIC_SEC\lirr_su_ctr.tfl
 F;DYNAMIC_SEC\lirr_ne_ctr.tfl
 F;DYNAMIC_SEC\lirrapp.tfl
-F;DYNAMIC_SEC\lipp_ne2_ctr.tfl
+F;DYNAMIC_SEC\lipp_acc.tfl
 F;DYNAMIC_SEC\libb_es_ctr.tfl
 F;DYNAMIC_SEC\libbctr.tfl
 F;DYNAMIC_SEC\lirrctr.tfl
