@@ -24,6 +24,12 @@ F;OTHER\ita.cpdlc
 [Airport]
 F;OTHER\lipp.ap
 
+[MVAENR]
+F;ENRMVA\lipp.mva
+
+[VFRENR]
+F;ENRVFI\lipp.vfi
+
 [RUNWAY]
 F;OTHER\lipp.rw
 

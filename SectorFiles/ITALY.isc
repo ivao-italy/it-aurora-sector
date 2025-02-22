@@ -22,6 +22,17 @@ F;OTHER\ita.cpdlc
 [Airport]
 F;OTHER\itap.ap
 
+[MVAENR]
+F;ENRMVA\libb.mva
+F;ENRMVA\limm.mva
+F;ENRMVA\lipp.mva
+F;ENRMVA\lirr.mva
+
+[VFRENR]
+F;ENRVFI\limm.vfi
+F;ENRVFI\lipp.vfi
+F;ENRVFI\lirr.vfi
+
 [GEO]
 F;GEO\itgeo.geo
 F;GEO\italy.prohibit
