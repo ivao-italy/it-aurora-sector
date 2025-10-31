@@ -109,9 +109,10 @@ F;ACC\FRA-gates.artcc
 F;HI_AIRSPACE\lipp.hartcc
 
 [ARTCC LOW]
-F;LOW_AIRSPACE\limm_es0_app.lartcc
-F;LOW_AIRSPACE\lipp_ce0_app.lartcc
 F;LOW_AIRSPACE\lipp_se0_app.lartcc
+F;LOW_AIRSPACE\lipp_ce0_app.lartcc
+F;LOW_AIRSPACE\limm_es0_app.lartcc
+F;LOW_AIRSPACE\lirr_nn0_app.lartcc
 
 [FILLCOLOR]
 F;DYNAMIC_SEC\GCI.tfl
