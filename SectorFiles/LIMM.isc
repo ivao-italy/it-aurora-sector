@@ -118,6 +118,7 @@ F;LOW_AIRSPACE\limc_star.lartcc
 [FILLCOLOR]
 F;DYNAMIC_SEC\GCI.tfl
 F;DYNAMIC_SEC\limmctr.tfl
+F;DYNAMIC_SEC\limmfic.tfl
 F;DYNAMIC_SEC\limmapp.tfl
 
 F;DYNAMIC_SEC\lipp_acc.tfl
