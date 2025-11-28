@@ -1,1 +1,1 @@
-This is [STATION_NAME] information [ATIS_LETTER] time [ATIS_TIME]. Arrival runway [ARR]. departure runway [DEP] . [Transition level [TL]] . [REMARK] . [METAR] . [After departure contact [DEP_FREQ]] . You have received aitis information [ATIS_LETTER].
+This is [STATION_NAME] aitis arrival and departure information [ATIS_LETTER] at [ATIS_TIME]. Runway in use [ARR]. [Transition level [TL]] . [wind [METAR]] . [REMARK] . [After departure contact [DEP_FREQ]] . You have received aitis information [ATIS_LETTER].
