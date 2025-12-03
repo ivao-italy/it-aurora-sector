@@ -9,9 +9,11 @@ IT
 [ATIS]
 F;default.atis
 
+[SYMBOLS]
+F;symbols.sym
+
 [ATC]
 F;OTHER\lirr.frq
-
 
 [CPDLCNAMES]
 F;OTHER\ita.cpdlcnames

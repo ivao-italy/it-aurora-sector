@@ -12,6 +12,9 @@ F;default.atis
 [DEFINE]
 F;IT\colors\colors.def
 
+[SYMBOLS]
+F;symbols.sym
+
 [ATC]
 F;OTHER\lipp.frq
 
