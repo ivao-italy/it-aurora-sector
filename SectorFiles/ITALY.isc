@@ -9,6 +9,9 @@ IT
 [ATIS]
 F;default.atis
 
+[ATISFIELD]
+F;atisextra.fds
+
 [SYMBOLS]
 F;symbols.sym
 

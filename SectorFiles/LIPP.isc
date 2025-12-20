@@ -9,6 +9,9 @@ IT
 [ATIS]
 F;default.atis
 
+[ATISFIELD]
+F;atisextra.fds
+
 [DEFINE]
 F;IT\colors\colors.def
 
