@@ -1,1 +1,1 @@
-This is [STATION_NAME] ATIS arrival and departure information [ATIS_LETTER] at [ATIS_TIME]. Type of Approach [ARR_TYPE], Runway in use [ARR], Transition level [TL], [METAR] QFE [QFE] [REMARK] You have received ATIS information [ATIS_LETTER]
+This is [STATION_NAME] ATIS arrival and departure information [ATIS_LETTER] at [ATIS_TIME]. [Type of Approach [ARR_TYPE]] [Runway in use [ARR]] [Transition level [TL]] [METAR] [QFE [QFE]] [REMARK] You have received ATIS information [ATIS_LETTER]
