@@ -1,0 +1,21 @@
+////////////////////////////////////////
+//changelog sector file Italy division//
+////////////////////////////////////////
+
++++++++AIRAC 2602 (AIP A02/26)++++++++++
+
+Generale
+- Rimozione D115
+
+LIBB Brindisi
+- NIL
+
+LIMM Milano
+- LIMC: Revisione stand
+- LIML: Implementazione STAR ALL
+
+LIPP Padova
+- NIL
+
+LIRR Roma
+- LICR: Revisione SID
