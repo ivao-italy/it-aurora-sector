@@ -38,6 +38,10 @@ F;ENRVFI\limm.vfi
 F;ENRVFI\lipp.vfi
 F;ENRVFI\lirr.vfi
 
+[HOLDENR]
+F;HOLDENR.hold
+
+
 [GEO]
 F;GEO\itgeo.geo
 F;GEO\italy.prohibit
@@ -192,9 +196,7 @@ F;NAVAIDS\itvor.vor
 F;NAVAIDS\itndb.ndb
 
 [FIXES]
-F;NAVAIDS\ENR.fix
-F;NAVAIDS\FRA.fix
-F;NAVAIDS\TERM.fix
+F;NAVAIDS\itfix.fix
 F;NAVAIDS\ESTERNI.fix
 F;NAVAIDS\MIL.fix
 F;NAVAIDS\APT.fix
