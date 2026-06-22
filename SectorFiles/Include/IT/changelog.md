@@ -1,28 +1,41 @@
-**AIRAC A2606 IN VIGORE DAL 11/06/2026
+**AIRAC A2607 IN VIGORE DAL 09/07/2026
 
+#############################
 ######## NOVITA' #############
-
-- Categorizzazione di tutte le procedure RNAV/RNP con il tag “RNAV” in modo da essere filtrati (mostra/nascondi) nel pannello AIRPORT.
-- Aggiunte le Holding in rotta. Bottone HOLD (shift+HOLD per selezionarle singolarmente).
-- Tacan e VorTac orano presentano l'etichetta del canale Tacan.
-
-##############################
+#############################
 
 **Generale
-- FIX APVAR,GIROV,KOGEB e PEROS acquisiscono la denominazione di “punti FRA” (bottone BND sui FIX)
-- Revisione limiti laterali della zona R24
+
+*Nuovo FIX YURKE
+*i FIX DEGUM e VEKEN acquisiscono la denominazione di “punti FRA” (bottone BND sui FIX)
+*Revisione Aerovia L995
+*Istituzione delle seguenti zone:
+-LI P348 -Scuola Form. e Agg. Person. Penit. "G. Falcone" (RM)
+-LI P353/A - Petrolchimico Porto Marghera (VE)
+-LI P353/B - Petrolchimico Porto Marghera (VE)
+-LI P355 - Petrolchimico ENI VERSALIS di Ragusa
+-LI P357/A - Raffineria ENI Livorno
+-LI P357/B - Darsena Petroli (LI)
+-LI P357/C - Darsena Ugione (LI)
+-LI P363 - Scuola di Polizia Penitenziaria Sulmona (AQ)
 
 **LIBB Brindisi
-- LIBR: pista 05/23 “Taxi only” non usabile per decolli e atterraggi
+
+*NIL
 
 **LIMM Milano
-- LIMG: revisione Parcheggi
+
+*LIMG: Revisione SID/STAR
+*LIMJ: Revisione STAR
 
 **LIPP Padova
-- LIPR: Istituzione VRP Gabicce Monte PRSE2
+
+*LIPC: Revisione VRP
+-EST CESENA (PCS1)
+-FOCE SAVIO (PCN1)
+*LIPZ: Revisione SID/STAR
+*LIPG: Revisione ATZ
 
 **LIRR Roma
-- LIBC: update SID/STAR
-- LICA update SID/STAR
-- LIRA update SID/STAR
-- LICZ aggiunte SID
+
+*LIRF: Revisione SID
