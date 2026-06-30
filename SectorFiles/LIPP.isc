@@ -12,6 +12,9 @@ F;default.atis
 [ATISFIELD]
 F;atisextra.fds
 
+[COLORSCHEME]
+F;COLORS\PAR2090.clr
+
 [DEFINE]
 F;IT\colors\colors.def
 
