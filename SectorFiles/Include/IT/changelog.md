@@ -21,6 +21,7 @@
 *LIEO: Rinumerazione SID/STAR
 *LICG: Rinumerazione SID/STAR
 *LIRU: Aggiornamento VRP
-*LIBA: Aggiunte MIL VFR Routes
+*LIBV: Aggiunte MIL VFR Routes
+*LICZ: Aggiunte MIL VFR Routes
 
 
