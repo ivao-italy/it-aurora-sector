@@ -18,9 +18,10 @@
 *NIL
 
 **LIPP Padova
-*NIL
+*LIPI: piste 06L/R - 24 L/R
 
 **LIRR Roma
-*NIL
+*LIRL: Aggiunte le SID 
+*LIRM: Aggiunte le SID 
 
 
