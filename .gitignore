@@ -1,13 +1,10 @@
-﻿Profiles
-Settings
-Aurora.exe
-ivac.zip
-ColorSchemes
-Aurora.exe
-AURORA.exe.old
-Logs
-Data
-Logs
-Uninstall.exe
-atcrec.rec
-Replay
+﻿# Ignora tutto ciò che c'è nella cartella
+*
+
+#Permetti a git di attraversare la cartella
+!*/
+
+#Vogilamo solo il contenuto di Sectorfile e Gitignore
+!SectorFiles/
+!.gitignore
+!README.md
