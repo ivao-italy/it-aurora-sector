@@ -5,6 +5,6 @@
 !*/
 
 #Vogilamo solo il contenuto di Sectorfile e Gitignore
-!SectorFiles/
+!SectorFiles/**
 !.gitignore
 !README.md
