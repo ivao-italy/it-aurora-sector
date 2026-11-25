@@ -11,6 +11,7 @@ Generale
 
 LIBB Brindisi
 *LIBP: Revisione Freq. TWR
+*LIBR: Revisione Stand self manouvering
 
 LIMM Milano
 *LIMP: Implementazione Taxiway E
